@@ -1,0 +1,24 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: jereimers/Curse-of-Strahd-Reloaded # Replace with your fork's path
+          token: ${{ secrets.PAT_TOKEN }} # Use a Personal Access Token with repo scope
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded.git # Replace with original repo's path
+
+      - name: Fetch upstream and merge
+        run: |
+          git fetch upstream
+          git merge upstream/main
+          git push origin main
