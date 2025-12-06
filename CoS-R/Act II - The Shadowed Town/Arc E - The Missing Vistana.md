@@ -1,12 +1,12 @@
 _An adventure for five 4th-level characters._
 
-In this arc, at Madam Eva’s request, the players visit Blinsky Toys, the home of Vallaki's resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, Arabelle. There, the players learn new information about the traveling ringmaster Rictavio, and the Baron's brutish enforcer, Izek Strazni.
+In this arc, at Madam Eva’s request, the players visit Blinsky Toys, the home of Vallaki's resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, Arabelle. There, the players learn new information about the traveling ringmaster Rictavio, and the Baron's brutish enforcer, [[Izek Strazni]].
 
 After obtaining a toy for Arabelle, the players visit the Vistani encampment located a short distance away from Vallaki's walls. There, the players can meet the camp’s leaders: Luvash and Arrigal, Arabelle’s father and uncle, respectively. 
 
 When the players learn that Arabelle has recently disappeared, Luvash asks them to retrieve a clue from the scene of her disappearance—a strange platinum signet ring—from Kasimir Velikov, one of the dusk elves whose hovels circle the encampment. Luvash believes that the ring may hold the key to finding his daughter, and promises the players a wealth of treasure if they research its secrets in the Baron’s personal library in Vallaki and uncover Arabelle’s location.
 
-Upon obtaining the ring from Kasimir and returning to Vallaki, the players must gain access to Baron Vargas Vallakovich’s personal library—either by cunning, diplomacy, or subterfuge. Once inside, they are soon met by the Baron’s son, Victor Vallakovich, whose spellbook bears the same sigil as the signet ring. 
+Upon obtaining the ring from Kasimir and returning to Vallaki, the players must gain access to [[Baron Vargas Vallakovich]]’s personal library—either by cunning, diplomacy, or subterfuge. Once inside, they are soon met by the Baron’s son, Victor Vallakovich, whose spellbook bears the same sigil as the signet ring. 
 
 In exchange for the players’ promise to bring back any relics found therein—including, if possible, a proper wizard’s staff—Victor tells them that the sigil was the personal symbol of the archmage Khazan, whose abandoned tower sits on the shores of Lake Baratok. Though Victor doesn’t know how to get there, he can direct the players to Szoldar Szoldarovich, a Vallakian wolf-hunter who knows the Svalich Woods well.
 
@@ -78,7 +78,7 @@ After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase
 >
 > ***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
 >
-> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
+> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for [[Izek Strazni]], and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 
 Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
@@ -86,7 +86,7 @@ If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span c
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
-As the characters exit Blinsky Toys, they can see Izek Strazni and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
+As the characters exit Blinsky Toys, they can see [[Izek Strazni]] and two **guards** arrive to post new proclamations, as described in <span class="citation">N8. Town Square (p. 119)</span>.
 
 ![[IMG-20251205143145175.png]]
 
@@ -161,7 +161,7 @@ Luvash can share the following information with the players:
 * The search parties haven’t yet found Arabelle. However, a dusk elf named Savid found Yan’s decapitated body lying in bloody grass near the Luna River, surrounded by signs of a fight.
 * Savid also found a strange signet ring lying in the grass, which seemed to have been dropped in the struggle. Luvash gave it to Kasimir, the dusk elves’ leader and foremost scholar, to identify, but hasn’t received any useful news or information.
 
-Luvash believes that the sigil on the signet ring may lead him to Arabelle’s location. Though Kasimir has been unable to make sense of it, Baron Vargas Vallakovich of Vallaki is rumored to own an impressive library of books, which could hold the key to identifying the ring. However, the Vistani and dusk elves are forbidden from entering the town.
+Luvash believes that the sigil on the signet ring may lead him to Arabelle’s location. Though Kasimir has been unable to make sense of it, [[Baron Vargas Vallakovich]] of Vallaki is rumored to own an impressive library of books, which could hold the key to identifying the ring. However, the Vistani and dusk elves are forbidden from entering the town.
 
 Luvash asks the players to recover the ring from Kasimir, then research its sigil in Baron Vallakovich’s library. Should the players return to him with actionable information about Arabelle’s whereabouts—or, better yet, Arabelle herself—Luvash promises to give them a valuable reward. (If pressed, Luvash can promise the players a sum of 500 gp—or an assortment of treasure worth as much or more.)
 
@@ -283,7 +283,7 @@ The kitchen is largely as described in <span class="citation">N3g. Kitchen (p. 1
 
 If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in <span class="citation">N3o. Master Bedroom (p. 108)</span>. She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
 ### 2. Infiltrating the Mansion
-The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by Izek Strazni one minute afterward. 
+The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by [[Izek Strazni]] one minute afterward. 
 
 The NPCs in the mansion behave as follows:
 
@@ -302,7 +302,7 @@ The NPCs in the mansion behave as follows:
 
 If the players gain access to <span class="citation">N3l. Library (p. 107)</span>, they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
 
-In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of Izek Strazni and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
+In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of [[Izek Strazni]] and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
 
 Shortly after the players discover these records, however, they are interrupted by the arrival of Victor Vallakovich, who has come to the library in search of a particular book: *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen. 
 ![[IMG-20251205143153009.png]]
@@ -324,7 +324,7 @@ Shortly after the players discover these records, however, they are interrupted 
 >
 > ***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family from death. (Although often irritable, Victor won't lash out magically if offended or insulted.)
 >
-> ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears Izek Strazni, who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
+> ***Relationships.*** Victor is the only child of [[Baron Vargas Vallakovich]] (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears [[Izek Strazni]], who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
 
 Victor, who is largely as described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
@@ -1019,7 +1019,7 @@ This arc aims to remedy both issues simultaneously, providing Van Richten with a
 
 In the process, the arc provides the players with an opportunity to venture west beyond Vallaki's walls, alleviating the sense of suffocating claustrophobia that many parties describe following several consecutive sessions in the town.
 
-***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Arc D - St. Andral's Feast]] instead), and to further develop Izek Strazni's relationship with Ireena Kolyana, explored further in [[Arc G - The Strazni Siblings]].
+***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Arc D - St. Andral's Feast]] instead), and to further develop [[Izek Strazni]]'s relationship with Ireena Kolyana, explored further in [[Arc G - The Strazni Siblings]].
 
 ***Vistani Encampment.*** Luvash, Arrigal, and the entire Vistani tribe have been made more sympathetic in order to encourage the players to build a long-term relationship with them, to further develop the adventure's themes of unity and redemption over selfishness and mistrust, and to further motivate the players to locate Arabelle and find a solution that reunites her with her family.
 

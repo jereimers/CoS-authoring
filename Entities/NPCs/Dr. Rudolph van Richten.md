@@ -1,9 +1,7 @@
-# WotC source:
-[[Blue Water Inn]]
-[[Non-Player Characters]]
-# Dr. Rudolph van Richten
+
+# Profile: Dr. Rudolph van Richten
 ## Disguised (as Rictavio)
-**Roleplaying Information**
+### **Roleplaying Information**
 ***Resonance.*** Rictavio should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
 
 ***Emotions.*** To onlookers, Rictavio most often appears to feel amused, delighted, or satisfied.
@@ -12,14 +10,14 @@
 
 ***Inspirations.*** When planning Rictavio, channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
 
-**Character Information**
+### **Character Information**
 ***Persona.*** To the world, Rictavio appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
 
 ***Morale.*** In a fight, Rictavio would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
 
 ***Relationships.*** Rictavio is secretly Dr. Rudolph van Richten, the famed vampire hunter.
 ## Undisguised (as Himself)
-**Roleplaying Information**
+### **Roleplaying Information**
 ***Resonance.*** Van Richten should inspire gratitude for his knowledge (freely shared), comfort with his confidence and experience, and mild irritation with his paranoia and bluntness.
 
 ***Emotions.*** Van Richten most often feels suspicious, wary, thoughtful, concerned, wistful, satisfied, inquisitive, guilty, and ashamed.
@@ -28,13 +26,14 @@
 
 ***Inspiration.*** When playing Van Richten, channel Alastor "Mad-Eye" Moody (*Harry Potter*), Geralt of Rivia (*The Witcher*), and Mike Ehrmantraut (*Breaking Bad*).
 
-**Character Information**
+### **Character Information**
 ***Persona.*** To the world, Van Richten is a merciless, battle-hardened monster hunter. To those he trusts, Van Richten is a compassionate mentor with exceedingly high standards, a hefty paranoid streak, and an occasional temper. Only Van Richten knows the depths of the guilt, shame, and self-loathing he feels for the deaths of his son and wife, and his slaughter of the Radanavich Vistani caravan.
 
 ***Morale.*** In a fight, Van Richten would attempt to outwit or outmaneuver his foe, retreating as necessary in order to secure the most advantageous terrain.
 
 ***Relationships.*** Van Richten is the mentor of the Vistana monster hunter Ezmerelda d'Avenir, the father of the late and Ethereal Plane-bound Erasmus van Richten (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker Gadof Blinsky, the killer of the family of Arturi Radanavich, and the former ally of Doru's rebellion against Castle Ravenloft.
 
+# #statblock
 <div class="statblock">
 <h2>Rudolph Van Richten</h2>
 <em>Medium humanoid (human), lawful good</em>

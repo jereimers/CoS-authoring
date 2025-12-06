@@ -1,6 +1,6 @@
 # Creatures (I-Q) 
 
-## Izek Strazni
+## [[Izek Strazni]]
 
 Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
 
@@ -15,7 +15,7 @@ Doll Collector. Perhaps more disturbing than his fiendish arm and his murderous 
 
 Family Is Forever. Izek has dreams of Ireena. If he spots her, he tries to take her by force to the burgomaster's mansion. If he succeeds, he holds her captive in his bedroom (chapter 5, area N3j). Unknown to Izek and Ireena, they are brother and sister. Ireena fled after Izek was attacked by the dire wolf and became lost in the woods. She wandered for days in shock until she was found and adopted by Kolyan Indirovich in the village of Barovia. Izek covets her in an unwholesome way and won't allow anyone or anything to come between them.
 
-### Izek Strazni's Traits
+### [[Izek Strazni]]'s Traits
 
 Ideal. "Fear is a powerful weapon. I use it to get what I want."
 Bond. "I am loyal to my master, Baron Vallakovich, for he brought me into his home. I owe him my life, but he isn't family."
@@ -23,7 +23,7 @@ Bond. "I am loyal to my master, Baron Vallakovich, for he brought me into his ho
 %% --- Page 325 --- %%
 Flaw. "I would do anything, kill anything, to find my sister."
 
-### IZEK STRAZNI 
+### [[IZEK STRAZNI]] 
 
 Medium humanoid (human), neutral evil
 

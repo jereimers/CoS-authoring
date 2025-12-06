@@ -35,7 +35,7 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Old Bonegrinder.*** Strahd is aware of the **night hag** coven’s presence, but has little interest in their affairs.
 
-***Town of Vallaki.*** Strahd has no interest in Baron Vargas Vallakovich, but, through his spies, believes him to be a bumbling fool. He finds Lady Fiona Wachter to be a useful agent and favors her for her family’s history of loyalty, but cares little for her obsession with Vallakian politics. He is aware of the existence of the Keepers of the Feather (though not that the Blue Water Inn serves as their meeting-place), but does not view them as a significant threat. 
+***Town of Vallaki.*** Strahd has no interest in [[Baron Vargas Vallakovich]], but, through his spies, believes him to be a bumbling fool. He finds Lady Fiona Wachter to be a useful agent and favors her for her family’s history of loyalty, but cares little for her obsession with Vallakian politics. He is aware of the existence of the Keepers of the Feather (though not that the Blue Water Inn serves as their meeting-place), but does not view them as a significant threat. 
 
 ***Vistani Encampment.*** Strahd holds Arrigal as one of his favored spies. However, he pays little mind to the dusk elves—Kasimir especially—and has little interest in their affairs.
 

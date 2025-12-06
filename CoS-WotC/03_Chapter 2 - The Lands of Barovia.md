@@ -137,7 +137,7 @@ Barovians know the following facts about their homeland:
 - Many strangers have been drawn to Barovia over the years, but they all die or disappear before long.
 - Wolves, dire wolves, and werewolves prowl the Svalich Woods, and hungry bats fill the skies at night.
 - The village of Barovia sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich.
-- The town of Vallaki lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich.
+- The town of Vallaki lies in the heart of the valley. Its burgomaster is named [[Baron Vargas Vallakovich]].
 - The fortified village of Krezk lies at the west end of the valley and is built around an old abbey. The village burgomaster is named Dmitri Krezkov.
 - Wine is the lifeblood of Barovia-for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near Krezk.
 - A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.
@@ -620,7 +620,17 @@ The northwest fork leads down to the river and area G. The road southwest leads 
 The gallows stand atop a rotting platform 5 feet high, with wooden stairs leading up to it.
 Eleven graves are here with blank gravestones. The forgotten people buried here were hanged from the gallows. Characters who dig up the graves find rotted coffins containing moldy bones.
 
-[[The Hanged One]]
+#### The Hanged One 
+
+As the characters leave the area, read:
+
+You hear a creaking noise behind you, coming from the gallows. Where there was nothing before now hangs a lifeless, gray body. The breeze turns the hanged figure slowly, so that it can fix its dead eyes upon you.
+
+One random character sees him- or herself hanging from the gallows. The other characters see an unfamiliar Barovian. The corpse looks and smells real, and it rapidly melts away into nothing if touched or moved.
+
+##### Fortunes of Ravenloft
+
+If your card reading reveals that a treasure is here, it is buried in one of the graves. For each grave the characters dig up, there's a cumulative 10 percent chance of finding the treasure.
 
 ### G. Tser Pool Encampment
 

@@ -23,7 +23,7 @@ Barovians know the following facts about their homeland:
 - Many strangers have been drawn to Barovia over the years, but they all die or disappear before long.
 - Wolves, dire wolves, and werewolves prowl the Svalich Woods, and hungry bats fill the skies at night.
 - The village of Barovia sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich.
-- The town of Vallaki lies in the heart of the valley. Its burgomaster is named Baron Vargas Vallakovich.
+- The town of Vallaki lies in the heart of the valley. Its burgomaster is named [[Baron Vargas Vallakovich]].
 - The fortified village of Krezk lies at the west end of the valley and is built around an old abbey. The village burgomaster is named Dmitri Krezkov.
 - Wine is the lifeblood of Barovia-for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near Krezk.
 - A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.

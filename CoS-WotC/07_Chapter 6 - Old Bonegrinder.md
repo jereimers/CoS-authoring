@@ -1,17 +1,19 @@
 # Chapter 6: Old Bonegrinder 
 
 Once a grain mill that served Vallaki, this slouching windmill is now home to three night hags: Morgantha and her wretched daughters, Bella Sunbane and Offalia Wormwiggle. The hags are trapped in Barovia, but they like it here. Using their Change Shape action to look like Barovian women - a frumpy mother and her two homely daughters - the hags snatch children, devour them, and use the windmill's grindstone to crush their little bones into powder. This powder is a key ingredient in the hags' dream pastries, which they offer to Barovian adults who are desperate to escape Strahd's domain.
-![img-58.jpeg](img-58.jpeg)
 
 Made with the bones of the innocent, the hags' dream pastries allow Barovians to enter a trance, wherein they can escape to heavenly places full of joy. When adults can no longer afford the hag's dream pastries, the hags offer to trade their pastries for the Barovians' children, thus preying on the adults' selfishness while acquiring the ingredients they need to make more pastries. This is how the hags sow corruption in Strahd's domain and why they don't take the children by force. The hags are interested only in children who have souls. They prick each child with a needle; if the child cries, that's a sign that the infant has a soul.
 
 Dreams are for the living.
 -Strahd von Zarovich
 
-#[[WotC - 06 - Old Bonegrinder - Morgantha's Coven]]
-#[[WotC - 06 - Old Bonegrinder - Dream Pastries]]
+# Morgantha's Coven
+![[WotC - 06 - Old Bonegrinder - Morgantha's Coven]]
+# Dream Pastries
+![[WotC - 06 - Old Bonegrinder - Dream Pastries]]
 
-#[[WotC - 06 - Old Bonegrinder - Approaching the Windmill]]
+# Approaching the Windmill
+![[WotC - 06 - Old Bonegrinder - Approaching the Windmill]]
 
 ## Areas of the Windmill 
 

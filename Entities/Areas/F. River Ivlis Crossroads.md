@@ -1,6 +1,3 @@
-# WotC source:
-
-# F. River Ivlis Crossroads
 
 Check for a random encounter whenever the characters reach area F, unless they are accompanied by Vistani.
 
@@ -14,4 +11,14 @@ The northwest fork leads down to the river and area G. The road southwest leads 
 The gallows stand atop a rotting platform 5 feet high, with wooden stairs leading up to it.
 Eleven graves are here with blank gravestones. The forgotten people buried here were hanged from the gallows. Characters who dig up the graves find rotted coffins containing moldy bones.
 
-[[The Hanged One]]
+# The Hanged One 
+
+As the characters leave the area, read:
+
+You hear a creaking noise behind you, coming from the gallows. Where there was nothing before now hangs a lifeless, gray body. The breeze turns the hanged figure slowly, so that it can fix its dead eyes upon you.
+
+One random character sees him- or herself hanging from the gallows. The other characters see an unfamiliar Barovian. The corpse looks and smells real, and it rapidly melts away into nothing if touched or moved.
+
+# Fortunes of Ravenloft
+
+If your card reading reveals that a treasure is here, it is buried in one of the graves. For each grave the characters dig up, there's a cumulative 10 percent chance of finding the treasure.

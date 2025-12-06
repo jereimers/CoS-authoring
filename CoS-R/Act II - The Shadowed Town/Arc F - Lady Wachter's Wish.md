@@ -2,9 +2,9 @@ _An adventure for five 4th-level characters._
 
 In this arc, if the players defied the Baron’s will on their first morning after entering Vallaki, if they or Ireena were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, the players receive a letter delivered by Ernst Larnak, Lady Fiona Wachter’s courier and spy, which invites them to dine at Wachterhaus that evening.
 
-When the players arrive at Wachterhaus that night, Lady Wachter welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that Baron Vargas Vallakovich is a menace who must be deposed.
+When the players arrive at Wachterhaus that night, Lady Wachter welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that [[Baron Vargas Vallakovich]] is a menace who must be deposed.
 
-If Lady Wachter determines that the players are suitable allies, she asks them to kill the Baron’s right-hand man, Izek Strazni, and to bring her his head. Lady Wachter promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
+If Lady Wachter determines that the players are suitable allies, she asks them to kill the Baron’s right-hand man, [[Izek Strazni]], and to bring her his head. Lady Wachter promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
 
 If the players accept Lady Wachter’s assignment, Ernst provides them with a bottle of poisoned wine for use in intoxicating Izek, as well as information that the players can use to track Izek in order to assassinate him. The players can find Izek in Vallaki’s town square, and eventually track him to the shore of Lake Zarovich, where—if the players successfully planted it—he drinks the poisoned wine.
 
@@ -97,7 +97,7 @@ Haliq arrives shortly thereafter bearing a tray of wine glasses for those that r
 >
 > ***Emotions.*** Lady Wachter most often feels concerned, apprehensive, irate, melancholic, satisfied, thoughtful, determined, stern, or (with her children) compassionate and loving.
 >
-> ***Motivations.*** Lady Wachter wants to keep Vallaki—and especially her children—safe from harm. To that end, she hopes to see Baron Vargas Vallakovich removed from power and to reassure Strahd von Zarovich that Vallaki is no danger to his rule.
+> ***Motivations.*** Lady Wachter wants to keep Vallaki—and especially her children—safe from harm. To that end, she hopes to see [[Baron Vargas Vallakovich]] removed from power and to reassure Strahd von Zarovich that Vallaki is no danger to his rule.
 >
 > ***Inspirations.*** When playing Lady Wachter, channel Moiraine Damodred (The Wheel of Time), Olenna Tyrell (Game of Thrones), Minerva McGonagall (Harry Potter), and Lady Jessica (Dune).
 >
@@ -106,7 +106,7 @@ Haliq arrives shortly thereafter bearing a tray of wine glasses for those that r
 >
 > ***Morale.*** In a fight, Lady Wachter would attempt to negotiate or flee, seeking any means necessary to quell hostilities, up to and including outright surrender. If necessary to save her life or those of her children, however, she would fight to the death with bitter ferocity.
 >
-> ***Relationships.*** Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of Baron Vargas Vallakovich.
+> ***Relationships.*** Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of [[Baron Vargas Vallakovich]].
 ## F2c. Drinks in the Parlor
 During the following conversation, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] can share the following information:
 
@@ -151,15 +151,15 @@ As the players eat dinner, [[Non-Player Characters#Lady Fiona Wachter|Lady Wacht
 
 As the conversation continues, Lady Wachter notes that she has heard of the players’ actions in the town streets the previous morning, and that she was taken with their willingness to defy the Baron’s will. (If the players mention additional adventures within Vallaki’s walls, such as a confrontation with Volenta at the Coffin-Maker’s Shop, Lady Wachter is suitably impressed.)
 
-Should the players indicate an opposition to the Baron, Lady Wachter confesses that she has recently found herself with grave doubts regarding his fitness to rule. She can share the following information about Baron Vargas Vallakovich:
+Should the players indicate an opposition to the Baron, Lady Wachter confesses that she has recently found herself with grave doubts regarding his fitness to rule. She can share the following information about [[Baron Vargas Vallakovich]]:
 
 * The Vallakovich family has ruled Vallaki ever since its first patriarch, Boris Vallakovich, founded the town nearly five-hundred years ago. The Vallakoviches claim to have royal blood in their veins, and have always believed themselves superior to all others in the valley—and the current Baron is no different.
-* Baron Vargas Vallakovich first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
+* [[Baron Vargas Vallakovich]] first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
 * Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting weekly “festivals” that most have always considered to be dull affairs.
 * Ever since Strahd’s awakening three months ago, Vargas’s once-harmless beliefs have become an obsessive fixation. He has instituted weekly festivals and made attendance mandatory. 
 * Vargas has also criminalized “malicious unhappiness,” as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation”—including Udo Lukovich, a local shoemaker, who was arrested last week as described in <span class="citation">N3m. Locked Closet (p. 107)</span>. Udo hasn’t been seen since.
 * Vargas’s fear and paranoia have even driven him to bar the refugees from the village of Barovia from entering Vallaki—an enormous abuse of power that has caused significant and undeserved suffering.
-* Vargas’s will is enforced by his right-hand man, Izek Strazni, who serves both as Vallaki’s Captain of the Guard and as Vargas’s personal enforcer. 
+* Vargas’s will is enforced by his right-hand man, [[Izek Strazni]], who serves both as Vallaki’s Captain of the Guard and as Vargas’s personal enforcer. 
 
 Lady Wachter can also share the following information about Izek:
 
@@ -173,7 +173,7 @@ Lady Wachter can also share the following information about Izek:
 Where appropriate, Lady Wachter can also share the following story about her daughter, Stella:
 
 * Six months ago, against her advice, Lady Wachter’s daughter, Stella, began visiting Victor Vallakovich, the Baron’s son. Lady Wachter warned her against entanglement with the Vallakovich family, but Stella ignored her pleas.
-* Just over two months ago, Izek Strazni returned Stella to Wachterhaus in her current state: mindless and speechless, unable to walk, eat, or even dress herself without another’s assistance. 
+* Just over two months ago, [[Izek Strazni]] returned Stella to Wachterhaus in her current state: mindless and speechless, unable to walk, eat, or even dress herself without another’s assistance. 
 * Baron Vallakovich has refused to discuss the matter in depth, suggesting only that the girl’s fragile constitution and her family’s exposure to the Devil were to blame. Victor Vallakovich himself has refused to speak to her at all.
 * Fiona is convinced that Izek or the Vallakoviches did something terrible to Stella—and that, even if they did not, their cold refusal to assist or even commiserate with her illness proves their unfitness to rule.
 
@@ -188,7 +188,7 @@ Where appropriate, Lady Wachter can also share the following story about her dau
 If the players appear receptive to her concerns, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] proceeds to ask for their discretion, as well as their promise that not a whisper of their conversation shall escape this room. If the players agree, Lady Wachter makes the following proposal, speaking carefully and making sure to choose her words delicately:
 
 * There are many in Vallaki who are uncomfortable with the Vallakoviches’ rule, and who would prefer to see fresh leadership overseeing the town.
-* However, so long as Izek Strazni serves the Baron’s household, any attempt to shift the town’s political leadership would be met with violent brutality.
+* However, so long as [[Izek Strazni]] serves the Baron’s household, any attempt to shift the town’s political leadership would be met with violent brutality.
 * Izek is utterly faithful to the Baron. His life is the sole obstacle to the change that Vallaki needs.
 * The players appear to be capable, intelligent, and good-hearted individuals—both well-armed and well-trained. If any group of individuals could aid Vallaki in its hour of need, they could.
 
@@ -234,7 +234,7 @@ If the players insist that Madam Eva foresaw the existence of the *Sunsword*, sh
 > 
 > The players' lighting of the beacon of Argynvostholt in [[Arc Q - A Shining Beacon]] inspires Lady Wachter to hope for a future without Strahd von Zarovich. She becomes a steadfast ally in the fight against Strahd after the players obtain the *Sunsword* in [[Arc S - A Sword of Sunlight]].
 
-***Accepting the Mission.*** If the players accept Lady Wachter’s assignment, she promises that she will send one of her associates to brief them on Izek Strazni’s schedule—and provide the bottle of poisoned wine—the following morning.
+***Accepting the Mission.*** If the players accept Lady Wachter’s assignment, she promises that she will send one of her associates to brief them on [[Izek Strazni]]’s schedule—and provide the bottle of poisoned wine—the following morning.
 
 > [!lore]+ **Ezra: What Barovians Know**
 > Some learned Barovians, such as Kasimir or Father Petrovich, know the information about Ezra contained in <span class="citation"><em>Van Richten's Guide to Ravenloft</em> (p. 64)</span>. However, few know more than that, even among Ezra's own worshippers. Kasimir and other long-lived Barovians can share that worship of Ezra began only after Barovia passed into the mists, and that no Barovian had heard the goddess's name before then.
@@ -245,7 +245,7 @@ The following morning, as the players enter the taproom of the Blue Water Inn, [
 
 The man, Ernst Larnak (described in **N4. Wachterhaus**, p. 110), is currently enjoying a breakfast of bread, egg, and cured sausage. In lieu of greeting the players, he reflects (with his mouth full) on the quality of Urwin Martikov’s cooking, but mourns that the inn doesn’t carry coffee, a wonderful foreign drink he once purchased from a Vistana caravan.
 
-Once he has finished his breakfast, Ernst can inform the players that Izek Strazni generally receives a delivery of a midday meal and a case carrying two bottles of wine shortly after noon in the Vallaki town square, delivered by the Baron’s cook, Tereska. Izek then speaks with various spies of his throughout town. (Ernst notes with distaste that Izek’s “spies” are mere town gossips who Izek has intimidated into snitching on their neighbors.) Izek’s afternoon schedule is highly variable, but he reliably finishes the first bottle of wine by dusk and drains the second bottle shortly after settling down in one of several favored haunts. 
+Once he has finished his breakfast, Ernst can inform the players that [[Izek Strazni]] generally receives a delivery of a midday meal and a case carrying two bottles of wine shortly after noon in the Vallaki town square, delivered by the Baron’s cook, Tereska. Izek then speaks with various spies of his throughout town. (Ernst notes with distaste that Izek’s “spies” are mere town gossips who Izek has intimidated into snitching on their neighbors.) Izek’s afternoon schedule is highly variable, but he reliably finishes the first bottle of wine by dusk and drains the second bottle shortly after settling down in one of several favored haunts. 
 
 Ernst can also provide the players with a burlap sack of sufficient size to contain Izek’s head, which also contains the bottle of poisoned wine. (“To carry the goods,” he says, grinning, as he holds out the sack. As he opens it to reveal the bottle, he adds, “And a parting gift for their owner.”) The wine is labeled Red Dragon Crush.
 
@@ -359,7 +359,7 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 > Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
 
 <div class="statblock">
-<h2>Izek Strazni, 1st Form</h2>
+<h2>[[Izek Strazni]], 1st Form</h2>
 <em>Medium humanoid, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 14 (studded leather)
@@ -418,7 +418,7 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 <br>
 
 <div class="statblock">
-<h2>Izek Strazni, 2nd Form</h2>
+<h2>[[Izek Strazni]], 2nd Form</h2>
 <em>Medium humanoid, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 14 (studded leather)
@@ -553,7 +553,7 @@ Lady Wachter can share that, according to the book, Vladislav was a Wachter and 
 >
 > Lady Wachter then commands the guards to open the gates to the Barovian refugees, resettling them in the town square until such a time as housing can be found. (Any Barovian refugees addicted to dream pastries continue to visit the eastern Morning Gate daily to purchase fresh pastries from Morgantha, and are joined by a number of Vallakians interested in her wares.) Any Vistani who wish to are also free to enter the town as they choose.
 >
-> Baron Vargas Vallakovich and his family are placed under unofficial house arrest, with the mansion guarded by two of Lady Wachter’s **cultists** at all times—one guarding the front door and one guarding the back. The cultists assure Baron Vallakovich that they are present for his protection, both from ungrateful townsfolk and servants of Strahd, but are under strict orders to bar him and his family from exiting the manor. Victor Vallakovich, the Baron’s son, is mildly perturbed by this development, but takes no action against it.
+> [[Baron Vargas Vallakovich]] and his family are placed under unofficial house arrest, with the mansion guarded by two of Lady Wachter’s **cultists** at all times—one guarding the front door and one guarding the back. The cultists assure Baron Vallakovich that they are present for his protection, both from ungrateful townsfolk and servants of Strahd, but are under strict orders to bar him and his family from exiting the manor. Victor Vallakovich, the Baron’s son, is mildly perturbed by this development, but takes no action against it.
 >
 > Udo Lukovich, the shoemaker, is released from his prison in the Baron’s home and returned to his mother, Willemina.
 

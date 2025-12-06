@@ -8,7 +8,7 @@
 | Barovian witch             | $1 / 2$ |
 | Ezmerelda d'Avenir         |    8    |
 | Guardian portrait          |    1    |
-| Izek Strazni               |    5    |
+| [[Izek Strazni]]               |    5    |
 | Madam Eva                  |   10    |
 | Mongrelfolk                | $1 / 4$ |
 | Phantom warrior            |    3    |

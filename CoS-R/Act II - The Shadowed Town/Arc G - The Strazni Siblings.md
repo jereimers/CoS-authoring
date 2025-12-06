@@ -1,6 +1,6 @@
 _An adventure for five 4th-level characters._
 
-In this arc, shortly after seeing Ireena Kolyana, Izek Strazni realizes that she is—quite literally—the woman of his dreams. 
+In this arc, shortly after seeing Ireena Kolyana, [[Izek Strazni]] realizes that she is—quite literally—the woman of his dreams. 
 
 After learning from his spies that Ireena has most recently resided at the Blue Water Inn, Izek visits the Inn himself in an attempt to uncover her location. If his effort is unsuccessful, he directs the town guard to publish WANTED posters around Vallaki offering a reward for information regarding Ireena’s location.
 
@@ -18,7 +18,7 @@ If the players neither stop Izek nor take extraordinary measures to keep Ireena 
 > If the players still appear suspicious of the possibility that she might betray them to Strahd, she scoffs, and points out that the players have killed Izek—who she could not herself touch. "If anyone should be frightened, it's I," she says, laughing slightly hysterically. "A band of armed, powerful outsiders have arrived in my small town and killed the most powerful creature within its walls. I am here only because I have faith in your goodwill and your love for my neighbors.")
 # G1. The Blue Water Inn
 ## G1a. Izek’s Visit
-Just over a day after catching a glimpse of Ireena Kolyana for the first time—either in the street outside of the Blue Water Inn, in Vallaki’s town square, or in some other location—Izek Strazni recognizes her as the woman that he has seen repeatedly in his dreams and becomes determined to find her. 
+Just over a day after catching a glimpse of Ireena Kolyana for the first time—either in the street outside of the Blue Water Inn, in Vallaki’s town square, or in some other location—[[Izek Strazni]] recognizes her as the woman that he has seen repeatedly in his dreams and becomes determined to find her. 
 
 Izek soon comes to believe that Ireena is a guest at the Blue Water Inn—either because he observed her in the vicinity of the Blue Water Inn on the players’ first morning in Vallaki, or, unless players disguised her upon their entry into Vallaki, because he learned of her recent arrival from the guards at the gates. (If Izek did not see Ireena outside of the Blue Water Inn and the players kept her disguised upon entering Vallaki, Izek learns of Ireena’s location from one of his spies an additional day later, unless the players have taken extraordinary measures to keep her hidden.)
 
@@ -36,7 +36,7 @@ The debris from the broken table and chairs have been placed outside by the shed
 
 [[Non-Player Characters#Urwin Martikov|Urwin]], who is holding a broom and dustpan as he gathers splinters and shards from the taproom floor, greets the players wearily upon their return. He can provide the players with the following information:
 
-* Izek Strazni, the baron’s enforcer and captain of the guard, visited the Blue Water Inn earlier that day and demanded the location of a woman matching the description of the players’ companion.
+* [[Izek Strazni]], the baron’s enforcer and captain of the guard, visited the Blue Water Inn earlier that day and demanded the location of a woman matching the description of the players’ companion.
 * Izek tore apart the inn in an effort to find her, but was ultimately unsuccessful. In the process, he damaged some of the inn’s property and ransacked the inn’s guest rooms. 
 * If Izek took the coins from the Martikovs’ locked chest, Urwin notes that he also took some items with him, but that thankfully no one was harmed. If asked, Urwin dismisses the confiscated coins as “some savings of ours,” but reiterates his relief that Ireena and the players are safe.
 
@@ -73,7 +73,7 @@ Ireena, determined and stubborn, can't be convinced to remain at the inn or chur
 > If the players journey to Lady Wachter’s estate to seek her assistance, they begin [[Arc F - Lady Wachter's Wish]].
 
 # G2. The Streets of Vallaki
-One day after his visit to the Blue Water Inn, Izek directs the town guards to begin publishing posters requesting information regarding the location of a woman matching Ireena’s description. Each poster includes a sketch that roughly matches Ireena’s appearance and offers a reward of five gold pieces for information delivered to Izek Strazni at the Baron’s mansion.
+One day after his visit to the Blue Water Inn, Izek directs the town guards to begin publishing posters requesting information regarding the location of a woman matching Ireena’s description. Each poster includes a sketch that roughly matches Ireena’s appearance and offers a reward of five gold pieces for information delivered to [[Izek Strazni]] at the Baron’s mansion.
 # G3. The Kidnapping
 At dawn on the fourth day after the players arrived in Vallaki, unless the players have taken sufficient precautions to ensure that Ireena remains completely concealed from the public, a Vallakian delivers a tip to the Burgomaster’s mansion regarding her current location. 
 
@@ -140,7 +140,7 @@ During the battle, Izek can break through one of the interior walls of the Baron
 If conscious, Ireena uses a dagger concealed in her boot to cut herself free from Izek's restraints on her first turn in combat. She then joins the battle on the second round of combat. 
 
 <div class="statblock">
-<h2>Izek Strazni, 1st Form</h2>
+<h2>[[Izek Strazni]], 1st Form</h2>
 <em>Medium humanoid, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 14 (studded leather)
@@ -199,7 +199,7 @@ If conscious, Ireena uses a dagger concealed in her boot to cut herself free fro
 <br>
 
 <div class="statblock">
-<h2>Izek Strazni, 2nd Form</h2>
+<h2>[[Izek Strazni]], 2nd Form</h2>
 <em>Medium humanoid, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 14 (studded leather)
@@ -272,7 +272,7 @@ If the players cause a ruckus at the front door or on the first floor of the man
 > [!info]+ **No Double-Counting**
 > The players can earn a maximum of 1,500 XP for completing [[Arc F - Lady Wachter's Wish]] and/or [[Arc G - The Strazni Siblings]]. Parties that rescue Ireena then later kill Izek will earn 750 XP for the former and an additional 750 XP for the latter.
 # Design Notes: The Strazni Siblings
-This arc has been expanded to provide a more explicit "ticking clock" that drives the players into conflict with Izek Strazni, and as an inciting incident that pushes Ireena to journey with the players and take agency in her fight against Strahd.
+This arc has been expanded to provide a more explicit "ticking clock" that drives the players into conflict with [[Izek Strazni]], and as an inciting incident that pushes Ireena to journey with the players and take agency in her fight against Strahd.
 
 ***The Blue Water Inn.*** Izek's attack on the Blue Water Inn has been added to provide the players with an additional motivation to seek his death—especially if they are mistrustful of Lady Wachter's motives or doubtful of the benefits of removing her obstacles to power. 
 

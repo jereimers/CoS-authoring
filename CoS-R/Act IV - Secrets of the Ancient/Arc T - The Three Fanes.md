@@ -337,7 +337,7 @@ Danika can also share concerning news regarding the Wizard of Wines winery:
 
 * Two nights ago, the witch of Berez, Baba Lysaga, attacked the Wizard of Wines atop a living hut, which shattered the winery’s upper walls in the dead of night.
 * Claudiu, Stefenia and Dag’s eldest teenage son, escaped alone, and is staying in <span class="citation">N2n. Private Guest Room (p. 102)</span>. The rest of the Martikov clan was captured and spirited away—presumably to Berez.
-* Claudiu brought with him the Winery’s final enchanted gem, which Urwin and Danika took for safekeeping. (The gem is hidden in the locked chest in <span class="citation">N2h. Ravens’ Loft (p. 101)</span>. If Izek Strazni previously found the chest in [[Arc G - The Strazni Siblings]], the Martikovs have relocated it to <span class="citation">N2q. Secret Attic (p. 103)</span>.)
+* Claudiu brought with him the Winery’s final enchanted gem, which Urwin and Danika took for safekeeping. (The gem is hidden in the locked chest in <span class="citation">N2h. Ravens’ Loft (p. 101)</span>. If [[Izek Strazni]] previously found the chest in [[Arc G - The Strazni Siblings]], the Martikovs have relocated it to <span class="citation">N2q. Secret Attic (p. 103)</span>.)
 * Urwin’s raven spies have been working to track the Martikovs into Berez. Urwin hopes to have more information when he returns in an hour.
 * Last night, Claudiu tried to sneak out of the Blue Water Inn to fly to Berez. Urwin stopped him, and brought him back to the inn. (Danika and Urwin agree that fifteen-year-old Claudiu is too young and inexperienced to be allowed to take field missions for the Keepers of the Feather, and that Baba Lysaga would surely capture or slaughter him if she found him there.)
 

@@ -1,7 +1,6 @@
-# WotC source:
-[[Wachterhaus]]
-# Gallows Speaker
-## STATBLOCK_Speaker of the Gallows
+
+# #statblock 
+## Speaker of the Gallows
 
 <div class="statblock">
 <h2>Speaker of the Gallows</h2>
@@ -64,7 +63,7 @@
 </div>
 <br>
 
-## STATBLOCK_Ba'al Verzi Avenger
+## Ba'al Verzi Avenger
 
 <div class="statblock">
 <h2>Ba’al Verzi Avenger</h2>

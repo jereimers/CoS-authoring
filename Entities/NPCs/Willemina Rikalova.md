@@ -15,4 +15,4 @@
 
 ***Morale.*** In a fight, .
 
-***Relationships.*** Mother of Udo Lukovich, the man imprisoned by Baron Vargas Vallakovich.
+***Relationships.*** Mother of Udo Lukovich, the man imprisoned by [[Baron Vargas Vallakovich]].

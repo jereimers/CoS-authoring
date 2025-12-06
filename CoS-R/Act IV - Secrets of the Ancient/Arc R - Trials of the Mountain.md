@@ -137,10 +137,10 @@ As the players make their way from the Vistani encampment to Vallaki or the Old 
 </div>
 
 ## R2a. The Baron’s Revenge
-If Baron Vargas Vallakovich is alive, Lady Fiona Wachter is the current burgomaster of Vallaki, and the players made no efforts to conceal their travel to the Vistani encampment, a drunken Vargas and six **guards** attempt to corner the players on the road. Add:
+If [[Baron Vargas Vallakovich]] is alive, Lady Fiona Wachter is the current burgomaster of Vallaki, and the players made no efforts to conceal their travel to the Vistani encampment, a drunken Vargas and six **guards** attempt to corner the players on the road. Add:
 
 <div class="description">
-<p>The stillness is broken by the crunching of wet mulch beneath boots. Seven mud-stained figures emerge from the eastern trail, their faces dark and stony. Six bear spears and crossbows, their chests decorated with the familiar rusted mail of the Vallakian guard. The seventh, you recognize instantly: Baron Vargas Vallakovich.</p>
+<p>The stillness is broken by the crunching of wet mulch beneath boots. Seven mud-stained figures emerge from the eastern trail, their faces dark and stony. Six bear spears and crossbows, their chests decorated with the familiar rusted mail of the Vallakian guard. The seventh, you recognize instantly: [[Baron Vargas Vallakovich]].</p>
 <p>The Baron does not seem to have endured his retirement well. His greasy hair is unkempt, and his clothes are unwashed and haggard. His jowls have grown only looser, and deep, puffy circles mark the flesh beneath his eyes, just above the coarse, messy stubble that lines his jaws and chin. He wears an ill-fitting breastplate, with an unpolished scabbard tied to his hip. Even from a distance, he reeks of sweat and stale wine.</p>
 <p>"There they are," Vargas rasps, his bloodshot eyes twitching. "The treacherous <em>vermin</em>."</p>
 </div>
@@ -154,7 +154,7 @@ If Baron Vargas Vallakovich is alive, Lady Fiona Wachter is the current burgomas
 >
 > Vargas, who is heavily drunk, believes that the players could not have killed Izek without foul play and trickery. As a result, he is convinced that they are a group of cowardly frauds, and that any tales of their heroism or deeds are overblown at best—and flat-out lies at worst.
 
-Vargas is determined to punish and shame the players for their treachery, as well as their "murder" of Izek Strazni. As the conversation unfolds, he rants that the players have "allied themselves with the Devil" and "brought ruin to the good people of Vallaki." He freely accuses the players of being cowards, poisoners, and usurpers, as well as dabblers in the dark arts. ("The Wachters have always been known to consort with vampires and devils," he sneers. "I suppose it’s no surprise that they would lower themselves to filth such as you.")
+Vargas is determined to punish and shame the players for their treachery, as well as their "murder" of [[Izek Strazni]]. As the conversation unfolds, he rants that the players have "allied themselves with the Devil" and "brought ruin to the good people of Vallaki." He freely accuses the players of being cowards, poisoners, and usurpers, as well as dabblers in the dark arts. ("The Wachters have always been known to consort with vampires and devils," he sneers. "I suppose it’s no surprise that they would lower themselves to filth such as you.")
 
 As the conversation continues, Vargas delivers the players an ultimatum: "Lay down your weapons and witches’ tools," he spits, drunkenly slurring his words, "and face the Baron’s justice."
 

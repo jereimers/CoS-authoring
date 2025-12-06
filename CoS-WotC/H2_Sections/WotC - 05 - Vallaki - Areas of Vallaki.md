@@ -263,9 +263,9 @@ MAP 5.3: BURGOMASTER'S MANSION (AREA N3)
 
 Use the following information to roleplay the burgomaster and his family.
 #### The Baron. 
-The burgomaster, Baron Vargas Vallakovich (NE male human noble), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp.
+The burgomaster, [[Baron Vargas Vallakovich]] (NE male human noble), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp.
 
-The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named Izek Strazni (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8).
+The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [[Izek Strazni]] (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8).
 
 If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and sends twelve guards to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty commoners to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
 
@@ -360,12 +360,12 @@ The staircase climbs to a ten-foot-wide gallery that stretches almost the length
 
 ### N3j. Izek's Bedroom
 
-The door to this room is locked. Izek Strazni carries the only key.
+The door to this room is locked. [[Izek Strazni]] carries the only key.
 The following description assumes the characters have met Ireena Kolyana (see chapter 3, area E4). If the characters haven't met her, don't read the last sentence.
 
 Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like Ireena Kolyana.
 
-The burgomaster's monstrous henchman, Izek Strazni (see appendix D), sleeps here at night. During the day, he is in town taking care of his master's business. Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
+The burgomaster's monstrous henchman, [[Izek Strazni]] (see appendix D), sleeps here at night. During the day, he is in town taking care of his master's business. Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
 
 A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery's name, the Wizard of Wines, and wine's name, Purple Grapemash No. 3.
 
@@ -384,9 +384,9 @@ If the burgomaster has not been drawn elsewhere, he is here. Add:
 
 Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
 
-Baron Vargas Vallakovich never goes anywhere without his two mastiffs. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
+[[Baron Vargas Vallakovich]] never goes anywhere without his two mastiffs. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
 
-The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won't pick a fight with well-armed strangers, however. If he can't make the characters yield to his authority, he swallows his pride until he can circle around with Izek Strazni and assemble his guards to run them out of town.
+The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won't pick a fight with well-armed strangers, however. If he can't make the characters yield to his authority, he swallows his pride until he can circle around with [[Izek Strazni]] and assemble his guards to run them out of town.
 
 The baron's desk contains three drawers stuffed with blank sheets of parchment, jars of ink, and writing quills. It also holds thick books of tax records dating back to the times of the baron's father, grandfather, and great-grandfather.
 
@@ -521,7 +521,7 @@ MAP 5.4: WACHTERHAUS (AREA N4)
 ### Roleplaying
 
 Use the following information to roleplay Lady Wachter, her family, and her associates.
-Lady of the House. Lady Fiona Wachter (LE female human priest with AC 10 and no armor) makes no secret of her family's long-standing loyalty to the von Zarovich line. She believes that Strahd von Zarovich is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that Baron Vargas Vallakovich won't give up his birthright without a fight.
+Lady of the House. Lady Fiona Wachter (LE female human priest with AC 10 and no armor) makes no secret of her family's long-standing loyalty to the von Zarovich line. She believes that Strahd von Zarovich is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that [[Baron Vargas Vallakovich]] won't give up his birthright without a fight.
 
 Fiona conspired to wed her young daughter, Stella, to the baron's son, Victor, as part of a plot to gain a foothold in the baron's mansion, but Stella found Victor to be demented, and he showed no interest in Stella whatsoever. In fact, he spoke such unkind words to Stella that she went mad, and Fiona had to lock her daughter away (see area N4n).
 
@@ -534,7 +534,7 @@ FIONA WACHTER AND MAJESTO
 
 Another secret of Fiona's is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts gentle repose spells on the corpse to keep it from deteriorating.
 
-If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron's evil henchman, Izek Strazni. She's happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd's enemy.
+If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron's evil henchman, [[Izek Strazni]]. She's happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd's enemy.
 
 Lady Wachter has a different list of prepared spells from that of the priest in the Monster Manual:
 
@@ -862,7 +862,7 @@ Blinsky believes the burgomaster is right-that the only way to escape from Barov
 
 %% --- Page 161 --- %%
 #### Ireena Kolyana Dolls. 
-Blinsky makes special dolls for the burgomaster's henchman, Izek Strazni (see area N3 and appendix D). Izek doesn't pay for the dolls but instead threatens to burn down Blinsky's shop unless the toymaker delivers a new doll every month. Every doll is modeled on a description given to Blinsky by Izek, and each doll has been closer to capturing Ireena's likeness than the last. Blinsky doesn't know that the doll is meant to be modeled after anyone in particular. If Ireena is with the party, however, Blinsky realizes that she is the inspiration for Izek's dolls.
+Blinsky makes special dolls for the burgomaster's henchman, [[Izek Strazni]] (see area N3 and appendix D). Izek doesn't pay for the dolls but instead threatens to burn down Blinsky's shop unless the toymaker delivers a new doll every month. Every doll is modeled on a description given to Blinsky by Izek, and each doll has been closer to capturing Ireena's likeness than the last. Blinsky doesn't know that the doll is meant to be modeled after anyone in particular. If Ireena is with the party, however, Blinsky realizes that she is the inspiration for Izek's dolls.
 
 #### Von Weerg's Masterpiece. 
 Blinsky considers himself a student of a great inventor and toymaker named Fritz von Weerg. Blinsky has heard rumors that von Weerg's greatest invention-a clockwork man-lies somewhere in Castle Ravenloft. If the characters seem intent on going there, Blinsky asks if they would be so kind as to find the clockwork "myasterpiece" and "dyeliver" it to him, in exchange for which Blinsky offers to make them any toy they desire. Because "byusiness" has not been good, he says, he has no other reward to offer except, perhaps, his new monkey companion.
@@ -881,7 +881,7 @@ Pikes will be provided.
 ALL WILL BE WELL!
 -The Baron-
 
-The Wolf's Head Jamboree has already occurred, making the square's proclamations out of date. If the characters linger, they see the burgomaster's henchman, Izek Strazni (see appendix D), arrive with two town guards. Izek orders one guard to tear down all of the old proclamations while the other posts the following new one:
+The Wolf's Head Jamboree has already occurred, making the square's proclamations out of date. If the characters linger, they see the burgomaster's henchman, [[Izek Strazni]] (see appendix D), arrive with two town guards. Izek orders one guard to tear down all of the old proclamations while the other posts the following new one:
 
 COME ONE, COME ALL,
 to the greatest celebration of the year:
@@ -895,7 +895,7 @@ Most Vallakians have no idea whom the statue in the square represents. The burgo
 
 ### Donkey-Headed Criminals
 
-The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and Izek Strazni carries the keys on an iron ring.
+The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and [[Izek Strazni]] carries the keys on an iron ring.
 
 Three men, two women, and two boys are trapped in the stocks-all of them tired, wet, and famished. The five adults have the statistics of human commoners, and the children are noncombatants. The plaster donkey heads they wear are meant to encourage ridicule.
 
