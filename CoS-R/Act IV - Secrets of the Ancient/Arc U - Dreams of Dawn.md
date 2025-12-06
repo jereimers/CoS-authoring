@@ -31,7 +31,7 @@ The meeting’s attendees have thus far taken the following positions regarding 
 Although any individual attendee may require convincing or argument, the attendees of the war council welcome any insight, guidance, and leadership the players are able to provide.
 # U2. The Dream
 ## U2a. The Dream Begins
-The first time the players take a long rest in Vallaki after [[#U1. The War Council]], if Ireena Kolyana is still alive and a member of their party, the players and Ireena are drawn into a dream created by the Dark Powers. Read:
+The first time the players take a long rest in Vallaki after [[#U1. The War Council]], if [[Ireena Kolyana]] is still alive and a member of their party, the players and Ireena are drawn into a dream created by the Dark Powers. Read:
 
 <div class="description">
 <p>You feel yourselves sinking into a warm, soft darkness as sleep draws its arms around you. There’s a sensation of falling, of the tide of unconsciousness washing over you. You don’t notice the moment you fall asleep, but you notice when, a heartbeat later, your eyes snap open again—only to find yourselves somewhere else.</p>
@@ -90,7 +90,7 @@ The players immediately recognize the square as <span class="citation">N8. Town 
 * The portly man with the jester’s cap is an older Gadof Blinsky.
 * The golden-haired youth is Ithuriel.
 * The greasy-haired man is an older Victor Vallakovich.
-* The woman’s statue resembles Ireena Kolyana.
+* The woman’s statue resembles [[Ireena Kolyana]].
 
 Shortly after the players first arrive, a nondescript Vallakian hand-delivers them a note that they received from a “hooded figure." (The Vallakian doesn’t know who the figure is, or remember any other details about them, and is confused as to why the figure asked them to deliver the message, instead of doing so themselves.) The note, which bears a silver-gray seal shaped like a sprig of belladonna upon a silver shield, reads: “The masks we wear open many doors. To find mine, follow yours."
 
@@ -113,7 +113,7 @@ Shortly after the players first arrive, a nondescript Vallakian hand-delivers th
 > [!info]+ **The Players’ Role**
 > To all characters except themselves, the players and Ireena appear as ordinary Vallakian guards and are expected to behave as such. Lady Wachter, Nikolai Wachter, Stella Wachter, and [[Urwin Martikov]] may know one or more of them by any of the following names: Velimir, Blazh, Rostislav, Borislav, Chedomir, Dobroslav, Nikola, Zoria, Zaria, Miroslava, Yelena, Darya, Rada, Boleslava, or Slavitsa.
 ### Interacting with the Townsfolk
-The people in the town square are waiting for Burgomaster Nikolai Wachter, Burgomaster Ismark Kolyanovich, and Burgomaster Ilya Krezkov to begin the Festival of Peace—an annual celebration honoring the sacrifice of Ireena Kolyana and commemorating Strahd’s withdrawal following the Grand Conjunction. 
+The people in the town square are waiting for Burgomaster Nikolai Wachter, Burgomaster Ismark Kolyanovich, and Burgomaster Ilya Krezkov to begin the Festival of Peace—an annual celebration honoring the sacrifice of [[Ireena Kolyana]] and commemorating Strahd’s withdrawal following the Grand Conjunction. 
 
 Although the players might recognize them, the characters in the dream don’t recognize them, and instead see them as ordinary Vallakian guards. Accordingly, dream characters might rebuff or rebuke players who act overly familiar with them, and express surprise if an “ordinary guard" (whom they may or may not recognize) acts with such familiarity. Dream characters may also be confused by, amused by, suspicious of, and/or uncomfortable with players who show or profess ignorance of Barovia’s “future history."
 
@@ -152,7 +152,7 @@ Continue, pausing occasionally to allow the players an opportunity to interject 
 <div class="description">
 <p>"Welcome," the bearded man says, his arms spread wide, “to the Festival of Peace. I am honored to welcome our dignified guests from our neighbors: Burgomaster Ismark Kolyanovich and Burgomaster Ilya Krezkov." The golden-haired man steps bows stiffly, while the younger man raises a hand in greeting.</p>
 <p>"This year, we celebrate ten years of peace," the bearded man continues. “Ten years since the shadow of Castle Ravenloft retreated from our homes, allowing us to continue our lives with those we cherish and love—our neighbors, our friends, and our families."</p>
-<p>"But this peace came at a cost," he continues. “Accordingly, in this ceremony of remembrance, we honor the memory of the one who gave up her life, so that ours might be saved." He takes the wreath of flowers from its stand. “With this wreath, we honor the Lady Ireena Kolyana, daughter of Burgomaster Kolyan Indirovich and Korina Targolova. With it, we honor her sacrifice, and the peace her selflessness her life brought us."
+<p>"But this peace came at a cost," he continues. “Accordingly, in this ceremony of remembrance, we honor the memory of the one who gave up her life, so that ours might be saved." He takes the wreath of flowers from its stand. “With this wreath, we honor the Lady [[Ireena Kolyana]], daughter of Burgomaster Kolyan Indirovich and Korina Targolova. With it, we honor her sacrifice, and the peace her selflessness her life brought us."
 <p>He turns and offers it to Ismark, who accepts the wreath, his face solemn. With a nod, Ismark steps down from the platform. The crowd parts around him as he moves toward the fountain, the wreath clutched reverently in his hands.</p>
 <p>Ismark kneels before the fountain, placing the wreath upon a small, smooth slab that stands at the fountain’s northern end. “May you find rest in the rest you have brought us," he says—gently, but loud enough to be heard.</p>
 <p>"And may you find peace in the peace you have won," the crowd intones in a murmured reply.</p>
@@ -325,7 +325,7 @@ As they travel to [[#U3c. The Wall]] or [[#U3j. The Morning Gate]], the players 
 * **The Gate.** While travelling to the Morning Gate, the players are attacked by six **zombies**.
 
 > [!combat]+ **Balancing the Vallakian Streets Wall** 
-> This combat encounter is a **mild** combat encounter against a party of two 10th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 17% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of two 10th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 17% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 >
 > - _**One Player.**_ Reduce the number of harbingers to two. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players.
 > - _**Three Players.**_ Increase the number of zombies to nine. In battle, one winged harbinger and two zombies prefer to fight one another, rather than the players.
@@ -444,7 +444,7 @@ Shortly after the players hear the howls, four **winter wolves** leap forth from
 When the wolves are defeated, an archway of swirling mist appears before the players, pointing west. If the players pass through it, they emerge into [[#U3h. The Lonely Maid]].
 
 > [!combat]+ **Balancing the Attack on the Swamp Fane** 
-> This combat encounter is a **bruising** combat encounter against a party of two 10th-level players, four CR 2 allies (Ireena Kolyana and three Druids), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 29% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of two 10th-level players, four CR 2 allies ([[Ireena Kolyana]] and three Druids), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 29% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**One Player.**_ Reduce the number of winter wolves to three.
 > - _**Three Players.**_ Increase the number of winter wolves to five.
@@ -651,7 +651,7 @@ Shortly after the players reunite following [[#U3i. Lake Zarovich]] and [[#U3j. 
 > Should the players require any equipment before departing Vallaki, Lady Wachter and the other Vallakians are glad to obtain it for them swiftly, free of charge, in gratitude for their heroism and in support of their efforts to defeat Strahd.
 
 > [!abstract]+ **Recruiting Allies**
-> The players can recruit no allies other than Ireena Kolyana and Ezmerelda d’Avenir for their journey to Castle Ravenloft. All other characters, though grateful and honored for the invitation, insist on remaining behind to defend their homes, families, friends, and neighbors from the undead incursion. (As Victor Vallakovich says if asked—pale, but determined—“If we all went with you to Castle Ravenloft, who would be left to protect everyone else while you fight? Go—we’ll stay here to make sure everyone is still alive when you get back.")
+> The players can recruit no allies other than [[Ireena Kolyana]] and Ezmerelda d’Avenir for their journey to Castle Ravenloft. All other characters, though grateful and honored for the invitation, insist on remaining behind to defend their homes, families, friends, and neighbors from the undead incursion. (As Victor Vallakovich says if asked—pale, but determined—“If we all went with you to Castle Ravenloft, who would be left to protect everyone else while you fight? Go—we’ll stay here to make sure everyone is still alive when you get back.")
 # U4. The Old Svalich Road
 ## U4a. Old Bonegrinder
 At the time Urwin first notifies the players of its existence, the eastern undead army is located at <span class="citation">I. Black Carriage (p. 37)</span>. If the players take a short rest before departing Vallaki, they and the undead army cross paths at or near <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>.
@@ -809,7 +809,7 @@ When the final battle begins, read:
 A player who inspects the castle’s surroundings from outside the tower can confirm that the castle has split from the Pillarstone of Ravenloft and is rising into the air.
 
 > [!combat]+ **Balancing the Ancient** 
-> Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 10th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 45% of their total maximum hit points (for a total of 136% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 10th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 45% of their total maximum hit points (for a total of 136% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 >
 > * _**Three Players.**_ Reduce Strahd's hit points in each phase to 247.
 > * In his first phase, reduce the damage of his ***Vampiric Touch*** attack to 2d6 necrotic damage. Reduce the damage of his ***Lightning Bolt*** and ***Circle of Sickness*** to 6d6 damage. Reduce the damage of his ***Blindness/Deafness*** reaction to 1d10.

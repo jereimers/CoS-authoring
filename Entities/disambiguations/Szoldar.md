@@ -1,0 +1,1 @@
+![[Szoldar Szoldarovich]]

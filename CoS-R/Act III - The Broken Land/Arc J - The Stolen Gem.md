@@ -2,7 +2,7 @@ _An adventure for five 5th-level characters._
 
 In this arc, the first morning after the players' first full moon in Barovia, they are approached by [[Urwin Martikov]], who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to [[Davian Martikov]], the leader of the order.)
 
-Before the players depart Vallaki, Ireena Kolyana—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
+Before the players depart Vallaki, [[Ireena Kolyana]]—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, [[Ireena]] joins the party as a permanent companion for the remainder of the campaign.
 
 Upon arriving at the Wizard of Wines, the players meet [[Davian Martikov]]—the patriarch of the Martikov family—and his assorted children and grandchildren, who have taken shelter in a hidden cavern beneath the nearby woods. Davian shares that the winery has been invaded by a group of druids known as the Forest Folk alongside a horde of twisted plant creatures called **blights**. Davian asks the players to defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.
 
@@ -134,20 +134,20 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
     <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
 </div>
 
-### Ireena's Request
-Before the players depart the Blue Water Inn, if they have previously treated Ireena Kolyana with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
+### [[Ireena]]'s Request
+Before the players depart the Blue Water Inn, if they have previously treated [[Ireena Kolyana]] with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
 
-Ireena, who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
+[[Ireena]], who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
 
-* Ireena shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
-* If Ireena was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
-* Ireena notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
+* [[Ireena]] shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
+* If [[Ireena]] was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
+* [[Ireena]] notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
 
-If the players appear concerned for Ireena’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
+If the players appear concerned for [[Ireena]]’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
 
-If the players suggest that Ireena will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
+If the players suggest that [[Ireena]] will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
 
-If the players suggest that Ireena’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
+If the players suggest that [[Ireena]]’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
 # J2. The Old Svalich Road
 The journey from the town of Vallaki to the **Wizard of Wines winery** is just under seven miles long and takes two-and-one-quarter hours to complete. To get to the winery, the players must travel to the Raven River Crossroads, then head south.
 ## J2a. Crossing the River
@@ -223,7 +223,7 @@ A player with a passive Wisdom (Perception) score of 15 or greater or who succee
 In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
 
 > [!combat]- **Balancing the False Trail**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 10% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 10% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to three. 
 > * ***Four Players.*** Reduce the number of vine blights to four. 
@@ -478,7 +478,7 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
 The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
 
 > [!combat]- **Balancing the Cellar**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 29% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 29% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of needle blights to four.
 > * ***Four Players.*** Reduce the number of needle blights to six.
@@ -580,7 +580,7 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 > Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
 
 > [!combat]- **Balancing the Vat Room**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Replace the elder twig blights with ordinary **twig blights**.
 > * ***Four Players.*** Reduce the number of elder twig blights to one.
@@ -761,7 +761,7 @@ The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immuni
 Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
 
 > [!combat]- **Balancing the Loading Dock**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to three.
 > * ***Four Players.*** Reduce the number of vine blights to four.
@@ -786,7 +786,7 @@ When the players first reach the second floor, they can hear the sound of clatte
 The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
 
 > [!combat]- **Balancing the Printing Press**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to one.
 > * ***Four Players.*** Reduce the number of vine blights to two.
@@ -828,7 +828,7 @@ If the players speak with him, Lorghoth is glad to share the following informati
 When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
 
 > [!combat]- **Balancing the Loading Winch**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken.
 > * ***Four Players.*** Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
@@ -1039,7 +1039,7 @@ The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as des
 ### Greeting Strahd
 Strahd greets the players with familiarity. He also addresses their companions as follows:
 
-* If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
+* If [[Ireena]] is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
 * If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
 
 Strahd then asks what business the players might have on the road to Yester Hill—especially at such a dark and forsaken time of night. “I find that it is always the final hours before dawn that I most enjoy," Strahd says, “but I confess I did not expect to find kindred spirits on such a lonely path this eve."
@@ -1112,7 +1112,7 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
 
 > [!combat]- **Balancing the Ritual’s Guards**
-> The combat encounter with the **druid assailants** and **berserkers** (see [[Arc J - The Stolen Gem#J5c. The Ritual Begins|The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> The combat encounter with the **druid assailants** and **berserkers** (see [[Arc J - The Stolen Gem#J5c. The Ritual Begins|The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, and two CR 2 allies ([[Ireena Kolyana]] and Muriel Vinshaw), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of druid assailants to one.
 > * ***Four Players.*** Reduce the number of berserkers to one.
@@ -1310,7 +1310,7 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
 </div>
 
 > [!combat]- **Balancing the Second Bride**
-> This combat encounter is a **brusing** combat encounter against a party of five 5th-level players. one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **brusing** combat encounter against a party of five 5th-level players. one CR 1 ally (Muriel Vinshaw), and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Decrease Ludmilla’s hit points to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
 > * ***Four Players.*** Decrease Ludmilla’s hit points to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
@@ -1431,10 +1431,10 @@ When the hook first manifests, a tall arch formed of fog and swirling mist appea
 
 After three rounds, the arch vanishes forever, and the player character is trapped within the Whispering Wall for eternity, with no means of escape. (The character can be freed only if the players restore the memory of the Dreamer in the **Epilogue.**)
 
-> [!abstract]+ **What Ireena Sees**
+> [!abstract]+ **What [[Ireena]] Sees**
 > If Muriel is with the players, she declines to enter the Wall alongside them. “I’ll take no gift from von Zarovich," she says quietly. “And I know what I’d see, anyway." (Muriel is referring to Elric.)
 > 
-> If Ireena is with the players, she enters the Wall if at least half of the players do so (rounded down), and remains outside otherwise. If she enters, she sees a dawning sun rising over an open road, which flows through a picturesque landscape toward a gleaming city that stands in the distance. A covered wagon stands upon the road, and a woman’s voice invites her warmly to enter, “because we’ve got a long journey ahead of us." Upon exiting the Wall, Ireena’s cheeks glisten with tears. (She refuses to share the contents of her vision while Strahd is present, but is willing to share them later if asked.)
+> If [[Ireena]] is with the players, she enters the Wall if at least half of the players do so (rounded down), and remains outside otherwise. If she enters, she sees a dawning sun rising over an open road, which flows through a picturesque landscape toward a gleaming city that stands in the distance. A covered wagon stands upon the road, and a woman’s voice invites her warmly to enter, “because we’ve got a long journey ahead of us." Upon exiting the Wall, [[Ireena]]’s cheeks glisten with tears. (She refuses to share the contents of her vision while Strahd is present, but is willing to share them later if asked.)
 
 To an outside observer, a player who leaves the Wall returns no more than one round after they entered it, and in exactly the same condition. When all players have either returned from or been trapped in the Wall, Strahd retrieves a small, luminescent object from a pocket within his cloak and holds it into the air. (The object, which Strahd obtained from the Whispering Wall in exchange for the sacrifice of his **animated armor**, and which he stowed in his cloak at the beginning of the conversation, resembles a spark of light condensed into solid form.)
 

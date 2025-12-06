@@ -29,7 +29,7 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Death House.*** Strahd views the cult of Death House with respectful disdain; he finds their methods and obsessions distasteful, but appreciates their efforts to bring worthy consorts and adversaries from the lands beyond the Mists.
 
-***Village of Barovia.*** Strahd believes, without romance or obsession, that Ireena Kolyana’s body is the host for Tatyana’s soul, and that Tatyana’s soul belongs to him. Through his spies, he is aware of Ismark Kolyanovich’s position and relationship to Ireena, but finds him to be a lackluster leader and a half-rate swordsman. He views Donavich and Doru with scorn, disdaining the convictions, pride, and faith that Doru had in life.
+***Village of Barovia.*** Strahd believes, without romance or obsession, that [[Ireena Kolyana]]’s body is the host for Tatyana’s soul, and that Tatyana’s soul belongs to him. Through his spies, he is aware of Ismark Kolyanovich’s position and relationship to Ireena, but finds him to be a lackluster leader and a half-rate swordsman. He views Donavich and Doru with scorn, disdaining the convictions, pride, and faith that Doru had in life.
 
 ***Tser Pool Encampment.*** Strahd finds Madam Eva a fascinating enigma, but has come to an unspoken understanding with her: she shall read his fortune whenever he requests it, and, in exchange, he will not delve too deeply into her history or affairs.
 
@@ -61,7 +61,7 @@ As a conqueror, Strahd craves new lands and the freedom—and power—to claim t
 
 To this end, he needs three things: a pacified kingdom, a host of loyal servants, and—most importantly—an escape plan. 
 
-By defeating his servants and halting their schemes, the players can deny him the first; by defending Ireena Kolyana and resisting his temptations, they can also deny him the second. However, Strahd has plans within plans, and there is only one way to halt his final scheme: to destroy the vampire himself.
+By defeating his servants and halting their schemes, the players can deny him the first; by defending [[Ireena Kolyana]] and resisting his temptations, they can also deny him the second. However, Strahd has plans within plans, and there is only one way to halt his final scheme: to destroy the vampire himself.
 ## Reclaiming the Valley
 When Strahd awoke from his century-long slumber, he found that much had changed. 
 
@@ -100,7 +100,7 @@ Should this plot fail, Strahd must instead journey to the Whispering Wall at Yes
 
 The Mists, as creations of the Dark Powers, are born of apathy, fear, and despair. To escape the Mists without drawing their ire, therefore, Strahd intends to surround the Heart of Sorrow with a shell of wailing, hopeless souls. He believes that, by brutally reasserting his dominion over Barovia, his subjects will lose themselves to fear and despair, darkening their souls to meet his needs.
 
-By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come. The sole exception includes Ireena Kolyana, who Strahd will allow to keep her soul for his own purposes.
+By consuming the Barovians’ souls, Strahd can also use the energies of his escape to repurpose their soulless husks as undead soldiers, forging a new army for his conquests to come. The sole exception includes [[Ireena Kolyana]], who Strahd will allow to keep her soul for his own purposes.
 
 ***The Sacrifice.*** The schemes of the Dark Powers command that a Darklord must always sit upon the throne of Castle Ravenloft. To escape their clutches, Strahd must find a suitable replacement—an individual whose soul is stained with evil—and sacrifice them as his scapegoat, their soul offered to the Dark Powers as Strahd makes his escape. 
 
@@ -379,7 +379,7 @@ Many substitute statblocks have been proposed, increasing Strahd's Challenge Rat
 
  This issue can be solved by dramatically increasing Strahd's hit points and/or Armor Class (i.e., "Defensive Challenge Rating") while dramatically decreasing his attack bonus and/or damage output (i.e., "Offensive Challenge Rating"). These changes dramatically increase his lifespan without risking a TPK, ensuring a long, yet winnable boss battle
 
-Long battles, however, leave players exhausted and bored—especially for playgroups whose combats run slow. To inject energy and dynamism into the fight, we can split Strahd's statblock into three parts, or "phases," with each phase bestowing Strahd with new abilities and features. Each phase has been calibrated using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa) to survive approximately three to four rounds against an average 10th-level party wielding the *Sunsword* and *Holy Symbol of Ravenkind* and accompanied by Ezmerelda d'Avenir, Ireena Kolyana, and Kasimir Velikov; the entire combat encounter should last nine to twelve rounds in total.
+Long battles, however, leave players exhausted and bored—especially for playgroups whose combats run slow. To inject energy and dynamism into the fight, we can split Strahd's statblock into three parts, or "phases," with each phase bestowing Strahd with new abilities and features. Each phase has been calibrated using [Challenge Ratings 2.0](https://www.gmbinder.com/share/-N4m46K77hpMVnh7upYa) to survive approximately three to four rounds against an average 10th-level party wielding the *Sunsword* and *Holy Symbol of Ravenkind* and accompanied by Ezmerelda d'Avenir, [[Ireena Kolyana]], and Kasimir Velikov; the entire combat encounter should last nine to twelve rounds in total.
 
 To strengthen the themes of the final fight, each phase reflects a part of Strahd's history and descent into darkness: the Soldier (reflecting his history as a conqueror); the Mage (reflecting his search for immortality); and the Monster (reflecting his passage into undeath).
 

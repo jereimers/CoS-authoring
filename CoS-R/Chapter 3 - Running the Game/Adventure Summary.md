@@ -8,7 +8,7 @@
 
 # Act I: Into the Mists
 <div class="subtitle"><em>For 2nd to 3rd-level characters.</em></div>
-In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet burgomaster Ismark Kolyanovich and his sister, Ireena Kolyana, and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley. 
+In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet burgomaster Ismark Kolyanovich and his sister, [[Ireena Kolyana]], and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley. 
 
 The players are asked to escort Ireena to the nearby town of Vallaki for safety; if the players agree, Ireena also asks them to assist in the burial of her late father, Burgomaster Kolyan Indirovich. While at the local church, the players meet Doru, a **vampire spawn** at war with his bloodthirsty nature, and have an opportunity to reconcile him with his father, the priest Donavich.
 
@@ -39,7 +39,7 @@ At St. Andral's Church, the players will be tasked with recovering the stolen bo
 
 Meanwhile, one of the players begins to experience haunting apparitions, leading them to discover the tragic fate of Stella Wachter's soul—and an opportunity to restore her broken mind. Simultaneously, a nocturnal killer haunts Vallaki's streets, secretly working to drive the disguised vampire hunter Dr. Rudolph van Richten out of hiding.
 
-Through it all, the players will have an opportunity to seek out clues leading to the hidden location of the *Tome of Strahd*, which—depending on the Tarokka reading they received—may be hidden in the Baron's mansion or in Wachterhaus. And as the date of the Festival of the Blazing Sun approaches, Izek Strazni and Ireena Kolyana grow closer to a fateful, yet tragic encounter.
+Through it all, the players will have an opportunity to seek out clues leading to the hidden location of the *Tome of Strahd*, which—depending on the Tarokka reading they received—may be hidden in the Baron's mansion or in Wachterhaus. And as the date of the Festival of the Blazing Sun approaches, Izek Strazni and [[Ireena Kolyana]] grow closer to a fateful, yet tragic encounter.
 
 Act II ends on the morning after the players' first full moon in Barovia, which takes place on the night of the sixth full day after they first arrive in Vallaki. However, the players can still complete unresolved arcs from this act even after Act III begins—assuming, of course, that those arcs are still possible to complete.
 

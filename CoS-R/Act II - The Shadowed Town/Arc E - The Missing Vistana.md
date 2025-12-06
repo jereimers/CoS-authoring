@@ -16,7 +16,7 @@ If the players return to Vallaki, confront [[Rictavio]], and persuade him that t
 
 > [!lore]+ **Strahd’s Bounty**
 >
-> When Strahd received Madam Eva’s [[Arc C - Into the Valley#C8. Black Carriage|most recent foretelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
+> When Strahd received Madam Eva’s [[Arc C - Into the Valley#C2a. Strahd’s Arrival|most recent foretelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
 >
 > Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
 > 
@@ -78,11 +78,11 @@ After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase
 >
 > ***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
 >
-> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling Ireena Kolyana for [[Izek Strazni]], and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
+> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling [[Ireena Kolyana]] for [[Izek Strazni]], and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 
 Blinsky Toys is as described in <span class="citation">N7. Blinsky Toys (p. 118)</span>. As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
-If the players ask Blinsky about the doll resembling Ireena Kolyana (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+If the players ask Blinsky about the doll resembling [[Ireena Kolyana]] (see <span class="citation">Creepy Toys, p. 118</span>), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
@@ -250,13 +250,13 @@ The burgomaster's mansion is largely as described in <span class="citation">N3. 
 
 If the players visit the burgomaster’s mansion openly, they are greeted by Clavdia, the Baron’s maid, and led to the den as described in <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> and <span class="citation">N3e. Den (p. 106)</span>. The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in **N3l. Library (p. 107)**.
 ## E3a. Entering the Mansion
-If Ireena Kolyana has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
+If [[Ireena Kolyana]] has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
 
 If the players visit the library, proceed to [[#E3b. Searching the Library]] below.
 ### 1. Persuading the Baron
 Upon first greeting the players, the Baron inquires as to their excitement for the upcoming Festival of the Blazing Sun. After pointing out the bundles of twigs piled about the mansion's grand foyer, he boasts of his plan to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
 
-If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without Ireena’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
+If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without [[Ireena]]’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
 
 While he is not generally inclined to grant their request, if the players indicate that they are adventurers, mages, clerics, scholars, or otherwise up to the task, Vargas is willing to allow them entry into the library if they agree to resolve a problem his household has been facing. He can share with them the following information:
 
@@ -302,7 +302,7 @@ The NPCs in the mansion behave as follows:
 
 If the players gain access to <span class="citation">N3l. Library (p. 107)</span>, they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
 
-In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: Ireena Strazni, the younger sister of [[Izek Strazni]] and the daughter of Grygori and Fatima Strazni. According to the records, however, Ireena Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while Ireena’s cause of death is marked as *Unknown (presumed devoured by wolves).*
+In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: [[Ireena]] Strazni, the younger sister of [[Izek Strazni]] and the daughter of Grygori and Fatima Strazni. According to the records, however, [[Ireena]] Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while [[Ireena]]’s cause of death is marked as *Unknown (presumed devoured by wolves).*
 
 Shortly after the players discover these records, however, they are interrupted by the arrival of Victor Vallakovich, who has come to the library in search of a particular book: *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen. 
 ![[IMG-20251205143153009.png]]
@@ -1005,8 +1005,8 @@ In addition, though he won’t take up arms against Strahd or cease his work as 
 >
 > To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[Arc I - The Walls of Krezk]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
 
-> [!abstract]+ **Inspecting Ireena**
-> If the players ask Van Richten to inspect Ireena's vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.) Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
+> [!abstract]+ **Inspecting [[Ireena]]**
+> If the players ask Van Richten to inspect [[Ireena]]'s vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.) Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
 
 > [!abstract]+ **Recruiting Van Richten**
 > If the players attempt to recruit Van Richten to their party, he politely but firmly declines. If the players ask his reason for doing so, he insists that he must remain at Arabelle's side to keep her safe from Strahd's minions. "I failed to guard a child once," he says stiffly. "I shall not make that mistake again." (Van Richten won't explain further.)
@@ -1019,7 +1019,7 @@ This arc aims to remedy both issues simultaneously, providing Van Richten with a
 
 In the process, the arc provides the players with an opportunity to venture west beyond Vallaki's walls, alleviating the sense of suffocating claustrophobia that many parties describe following several consecutive sessions in the town.
 
-***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Arc D - St. Andral's Feast]] instead), and to further develop [[Izek Strazni]]'s relationship with Ireena Kolyana, explored further in [[Arc G - The Strazni Siblings]].
+***Blinsky Toys.*** The toy shop has been introduced as a first stop in this arc in order to discourage the players from fully completing it on their first day in Vallaki (in favor of encouraging them to complete [[Arc D - St. Andral's Feast]] instead), and to further develop [[Izek Strazni]]'s relationship with [[Ireena Kolyana]], explored further in [[Arc G - The Strazni Siblings]].
 
 ***Vistani Encampment.*** Luvash, Arrigal, and the entire Vistani tribe have been made more sympathetic in order to encourage the players to build a long-term relationship with them, to further develop the adventure's themes of unity and redemption over selfishness and mistrust, and to further motivate the players to locate Arabelle and find a solution that reunites her with her family.
 
@@ -1035,9 +1035,9 @@ The symbols on the signet ring have been added to provide the players with the s
 
 Rahadin's relationship to Prince Erevan (relayed in Kasimir's story) has been added to accentuate his decision to choose King Barov as his family over his own people, and to create a more personal antagonistic relationship between Rahadin and the bearer of the *broken blade* in the ***Barovian Relics*** adventure hook.
 
-***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave Ireena in the safety of St. Andral's Church.
+***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave [[Ireena]] in the safety of St. Andral's Church.
 
-The geneology of the Strazni family has been added to explicitly reveal Ireena's connection to Izek, clarifying and accentuating the stakes of [[Arc G - The Strazni Siblings]].
+The geneology of the Strazni family has been added to explicitly reveal [[Ireena]]'s connection to Izek, clarifying and accentuating the stakes of [[Arc G - The Strazni Siblings]].
 
 *Ethereal Entities* has been added to provide additional information to aid the players in restoring Stella's soul, and to provide Victor Vallakovich with an excuse to visit his father's library while the players are present. (See [[Arc H - The Lost Soul]] for more information about Stella's fate.)
 

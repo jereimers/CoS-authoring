@@ -2,7 +2,7 @@
 ![[izek_strazni.png]]
 # Profile: Izek Strazni
 ## **Roleplaying Information**
-***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in [[Ireena Kolyana]].
 
 ***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
 

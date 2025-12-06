@@ -541,7 +541,7 @@ If Lydia Petrovna's bridal gown is delivered to the Abbot, he honors whatever de
 
 ### Something Blue
 
-This encounter occurs if the characters bring Ireena Kolyana to Krezk, as the priest Donavich suggested (see chapter 3, area E5f).
+This encounter occurs if the characters bring [[Ireena Kolyana]] to Krezk, as the priest Donavich suggested (see chapter 3, area E5f).
 Ireena hears a gentle voice calling to her. It leads her to the edge of the blessed pool (area S4). If the characters follow her, read:
 
 As Ireena reaches the pool's edge, an image appears in its sparkling blue waters: a handsome youth of kind and noble visage. The sadness in his eyes turns to sudden joy.

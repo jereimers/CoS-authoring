@@ -1,6 +1,6 @@
 _An adventure for five 4th-level characters._
 
-In this arc, if the players defied the Baron’s will on their first morning after entering Vallaki, if they or Ireena were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, the players receive a letter delivered by Ernst Larnak, Lady Fiona Wachter’s courier and spy, which invites them to dine at Wachterhaus that evening.
+In this arc, if the players defied the Baron’s will on their first morning after entering Vallaki, if they or [[Ireena]] were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, the players receive a letter delivered by Ernst Larnak, Lady Fiona Wachter’s courier and spy, which invites them to dine at Wachterhaus that evening.
 
 When the players arrive at Wachterhaus that night, Lady Wachter welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that Baron Vargas Vallakovich is a menace who must be deposed.
 
@@ -16,7 +16,7 @@ If the players deliver Izek’s severed head to Lady Wachter, she visits Baron V
 # F1. The Blue Water Inn
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
-If the players defied Baron Vallakovich or otherwise intervened in Willemina’s favor on their first morning in Vallaki, if they or Ireena visited the camp of the Barovian refugees at any point while in Vallaki, or if the players shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] delivers them an envelope upon their return to the Blue Water Inn that same night.
+If the players defied Baron Vallakovich or otherwise intervened in Willemina’s favor on their first morning in Vallaki, if they or [[Ireena]] visited the camp of the Barovian refugees at any point while in Vallaki, or if the players shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] delivers them an envelope upon their return to the Blue Water Inn that same night.
 
 The envelope is addressed to whichever player first introduced themselves to Nikolai and Karl Wachter on the night of their first arrival or, if the players did not interact with Nikolai and Karl in the taproom, whichever player first identified themselves to the guards at Vallaki’s gates that same day.
 
@@ -301,7 +301,7 @@ As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of 
 > 
 > If Izek detects the players, he demands to know whether the players have been following him and accuses them of being "spies and criminals." The players can deceive him with a successful DC 9 Charisma (Deception) check. On a failure, Izek directs any nearby guards to arrest the players to be locked in the stocks; if the players resist, or if there are no guards nearby, Izek attacks in an attempt to knock the players out himself.
 > 
-> If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in Ireena Kolyana's company, he immediately demands to know her location. The players can deceive Izek with another successful DC 9 Charisma (Deception) check, made with disadvantage if the players deny any association with Ireena. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
+> If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in [[Ireena Kolyana]]'s company, he immediately demands to know her location. The players can deceive Izek with another successful DC 9 Charisma (Deception) check, made with disadvantage if the players deny any association with [[Ireena]]. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
 ### 1. The Town Square
 <span class="citation"><em>This scene takes place in Chapter 5: Area N8.</em></span>
 
@@ -323,7 +323,7 @@ Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bo
 
 As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
 ### 4. End of the Day
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like Ireena Kolyana. 
+When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like [[Ireena Kolyana]]. 
 
 > [!abstract]+ **The Missing Doll**
 >
@@ -339,9 +339,9 @@ While he is poisoned in this way, treat Izek’s passive Wisdom (Perception) sco
 
 If Izek is undisturbed, he leaves Lake Zarovich and returns to the burgomaster’s mansion approximately four hours later. If Izek is attacked, he defends himself, vowing to destroy the players for their insolence. Izek always begins combat using the statistics of his **first form**. Upon realizing his poisoned state at the end of his first turn in combat, Izek roars in rage and demands to know what the players have done to him.
 
-If the players ask the truth behind the Ireena-shaped doll, Izek snarls that the doll is none of their business.
+If the players ask the truth behind the [[Ireena]]-shaped doll, Izek snarls that the doll is none of their business.
 
-If Ireena has accompanied the players to the lake, Izek instructs her to stand aside while he "teaches these worms some manners." If defied, he snarls in rage.
+If [[Ireena]] has accompanied the players to the lake, Izek instructs her to stand aside while he "teaches these worms some manners." If defied, he snarls in rage.
 
 ![[IMG-20251205143150391.jpg]]
 
@@ -475,7 +475,7 @@ If Ireena has accompanied the players to the lake, Izek instructs her to stand a
 </div>
 
 > [!combat]+ **Balancing the Brute**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 2 ally (Ireena Kolyana), and will each consume approximately 31% of their total maximum hit points (for a total of 62% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 2 ally ([[Ireena Kolyana]]), and will each consume approximately 31% of their total maximum hit points (for a total of 62% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 >
 > * ***Three Players.*** Reduce Izek’s hit points to 75 in each phase. For his first phase, reduce his silvered battleaxe attack to 7 (1d8+3) damage, his flame hurl attack and flame volley bonus action to 4 (1d8) damage, and his slicing whirl bonus action to 3 (1d6) damage. For his second phase, reduce his silvered battleaxe attack to 6 (1d6+3) slashing damage plus 1 fire damage, his burning punch attack to 5 (1d4+3) bludgeoning damage plus 1 fire damage, his flaming wave action to 7 (2d6) damage, his flame burst and explosive blast bonus actions to 4 (1d8) damage, his retaliatory burn reaction to 2 (1d4) fire damage, and his cinder sparks reaction to 1 fire damage.
 > * ***Four Players.*** Reduce Izek’s hit points to 92 in each phase. For his first phase, reduce his silvered battleaxe attack to 9 (1d8+5) damage, his flame hurl attack and flame volley bonus action to 5 (1d10) damage, and his slicing whirl bonus action to 4 (1d8) damage. For his second phase, reduce his silvered battleaxe attack to 8 (1d6+5) slashing damage plus 1 fire damage, his burning punch attack to 7 (1d4+5) bludgeoning damage plus 1 fire damage, his flaming wave action to 9 (2d8) damage, his flame burst and explosive blast bonus actions to 6 (1d12) damage, his retaliatory burn reaction to 3 (1d6) fire damage, and his cinder sparks reaction to 1 fire damage.

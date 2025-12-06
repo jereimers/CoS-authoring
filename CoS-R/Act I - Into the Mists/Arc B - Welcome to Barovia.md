@@ -116,7 +116,7 @@ The man is Ismark Kolyanovich, who is largely as described in <span class="citat
 >
 > ***Morale.*** In a fight, Ismark would first seek to mediate the parties' conflict, but would gladly draw his sword—and even fight to the death—if he believed that he was fighting for something or someone worth protecting.
 >
-> ***Relationships.*** Ismark is the adoptive brother of Ireena Kolyana, and the great-grandson of Ismark the Great.
+> ***Relationships.*** Ismark is the adoptive brother of [[Ireena Kolyana]], and the great-grandson of Ismark the Great.
 
 As the players approach, Kereza challenges them. Read:
 
@@ -170,7 +170,7 @@ Ismark can share the following information:
 * Six nights ago, Strahd’s undead forces began attacking the town. Each night, the Barovians beat back multiple waves of the dead—and each night, the horde comes ever-closer to breaching the village’s defenses.
 * Many Barovians fear that the village is doomed. The undead have infested the woods to the north, west, and south, blocking the Old Svalich Road just past the Ivlis River. With the Mists blocking passage to the east, the village has been effectively cut off from the world, left to survive on its own—or perish.
 
-[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, Ireena Kolyana, hasn’t yet been bitten by Strahd.)
+[[Non-Player Characters#Ismark Kolyanovich|Ismark]] can also share the village’s recent history, as well as most of the information in <span class="citation">Roleplaying Ismark (p. 43)</span> and <span class="citation">Barovian Lore (p. 26)</span>. However, Ismark doesn't mention a "mad wizard" and he doesn't suggest that the Vistani serve Strahd. (Note that Ismark’s father, Burgomaster Kolyan Indirovich, is still alive—albeit wounded—in the burgomaster’s mansion, and Ismark’s sister, [[Ireena Kolyana]], hasn’t yet been bitten by Strahd.)
 ### Bildrath's Fury
 Shortly after Ismark begins answering the players' questions, read:
 
@@ -252,9 +252,9 @@ When the players arrive, they find a mob of ten Barovian **commoners** has forme
 <p>“Go home, Alenka," the man booms. “The rest of you as well. For as long as I am burgomaster, I will not permit this madness." 
 </div>
 
-The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is Ireena Kolyana, who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
+The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commoner**. The older man is Burgomaster Kolyan Indirovich, a **veteran** with four levels of exhaustion. The red-haired young woman is [[Ireena Kolyana]], who is largely as described in <span class="citation">Roleplaying Ireena (p. 45)</span>.
 
-> [!profile]+ **Profile: Ireena Kolyana**
+> [!profile]+ **Profile: [[Ireena Kolyana]]**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
@@ -287,7 +287,7 @@ The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commone
 >
 > ***Morale.*** In a fight, Kolyan would attempt to negotiate a peace—but keep one hand on his blade if necessary to defend himself or his neighbors.
 >
-> ***Relationships.*** Kolyan is the burgomaster of the village of Barovia, the biological father of Ismark Kolyanovich, the adoptive father of Ireena Kolyana, and the grandson of Ismark the Great.
+> ***Relationships.*** Kolyan is the burgomaster of the village of Barovia, the biological father of Ismark Kolyanovich, the adoptive father of [[Ireena Kolyana]], and the grandson of Ismark the Great.
 
 > [!lore]+ **Alenka’s Grief**
 > Alenka is the sister of Anton Konstantinovich, a Barovian man married to Dezdrelda Konstaninova. Two nights ago, Anton and Dezdrelda mysteriously vanished in the middle of the night during the siege; their bodies were never found. Their loss has driven Alenka to grief and paranoia, and given her a desperate need to seek an end to the siege by any means possible.

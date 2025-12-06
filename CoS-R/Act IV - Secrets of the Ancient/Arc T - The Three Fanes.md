@@ -242,7 +242,7 @@ If the players return to <span class="citation">Chapter 12: The Wizard of Wines 
 A total of seven **scarecrows** stands silently still around the winery. They attack any creature that attempts to enter the winery.
 
 > [!combat]+ **Balancing the Wizard of Wines** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 18% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the number of **scarecrows** to five.
 > - _**Four Players.**_ Reduce the number of **scarecrows** to six.
@@ -570,7 +570,7 @@ Beyond the entrance, the hedge maze splits into two corridors: one that runs eas
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (north cottages). However, two **greater strix** hang from the ceiling above the cottages. When the players enter, the strix descend upon the players and attack, releasing a pair of shrill, piercing shrieks.
 
 > [!combat]+ **Balancing the Northern Cottages** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 4% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 4% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the number of **greater strix** to one.
 
@@ -583,7 +583,7 @@ Three ten-foot-wide passages lead from this chamber:
 This area is largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span> (south cottages). However, if they weren’t killed in [[Arc Q - A Shining Beacon]], two **Barovian hexwitches** and two **Barovian bogwitches**, as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]], lurk in four cottages flanking the road. If she’s still alive, Wensencia and her undead **dire wolf**, as described in [[Arc M - The Dragon's Manor#The Witch's Harvest|The Witch's Harvest]], lurk in a fifth cottage. The witches emerge and attack any players who pass between or enter the cottages.
 
 > [!combat]+ **Balancing the Southern Cottages** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 8% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 8% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Remove the **hexwitches**.
 > - _**Four Players.**_ Reduce the number of **hexwitches** to one.
@@ -625,7 +625,7 @@ A walking corpse rises from the mire and attacks if touched, or if the players a
 The sounds of combat awaken any other walking corpses within the room. Once awakened, each walking corpse arises and lurches toward the players, converging on the players’ location by sound five rounds later. When they do, read the text described in <span class="citation">U5. Marina’s Monument, Fortunes of Ravenloft (p. 165)</span>.
 
 > [!combat]+ **Balancing the Town Green** 
-> Due to the phase mechanic, this is a series of a consecutive **mild** and **bruising** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of a consecutive **mild** and **bruising** combat encounters against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the number of **walking corpses** to five.
 > - _**Four Players.**_ Reduce the number of **walking corpses** to six.
@@ -647,7 +647,7 @@ The three lights are **will-o’-wisps**. A player who scrutinizes the lights fr
 If the wisps detect the players, they turn invisible using their ***invisibility*** feature, take the Hide action, and attack when the players seem most vulnerable (but before the players depart this area). The players can attempt to sneak past the wisps, succeeding with a successful group DC 13 Dexterity (Stealth) check.
 
 > [!combat]+ **Balancing the Churchyard** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 6% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 6% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the number of **will-o'-wisps** to two.
 > - _**Six Players.**_ Increase the number of **will-o'-wisps** to four.
@@ -704,7 +704,7 @@ Sergei, who has used his ***etherealness*** feature to escape into the Ethereal 
 If the players approach Marina’s Monument, read:
 
 <div class="description">
-<p>The stone monument is carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to Ireena Kolyana.</p>
+<p>The stone monument is carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to [[Ireena Kolyana]].</p>
 <p>Carved into the monument's base is an epitaph: <em>Marina, Taken by the Mists</em>.</p>
 </div>
 
@@ -755,14 +755,14 @@ If prompted to continue, Sergei can also share the following information:
 If confronted or pressed, Sergei can reluctantly share the following additional information:
 
 * He feels that he failed to prevent Tatyana’s death, and feels personally responsible for Marina’s death. He feels deep shame and self-loathing for both, and believes his spirit is beyond redemption.
-* If he has previously met Ireena Kolyana, he believes her to be the third incarnation of Tatyana’s spirit. (Sergei won’t admit this willingly, and will, at most, admit it by muted silence if the players suggest it, his eyes downcast).
+* If he has previously met [[Ireena Kolyana]], he believes her to be the third incarnation of Tatyana’s spirit. (Sergei won’t admit this willingly, and will, at most, admit it by muted silence if the players suggest it, his eyes downcast).
 
 > [!info]+ **Ireena’s Response**
 > If informed that Sergei believes her to be Tatyana’s reincarnation, Ireena pales, her face growing stony. She then steps away from the party to wrestle with Sergei’s words. (If she still possesses it, she retrieves [[Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Tatyana’s bracelet]] from her belongings and turns it over in her hands, staring silently at the inscription engraved inside it.)
 >
 > If approached, Ireena, who is grateful for any insights, reassurance, and guidance the players can provide, can share that she is struggling with the implications of Sergei’s tale. “If my soul is Tatyana’s," she whispers, fists clenched, “am I even *me*? Has my life just been a cosmic play—some paler imitation of a woman who came before me, who *meant* more than me? Has anything I’ve ever done even *meant* anything?"
 >
-> As the conversation unfolds, Ireena laughs bitterly. “Strahd and Sergei think me Tatyana," she says. “Izek thought me Ireena Strazni. I’ve only ever wanted to be *me*—Ireena Kolyana—but it seems I’m the only one who thinks I *am*."
+> As the conversation unfolds, Ireena laughs bitterly. “Strahd and Sergei think me Tatyana," she says. “Izek thought me Ireena Strazni. I’ve only ever wanted to be *me*—[[Ireena Kolyana]]—but it seems I’m the only one who thinks I *am*."
 >
 > Ireena ultimately shares that she is grateful to “finally know the truth"—as bitter as it might taste. “At least now I know," she concludes.
 ### Seeking Sergei’s Aid
@@ -786,7 +786,7 @@ A player who asks Sergei or succeeds on a DC 13 Wisdom (Insight) check learns th
 * “This is your penance. You can never return to the light."
 
 > [!lore]+ **Dark Whispers**
-> The whispering shadows are a manifestation of the Dark Powers. Eager to keep Ireena Kolyana isolated, and hoping to deprive the players of Sergei’s aid, they have reached out to embrace Sergei’s spirit in order to prevent him from helping them.
+> The whispering shadows are a manifestation of the Dark Powers. Eager to keep [[Ireena Kolyana]] isolated, and hoping to deprive the players of Sergei’s aid, they have reached out to embrace Sergei’s spirit in order to prevent him from helping them.
 
 The players can again attempt to persuade Sergei to aid them by making any reasonable argument and succeeding on a DC 15 Charisma (Persuasion) check. The players make the check with advantage if their arguments directly rebut the Dark Powers’ whispers, and succeed automatically if they help Ireena reconcile her identity and recruit her aid in convincing Sergei.
 
@@ -844,7 +844,7 @@ The three dolls, which were crafted and left here by Baba Lysaga, have the stati
 The dolls attack if the players approach them or otherwise pass the midpoint of the cellar.
 
 > [!combat]+ **Balancing the Manor's Cellar** 
-> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the number of **carrionettes** to two.
 > - _**Four Players.**_ Reduce the number of **carrionettes** to two.
@@ -869,7 +869,7 @@ A player who inspects the collapsed ceiling and succeeds on a DC 8 Intelligence 
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, Baba Lysaga has transformed the nine **goats** here into hulking carnivorous beasts (use the statistics of a **giant hyena** with the additional ***gore*** attack of a **rhinoceros**). The goats attack any player who enters their pen.
 
 > [!combat]+ **Balancing the Goatpen** 
-> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 29% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 29% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the number of mutated **goats** to six.
 > - _**Four Players.**_ Reduce the number of mutated **goats** to seven.
@@ -883,7 +883,7 @@ Two ten-foot-wide passages lead from this chamber, whose walls are flush with th
 This area is largely as described in <span class="citation">U2. Ulrich Mansion (p. 162)</span>. However, six **scarecrows** are interspersed among the stone sculptures throughout the garden. The scarecrows and **giant poisonous snakes** attack characters who venture more than 20 feet inside the garden.
 
 > [!combat]+ **Balancing the Garden** 
-> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 22% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 22% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the number of **scarecrows** to four. Reduce the number of **giant poisonous snakes** to three.
 > - _**Four Players.**_ Reduce the number of **scarecrows** to five. Reduce the number of **giant poisonous snakes** to three.
@@ -923,7 +923,7 @@ In addition, when the players first move across the mansion, the **ghost** of Bu
 > When Lazlo died as described in <span class="citation">Chapter 10: The Ruins of Berez (p. 161)</span>, he did so with a single twisted regret: that he would never know whether Marina appreciated what he had done for her. Since then, his ghost has haunted the ruins of Ulrich Manor, hoping that her spirit will one day return and forgive him his crimes against her—for, as Lazlo fervently believes, his actions were for Marina’s own good. 
 
 > [!info]+ **What Lazlo Wants**
-> Lazlo wants most to resolve his unfinished business: to reunite with Marina and obtain her forgiveness. Baba Lysaga, hoping to use him as a weapon against the players, has told him that Marina’s soul dwells within Ireena Kolyana—and that only through Ireena’s death can Marina be reunited with him. 
+> Lazlo wants most to resolve his unfinished business: to reunite with Marina and obtain her forgiveness. Baba Lysaga, hoping to use him as a weapon against the players, has told him that Marina’s soul dwells within [[Ireena Kolyana]]—and that only through Ireena’s death can Marina be reunited with him. 
 >
 > Blinded by his own desperation, Lazlo believes that Ireena is either a hollow shell for Marina’s soul or Marina herself bereft of her memories, and that Ireena’s death will return his beloved daughter to him once again.
 
@@ -951,7 +951,7 @@ In addition, when the players first move across the mansion, the **ghost** of Bu
 Lazlo can share the following information with the players if asked:
 
 * In life, he was Lazlo Ulrich, last Burgomaster of Berez.
-* He knows that the players travel with “the one that calls herself Ireena Kolyana." (If Ireena is present, Lazlo addresses her as “Marina," then greets her as described above.)
+* He knows that the players travel with “the one that calls herself [[Ireena Kolyana]]." (If Ireena is present, Lazlo addresses her as “Marina," then greets her as described above.)
 * He believes that Ireena contains the soul of his daughter, Marina, who died long ago. He wishes to reunite with Marina’s spirit, so that her soul may finally “come home"—and so be at rest. (A player who succeeds on a DC 12 Wisdom (Insight) check identifies a cringing light in Lazlo’s eyes, and discerns that Lazlo has ulterior motives in wanting to return Marina’s spirit “home.")
 
 > [!abstract]+ **Lazlo’s Confession**
@@ -1032,7 +1032,7 @@ The candelabra, bookstand, and stone bust each have the statistics of an **anima
 <br>
 
 > [!combat]+ **Balancing Ulrich Manor** 
-> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 31% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 31% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the number of **animated minor objects** to one.
 > - _**Four Players.**_ Reduce the number of **animated minor objects** to two.
@@ -1099,7 +1099,7 @@ Baba Lysaga then attacks.
 > A single *silverthorn chain* link has AC 20, 20 hit points, vulnerability to radiant damage, and immunity to poison and psychic damage. In addition, on initiative count 0 of each round, a length of *silverthorn chain* takes 5 radiant damage if it’s in sunlight.
 
 > [!combat]+ **Balancing the Witch** 
-> Due to the phase mechanic, this is a series of consecutive **brutal** and **mild** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 72% of their total maximum hit points, then approximately 11% of their total maximum hit points (for a total of 83% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of consecutive **brutal** and **mild** combat encounters against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 72% of their total maximum hit points, then approximately 11% of their total maximum hit points (for a total of 83% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce **Baba Lysaga's** hit points to 102 in each phase. Reduce her number of reactions in each phase to 3. Decrease the **Creeping Hut's** hit points to 199. Reduce its number of reactions to 2.
 > - _**Four Players.**_ Reduce **Baba Lysaga's** hit points to 119 in each phase. Reduce her number of reactions in each phase to 4. Decrease the **Creeping Hut's** hit points to 231. Limit its ***root*** reaction to 2/round.
@@ -2046,7 +2046,7 @@ If the players approach him or otherwise make themselves known, Rahadin stands a
 Rahadin has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
 
 > [!combat]+ **Balancing Rahadin's Vengeance** 
-> Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 9th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 51% of their total maximum hit points (for a total of 102% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 51% of their total maximum hit points (for a total of 102% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce **Rahadin's** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3.
 > - _**Four Players.**_ Reduce **Rahadin's** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack.

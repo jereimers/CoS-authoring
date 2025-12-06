@@ -595,7 +595,7 @@ A player with a passive Intelligence (Investigation) score of 15 or greater who 
 Bluetspur attacks any creature that passes through the illusion, perceives it, or attacks it. If it attacks, the **death slaad** Nardag in [[#S3b. West Catacombs]] removes its disguise and joins it in battle. Both slaad fight to the death.
 
 > [!combat]+ **Balancing the East Catacombs** 
-> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally ([[Ireena Kolyana]]), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Change Nardag to a **green slaad**.
 > - _**Four Players.**_ Change Bluetspur to a **red slaad**, except that its ***claw*** attack inflicts a **blue slaad's** Chaos Phage instead of a **red slaad's** egg.
@@ -1087,7 +1087,7 @@ If the players ask Vilnius for information about Patrina or the *Sunsword*, he a
 > *"Break them," Vilnius rasps.*
 
 > [!combat]+ **Balancing the Lecture Hall** 
-> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 23% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 8th-level players, a CR 2 ally ([[Ireena Kolyana]]), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 23% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the **shield guardian's** AC to 15. Reduce its hit points to 93, its Strength to 16, its Dexterity to 4, and its Constitution to 16. Reduce its proficiency bonus to +2. Reduce its ***fist*** attack to +5 to hit and 1d6 + 3 bludgeoning damage.,
 > - _**Four Players.**_ Reduce the **shield guardian's** hit points to 123.
@@ -1173,7 +1173,7 @@ This area is largely as described in <span class="citation">X10. Northeast Annex
 * Its ***slow*** ability affects all creatures it can see within 20 feet of it.
 
 > [!combat]+ **Balancing the Training Hall** 
-> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally ([[Ireena Kolyana]]), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage.
 > - _**Four Players.**_ Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage.
@@ -1523,7 +1523,7 @@ In addition, the **amber golem** attacks any creature that disturbs any of the p
 * Its ***slow*** ability affects all creatures it can see within 20 feet of it.
 
 > [!combat]+ **Balancing the Treasury** 
-> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 8th-level players, a CR 2 ally ([[Ireena Kolyana]]), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the **amber golem's** hit points to 153. Reduce the damage of its ***slam*** attack to 14 (3d4 + 7) bludgeoning damage.
 > - _**Four Players.**_ Reduce the **amber golem's** hit points to 184. Reduce the damage of its ***slam*** attack to 18 (2d10 + 7) bludgeoning damage.
@@ -1780,7 +1780,7 @@ Otherwise, if the players accumulate three failures before three successes, Kasi
 Patrina then attacks.
 
 > [!combat]+ **Balancing the Lich** 
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 8th-level players, a CR 2 ally (Ireena Kolyana), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will each consume approximately 40% of their total maximum hit points (for a total of 80% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 8th-level players, a CR 2 ally ([[Ireena Kolyana]]), a CR 4 ally (Ezmerelda d’Avenir), and a CR 6 ally (Kasimir Velikov), and will each consume approximately 40% of their total maximum hit points (for a total of 80% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce Patrina's hit points in her first phase to 215 and in her second phase to 198. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 68 and the damage of their ***slam*** attack to 13 (3d4 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round.
 > - _**Four Players.**_ Reduce Patrina's hit points in her first phase to 215 and in her second phase to 230. Reduce Patrina's ***amber tentacle*** reaction in her first round to 1/round. Reduce the hit points of **amber constructs** to 79 and the damage of their ***slam*** attack to 17 (2d10 + 6) bludgeoning damage. In Patrina's second phase, reduce her ***fell rebuke*** reaction to 1/round.

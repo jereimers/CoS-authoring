@@ -11,7 +11,7 @@ Fiendish Gift. After years of doing Baron Vallakovich's dirty work, Izek awakene
 
 The new appendage has barbed spines, elongated fingers, and long nails. He can create fire with the snap of his fiendish fingers and has used the flames to put the fear of the devil in every Vallakian.
 
-Doll Collector. Perhaps more disturbing than his fiendish arm and his murderous nature is Izek's collection of dolls, which he keeps in his bedroom in the burgomaster's mansion. Izek often has dreams of a beautiful young woman, and for years he has forced a local toymaker named Gadof Blinsky to craft dolls in her likeness. The woman is Ireena Kolyana, although Izek doesn't know her name.
+Doll Collector. Perhaps more disturbing than his fiendish arm and his murderous nature is Izek's collection of dolls, which he keeps in his bedroom in the burgomaster's mansion. Izek often has dreams of a beautiful young woman, and for years he has forced a local toymaker named Gadof Blinsky to craft dolls in her likeness. The woman is [[Ireena Kolyana]], although Izek doesn't know her name.
 
 Family Is Forever. Izek has dreams of Ireena. If he spots her, he tries to take her by force to the burgomaster's mansion. If he succeeds, he holds her captive in his bedroom (chapter 5, area N3j). Unknown to Izek and Ireena, they are brother and sister. Ireena fled after Izek was attacked by the dire wolf and became lost in the woods. She wandered for days in shock until she was found and adopted by Kolyan Indirovich in the village of Barovia. Izek covets her in an unwholesome way and won't allow anyone or anything to come between them.
 

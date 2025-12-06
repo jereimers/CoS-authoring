@@ -15,4 +15,4 @@
 
 ***Morale.*** If attacked, or if Doru were threatened, Gertruda would immediately grab the nearest weapon and attempt to defend herself and her loved ones.
 
-***Relationships.*** Gertruda is the daughter of Mad Mary, the betrothed of Doru, and a childhood friend of Ireena Kolyana.
+***Relationships.*** Gertruda is the daughter of Mad Mary, the betrothed of Doru, and a childhood friend of [[Ireena Kolyana]].

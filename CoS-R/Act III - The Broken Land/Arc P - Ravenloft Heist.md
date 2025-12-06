@@ -8,11 +8,11 @@ Far above the rest of the castle, Strahd’s **guardian portrait** watches over 
 
 And in the shadows, Strahd’s chamberlain Rahadin sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
 # P1. Preparing for the Heist
-Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and Ireena might make any or all of the following suggestions:
+Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and [[Ireena]] might make any or all of the following suggestions:
 
 * The players can use the *Keeper’s whistle* they obtained at the conclusion of [[Arc J - The Stolen Gem#J7b. Returning the Gem|Arc J - the Stolen Gem]] to request the assistance of the Keepers of the Feather in scouting out the grounds, distracting castle guards, and/or delivering messages to any NPC whose help the players might seek.
 * The players might ask Doru or Rudolph van Richten for a rough map of the castle to guide them. (See **Mapping the Castle** below for details.)
-* The players should prepare a plan—and preferably a backup plan—for getting into the castle while the drawbridge is up. (If the players ask their companions for ideas, Ireena suggests asking the Martikovs for help, while Ezmerelda suggests purchasing a grappling hook and rope from Arasek Stockyard, as well as climber’s kits to ascend the outer walls of the keep.)
+* The players should prepare a plan—and preferably a backup plan—for getting into the castle while the drawbridge is up. (If the players ask their companions for ideas, [[Ireena]] suggests asking the Martikovs for help, while Ezmerelda suggests purchasing a grappling hook and rope from Arasek Stockyard, as well as climber’s kits to ascend the outer walls of the keep.)
 
 > [!abstract]+ **Mapping the Castle**
 > > [!info]+ **What Doru Knows**
@@ -252,7 +252,7 @@ This area is largely as described in <span class="citation">K7. Entry (p. 54)</s
 This area is largely as described in <span class="citation">K8. Great Entry (p. 55)</span>, <span class="citation">K9. Guests’ Hall (p. 55)</span>, and <span class="citation">K19. Grand Landing (p. 58)</span>. However, reduce the number of **gargoyles** from eight to four. 
 
 > [!combat]+ **Balancing the Entryway** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of gargoyles to three. 
 > * **Four Players**. Reduce the number of gargoyles to three. 
 > * **Six Players**. Increase the number of gargoyles to five.
@@ -279,7 +279,7 @@ Ludmilla greets the players coldly and notes her regrets that the guards upon th
 If no player rises to meet the bait, Ludmilla sneers at the players for believing they could match "Baba Lysaga's eldest and greatest student" (herself), and concludes that she will be pleased to bring their “cold, unmoving" remains to “Count von Zarovich"—*after* she’s dissected them herself. She then moves to attack.
 
 > [!combat]+ **Balancing the Witch** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points per phase (for a total of 24% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points per phase (for a total of 24% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > * **Three Players**. Reduce Ludmilla’s hit points to 58 in each phase, the damage of her Freezing Ray to 1d6 cold damage per ray, and the damage of her **Mage’s Reprisal** to 2d4 damage. In her second phase, remove the Necrotic damage from her **Claws** and **Mist Shards**. 
 > * **Four Players**. Reduce Ludmilla’s hit points to 70 in each phase and her **Freezing Ray** attack to only two rays. In her second phase, remove the Necrotic damage from her **Claws** and reduce her **Mist Shards'** damage to 1d4 + 3 slashing damage and 1d4 necrotic damage. 
 > * **Six Players**. Increase Ludmilla’s hit points to 94 in each phase and the number of rays to five (reduce the damage of each ray to 2d4 cold damage). In her second phase, increase her **Claws** and **Mist Shards**’ necrotic damage to 1d8.
@@ -587,7 +587,7 @@ If treated with kindness and allowed to ramble regarding Strahd’s assorted ric
 <p>"If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."</p>
 </div>
 
-Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
+Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If [[Ireena]] is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
 
 If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
 ### King’s Hall
@@ -701,7 +701,7 @@ The first time any player approaches the doors to <span class="citation">K67. Ha
 When the dinner bell rings, the two **vampire spawn** lurking in [[#Kitchen]] and [[#Butler’s Quarters]] quietly scuttle across the 10-foot ceiling, attacking from above the following round. Players with a passive Wisdom (Perception) score of 15 or below are surprised when the vampires attack.
   
 > [!combat]- **Balancing the Ravenous Spawn** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 7% of their total maximum hit points. For parties of smaller, modify the encounter as follows: 
+> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 7% of their total maximum hit points. For parties of smaller, modify the encounter as follows: 
 > **Three Players**. Reduce the number of vampire spawn to one.
 
 The vampires prefer to target easy prey, including unarmored or surprised characters. Once a vampire has successfully grappled a target with its ***claws***, it attempts to drag its prey away to a quiet place for feeding as follows:
@@ -727,7 +727,7 @@ This area is largely as described in <span class="citation">K61. Elevator Trap (
 > [!abstract]+ **Escher's Intervention**
 > If a vampire spawn successfully lures one or more players into the elevator trap and knocks all of them unconscious, it attempts to drag its prey out of the elevator trap upon arriving at [[#P8a. Guest Landing]]. When it does so, it is confronted by Escher, who commands it to leave its victims and depart. Escher then brings any unconscious characters into <span class="citation">K49. Lounge (p. 70)</span>, where he drapes them across any available couches or chairs. 
 > 
-> Escher isn't entirely sure why he's doing this, but feels a mild sense of obligation to the players for keeping Ireena safe. If the players ask him to explain himself, he merely sneers and claims that it would be "unsightly" for them to bleed out all over the guest landing carpet.
+> Escher isn't entirely sure why he's doing this, but feels a mild sense of obligation to the players for keeping [[Ireena]] safe. If the players ask him to explain himself, he merely sneers and claims that it would be "unsightly" for them to bleed out all over the guest landing carpet.
 ### Wine Cellar
 <span class="citation"><em>This scene takes place in Chapter 4, Area K63.</em></span>
 
@@ -768,7 +768,7 @@ This area is largely as described in <span class="citation">K32. Maid in Hell (p
 This area is largely as described in <span class="citation">K35. Guardian Vermin (p. 64)</span>. However, seven **crawling claws** emerge from the alcoves behind the **swarms of rats** on the first round of combat as described in <span class="citation">Crawling Claws (p. 50)</span>.
   
 > [!combat]- **Balancing the Guardian Vermin** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of swarms of rats to three. 
 > * **Four Players**. Reduce the number of crawling claws to five. 
 > * **Six Players**. Increase the number of swarms of rats to five.
@@ -792,9 +792,9 @@ This area is largely as described in <span class="citation">K36. (p. 65)</span>.
 
 This area is largely as described in <span class="citation">K37. Study (p. 66)</span>. However, the doors leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span>, <span class="citation">K45. Hall of Heroes (p. 68)</span>, and <span class="citation">K83. Spiral Stair (p. 85)</span> are locked as described in <span class="citation">The Lands of Barovia: Common Features (p. 33)</span>.
 
-In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen Ireena’s bracelet in [[Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
+In addition, a player who inspects the portrait of Tatyana notices that she is wearing a silver bracelet carved with an intricate pattern of the moon and stars, with a moonstone gem embedded at the center of the moon and multiple lapis-lazuli serving as the stars. A player who has previously seen [[Ireena]]’s bracelet in [[Arc B - Welcome to Barovia#B5j. Lugdana's Knoll|Arc B - Welcome to Barovia]] recognizes it as the same bracelet.
 
-If present, Ireena is disturbed at the sight of the portrait and its clear resemblance to her, and voices her disbelief and discomfort at the thought that Strahd would commission a portrait of her. A player who succeeds on a DC 10 Intelligence (Investigation) check discerns that the portrait is centuries old. If informed of this fact, Ireena’s discomfort lessens, though she becomes stressed and disturbed at the prospect of this strange woman’s resemblance to her—especially if the players suggest she might be this woman’s reincarnation.
+If present, [[Ireena]] is disturbed at the sight of the portrait and its clear resemblance to her, and voices her disbelief and discomfort at the thought that Strahd would commission a portrait of her. A player who succeeds on a DC 10 Intelligence (Investigation) check discerns that the portrait is centuries old. If informed of this fact, [[Ireena]]’s discomfort lessens, though she becomes stressed and disturbed at the prospect of this strange woman’s resemblance to her—especially if the players suggest she might be this woman’s reincarnation.
 
 > [!info]+ **Exiting the Study**
 > A player who departs the study via <span class="citation">K83. Spiral Stair (p. 85)</span> exits the king’s apartments, passes through <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, and enters the [[Arc P - Ravenloft Heist#P11. Dungeons|Dungeons]] via [[#P11e. Brazier Room]].
@@ -829,7 +829,7 @@ This area is largely as described in <span class="citation">K42. King’s Bedcha
 >
 > ***Morale.*** If attacked, or if Doru were threatened, Gertruda would immediately grab the nearest weapon and attempt to defend herself and her loved ones.
 >
-> ***Relationships.*** Gertruda is the daughter of Mad Mary, the betrothed of Doru, and a childhood friend of Ireena Kolyana.
+> ***Relationships.*** Gertruda is the daughter of Mad Mary, the betrothed of Doru, and a childhood friend of [[Ireena Kolyana]].
 #### Meeting Gertruda
 Gertruda is surprised to see the players, and fearful that they’re “another one of the Devil’s tricks." Players who mention Sasha or Doru, or who succeed on a DC 10 Charisma (Persuasion) check can reassure Gertruda that they’re real, and no servants of Strahd.
 
@@ -847,7 +847,7 @@ Gertruda is surprised to see the players, and fearful that they’re “another 
 
 If asked, Gertruda can share the following information:
 
-* Just over two weeks ago, she set off down the Old Svalich Road to obtain supplies for Barovia from Vallaki. Fearful that her mother would object, and unwilling to trouble Ireena and Ismark so soon after their father’s death, she did so alone, slipping out of the house when her mother, Mary, wasn’t looking.
+* Just over two weeks ago, she set off down the Old Svalich Road to obtain supplies for Barovia from Vallaki. Fearful that her mother would object, and unwilling to trouble [[Ireena]] and Ismark so soon after their father’s death, she did so alone, slipping out of the house when her mother, Mary, wasn’t looking.
 * Gertruda, however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, Gertruda politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild. 
 * Strahd appeared amused by Gertruda’s courage and invited her to Castle Ravenloft to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, Gertruda reluctantly agreed to accompany him.
 * Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. She’s had few visitors aside from Sasha, whose company she’s been grateful for, and Volenta, whose company she fears. (Although Strahd hasn’t allowed any of his spawn to feed from Gertruda yet, Volenta has taken a sadistic pleasure in chatting about when that day will inevitably arrive.)
@@ -888,7 +888,7 @@ If the players defy her, Anastrasya’s smile broadens, and the rapier and wight
 The two wights in the secret passage emerge on their first turns in combat, attacking the nearest enemies.
 
 > [!combat]- **Balancing the Socialite** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points per phase (for a total of 60% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **bruising** combat encounters against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 30% of their total maximum hit points per phase (for a total of 60% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of wights to one visible wight by Anastrasya's side, and one hidden wight that emerges from the secret passage in Anastrasya’s second phase. 
 > * **Four Players**. Reduce the number of hidden wights to one. 
 > * **Six Players**. Increase the number of visible wights to three.
@@ -1065,7 +1065,7 @@ This area is as described in <span class="citation">K39. Hall of Webs (p. 67)</s
 <span class="citation"><em>This scene takes place in Chapter 4, Area K40.</em></span>
   
 > [!combat]- **Balancing the Belfry** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 15% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of giant spiders to 4. 
 > * **Four Players**. Reduce the number of giant spiders to 4. 
 > * **Six Players**. Increase the number of giant spiders to 6.
@@ -1107,7 +1107,7 @@ This area is largely as described in <span class="citation">K47. Portrait of Str
 * The portrait gains the following feature: ***Split Mind.*** The portrait can concentrate on up to three spells at a time. If the portrait would lose its concentration while concentrating on multiple spells, roll 1d4. On a roll of 3 or below, it loses concentration on one random spell it’s currently concentrating on. On a roll of 4, it loses concentration on all spells instead.
 
 > [!combat]- **Balancing the Guest Landing** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 3% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the rug of smothering’s hit points to 33, and the damage of its Smother attacks to 8 (2d4+3). Additionally, reduce the Guardian Portrait’s hit points to 16.
 
 On initiative count 20 of the second round of combat after the **guardian portrait** or **rug of smothering** attacks, a black **cat** emerges from <span class="citation">K48. Offstair (p. 70)</span> and notices them. Read:
@@ -1135,9 +1135,9 @@ If attacked, Escher attempts to flee through the window as described in <span cl
 
 ***Reassuring Escher.*** If reassured that the players mean him no harm, Escher looks abashed, then grows sullen and irate. He demands to know why the players have “come traipsing through the Master’s castle," but almost immediately changes his mind and insists that he “has no interest in their games."
 
-As the conversation unfolds, if Ireena is present, a player with a passive Wisdom (Insight) score of 14 or more notices that Escher appears to be studiously refusing to meet her gaze. A successful subsequent DC 14 Wisdom (Insight) check reveals that Escher appears to flinch and quickly look away whenever he notices Ireena’s eyes meet his own. 
+As the conversation unfolds, if [[Ireena]] is present, a player with a passive Wisdom (Insight) score of 14 or more notices that Escher appears to be studiously refusing to meet her gaze. A successful subsequent DC 14 Wisdom (Insight) check reveals that Escher appears to flinch and quickly look away whenever he notices [[Ireena]]’s eyes meet his own. 
 
-Players who invoke Escher’s former relationship to the village of Barovia and succeed on a DC 15 Charisma (Persuasion) check can convince him to share the information contained in **What Escher Knows** below. A player makes the check with advantage if they blame Escher aloud for Strahd’s awakening and Strahd’s subsequent hunt for Ireena, Gertruda’s imprisonment, or Doru’s vampirism, and succeeds automatically if Doru is present. On a failure, Escher politely declines to assist the players, insisting that he cannot betray “Count von Zarovich’s secrets" on pain of death.
+Players who invoke Escher’s former relationship to the village of Barovia and succeed on a DC 15 Charisma (Persuasion) check can convince him to share the information contained in **What Escher Knows** below. A player makes the check with advantage if they blame Escher aloud for Strahd’s awakening and Strahd’s subsequent hunt for [[Ireena]], Gertruda’s imprisonment, or Doru’s vampirism, and succeeds automatically if Doru is present. On a failure, Escher politely declines to assist the players, insisting that he cannot betray “Count von Zarovich’s secrets" on pain of death.
 
 > [!info]+ **What Escher Knows**
 > If convinced to do so, Escher can provide the following information about the following items of interest in Castle Ravenloft:
@@ -1224,7 +1224,7 @@ This area is largely as described in <span class="citation">K56. Cauldron (p. 72
 In addition, replace the seven **Barovian witches** with two **Barovian hexwitches** wearing bone earrings, two **Barovian bogwitches** with brown paint smeared around their eyes, and three **Barovian stormwitches** wearing black leather gloves (see below). Each witch carries a _potion of healing_, a _potion of poison_, and a _potion of poison immunity_.
 
 > [!combat]- **Balancing the Witches** 
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 27% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of witches to one Barovian hexwitch, one Barovian bogwitch, and two Barovian stormwitches (including Diavola). 
 > * **Four Players**. Reduce the number of witches to two Barovian hexwitches, two Barovian bogwitches, and Diavola. 
 > * **Six Players**. Increase the number of witches to two Barovian hexwitches, three Barovian bogwitches, and three Barovian stormwitches (including Diavola).
@@ -1519,7 +1519,7 @@ This area is largely as described in <span class="citation">K60a. North Tower Ro
 The bats arrive in two rounds, rather than three.
   
 > [!combat]- **Balancing the North Tower Rooftop** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of swarms of bats to 7. 
 > * **Four Players**. Reduce the number of swarms of bats to 9. 
 > * **Six Players**. Increase the number of swarms of bats to 12.
@@ -1687,7 +1687,7 @@ If she is still alive and the players haven’t encountered her yet in the other
 Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[Arc D - St. Andral's Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
   
 > [!combat]- **Balancing the Torturer** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 11% of their total maximum hit points and the second of which will consume approximately 6% of their total maximum hit points (for a total of 17% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 11% of their total maximum hit points and the second of which will consume approximately 6% of their total maximum hit points (for a total of 17% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Remove the zombies. 
 > * **Four Players**. Reduce the number of zombies to one. 
 > * **Six Players**. Increase the number of zombies to five.
@@ -1926,7 +1926,7 @@ Players who fight the **zombie** south of Crypt 2, or who attempt to avoid the z
 
 The vampire attempts to remain hidden from the players by clinging to the ceiling, remaining within the shadows, and staying constantly on the move. If able to do so without detection, the vampire opens the stone door to <span class="citation">Crypt 14 (p. 88)</span> and clings to the edge of the shaft, waiting for a character to investigate; when a creature comes within reach, the vampire attacks with its ***unarmed strike*** and attempts to drag its prey down into the shaft before dropping it down into the vault below. If the players avoid the open door to Crypt 14, the vampire spawn exits the crypt and continues to skulk through the catacombs.
 
-The vampire also attacks the players if cornered, or if it finds a character isolated from the rest of the party. (Like all of Strahd’s minions, however, the vampire never attacks Ireena.) No matter the case, once the vampire has isolated and attacked its prey, it attempts to grapple them with its ***unarmed strike***, then hungrily drains them of blood using its ***bite.***
+The vampire also attacks the players if cornered, or if it finds a character isolated from the rest of the party. (Like all of Strahd’s minions, however, the vampire never attacks [[Ireena]].) No matter the case, once the vampire has isolated and attacked its prey, it attempts to grapple them with its ***unarmed strike***, then hungrily drains them of blood using its ***bite.***
 
 Players with a passive Wisdom (Perception) score of 16 or more occasionally hear distant rustling or catch glimpses of the vampire’s shadow out of the corner of their eye, indicating its current location.
 #### North Crypts, Third Row
@@ -1996,7 +1996,7 @@ In addition, remove the **imp** from Crypt 34, and place the *Spear of the Huntr
 This row of crypts is largely as described in <span class="citation">Crypt 35 (p. 92)</span>, <span class="citation">Crypt 36 (p. 92)</span>, <span class="citation">Crypt 37 (p. 92)</span>, <span class="citation">Crypt 38 (p. 92)</span>, <span class="citation">Crypt 39 (p. 93)</span>, and <span class="citation">Crypt 40 (p. 93)</span>. However, the **hell hounds** and General Grislek’s **wraith** do not emerge from Crypt 38 when it is first opened. In addition, Beucephalus cannot be found in Crypt 39 at this time. Finally, move the invisible teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> to the base of the stairs in Strahd’s tomb (see below).
 
 > [!combat]- **Balancing the Thirty-Fifth Crypt** 
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of ghouls to 4. 
 > * **Four Players**. Reduce the number of ghouls to 5. 
 > * **Six Players**. Increase the number of ghouls to 7.
@@ -2035,7 +2035,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 > In his first phase, Rahadin uses guerilla hit-and-run tactics, leveraging his high mobility to attack the players from multiple directions before concealing himself and repeating the process. In his second phase, Rahadin fights with bloodthirsty abandon, but saves a reaction to activate the *amulet of Ravenloft* when reduced to 0 hit points or fewer (see below). When he does so, Rahadin uses the reaction's extra movement to retreat from battle by passing through a nearby wall or floor. (Determined to warn Strahd of the players' exploits, Rahadin isn't willing to die here.)
   
 > [!combat]- **Balancing the Chamberlain** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 37% of their total maximum hit points and the second of which will consume approximately 42% of their total maximum hit points (for a total of 79% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 37% of their total maximum hit points and the second of which will consume approximately 42% of their total maximum hit points (for a total of 79% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
 > * Three Players. Reduce Rahadin’s hit points in each phase to 127. Reduce his first phase’s ***multiattack*** to only one attack, but increase his ***wind strike*** and ***whirling blades*** reactions to 10 (3d6) damage each. Limit his ***punishing strike*** reaction to 2/round, and decrease the damage of his ***psychic scream*** to 7 (2d6) damage. Reduce his second phase’s ***multiattack*** to two attacks and limit ***riposte*** to 2/round. Finally, reduce his ***deathly choir***’s damage to 7 (2d6). 
 > * Four Players. Reduce Rahadin’s hit points in each phase to 154. Limit his first phase’s ***punishing strike*** to 2/round, but increase the damage of his bonus actions to 9 (2d8). Reduce his ***multiattack*** in his second phase to two attacks. 
 > * Six Players. Increase Rahadin’s hit points to 206 in each phase. Increase his ***multiattack*** in his first phase to three attacks, but reduce the damage of his bonus actions to 5 (2d4). Increase his ***multiattack*** in his second phase to four attacks.
@@ -2187,7 +2187,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 This area is largely as described in <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. However, the teleport traps described in <span class="citation">Teleport Traps (p. 85)</span> form a protective ring around the base of the staircase that descends into the tomb, rather than around the entrance to the tomb. In addition, replace the three vampiric brides buried in the earth near the east wall with three anonymous **vampire spawn** created from ordinary Barovians. 
   
 > [!combat]- **Balancing the Tomb of the Darklord** 
-> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a **mild** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of vampire spawn to 2.
 
 Strahd’s coffin is surrounded by a 5-foot-radius *antimagic field* effect identical to the one described in <span class="citation">Khazan’s Spell Drain (p. 167)</span>. The effect doesn’t apply to spells cast by a creature attuned to *Khazan's Staff*, which is hidden in <span class="citation">Crypt 15 (p. 88)</span> in [[#North Crypts, Third Row]].

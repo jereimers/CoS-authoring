@@ -745,7 +745,7 @@ Immediately after the spirit answers the players’ tenth question, the players 
 </div>
 
 > [!info]+ **Running Party NPCs**
-> Party NPCs like Ezmerelda d’Avenir and Ireena Kolyana can add depth, resonance, and additional role-playing opportunities to your campaign. However, it’s crucial to manage them in a way that doesn’t steal the spotlight from your players. As you do, keep these guidelines in mind:
+> Party NPCs like Ezmerelda d’Avenir and [[Ireena Kolyana]] can add depth, resonance, and additional role-playing opportunities to your campaign. However, it’s crucial to manage them in a way that doesn’t steal the spotlight from your players. As you do, keep these guidelines in mind:
 > 
 > * **Topics of Interest**: Party NPCs should generally remain in the background, speaking up only when spoken to, or when the conversation involves a topic directly related to them or their interests. They might also chime in with occasional banter or commentary where it is in-character to do so.
 > * **Deference to Players**: Party NPCs should generally defer decisionmaking to the players. Their role is to support the players, not to lead them. (The sole exception lies in matters of deep personal or emotional significance to a party NPC, which may lead them to argue or even disagree with the players if doing so is in line with their character.)

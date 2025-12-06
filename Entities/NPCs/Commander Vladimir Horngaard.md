@@ -1,6 +1,6 @@
-# WotC source:
-[[Non-Player Characters]]
-# Commander Vladimir Horngaard
+# Profile: Commander Vladimir Horngaard
+## Portrait
+![[20-012.vladimir-horngaard.png]]
 
 ## **Roleplaying Information**
 ### ***Resonance.*** 
@@ -23,9 +23,10 @@ To the world, Vladimir is a cruel, apathetic, and self-righteous creature consum
 In a fight, Vladimir would gladly take up arms against any person that insulted, disobeyed, or threatened him.
 
 ### ***Relationships.*** 
-Vladimir is the commander of the Order of the Silver Dragon, the source of the other revenants' undeath (through the oath they swore him), and the husband of Sir Godfrey Gwilym (whose relationship to him Vladimir has forgotten).
+Vladimir is the commander of the Order of the Silver Dragon, the source of the other revenants' undeath (through the oath they swore him), and the husband of Sir Godfrey Gwilym (whose relationship to him Vladimir has forgotten). Resides in [[Q. Argynvostholt]]
 
-## STATBLOCK: Vengeful Revenant
+# #statblock 
+## Vengeful Revenant
 <div class="statblock">
   <h2>Vladimir Horngaard, Vengeful Revenant</h2>
   <em>Medium undead, lawful evil</em>
@@ -87,7 +88,7 @@ Vladimir is the commander of the Order of the Silver Dragon, the source of the o
   <p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
 </div>
 
-## STATBLOCK: Knight of Death
+## Knight of Death
 
 
 <div class="statblock">
@@ -152,3 +153,8 @@ Vladimir is the commander of the Order of the Silver Dragon, the source of the o
   <p><strong><em>Vengeful Glare.</em></strong> In response to taking damage from an enemy within 30 feet, Vladimir forces that creature to make a DC 17 Wisdom saving throw. On a failure, the creature is frightened of Vladimir until Vladimir deals damage to it or until the end of Vladimir’s next turn. If the creature fails the saving throw by 5 or more, it is paralyzed instead.</p>
   <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
 </div>
+
+# Other images
+
+# Sources
+

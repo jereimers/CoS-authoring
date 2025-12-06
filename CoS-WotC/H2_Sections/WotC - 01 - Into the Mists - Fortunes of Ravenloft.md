@@ -405,7 +405,7 @@ This card refers to Sir Klutz the phantom warrior (see chapter 4, area K84, cryp
 
 Seek out the brother of the devil's bride. They call him "the lesser," but he has a powerful soul.
 
-This card refers to Ismark Kolyanovich (see chapter 3, area E2). Ismark won't accompany the characters to Castle Ravenloft until he knows that his sister, Ireena Kolyana, is safe.
+This card refers to Ismark Kolyanovich (see chapter 3, area E2). Ismark won't accompany the characters to Castle Ravenloft until he knows that his sister, [[Ireena Kolyana]], is safe.
 
 ### A. Horseman (Joker 2)
 
@@ -426,13 +426,13 @@ This card refers to the Vistani assassin Arrigal (see chapter 5, area N9c). If t
 
 I see a young man with a kind heart. A mother's boy! He is strong in body but weak of mind. Seek him out in the village of Barovia.
 
-This card refers to Parriwimple (see chapter 3, area E1). Although he's a simpleton, he won't travel to Castle Ravenloft without good cause. Characters can manipulate him into going by preying on his good heart. For instance, he might go there to help rescue missing Barovians, or to save the life of Ireena Kolyana, who is very beautiful. The characters must somehow deal with Bildrath, Parriwimple's employer, who won't let the foolish boy go to the castle for any reason.
+This card refers to Parriwimple (see chapter 3, area E1). Although he's a simpleton, he won't travel to Castle Ravenloft without good cause. Characters can manipulate him into going by preying on his good heart. For instance, he might go there to help rescue missing Barovians, or to save the life of [[Ireena Kolyana]], who is very beautiful. The characters must somehow deal with Bildrath, Parriwimple's employer, who won't let the foolish boy go to the castle for any reason.
 
 ### B. Innocent (Queen of Hearts)
 
 Evil's bride is the one you seek!
 
-This card refers to Ireena Kolyana (see chapter 3, area E4). Her brother, Ismark, opposes the idea of Ireena's being taken to Castle Ravenloft, but she insists on going there once the characters tell her about the card reading. Ireena won't accompany the characters, however, until Kolyan Indirovich's body is laid to rest in the cemetery.
+This card refers to [[Ireena Kolyana]] (see chapter 3, area E4). Her brother, Ismark, opposes the idea of Ireena's being taken to Castle Ravenloft, but she insists on going there once the characters tell her about the card reading. Ireena won't accompany the characters, however, until Kolyan Indirovich's body is laid to rest in the cemetery.
 
 ### A. Marionette (Jack of Hearts)
 

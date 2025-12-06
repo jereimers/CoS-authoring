@@ -185,7 +185,7 @@ The campfire produces no smoke, and its light does not extend beyond the edges o
 
 Ezmerelda suggests that the party station one person on the edge of the hollow to watch for the pack’s departure. If the players don't suggest doing so, Ezmerelda suggests rotating shifts once per hour to avoid fatigue.
 ### L3a. Campfire Tales
-As night falls, Ezmerelda invites the players and Ireena to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
+As night falls, Ezmerelda invites the players and [[Ireena]] to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
 
 At the players’ choice, Ezmerelda can share one or both of the following stories when her turn arises: the tale of how she came to know Dr. Rudolph van Richten, or the tale of how she lost her leg.
 
@@ -279,7 +279,7 @@ Additionally, if the players linger or delve deeper into this chamber, read:
 A creature that approaches the pool sees its reflection distorted. Instead of its own reflection, the creature sees a monstrous image that reflects its worst impulses, urges, and desires. For example:
 
 * Ezmerelda sees her own reflection, but with black sclera and golden irises, predatory canines, and oily black fur covering her skin, with a terrible snarl splitting her face (literally) from ear to ear. (This image reflects Ezmerelda’s hatred of monsters, and her subconscious fear that her protective nature will turn to cruelty and zealotry.)
-* Ireena sees her own reflection, but with bloody, empty eye sockets; pallid, ashen flesh; her lips sewn together; misty chains binding her wrists; and her own rapier piercing her stomach. (This image reflects Ireena’s passivity, and her subconscious fear that self-sacrifice is her only escape from a terrible fate.)
+* [[Ireena]] sees her own reflection, but with bloody, empty eye sockets; pallid, ashen flesh; her lips sewn together; misty chains binding her wrists; and her own rapier piercing her stomach. (This image reflects [[Ireena]]’s passivity, and her subconscious fear that self-sacrifice is her only escape from a terrible fate.)
 ## L4c. Wolf Den
 <span class="citation"><em>This area corresponds to Z3. Wolf Den (p. 203).</em></span>
 

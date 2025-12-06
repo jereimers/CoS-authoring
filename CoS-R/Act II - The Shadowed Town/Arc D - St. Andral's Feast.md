@@ -1,17 +1,17 @@
 _An adventure for five 4th-level characters._
 
-In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
+In this arc, the players escort [[Ireena Kolyana]] to [[N1. St. Andral's Church|St. Andral's Church]] in [[Vallaki]], fulfilling their vow to her brother, [[Ismark]]. However, [[Father Lucian Petrovich|Father Lucian]], the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
 
-The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, Milivoj), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
+The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, [[Milivoj]]), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
 
 Can the players defeat Volenta's plan and restore the church's protection? Or will the church be lost in darkness and blood, its flickering light snuffed out in the shadows?
 
 > [!abstract]+ **An Early Start**
-> If the players bring Ireena to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to [[Willemina Rikalova]] (see [[Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and Ireena to the church and offers his assistance.
+> If the players bring [[Ireena]] to St. Andral's Church on their first night in Vallaki (i.e., "day zero" in Vallaki), they arrive to find Father Lucian finishing a service to his congregation. After giving reassurances to [[Willemina Rikalova]] (see [[Arc C - Into the Valley#Exiting the Inn|Arc C - Into the Valley]] for more information about Willemina), Father Lucian welcomes the players and [[Ireena]] to the church and offers his assistance.
 > 
-> If told that Ireena hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After Ireena offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which Ireena graciously accepts.
+> If told that [[Ireena]] hopes to find sanctuary at the church, Father Lucian is glad to offer her a pallet to sleep on in the chapel. After [[Ireena]] offers to compensate him for his kindness, Father Lucian considers her request, then invites her to assist with Yeska's chores and education for the duration of her stay—a request which [[Ireena]] graciously accepts.
 > 
-> The following morning, after St. Andral's bones are stolen as described below, Ireena visits the players at the Blue Water Inn before their conversation with [[Urwin Martikov]] described in [[Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+> The following morning, after St. Andral's bones are stolen as described below, [[Ireena]] visits the players at the Blue Water Inn before their conversation with [[Urwin Martikov]] described in [[Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with Father Lucian about an "incident." (Father Lucian has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
 # D1. St. Andral's Church
 <span class="citation"><em>This scene takes place in Chapter 5: Area N1.</em></span>
 
@@ -19,7 +19,7 @@ The church is largely as described in <span class="citation">N1. St. Andral's Ch
 
 The church's occupants follow the following schedule unless interrupted:
 
-* At dawn, Yeska joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
+* At dawn, [[Yeska]] joins Father Lucian for prayers in the chapel and assists him in preparing breakfast.
 * In the morning, Yeska runs errands around Vallaki while Father Lucian sweeps the chapel, dusts the pews, polishes the altar, and tidies up the kitchen.
 * In the afternoon, Father Lucian teaches Yeska how to read, and educates him in basic history and theology.
 * In the evening, with Yeska's assistance, Father Lucian leads the congregation in prayer and delivers a sermon promising sanctuary and comfort.
@@ -110,9 +110,9 @@ After the players have exchanged pleasantries, Milivoj dismounts his stepladder 
 
 Milivoj is eager to prevent further investigation of the church, and hopes to persuade Father Lucian to drive the players away. However, he's not willing to look suspicious, and drops the issue if the players or Father Lucian push back. "You can't be too careful," he mumbles. "Be safe, Father." He then departs.
 
-Once Milivoj leaves, if Father Lucian is informed that Ireena is seeking sanctuary in the church from Strahd or other monsters, he first ensures that no other congregants are present—shooing away Yeska if present—and swears the players to secrecy.
+Once Milivoj leaves, if Father Lucian is informed that [[Ireena]] is seeking sanctuary in the church from Strahd or other monsters, he first ensures that no other congregants are present—shooing away Yeska if present—and swears the players to secrecy.
 
-If the players agree not to spread his words beyond the church, Father Lucian sorrowfully informs them that, while he would love nothing more than to extend Ireena an offer of permanent shelter, recent events have left the church's wards in a precarious state. He can also share the following additional information at the players' prompting:
+If the players agree not to spread his words beyond the church, Father Lucian sorrowfully informs them that, while he would love nothing more than to extend [[Ireena]] an offer of permanent shelter, recent events have left the church's wards in a precarious state. He can also share the following additional information at the players' prompting:
 
 * The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
 * The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
@@ -233,7 +233,7 @@ If informed that the bones may have been stolen to allow an attack upon the chur
 ## D2b. Departing the House
 Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
 
-If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in **N6. Coffin Maker's Shop.** (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
+If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in [[N6. Coffin Maker's Shop|**Coffin Maker's Shop**]] (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
 
 > [!abstract]+ **Reporting the Theft**
 >
@@ -244,7 +244,7 @@ If the players suggest reporting the theft of the bones to the burgomaster, Fath
 # D3. Arasek Stockyard
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-Arasek Stockyard is largely as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>. However, while [[Rictavio]]'s wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
+Arasek Stockyard is largely as described in [[N5. Arasek Stockyard]]. However, while [[Rictavio]]'s wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
 
 If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
 
@@ -332,7 +332,7 @@ Volenta uses the two vampire spawn with her as cover, placing them between her a
 * She observes that it's lucky that they're in a coffin shop, adding, "After all, they'll need *somewhere* to put your parts when I'm through with you." She then directs the other vampires to attack.
 
 > [!combat]- **Balancing the First Bride**
-> Due to the phase mechanic and chokepoint, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucien), with each consuming approximately 24% of the players' total maximum hit points (for a total of 48% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+> Due to the phase mechanic and chokepoint, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 3 ally (Father Lucian), with each consuming approximately 24% of the players' total maximum hit points (for a total of 48% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Remove the vampire spawn.
 > * ***Four Players.*** Decrease the number of vampire spawn to one. 
@@ -487,11 +487,11 @@ If any of the players are reduced to 0 hit points, Father Lucian spends his acti
 >
 > Because Volenta and her **vampire spawn** prefer to target the players instead of Father Lucian, it's unlikely that Father Lucian will be reduced to 0 hit points in this battle.
 >
-> However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Lucian, Ireena Kolyana, and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
+> However, as noted in **Monsters and Death** (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Father Lucian, [[Ireena Kolyana]], and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (<span class="citation">Player's Handbook, p. 197</span>).
 ### 3. The Vampire Spawn
 The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
 # D5. Retrieving the Bones
-If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites Ireena to remain under their protection for as long as she desires. Ireena then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
+If the players and Father Lucian successfully return the stolen bones to St. Andral’s Church by dawn on Neyavr 7, Father Lucian thanks the players and invites [[Ireena]] to remain under their protection for as long as she desires. [[Ireena]] then sleeps at St. Andral's Church each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
 
 **_Milestone_**. Returning the bones of St. Andral completes a story milestone. Upon returning them to the church, award each player 1,250 XP.
 # D6. Rahadin's Visit
@@ -694,7 +694,7 @@ Once Rahadin is satisfied justice has been done, he summons his _phantom steed_ 
 # Design Notes: St. Andral's Feast
 ***St. Andral's Church.*** The original module's requirement that one of the players be a cleric or paladin to receive this quest has been removed to make it more accessible. 
 
-Though it doesn't exist in the original adventure, the holy day of St. Andral's Feast has been added to provide a clear deadline for the players' efforts to recover the bones, and to ensure a safe place for Ireena to stay while the arc unfolds.
+Though it doesn't exist in the original adventure, the holy day of St. Andral's Feast has been added to provide a clear deadline for the players' efforts to recover the bones, and to ensure a safe place for [[Ireena]] to stay while the arc unfolds.
 
 The date of the bones' theft has been moved to the night of the players' arrival in Vallaki to ensure that the scene of the crime is sufficiently undisturbed for the players to do substantive detective work while investigating. An assortment of clues has been added to clearly point the finger at Milivoj.
 

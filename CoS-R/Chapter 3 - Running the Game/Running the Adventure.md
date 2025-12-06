@@ -74,7 +74,7 @@ The *Sunsword* cannot be attuned when the players first obtain it. Instead, the 
 
 Note that the *Sunsword* is a sentient magic item; as described in **Conflict** (*Dungeon Master's Guide*, p. 216), it may make demands of its wielder or attempt to seize control of them if they act contrary to its will. (This is especially likely to occur if, for example, its wielder is charmed by Strahd von Zarovich.)
 ## Strahd’s Enemy
-Strahd's enemy no longer possesses the ***Inspire*** action (**Strahd's Enemy**, p. 15). Instead, if she confronts the Dark Powers at Marina's Monument in Berez (see ***Arc X: Whispers of the Mists***), Ireena Kolyana gains this ability as a bonus action. See ***Arc B: Welcome to Barovia*** for more information about Ireena's statistics.
+Strahd's enemy no longer possesses the ***Inspire*** action (**Strahd's Enemy**, p. 15). Instead, if she confronts the Dark Powers at Marina's Monument in Berez (see ***Arc X: Whispers of the Mists***), [[Ireena Kolyana]] gains this ability as a bonus action. See ***Arc B: Welcome to Barovia*** for more information about Ireena's statistics.
 ## The Card Reading
 Immediately before the scene in which the players meet Madam Eva, if you are using a physical Tarokka deck for the reading, choose which five cards Madam Eva will draw and stack them on top of the deck in the order described in <strong>Card Reading</strong> (p. 11).
 
@@ -116,7 +116,7 @@ That leaves Ezmerelda d'Avenir. Selecting Ezmerelda as Strahd's Enemy reduces th
 ***Strahd's Location.*** The location of the final battle with Strahd has been intentionally limited to **K20. Heart of Sorrow**. As the new centerpiece of Strahd's power and schemes, a perfect arena for tactical combat, and an area with clear views of the post-battle sunrise, the Heart—including its adjoining bridge and rooftop—is the ideal (and expected) place for the finale to unfold.
 ## Adventure Hooks
 
-The original module's four adventure hooks are fundamentally flawed: *Plea for Help* tends to make players to resent Ireena Kolyana; *Mysterious Visitors* tends to make players feel deceived (and therefore regret accepting Stanimir's mission); *Werewolves in the Mist* reaches its climax too early; and *Creeping Fog* offers little setup or emotional investment. Most significantly, aside from *Mysterious Visitors*, no adventure hook leads the players directly and inevitably to a final confrontation with Strahd.
+The original module's four adventure hooks are fundamentally flawed: *Plea for Help* tends to make players to resent [[Ireena Kolyana]]; *Mysterious Visitors* tends to make players feel deceived (and therefore regret accepting Stanimir's mission); *Werewolves in the Mist* reaches its climax too early; and *Creeping Fog* offers little setup or emotional investment. Most significantly, aside from *Mysterious Visitors*, no adventure hook leads the players directly and inevitably to a final confrontation with Strahd.
 
 Custom adventure hooks that tie player backstories directly to Barovia (e.g., by allowing players to rescue a lost loved one) tend to fall flat for three reasons: they lack a direct tie to Strahd; they distract the players from the fight with Strahd; and they violate principles of verisimilitude (i.e., by making Barovia a far busier place than it deserves to be). Importantly, players receiving such hooks may struggle to understand the importance of Madam Eva's Tarokka reading, especially while they retain unfinished business in the valley.
 

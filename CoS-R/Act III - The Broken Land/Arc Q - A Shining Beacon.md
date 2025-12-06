@@ -6,7 +6,7 @@ Depending on their means of escape, players who flee from Castle Ravenloft follo
 ## Q1a. The Teleportation Brazier
 Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span> can teleport to the locations described in [[Arc P - Ravenloft Heist#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
 
-***Village of Barovia.*** If the players teleport to the graveyard in the village of Barovia, Ismark Kolyanovich is happy to let them rest in the guest rooms of the burgomaster's mansion. Though surprised to learn that Ireena has joined the players in their quest to defeat Strahd, he is comforted by the fact that Ireena has grown in strength, confidence, and will through her time at the players' side.
+***Village of Barovia.*** If the players teleport to the graveyard in the village of Barovia, Ismark Kolyanovich is happy to let them rest in the guest rooms of the burgomaster's mansion. Though surprised to learn that [[Ireena]] has joined the players in their quest to defeat Strahd, he is comforted by the fact that [[Ireena]] has grown in strength, confidence, and will through her time at the players' side.
 
 ***Town of Vallaki.*** If the players teleport to the coffin-maker's shop in the town of Vallaki, they can find shelter at the Blue Water Inn, St. Andral's Church, or (if they are on friendly terms with Lady Fiona Wachter and do not disclose their assault on Castle Ravenloft) Wachterhaus.
 
@@ -25,7 +25,7 @@ Players who escape Castle Ravenloft via the teleportation brazier in <span class
 If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
 
 > [!combat]- **Balancing the Ruins of Berez**
- > Due to the wave mechanic, this combat encounter is a series of a consecutive **mild** combat encounter followed by a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 4% of their total maximum hit points and the second of which will consume approximately 29% of their total maximum hit points (for a total of 33% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
+ > Due to the wave mechanic, this combat encounter is a series of a consecutive **mild** combat encounter followed by a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 4% of their total maximum hit points and the second of which will consume approximately 29% of their total maximum hit points (for a total of 33% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
  > 
  > * Three Players. Reduce the number of bogwitches in the first wave to one. Reduce the number of scarecrows in the second wave to five.
  > * Four Players. Reduce the number of hexwitches in the first wave to one. Reduce the number of scarecrows in the second wave to six.
@@ -87,7 +87,7 @@ One hour before the players reach Vallaki, they encounter three corpses scattere
 If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>, accompanied by two **scarecrows**, which are as described in <span class="citation">Scarecrows (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
 
 > [!combat]- **Balancing the Old Svalich Road**
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * Three Players. Reduce the number of dire wolves to 5, and the number of scarecrows to one.
 > * Four Players. Reduce the number of scarecrows to one.
@@ -209,7 +209,7 @@ If the Abbot initiated combat by attacking Vasilka, he continues to do so until 
 In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be lured into one of the adjoining wings if a player succeeds on a DC 20 Charisma (Performance) check.
 
 > [!combat]- **Balancing the Fallen Star** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 51% of their total maximum hit points (for a total of 93% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 51% of their total maximum hit points (for a total of 93% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the Abbot’s hit points in each phase to 181. Remove his Multiattack action in each phase, and reduce the damage of his Phase 1 bonus actions to 10 (3d6). Reduce the damage of his Erupt Earth bonus action in Phase 2 to 5 (2d4) and his Eclipse Beam bonus action to 7 (2d6) damage of each damage type. 
 > * **Four Players**. Reduce the Abbot’s hit points in each phase to 218. In his first phase, limit his Punish reaction to only 2/round. In his second phase, limit his Tail reaction to only 2/round. Additionally, decrease the damage of his Eclipse Beam bonus action to 2d6 damage of each damage type. 
 > * **Six Players**. Increase the Abbot’s hit points to 292 in each phase. Increase his first phase’s Multiattack to three attacks, but reduce each of its bonus actions to 10 (3d6) damage. In his second phase, increase his Multiattack to include two Claw attacks, but reduce Erupt Earth to 5 (2d4) damage.
@@ -689,7 +689,7 @@ At a suitable point in the conversation, if he is present, Emil challenges Kiril
 Kiril then attacks.
   
 > [!combat]- **Balancing the Mutant Lycan** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), a CR 3 ally (Emil), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 58% of their total maximum hit points and the second of which will consume approximately 52% of their total maximum hit points (for a total of 110% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), a CR 3 ally (Emil), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 58% of their total maximum hit points and the second of which will consume approximately 52% of their total maximum hit points (for a total of 110% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce Kiril’s hit points to 227 in each phase. Reduce his **Multiattack** action in P1 to one attack and a use of **Alpha’s Howl**, but increase the damage of the attacks granted by **Alpha’s Howl** to 2d6 plus Strength mod for the claw and 1d10 plus Strength mod for the bite. Decrease his **Savage Frenzy** bonus action to 10 (3d6) damage. In his P2, remove the ability to make a **Claw** attack as part of his **Leap** reaction. Make sure he uses his **Leap** reaction once every round. 
 > * **Four Players**. Reduce Kiril’s hit points to 267 in each phase. In his first phase, reduce his **Multiattack** to a total of 2 attacks and one use of **Alpha’s Howl**. In his second phase, remove his **Multiattack** action. 
 > * **Six Players**. Increase Kiril’s hitpoints in each phase to 345. Increase his **Savage Frenzy** in P1 to 21 (6d6) slashing damage. Increase his **Multiattack** in P2 to two **Claw** attacks and one **Bite/Swallow** attack.
@@ -868,7 +868,7 @@ Read the following, modifying the text as needed depending on the number of reve
 </div>
 
 > [!combat]- **Balancing the Return to the Foyer** 
-> This combat encounter is a **bloody** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 44% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows: 
+> This combat encounter is a **bloody** combat encounter against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 44% of their total maximum hit points. For parties of smaller sizes, modify the encounter as follows: 
 > * **Three Players**. Reduce the number of revenants in the foyer by one, to a minimum of one. 
 > * **Four Players**. Reduce the number of revenants in the foyer by one, to a minimum of one.
 
@@ -901,7 +901,7 @@ The first time the players enter the cemetery, if they’re not using stealth or
 > If the players befriended her in [[Arc M - The Dragon's Manor]], the spirit of the pseudodragon Zorya dives from one of the mansion’s upper windows on the first round of combat to assist them. In combat, Zorya uses simple gestures and squeaks to attempt to communicate that the players should place Argynvost’s skull in the mausoleum before fighting Vladimir. If the players attempt to place Argynvost’s skull there, Zorya attempts to defend them by attacking Vladimir as they do so.
 
 > [!combat]- **Balancing the Fallen Knight** 
-> Due to the phase mechanic, this combat encounter is a series of two consecutive combat encounters, the first **bloody** and the second **crushing**, against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 139% of their total maximum hit points (for a total of 181% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
+> Due to the phase mechanic, this combat encounter is a series of two consecutive combat encounters, the first **bloody** and the second **crushing**, against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 42% of their total maximum hit points and the second of which will consume approximately 139% of their total maximum hit points (for a total of 181% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
 > * **Three Players**. Remove the phantom warriors in Vladimir’s second phase 
 > * **Four Players**. Reduce the number of phantom warriors in Vladimir’s second phase to two. 
 > * **Six Players**. Increase the number of phantom warriors in Vladimir’s second phase to six.

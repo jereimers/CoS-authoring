@@ -10,7 +10,7 @@ Soon afterward, the players finally arrive at the Vistani encampment at Tser Poo
 
 While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the *Holy Symbol of Ravenkind*, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, Arabelle.
 
-If the players are tasked with escorting Ireena to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
+If the players are tasked with escorting [[Ireena]] to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
 
 Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster [[Rictavio]] and the sons of Lady Fiona Wachter. When morning comes, the players can also have a fateful encounter with Baron Vargas Vallakovich and his brutish enforcer, [[Izek Strazni]]...
 
@@ -34,9 +34,9 @@ As the players travel, read:
 
 If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
 
-The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
+The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting [[Ireena]] against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see Ireena venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. (Ireena stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
+If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see [[Ireena]] venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. ([[Ireena]] stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
 
 The scouts are searching for the Lansten family: two parents and three young children—a girl and two boys—who went missing during the zombie attack on the village and haven’t been seen since. After asking whether the players have seen their quarries on their journey, the scouts warn them not to stray from the road, noting that dead and dark things lurk beneath the treetops. Kereza and Korga then respectfully depart.
 
@@ -76,13 +76,13 @@ The players have arrived at the River Ivlis Crossroads, which is largely as desc
 
 This scene begins similarly to [[River Ivlis Crossroads (p. 35)</span>. However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in <span class="citation">Black Carriage (p. 37)</span> and <span class="citation">Carriage House (p. 54)]], comes into view.
 ## C2a. Strahd’s Arrival
-The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in [[K49. Lounge (p. 70)]]. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
+The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in [[K49. Lounge (p. 70)]]. If present, [[Ireena]] gasps at the sight of him, whispering that she thought that he was dead.
 
 > [!abstract]+ **What If The Players Flee?**
 >
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
+> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus [[Ireena]]—emerge from the fog behind them and snarl, obstructing the players' escape.
 
-The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
+The carriage then comes to a stop. Read the following, modifying the text as necessary if [[Ireena]] isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
 
 <div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
 <p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
@@ -92,7 +92,7 @@ If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
 <div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
 <p>The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. </p></div>
 
-Whether Ireena is with the party or not, add:
+Whether [[Ireena]] is with the party or not, add:
 
 <div class="description"><p>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.</p></div>
 
@@ -158,7 +158,7 @@ Whether Ireena is with the party or not, add:
 > 
 > <hr>
 > 
-> The wolves are **dire wolves**, as described in [[Dire Wolves (p. 30)]]. (The number of dire wolves in the pack is equal to the number of players in the party plus Ireena.)
+> The wolves are **dire wolves**, as described in [[Dire Wolves (p. 30)]]. (The number of dire wolves in the pack is equal to the number of players in the party plus [[Ireena]].)
 > 
 > If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
 
@@ -195,7 +195,7 @@ If the players ask about Strahd's driver, Strahd introduces him as Escher, "my c
 During the conversation, at moments when it seems natural to do so, [[Strahd von Zarovich#The Gentleman|Strahd]] poses the players the following questions (in no particular order):
 
 * "Ismark Kolyanovich defied me by obstructing the justice I meted out unto his village. Why should I, as his lord, not punish him for his disloyalty?"
-* "I have claimed Ireena Kolyana, and marked her as my own. Why should I not take her with me to Castle Ravenloft right now?"
+* "I have claimed [[Ireena Kolyana]], and marked her as my own. Why should I not take her with me to Castle Ravenloft right now?"
 * "You are trespassers in my lands, and the last outsider that entered Barovia fostered sedition and treachery. Why should I not dispatch you now, to prevent you from doing the same?" (Strahd's question is referring to Dr. Rudolph van Richten.)
 
 If the players buried Walter's bones and put the spirits of Death House to rest, Strahd poses an additional question:
@@ -209,13 +209,13 @@ As the players attempt to answer his questions, [[Strahd von Zarovich#The Gentle
 The players can push Strahd to make the following concessions:
 
 * He agrees to overlook Ismark's transgressions, so long as Ismark does not defy him or act counter to his will again.
-* He agrees to allow Ireena to depart the River Ivlis Crossroads safely. (Strahd will not grant a longer grace period than that.) 
+* He agrees to allow [[Ireena]] to depart the River Ivlis Crossroads safely. (Strahd will not grant a longer grace period than that.) 
 * He agrees to refrain from judgment against the players unless they take action directly against his person.
 * He agrees to forgive the players their transgressions against the cult of Death House.
 
 The players might successfully exact these concessions using a variety of arguments, including (but not limited to) the following:
 
-* The players have promised Ismark that they will escort Ireena to Vallaki and they must be allowed to fulfill their word.
+* The players have promised Ismark that they will escort [[Ireena]] to Vallaki and they must be allowed to fulfill their word.
 * The players have taken no hostile action against Strahd and should be granted a presumption of innocence.
 * The players' actions in Death House were conducted in self-defense, and therefore should be excused. 
 
@@ -223,7 +223,7 @@ If the players appear to doubt Strahd's fidelity to his concessions, [he promise
 
 When the players have answered all of Strahd's questions to his satisfaction, he bids them farewell and steps back into the black carriage.
 
-As he does, Strahd’s **dire wolves**—including one for each player plus Ireena—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage and the wolves then depart for Castle Ravenloft.
+As he does, Strahd’s **dire wolves**—including one for each player plus [[Ireena]]—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage and the wolves then depart for Castle Ravenloft.
 ## C2e. Departing the Crossroads
 As the players move to depart the River Ivlis Crossroads after Strahd has left, they encounter [[[The Hanged One (p. 35)]()]]. The character hanged from the gallows should be the character who was the rudest to Strahd or the least cooperative with his questions.
 # C3. The Strix
@@ -243,7 +243,7 @@ The **greater strix** uses the statistics of a **manticore**, but is a Medium co
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**, but with vulnerability to fire damage). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
 > [!combat]- **Balancing the Strix**
-> This combat encounter is a **bruising** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** encounter against a party of five 3rd-level players and a CR 1 ally ([[Ireena Kolyana]]), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer.
 > * ***Four Players.*** Reduce the number of swarms of lesser strix to one.
@@ -251,8 +251,8 @@ The greater strix is joined by two **swarms of lesser strix** (each using the st
 
 These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players instead if they attempt to harm it or otherwise shelter Muriel from its assault. It fights to the death.
 
-> [!warning]+ **Don't Hurt Ireena**
-> Strahd's minions and those loyal to him, including the strix, don't attack Ireena.
+> [!warning]+ **Don't Hurt [[Ireena]]**
+> Strahd's minions and those loyal to him, including the strix, don't attack [[Ireena]].
 
 If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 15 Wisdom (Medicine) check, reducing her to 0 hit points and causing her to fall unconscious on a failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
 
@@ -442,7 +442,7 @@ If the players accept the challenge, Eliza, Arturi, and [[Non-Player Characters#
 * **Stanimir** wagers a worn deck of Tarokka cards that once belonged to his late wife. (“They’ve sat unused and dusty in my wagon for long enough,” he says with a sad smile. “I think she’d like it if they were out in the world again.”)
 * **Eliza** wagers a collapsible brass spyglass with a small, maneuverable mirror, allowing the user to peer around corners.
 * **Arturi** wagers a short manuscript on werewolves authored by Dr. Rudolph van Richten.
-* **Ireena** wagers a painted wooden hairclip in the shape of a sunflower that she once wore as a child.
+* **[[Ireena]]** wagers a painted wooden hairclip in the shape of a sunflower that she once wore as a child.
 
 Give the players a few minutes away from the table to plan out their stories before the game begins.
 
@@ -451,7 +451,7 @@ Give the players a few minutes away from the table to plan out their stories bef
 > * Stanimir, believing that a grain of truth lies at the heart of every tale, votes nothing but True.
 > * Eliza, not one for half-truths, alternates between True and False.
 > * Arturi, cynical and distrusting, alternates between Half-True and False.
-> * Ireena, quick to warm to the player, alternates between True and Half-True.
+> * [[Ireena]], quick to warm to the player, alternates between True and Half-True.
 
 
 > [!lore]+ **Arturi's Manuscript**
@@ -507,7 +507,7 @@ After three of the players have gone, Arturi then shares the following tale:
 </div>
 
 When his tale has ended and all participants have made their guesses—Stanimir and Eliza going last, with Stanimir voting “True” and Eliza voting “False”—Arturi reveals that his story was true. He politely declines, however, to reveal anything further, noting only with a sad smile that "A story cannot truly be told until it has ended."
-### Ireena’s Tale
+### [[Ireena]]’s Tale
 After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireena]] (if present) then shares the following tale:
 
 <div class="description"><p>"When I was a child, my father took me and my brother to a vast, tranquil lake. I remember the sand beneath my bare feet, and the lapping of the waves against the shore. </p>
@@ -517,9 +517,9 @@ After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireen
 <p>"A heavy mist had descended around me, and shadowed shapes lurked in every corner. I stepped forward, one hand reaching fearfully into the fog—and a wolf made of mist leapt forth, its jaws opened wide to devour me. And then—everything went black.</p>
 <p>"The next thing I remembered, I awoke in my own bed, my father's humming echoing from the kitchen. I don't know how I got there, or what became of the wolf, but I can still remember its teeth as clearly as ever."</p></div>
 
-When her tale has ended and all participants have made their guesses—Stanimir voting “True” and Eliza and Arturi voting “False”—Ireena reveals that her story was false. With a quiet laugh, she shares that the story is a dream that she’s had since childhood, noting that there are no lakes near the village of Barovia and that she’d never seen a **dire wolf** until recently.
+When her tale has ended and all participants have made their guesses—Stanimir voting “True” and Eliza and Arturi voting “False”—[[Ireena]] reveals that her story was false. With a quiet laugh, she shares that the story is a dream that she’s had since childhood, noting that there are no lakes near the village of Barovia and that she’d never seen a **dire wolf** until recently.
 
-If challenged on his vote, Stanimir merely says, with a mysterious smile, that many dreams have a kernel of truth. He then thanks Ireena for sharing her tale.
+If challenged on his vote, Stanimir merely says, with a mysterious smile, that many dreams have a kernel of truth. He then thanks [[Ireena]] for sharing her tale.
 ### Arturi Departs
 When the game ends, Arturi bids the players farewell and departs from the camp. If asked why, he shares, with a sad smile, that the camp is in danger each moment he lingers there after dark. "I have been selfish tonight," he murmurs, "and pushed my fortunes as far as I dare. But I dare not remain any longer, for fear of the terror that might follow." 
 
@@ -739,7 +739,7 @@ If the players pause, proceed, or attack, the six wolves in the woods strike. Re
 ![[IMG-20251205143152322.jpg]]
 
 > [!combat]- **Balancing the Wolves** 
-> This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally ([[Ireena Kolyana]]), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > 
 > * **Three Players**. Reduce the number of wolves to 3. 
 > * **Four Players**. Reduce the number of wolves to 4. 
@@ -906,9 +906,9 @@ If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, she freeze
 
 Lake Zarovich is as described in [[L. Lake Zarovich (p. 38)]], but without the beached rowboats or Bluto's boat visible. 
 
-Upon arriving at the shore of the lake, Ireena notes with trepidation that it appears to be the same lake that she has seen in her dreams. (If she hasn't already shared it, Ireena tells the story of her dream, described in [[#C4d. The Dancing Fire]] above.)
+Upon arriving at the shore of the lake, [[Ireena]] notes with trepidation that it appears to be the same lake that she has seen in her dreams. (If she hasn't already shared it, [[Ireena]] tells the story of her dream, described in [[#C4d. The Dancing Fire]] above.)
 
-Ireena is certain, however, that she has never visited this lake with Ismark and her father, Kolyan. She is uncertain of the implications, but becomes lost in thought if a player reminds her that her father found her wandering the Old Svalich Woods as a child.
+[[Ireena]] is certain, however, that she has never visited this lake with Ismark and her father, Kolyan. She is uncertain of the implications, but becomes lost in thought if a player reminds her that her father found her wandering the Old Svalich Woods as a child.
 # C11. The Werewolves' Hunt
 As the players continue down the road, read:
 
@@ -927,7 +927,7 @@ The werewolves don't attack immediately, preferring to wait for the perfect time
 <div class="description"><p>The woodland road takes you through a small, forested clearing, the circular treeline littered with dense thickets, moss-covered boulders, and craggy ridges.</p>
 <p>Then, without warning, five wolves leap from the forest, yellow eyes glinting as their muzzles curl into snarls!</p></div>
 
-Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
+Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) [[Ireena]], the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
 
 Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, use the statblock below for the werewolves, rather than the one in the *Monster Manual*:
 
@@ -993,7 +993,7 @@ If the werewolves die, they reverts to their true forms: a young man with pale, 
 Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
 
 > [!combat]+ **Balancing the Werewolf Hunt** 
-> This combat encounter is an **oppressive** combat encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel), and will consume approximately 84% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is an **oppressive** combat encounter against a party of five 3rd-level players, a CR 1 ally ([[Ireena Kolyana]]), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel), and will consume approximately 84% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * _**Three Players.**_ Reduce the number of wolves to one.,
 > * _**Four Players.**_ Reduce the number of wolves to two.,
@@ -1032,11 +1032,11 @@ The road continues forward to the [[N. Town of Vallaki]], largely as described i
 If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
-<div class="description"><p>Some of them regard Ireena with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
+<div class="description"><p>Some of them regard [[Ireena]] with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
 
 This area, the Morning Gate, is largely as described in [[WotC - 05 - Vallaki - Town Gates]]. The tents are a camp of Barovian refugees, housing those who survived the trek from the [[E. Village of Barovia]] in the wake of Strahd's siege.
 ### The Refugee Camp
-If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
+If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, [[Ireena]] approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
 
 The members of the refugee camp, which include [[Emeric]], a melancholy older man, and [[Magda]], a grief-stricken young woman, can share the following information:
 
@@ -1046,9 +1046,9 @@ The members of the refugee camp, which include [[Emeric]], a melancholy older ma
 * Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
 * Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in [[03 - Village of Barovia - Dream Pastries]] (p. 125).
 
-The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that Ireena herself has brought a curse upon their people. Few have any wish to deal with her further.
+The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that [[Ireena]] herself has brought a curse upon their people. Few have any wish to deal with her further.
 
-Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
+Following her interaction with the refugees, [[Ireena]] is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
 #### Parriwimple's Mini-Arc
 
 He sees the refugees, is horrified, confused, and instantly sympathetic.  
@@ -1058,7 +1058,7 @@ Their gratitude stuns him.
 
 This is the first time he feels useful by choice, not because Bildrath barked orders.
 
-During the night (or during a moment when Ireena is pointedly excluded), someone asks:
+During the night (or during a moment when [[Ireena]] is pointedly excluded), someone asks:
 
 “Big lad… could you stay a bit? Not forever, just until they let us in? The little ones feel safer when you’re near.”
 
@@ -1069,11 +1069,11 @@ He wants to go with them—but also, he doesn’t want to leave these people beh
 
 The next morning, Parriwimple approaches the group shyly:
 
-##### If Ireena is present:
+##### If [[Ireena]] is present:
 
 He glances at her, anxious about the way people flinched from her.  
 This reinforces his idea:
-“Ireena can’t stay, but I can…”  
+“[[Ireena]] can’t stay, but I can…”  
 “I can help them while you help her.”
 ##### If Arden or Choppy has been protective of him:
 
@@ -1309,7 +1309,7 @@ The taproom slowly clears out over the following two hours. Nikolai and Karl Wac
 
 If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and [[N2m. Guest Room (p. 102)]]). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
 
-***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted Ireena to Vallaki, they earn an additional 250 XP. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
+***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted [[Ireena]] to Vallaki, they earn an additional 250 XP. (The players don't need to bring [[Ireena]] to St. Andral's church to receive this XP.)
 ## C12c. Morning in Vallaki
 ### Urwin's Advice
 When the players first emerge from their rooms onto [[N2k. Guest Balcony]] the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
@@ -1394,7 +1394,7 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 > [!profile]+ **Profile: [[Izek Strazni]]**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+> ***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in [[Ireena Kolyana]].
 >
 > ***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
 >
@@ -1407,7 +1407,7 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 >
 > ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
 >
-> ***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+> ***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
 
 If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
 
@@ -1430,9 +1430,9 @@ The Baron imperiously orders that he see to it, then informs the players that th
 
 The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” The Baron nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
 
-If Ireena is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches Ireena’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving Ireena feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
+If [[Ireena]] is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches [[Ireena]]’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving [[Ireena]] feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
 
-If asked, Ireena notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
+If asked, [[Ireena]] notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
 
 If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to Lady Fiona Wachter at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
 
@@ -1443,7 +1443,7 @@ If the players defied Vargas or Izek in any way, or otherwise assisted Willemina
 
 ***Encounter with Strahd.*** Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain. 
 
-As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and Ireena go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
+As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and [[Ireena]] go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
 
 While running this scene, recall the wise words of Tywin Lannister: "Any man who must say 'I am the king' is no true king." So too for Strahd: allowing the players to successfully irritate, annoy, or otherwise drive him to "punish them" functionally allows the players to gain a certain measure of control over the conversation, reducing Strahd's appearance of real and apparent control, and indicating that Strahd is a petty noble who cares about his own ego. Always remember that, especially at this stage, the players *cannot hurt* Strahd in any meaningful way—and, as such, he feels no need to hurt *them* in any meaningful way.
 
@@ -1461,9 +1461,9 @@ Lycanthropic immunity has been changed to silver-based regeneration in order to 
 
 ***The Dancing Fire.*** The Game of Stories has been introduced to provide the players with an opportunity to decompress in a relatively safe location while engaging with and exploring one anothers' histories and interests. The Game itself—along with its wagers—introduces an aspect of dramatic tension to the encounter, ensuring that players remain invested and engaged with each story told. 
 
-Stanimir's tale indicates the relationship between Strahd and the Vistani, thereby foreshadowing Arrigal's loyalty to him. Eliza's tale introduces the *Holy Symbol of Ravenkind* and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). Arturi's tale colorfully introduces the tragedy of Dr. Rudolph van Richten, building the suspense for a character that the players will soon have an opportunity to meet. Finally, Ireena's tale foreshadows her relationship to [[Izek Strazni]] and her true origins in Vallaki.
+Stanimir's tale indicates the relationship between Strahd and the Vistani, thereby foreshadowing Arrigal's loyalty to him. Eliza's tale introduces the *Holy Symbol of Ravenkind* and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). Arturi's tale colorfully introduces the tragedy of Dr. Rudolph van Richten, building the suspense for a character that the players will soon have an opportunity to meet. Finally, [[Ireena]]'s tale foreshadows her relationship to [[Izek Strazni]] and her true origins in Vallaki.
 
-***A Gift for Arabelle.*** Madam Eva's request has been added to create a hook to Blinsky Toys in Vallaki (allowing the players to observe Izek's commissioned Ireena-shaped doll) and to the Vistani encampment outside of Vallaki (allowing the players to begin the quest to find the missing Arabelle).
+***A Gift for Arabelle.*** Madam Eva's request has been added to create a hook to Blinsky Toys in Vallaki (allowing the players to observe Izek's commissioned [[Ireena]]-shaped doll) and to the Vistani encampment outside of Vallaki (allowing the players to begin the quest to find the missing Arabelle).
 
 ***The Skeletal Rider.*** The encounter with the skeletal rider is a short, but evocative scene that aims to resonate with the themes of undeath, loneliness, and mystery that infuse this arc.
 
@@ -1473,14 +1473,14 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 
 ***Meeting Morgantha.*** This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in [[Arc H - The Lost Soul]].) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
 
-***The Deep Woods.*** The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. Ireena's reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
+***The Deep Woods.*** The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. [[Ireena]]'s reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
 
 ***The Werewolf's Hunt.*** This brief combat encounter introduces werewolves and provides the swarms of ravens (and Muriel) with an opportunity to assist and defend the players. The wolves' ***Maul*** action option has been added to create a more tense and dynamic combat scenario.
 ## Welcome to Vallaki
-***The Refugee Camp.*** The Barovian refugee camp has been placed here to provide the players with an additional reason to hate Baron Vallakovich and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting Ireena's efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
+***The Refugee Camp.*** The Barovian refugee camp has been placed here to provide the players with an additional reason to hate Baron Vallakovich and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting [[Ireena]]'s efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
 
 ***The Tax.*** The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
 
 ***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster [[Rictavio]]. [[Rictavio]]'s tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
 
-***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of Ireena, and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**
+***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of [[Ireena]], and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**

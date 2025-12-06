@@ -361,9 +361,9 @@ The staircase climbs to a ten-foot-wide gallery that stretches almost the length
 ### N3j. Izek's Bedroom
 
 The door to this room is locked. Izek Strazni carries the only key.
-The following description assumes the characters have met Ireena Kolyana (see chapter 3, area E4). If the characters haven't met her, don't read the last sentence.
+The following description assumes the characters have met [[Ireena Kolyana]] (see chapter 3, area E4). If the characters haven't met her, don't read the last sentence.
 
-Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like Ireena Kolyana.
+Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like [[Ireena Kolyana]].
 
 The burgomaster's monstrous henchman, Izek Strazni (see appendix D), sleeps here at night. During the day, he is in town taking care of his master's business. Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
 
@@ -858,10 +858,10 @@ Blinsky believes the burgomaster is right-that the only way to escape from Barov
 - A wood-and-string mobile of hanging bats with flapping wings (price 9 cp )
 - A wind-up musical merry-go-round with figures of snarling wolves chasing children in place of prancing horses (price 9 sp )
 - A ventriloquist's dummy that looks like Strahd von Zarovich (price 9 sp )
-- A doll that looks remarkably like Ireena Kolyana (not for sale; see below)
+- A doll that looks remarkably like [[Ireena Kolyana]] (not for sale; see below)
 
 %% --- Page 161 --- %%
-#### Ireena Kolyana Dolls. 
+#### [[Ireena Kolyana]] Dolls. 
 Blinsky makes special dolls for the burgomaster's henchman, Izek Strazni (see area N3 and appendix D). Izek doesn't pay for the dolls but instead threatens to burn down Blinsky's shop unless the toymaker delivers a new doll every month. Every doll is modeled on a description given to Blinsky by Izek, and each doll has been closer to capturing Ireena's likeness than the last. Blinsky doesn't know that the doll is meant to be modeled after anyone in particular. If Ireena is with the party, however, Blinsky realizes that she is the inspiration for Izek's dolls.
 
 #### Von Weerg's Masterpiece. 
