@@ -55,7 +55,7 @@ Act II ends on the morning after the players' first full moon in Barovia, which 
 # Act III: The Broken Land
 <div class="subtitle"><em>For characters of 5th level and higher.</em></div>
 
-In this act, the players receive a plea from Urwin Martikov to investigate the Wizard of Wines winery—and an invitation from Strahd to dine at Castle Ravenloft.
+In this act, the players receive a plea from [[Urwin Martikov]] to investigate the Wizard of Wines winery—and an invitation from Strahd to dine at Castle Ravenloft.
 
 If the players agree to Urwin's request in [[Arc J - The Stolen Gem]], they are joined by Muriel Vinshaw—the secret identity of the disguised **wereraven** that they rescued near Tser Pool. As the players work to free the winery from the scourge of druids and blights that have invaded it, Muriel relays an excerpt of Strahd's foretelling to [[Davian Martikov]], an elder **wereraven** and the leader of the Keepers of the Feather.
 
@@ -114,7 +114,7 @@ Even once the Whispering Wall is quelled, however, a greater danger emerges in [
 
 ***Village of Barovia.*** If the players escorted Ireena to Vallaki, reconciled Doru with Father Donavich, befriended Dr. Rudolph van Richten in Vallaki, and inspired Ireena to reject Sergei's invitation, the village of Barovia is saved by the leadership and prowess of Ismark Kolyanovich, Doru and Donavich, Dr. Van Richten and the **ghost** Erasmus van Richten, and the spirit of Sergei von Zarovich.
 
-***Town of Vallaki.*** If the players restored the soul of Stella Wachter, aided Lady Fiona Wachter in defeating Izek Strazni, located the missing Vistana Arabelle, recovered the stolen bones of St. Andral, and rescued the Blue Water Inn from Baba Lysaga, the town of Vallaki is saved by the power and foresight of Lady Fiona Wachter and her cult; the young **mage** Victor Vallakovich; the Vistani Luvash, Arrigal, and Arabelle; the dusk elves; the priest Father Lucian Petrovich; and the **wereravens** Urwin Martikov and Danika Dorakova.
+***Town of Vallaki.*** If the players restored the soul of Stella Wachter, aided Lady Fiona Wachter in defeating Izek Strazni, located the missing Vistana Arabelle, recovered the stolen bones of St. Andral, and rescued the Blue Water Inn from Baba Lysaga, the town of Vallaki is saved by the power and foresight of Lady Fiona Wachter and her cult; the young **mage** Victor Vallakovich; the Vistani Luvash, Arrigal, and Arabelle; the dusk elves; the priest Father Lucian Petrovich; and the **wereravens** [[Urwin Martikov]] and [[Danika Dorakova]].
 
 ***Village of Krezk.*** If the players rescued Ilya Krezkov from the Werewolf Den, rescued Emil Toranescu from the dungeons of Castle Ravenloft, and restored the Abbot's divine grace, the village of Krezk is saved by the might and savagery of the redeemed Abbot, the Belview **mongrelfolk**, the Krezkov **werewolves**, and Emil's new **werewolf** pack.
 

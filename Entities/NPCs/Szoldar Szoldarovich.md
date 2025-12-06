@@ -1,8 +1,26 @@
-# source:
-[[Non-Player Characters]]
-# Szoldar Soldarovich
-As described in [[N2. Blue Water Inn#Wolf Hunters.]]
+# portrait
+![[05-003.szoldar-szoldarovich.png]]
 
+
+
+#needs_filling
+# **Roleplaying Information**
+***Resonance.*** {{NPC}} should inspire {{emotion1}} with , {{emotion2}} for , and {{emotion3}}.
+
+***Emotions.*** {{NPC}} most often feels .
+
+***Motivations.*** {{NPC}} wants to .
+
+***Inspirations.*** When playing {{NPC}}, channel .
+
+**Character Information**
+***Persona.*** To the world, . To those he trusts, . Deep down, .
+
+***Morale.*** In a fight, .
+
+***Relationships.*** 
+
+#statblock
 <div class="statblock">
 <h2>Scout</h2>
 <em>Small or Medium Humanoid, Neutral</em>
@@ -48,3 +66,6 @@ As described in [[N2. Blue Water Inn#Wolf Hunters.]]
 <p><strong><em>Shortsword.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, range 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
 <p><strong><em>Longbow.</em></strong> <em>Ranged Weapon Attack</em> +4 to hit, 150/600 ft., one target. <em>Hit:</em> 8 (1d8 + 2) piercing damage.</p>
 </div>
+
+# source:
+As described in [[N2. Blue Water Inn#Wolf Hunters.]]

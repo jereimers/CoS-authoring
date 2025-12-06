@@ -1,7 +1,6 @@
-# WotC source:
-[[Non-Player Characters]]
-# Ernst Larnak
-**Roleplaying Information**
+
+# Profile #needs_filling
+## **Roleplaying Information** 
 ***Resonance.*** {{NPC}} should inspire {{emotion1}} with , {{emotion2}} for , and {{emotion3}}.
 
 ***Emotions.*** {{NPC}} most often feels .
@@ -10,9 +9,9 @@
 
 ***Inspirations.*** When playing {{NPC}}, channel .
 
-**Character Information**
+## **Character Information**
 ***Persona.*** To the world, . To those he trusts, . Deep down, .
 
 ***Morale.*** In a fight, .
 
-***Relationships.***
+***Relationships.*** [[Lady Fiona Wachter]] hires him to spy for her. Lives in [[N. Town of Vallaki|Vallaki]]. 

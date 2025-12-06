@@ -23,7 +23,7 @@ To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. 
 In a fight, Muriel would gladly pull out her shortsword or crossbow and dare her opponent to strike first, fleeing only if her regeneration were blocked or outmatched.
 
 ## ***Relationships.*** 
-Muriel is an agent of the Keepers of the Feather under [[Davian Martikov]], a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
+Muriel is an agent of the Keepers of the Feather under [[Davian Martikov]], a contact and ally of Keeper spymaster [[Urwin Martikov]], and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
 
 # STATBLOCK_Muriel Vinshaw
 <div class="statblock">

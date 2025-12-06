@@ -52,7 +52,7 @@ However, Baron Vallakovich commands the loyalty of Izek Strazni, a cruel and cap
 
 Though Vallaki is far from a police state, Izek has spies throughout the town—individuals that he has threatened or intimidated into keeping him abreast of news and information. Those who speak ill of the Baron or his “festivals” (described in <span class="citation">Chapter 5: The Town of Vallaki (p. 95)</span>) are thrown in the stocks as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. Those who go further may find themselves forcibly summoned to the Baron’s manor for “corrective rehabilitation,” or even left to the tender mercies of Izek himself, whose diabolic mastery of fire allows him to burn his victims’ flesh or set their homes aflame.
 
-As a result, the vast majority of Vallakians have surrendered themselves to Baron Vallakovich’s rule, too terrified of Izek to dare speak out. The sole exceptions are Lady Fiona Wachter, as described in <span class="citation">Vallaki Lore (p. 96)</span>, and her followers, described further in [[#The Cult of Ezra]].
+As a result, the vast majority of Vallakians have surrendered themselves to Baron Vallakovich’s rule, too terrified of Izek to dare speak out. The sole exceptions are Lady Fiona Wachter, as described in <span class="citation">[[Vallaki Lore]] (p. 96)</span>, and her followers, described further in [[#The Cult of Ezra]].
 ## Krezkians
 The people of Krezk are largely as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>, <span class="citation">S3. Village of Krezk (p. 145)</span>, and <span class="citation">Krezk Lore (p. 146)</span>. The villagers are largely unaware that their burgomaster, Dmitri Krezkov, is secretly a werewolf.
 ## Vistani
@@ -82,7 +82,7 @@ The Keepers, despite their lycanthropic nature, are spies—not warriors. With t
 
 More importantly, one of the Keepers—a young **wereraven** named Elric, Muriel’s former romantic partner—recently accompanied Doru’s mob of Barovians to Castle Ravenloft, and was killed in the slaughter. Fearing Strahd’s attention, the rest of the Keepers are now laying low, hoping to keep their members safe and their secrets out of the vampire’s hands.
 
-That doesn’t mean, though, that the Keepers are staying idle. Their spy network—led by Urwin Martikov and his wereraven associates—has tendrils that reach throughout the valley and mountains, gathering constant intelligence from the flocks of ravens that soar through the skies. Some among the Keepers joke that not a twig could be snapped in the Svalich Woods without Urwin knowing of it—and, sometimes, they wouldn’t be far wrong.
+That doesn’t mean, though, that the Keepers are staying idle. Their spy network—led by [[Urwin Martikov]] and his wereraven associates—has tendrils that reach throughout the valley and mountains, gathering constant intelligence from the flocks of ravens that soar through the skies. Some among the Keepers joke that not a twig could be snapped in the Svalich Woods without Urwin knowing of it—and, sometimes, they wouldn’t be far wrong.
 
 ## Barovian Refugees
 

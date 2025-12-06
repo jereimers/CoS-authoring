@@ -700,7 +700,7 @@ This card refers to Ezmerelda d'Avenir (see appendix D). She can be found in the
 
 Find the leader of the feathered ones who live among the vines. Though old, he has one more fight left in him.
 
-This card refers to [[Davian Martikov]] (see chapter 12, "The Wizard of Wines"). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, Urwin Martikov (see chapter 5, area N2).
+This card refers to [[Davian Martikov]] (see chapter 12, "The Wizard of Wines"). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, [[Urwin Martikov]] (see chapter 5, area N2).
 
 #### A. Tempter (Queen of Diamonds)
 
@@ -4366,7 +4366,7 @@ A house of Vallakian townsfolk contains 1d4 adults (male and female human common
 
 A cult haven contains 2d4 Vallakian adults (LE male and female cultists) and one cult fanatic (LE male or female) who leads them in prayer or orchestrates ritual sacrifices. These cultists worship devils and consider Lady Fiona Wachter (see area N4) to be their spiritual leader.
 
-## Vallaki Lore
+## [[Vallaki Lore]]
 
 In addition to the information known to all Barovians (see "Barovian Lore" in chapter 2), Vallakians know the following bits of local lore:
 
@@ -4399,7 +4399,7 @@ This slouching, centuries-old stone church has a bulging steeple in the back and
 
 This church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar (see the "Bones of St. Andral" section). Father Lucian Petrovich (LG male human priest) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named Milivoj (see below) tends the grounds and digs graves.
 
-At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male and female human commoners) and 2d6 equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
+At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male and female human commoners) and 2d6 equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named [[Willemina Rikalova]]. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 ![img-43.jpeg](img-43.jpeg)
 
 Milivoj ( N male human commoner) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
@@ -4422,7 +4422,7 @@ The theft of the bones has left the church vulnerable to attack by Strahd's mini
 
 Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 
-The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, Urwin Martikov, considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
+The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, [[Urwin Martikov]], considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
 
 A bed for the night costs 1 ep. Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge. A cooked wolf steak costs 1 ep .
 
@@ -4437,7 +4437,7 @@ MAP 5.2: BLUE WATER INN (AREA N2)
 
 #### Keepers of the Feather
 
-Urwin Martikov (LG male human) is a wereraven (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, Danika Dorakova (LG female human), is also a wereraven, as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
+[[Urwin Martikov]] (LG male human) is a wereraven (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, [[Danika Dorakova]] (LG female human), is also a wereraven, as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
 
 At any given time, another 1d4 wereravens (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
 
@@ -4487,7 +4487,7 @@ On rare occasions when he has something to say, Szoldar speaks brusquely, while 
 Nikolai and Karl Wachter ( N male human nobles) are brothers of noble birth. They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers. Their mother, Fiona Wachter (see area N4), is an influential figure in town, but her sons never talk about her. They'd rather listen to tales of the characters' harrowing adventures or hear about how the characters plan to free Vallaki from the burgomaster's madness.
 
 ##### Rictavio. 
-The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name Rictavio-a false identity adopted by the legendary vampire hunter Rudolph van Richten (see appendix D). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. Rictavio claims to be a carnival ringmaster from a distant land. He's been staying at the inn for almost a month, taking advantage of Urwin Martikov's generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn't welcome at the inn, so Rictavio gave it to the local toymaker (see area N7).
+The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name Rictavio-a false identity adopted by the legendary vampire hunter Rudolph van Richten (see appendix D). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. Rictavio claims to be a carnival ringmaster from a distant land. He's been staying at the inn for almost a month, taking advantage of [[Urwin Martikov]]'s generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn't welcome at the inn, so Rictavio gave it to the local toymaker (see area N7).
 
 Rictavio admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, "the destitute toymaker" (area N7) and his pet monkey. In fact, the apples are for his horse Drusilla (area N2f), and the steak is for his captured saber-toothed tiger (area N5).
 
@@ -4510,7 +4510,7 @@ The double doors that lead outside can be barred shut from within.
 %% --- Page 138 --- %%
 This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
 
-Urwin Martikov, who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
+[[Urwin Martikov]], who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
 
 A secret door at the west end of the south wall can be pushed open to reveal a wooden staircase that leads up to area N2i.
 
@@ -4532,7 +4532,7 @@ This small room lies under a wooden staircase (area N2i). Hanging from wooden pe
 
 Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost-you can see hundreds of them.
 
-Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four swarms of ravens and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, Urwin Martikov and two other wereravens hear the ruckus and investigate (in human form).
+Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four swarms of ravens and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, [[Urwin Martikov]] and two other wereravens hear the ruckus and investigate (in human form).
 
 A secret door in the back of the loft can be pushed open to reveal a bedchamber (area N2p) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks.
 

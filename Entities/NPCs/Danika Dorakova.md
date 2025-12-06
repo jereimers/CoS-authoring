@@ -1,7 +1,7 @@
-# source:
-[[Non-Player Characters]]
-# Danika Dorakova
-**Roleplaying Information**
+# Portrait
+![[danika_dorakova_1.png]]
+
+# **Roleplaying Information**
 ***Resonance.*** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
 
 ***Emotions.*** Danika most often feels fond, satisfied, congenial, determined, defiant, and affectionate.
@@ -15,4 +15,6 @@
 
 ***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
 
-***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the Keepers of the Feather.
+***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of [[Urwin Martikov]]. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the Keepers of the Feather.
+
+# source:

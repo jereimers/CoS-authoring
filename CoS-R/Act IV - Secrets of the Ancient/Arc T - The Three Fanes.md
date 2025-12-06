@@ -86,7 +86,7 @@ If the players carry out the *rite of conjured divinity* within the Cavern of Li
 > * “THE HUNTER": Referring to Dr. Rudolph van Richten
 > * “THE HUNTED": Referring to Arturi Radanavich
 > * “THE OLD RAVEN": Referring to [[Davian Martikov]]
-> * “THE WATER’S KEEPER": Referring to Urwin Martikov
+> * “THE WATER’S KEEPER": Referring to [[Urwin Martikov]]
 > * “THE WIDOW": Referring to Lady Fiona Wachter
 
 Once summoned, the Huntress and/or Weaver are glad to answer the players’ questions as described in **Communing with the Ladies**. As they do, they might provide the following responses to the players’ questions:
@@ -118,7 +118,7 @@ Once summoned, the Huntress and/or Weaver are glad to answer the players’ ques
 > [!info]+ **Reconsecrating the Fanes**
 > For the players to reconsecrate the Fanes, the following events must come to pass
 >
-> * Davian and Urwin Martikov must reconcile and bury the viridian gem at the center of the Swamp Fane, which lies across the Luna River from Berez.
+> * Davian and [[Urwin Martikov]] must reconcile and bury the viridian gem at the center of the Swamp Fane, which lies across the Luna River from Berez.
 > * Arturi Radanavich and Rudolph van Richten must lift their curses and bury the emerald gem at the center of the Forest Fane, which stands around the Gulthias Tree at Yester Hill.
 > * Lady Fiona Wachter must deny Strahd’s authority, find hope for the future, and bury the sage-green gem at the center of the Mountain Fane, which lies at the base of Old Bonegrinder’s hill.
 
@@ -206,7 +206,7 @@ The roc is willing to fly the players to any single location in Barovia except C
 > Kasimir is grateful for any thoughts and insights the players might share.
 
 > [!abstract]+ **Urwin’s Plea**
-> Following his family’s kidnapping at Baba Lysaga’s hands in [[#T3. The Witch of Berez]], Urwin Martikov sent raven messengers to the following locations to await the players’ return: the woods near <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>; the woods near <span class="citation">I. Black Carriage (p. 37)</span>; <span class="citation">P. Luna River Crossroads (p. 40)</span>; and <span class="citation">R. Raven River Crossroads (p. 40)</span>. Each messenger bears the following letter, which is tied to its leg in the form of a small parchment scroll:
+> Following his family’s kidnapping at Baba Lysaga’s hands in [[#T3. The Witch of Berez]], [[Urwin Martikov]] sent raven messengers to the following locations to await the players’ return: the woods near <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>; the woods near <span class="citation">I. Black Carriage (p. 37)</span>; <span class="citation">P. Luna River Crossroads (p. 40)</span>; and <span class="citation">R. Raven River Crossroads (p. 40)</span>. Each messenger bears the following letter, which is tied to its leg in the form of a small parchment scroll:
 >
 > ---
 >
@@ -372,7 +372,7 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
 
 
 <div class="statblock">
-    <h2>Urwin Martikov</h2>
+    <h2>[[Urwin Martikov]]</h2>
     <em>Medium humanoid (human, shapechanger), lawful good</em>
     <hr>
     <strong>Armor Class</strong> 15 (studded leather armor) (16 with <strong><em>Beacon of Protection</strong></em>)
@@ -1284,7 +1284,7 @@ Baba Lysaga then attacks.
 If rescued, the captured Martikovs, though traumatized and shaken by their imprisonment, are deeply grateful to the players for saving them. (Immediately after being freed, Stefania and Dag rush to find and comfort Martin, Viggo, and Yolanda. Although permanently polymorphed into a raven by Baba Lysaga’s magic, Yolanda uses her ***shapechange*** feature—for the first time in her life—and resumes her human form shortly after being rescued.)
 
 > [!abstract]+ **Davian & Urwin**
-> If Urwin Martikov is present when the Martikovs are freed, [[Davian Martikov]] regards him with distaste and asks the players why they brought his “wastrel of a son" along to Berez, adding his “sincere apologies" if Urwin “slowed them down." (Urwin is irritated by Davian’s insults, but urges the players to ignore the “old bird’s ramblings.")
+> If [[Urwin Martikov]] is present when the Martikovs are freed, [[Davian Martikov]] regards him with distaste and asks the players why they brought his “wastrel of a son" along to Berez, adding his “sincere apologies" if Urwin “slowed them down." (Urwin is irritated by Davian’s insults, but urges the players to ignore the “old bird’s ramblings.")
 
 If told of the players’ visions in [[#T1c. The Cavern of Lights]], or if the players otherwise share that the three gems must be buried to reconsecrate the Fanes, Davian solemnly shares that the Martikovs’ ancestors—servants of one of the valley’s “old gods"—hid the gems away to “keep them safe." “We knew that one day, we’d be called upon to return them," he adds gruffly. “Didn’t expect it to happen in my lifetime, but a man doesn’t choose when the gods call his name." (Davian knows that, without the gems, the Wizard of Wines can’t keep growing grapes like it currently does. “Still," he adds, if the subject is mentioned, “we always knew this day might come—and we’re more than capable of working the land ourselves, with or without magic.")
 
@@ -1556,7 +1556,7 @@ Ezmerelda is grateful for any counsel the players might provide.
 > * When he was twenty-eight, he was a successful doctor and husband, married to his childhood sweetheart, Ingrid. Six years later, their son, Erasmus, was born. “Erasmus was a sweet and gentle boy," Van Richten recalls, his voice ragged with memories.
 > * When Erasmus was fourteen, the Radanavich caravan, led by Madam Irene Radanavich, brought Irene’s son, Radu, to Van Richten’s medical practice. Radu was badly wounded, and Van Richten was unable to save him. 
 > * When Radovan died, Madame Radanavich kidnapped Erasmus, then sold him to the vampire Baron Metus.
-> * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See Ezmerelda d'Avenir (p. 231) and Rictavio (p. 238).) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
+> * Rudolph tracked down and interrogated Ezmerelda's parents before departing to find his son, but was too late, losing not only Erasmus, but his wife Ingrid as well. (See Ezmerelda d'Avenir (p. 231) and [[Rictavio]] (p. 238).) Rudolph destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani. (See <span class="citation">Journal of Rudolph van Richten (p. 254)</span>.
 > * For three years, Rudolph traveled in search of the Vistani who had wronged him. Having learned the Radanaviches' location from the d'Avenirs, Rudolph sought in vain for a means to traverse the Mists to Barovia. After obtaining a *mist talisman*—a platinum ring that had reportedly once belonged to a powerful wizard—from a fortuneteller, however, Rudolph followed the ring's pull to a mountain cave deep in the wilderness.
 > * The cave proved to be a portal to Barovia, leading to an underground catacomb beneath Mount Baratok built by the long-dead wizard. There, Rudolph used the wizard’s platinum ring to rouse the undead army to aid him in his quest for vengeance. When Rudolph finally came upon the Radanavich clan, he released the undead swarm upon them, declaring, "Undead take you as you have taken my son!"
 > * The leader of the Radanavich clan, the Vistana seer Madam Irene Radanavich, cursed Rudolph as she died, as described in Journal of Rudolph van Richten (p. 254). His vengeance complete, Rudolph contemplated taking his own life and following his family into death—until the Vistani seer Madam Eva gave him a new mist talisman capable of leading him out of the Mists once more.

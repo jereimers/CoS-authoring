@@ -50,7 +50,7 @@ This slouching, centuries-old stone church has a bulging steeple in the back and
 
 This church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar (see the "Bones of St. Andral" section). Father Lucian Petrovich (LG male human priest) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named Milivoj (see below) tends the grounds and digs graves.
 
-At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male and female human commoners) and 2d6 equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
+At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male and female human commoners) and 2d6 equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named [[Willemina Rikalova]]. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 ![img-43.jpeg](img-43.jpeg)
 
 Milivoj ( N male human commoner) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
@@ -73,7 +73,7 @@ The theft of the bones has left the church vulnerable to attack by Strahd's mini
 
 Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 
-The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, Urwin Martikov, considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
+The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, [[Urwin Martikov]], considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
 
 A bed for the night costs 1 ep. Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge. A cooked wolf steak costs 1 ep .
 
@@ -88,7 +88,7 @@ MAP 5.2: BLUE WATER INN (AREA N2)
 
 #### Keepers of the Feather
 
-Urwin Martikov (LG male human) is a wereraven (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, Danika Dorakova (LG female human), is also a wereraven, as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
+[[Urwin Martikov]] (LG male human) is a wereraven (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, [[Danika Dorakova]] (LG female human), is also a wereraven, as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
 
 At any given time, another 1d4 wereravens (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
 
@@ -137,14 +137,14 @@ On rare occasions when he has something to say, Szoldar speaks brusquely, while 
 ##### Wachter Brothers. 
 Nikolai and Karl Wachter ( N male human nobles) are brothers of noble birth. They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers. Their mother, Fiona Wachter (see area N4), is an influential figure in town, but her sons never talk about her. They'd rather listen to tales of the characters' harrowing adventures or hear about how the characters plan to free Vallaki from the burgomaster's madness.
 
-##### Rictavio. 
-The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name Rictavio-a false identity adopted by the legendary vampire hunter Rudolph van Richten (see appendix D). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. Rictavio claims to be a carnival ringmaster from a distant land. He's been staying at the inn for almost a month, taking advantage of Urwin Martikov's generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn't welcome at the inn, so Rictavio gave it to the local toymaker (see area N7).
+##### [[Rictavio]]. 
+The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name [[Rictavio]]-a false identity adopted by the legendary vampire hunter Rudolph van Richten (see appendix D). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. [[Rictavio]] claims to be a carnival ringmaster from a distant land. He's been staying at the inn for almost a month, taking advantage of [[Urwin Martikov]]'s generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn't welcome at the inn, so [[Rictavio]] gave it to the local toymaker (see area N7).
 
-Rictavio admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, "the destitute toymaker" (area N7) and his pet monkey. In fact, the apples are for his horse Drusilla (area N2f), and the steak is for his captured saber-toothed tiger (area N5).
+[[Rictavio]] admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, "the destitute toymaker" (area N7) and his pet monkey. In fact, the apples are for his horse Drusilla (area N2f), and the steak is for his captured saber-toothed tiger (area N5).
 
-During his stay at the inn, Rictavio is quietly gathering information on the Keepers of the Feather, trying to figure out the identities of all the wereravens in town. He's also trying to learn as much as he can about the Vistani, particularly the ones living in the camp just outside town (area N9). Once he concludes that they are in league with Strahd, Rictavio plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
+During his stay at the inn, [[Rictavio]] is quietly gathering information on the Keepers of the Feather, trying to figure out the identities of all the wereravens in town. He's also trying to learn as much as he can about the Vistani, particularly the ones living in the camp just outside town (area N9). Once he concludes that they are in league with Strahd, [[Rictavio]] plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
 
-Rictavio wears a hat of disguise and a ring of mind shielding to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon (area N5).
+[[Rictavio]] wears a hat of disguise and a ring of mind shielding to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon (area N5).
 
 #### N2d. Wine Storage 
 
@@ -161,7 +161,7 @@ The double doors that lead outside can be barred shut from within.
 %% --- Page 138 --- %%
 This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
 
-Urwin Martikov, who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
+[[Urwin Martikov]], who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
 
 A secret door at the west end of the south wall can be pushed open to reveal a wooden staircase that leads up to area N2i.
 
@@ -171,7 +171,7 @@ The sliding wooden doors on the west wall of this room are held shut by an iron 
 
 You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
 
-Any character who has a horse can keep it here for 1 sp per night. The gray mare is a draft horse named Drusilla, and she likes apples. The horse belongs to Rictavio (see area N2c).
+Any character who has a horse can keep it here for 1 sp per night. The gray mare is a draft horse named Drusilla, and she likes apples. The horse belongs to [[Rictavio]] (see area N2c).
 
 The small door in the east wall can be pulled open to reveal area N2g. The loft is described in area N2h.
 
@@ -183,7 +183,7 @@ This small room lies under a wooden staircase (area N2i). Hanging from wooden pe
 
 Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost-you can see hundreds of them.
 
-Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four swarms of ravens and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, Urwin Martikov and two other wereravens hear the ruckus and investigate (in human form).
+Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four swarms of ravens and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, [[Urwin Martikov]] and two other wereravens hear the ruckus and investigate (in human form).
 
 A secret door in the back of the loft can be pushed open to reveal a bedchamber (area N2p) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks.
 
@@ -193,7 +193,7 @@ Treasure. Inside the locked chest are 140 ep, 70 pp, two elixirs of health, thre
 
 A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-paneled hallway that runs west to east.
 
-Guests aren't told about the inn's secret hallway. Rictavio knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room (area N2n).
+Guests aren't told about the inn's secret hallway. [[Rictavio]] knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room (area N2n).
 
 %% --- Page 139 --- %%
 At each end of this area is a secret door, each of which is easy to spot from inside the hallway (no ability check required). The northern secret door, at the bottom of the staircase, can be pulled open to reveal the kitchen (area N2e) beyond. The eastern secret door can be pulled open to reveal a balcony (area $\mathrm{N} 2 \mathrm{j}$ ) that overlooks the taproom.
@@ -227,18 +227,18 @@ The door to this room can be locked from the inside, and each guest receives a k
 
 #### N2n. Private Guest Room
 
-Rictavio has a key to this room, which is locked at all times. Urwin and Danika carry spare keys. The door's lock can be picked, but discretion is called for because the door is in plain view of the taproom below.
+[[Rictavio]] has a key to this room, which is locked at all times. Urwin and Danika carry spare keys. The door's lock can be picked, but discretion is called for because the door is in plain view of the taproom below.
 
 This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
 
-Rictavio sleeps here between midnight and dawn. At dawn, he leaves to check on his horse (area N2f) and his wagon (area N5), returning to the inn around noon. Between noon and dusk, there's a 40 percent chance he is here; otherwise, he's in the taproom (area N2c). At dusk, he leaves the inn to tend '
+[[Rictavio]] sleeps here between midnight and dawn. At dawn, he leaves to check on his horse (area N2f) and his wagon (area N5), returning to the inn around noon. Between noon and dusk, there's a 40 percent chance he is here; otherwise, he's in the taproom (area N2c). At dusk, he leaves the inn to tend '
 
 %% --- Page 140 --- %%
 horse and his wagon again, then returns to his room to retire for the night.
-Rictavio is too clever to leave anything valuable or incriminating in his room. The footlocker and the wardrobe contain nothing but common clothes and travel wear.
+[[Rictavio]] is too clever to leave anything valuable or incriminating in his room. The footlocker and the wardrobe contain nothing but common clothes and travel wear.
 
-##### Rictavio's Journal. 
-The journal on the desk is a bit of artifice that Rictavio created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of Rictavio's horse) and recounts many long and tedious journeys by wagon. Rictavio has also written about various "oddities" he has seen in his travels, including the following:
+##### [[Rictavio]]'s Journal. 
+The journal on the desk is a bit of artifice that [[Rictavio]] created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of [[Rictavio]]'s horse) and recounts many long and tedious journeys by wagon. [[Rictavio]] has also written about various "oddities" he has seen in his travels, including the following:
 
 - A "werehare" child (a boy who transforms into a rabbit on nights of the full moon)
 - A half-orc woman named Gorabacha who could chew through iron chains
@@ -770,25 +770,25 @@ The pentagram is a nonmagical decoration, though Lady Wachter would have her cul
 
 This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads "Arasek Stockyard."
 
-Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words "Rictavio's Carnival of Wonders." A heavy padlock secures the back door.
+Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words "[[Rictavio]]'s Carnival of Wonders." A heavy padlock secures the back door.
 
 The stockyard is a general store and a facility where storage sheds can be rented. It is owned by a middle-aged married couple, Gunther and Yelena Arasek (LG male and female commoners). They sell items from the Adventuring Gear table in the Player's Handbook that have a price of 25 gp or less, but at five times the price.
 
-#### Rictavio's Carnival Wagon
+#### [[Rictavio]]'s Carnival Wagon
 
-The colorful half-elf bard Rictavio (see area N2 and appendix D) paid Gunther and Yelena a generous amount of gold to watch his carnival wagon, no questions asked. If the characters approach the wagon, read:
+The colorful half-elf bard [[Rictavio]] (see area N2 and appendix D) paid Gunther and Yelena a generous amount of gold to watch his carnival wagon, no questions asked. If the characters approach the wagon, read:
 
 The wagon suddenly lurches, as though something big has thrown itself against the inside wall. You hear the cracking of wood, the scraping of metal, and the snarl of something inhuman. Upon closer inspection, you see that the sides of the wagon are spattered with dry blood. You also see an inscription on the wagon's door frame that reads, "I bring you from Shadow into Light!"
 
-Rictavio carries the key to the wagon door. The lock can be picked but is rigged with a poison needle trap (see "Sample Traps" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide).
+[[Rictavio]] carries the key to the wagon door. The lock can be picked but is rigged with a poison needle trap (see "Sample Traps" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide).
 
 Inside the wagon is a saber-toothed tiger with 84 hit points. It is clad in specially fitted half plate (AC 17) and has been trained to hunt Strahd's Vistani servants.
 
 The wagon also contains the torn-up remains of a doll. A character who makes a successful DC 10 Intelligence (Investigation) check discovers that the doll was once a colorfully dressed Vistani effigy. Stitched into its tattered pants is a slogan: "Is No Fun, Is No Blinsky!"
 
-Rictavio isn't ready to unleash the tiger on the Vistani just yet. He feeds it by dropping wolf steaks down a 1-foot-square hatch in the wagon's roof. A character who climbs atop the wagon can spot the hatch without needing to make an ability check.
+[[Rictavio]] isn't ready to unleash the tiger on the Vistani just yet. He feeds it by dropping wolf steaks down a 1-foot-square hatch in the wagon's roof. A character who climbs atop the wagon can spot the hatch without needing to make an ability check.
 
-If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either Rictavio (area N2) or Piccolo (area N7). The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. Rictavio can make the tiger break off its attack and lure it back into the wagon.
+If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either [[Rictavio]] (area N2) or Piccolo (area N7). The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. [[Rictavio]] can make the tiger break off its attack and lure it back into the wagon.
 
 %% --- Page 157 --- %%
 ![img-51.jpeg](img-51.jpeg)
@@ -884,7 +884,7 @@ Vallaki's toymaker, Gadof Blinsky (CG male human commoner), calls himself "a wiz
 ![img-54.jpeg](img-54.jpeg)
 
 GADOF BLINSKY AND PICCOLO
-Blinsky is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named Rictavio (see area N2), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, Rictavio gave Blinsky his pet monkey, Piccolo (use the baboon stat block in the Monster Manual). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted Piccolo with a customtailored ballerina tutu.
+Blinsky is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named [[Rictavio]] (see area N2), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, [[Rictavio]] gave Blinsky his pet monkey, Piccolo (use the baboon stat block in the Monster Manual). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted Piccolo with a customtailored ballerina tutu.
 
 When he meets new customers, Blinsky recites a well-rehearsed greeting: "Wyelcome, friends, to the House of Blinsky, where hyappiness and smiles can be bought at bargain prices. Perhaps you know a leetle child in need of joy? A leetle toy for a girl or boy?"
 
@@ -1121,13 +1121,13 @@ If the characters lose their weapons, the Keepers of the Feather (see area N2) e
 
 Karl and Nikolai Wachter (see areas N2 and N4) are young, foolish men from a proud noble family. The drunken brothers sneak into Arasek's Stockyard (area N5) while everyone else is attending the festival in the town square. On a dare, one of them rocks the wagon. The saber-toothed tiger locked inside becomes enraged and smashes through the wagon door. The characters and everyone else in town hear the screams of the young men as the tiger escapes. The tiger flees the stockyard without harming the Wachters and begins to prowl the streets, looking for an escape. Reports of a tiger running loose in the streets ruin the festival and send townsfolk scurrying for their homes.
 
-The saber-toothed tiger doesn't harm anyone until it takes damage, whereupon it attacks the perceived source of the damage. If he is still alive, Izek Strazni gathers six town guards and hunts down the beast with the intention of killing it. Meanwhile, Rictavio does his best to lure the beast back to his wagon while assuring townsfolk that it won't harm them.
+The saber-toothed tiger doesn't harm anyone until it takes damage, whereupon it attacks the perceived source of the damage. If he is still alive, Izek Strazni gathers six town guards and hunts down the beast with the intention of killing it. Meanwhile, [[Rictavio]] does his best to lure the beast back to his wagon while assuring townsfolk that it won't harm them.
 
 #### Development
 
 If he's still in power, the burgomaster conducts an investigation to find out where the tiger came from. Guards and local witnesses are questioned. The Wachter boys feign innocence, insisting that they were at the festival, but Gunther and Yelena Arasek (area N5) admit to hearing "evil growls" and scratching sounds coming from inside the carnival wagon parked in their stockyard. When pressed, the Araseks admit to seeing the wagon's "weird owner" routinely drop food into the wagon through a hatch in the roof. They also confess that the half-elf paid them for their silence.
 
-After the burgomaster learns that the tiger belongs to Rictavio, he commands his guards to arrest the mysterious bard. If Rictavio thinks the characters can help him, he asks them to distract the burgomaster and the guards while he gathers his horse, wagon, and tiger (in that order). If the characters ask Rictavio where he plans to go, he tells them about an old tower to the west where he can lie low (see chapter 11, "Van Richten's Tower").
+After the burgomaster learns that the tiger belongs to [[Rictavio]], he commands his guards to arrest the mysterious bard. If [[Rictavio]] thinks the characters can help him, he asks them to distract the burgomaster and the guards while he gathers his horse, wagon, and tiger (in that order). If the characters ask [[Rictavio]] where he plans to go, he tells them about an old tower to the west where he can lie low (see chapter 11, "Van Richten's Tower").
 
 ### Lady Wachter's Wish
 
@@ -1153,7 +1153,7 @@ The vampire spawn begin the attack that night. They cling to the outer walls and
 
 During the chaos, Strahd enters the church in bat form, then reverts to vampire form and attacks Father Lucian. Unless the characters intervene, Strahd kills the priest before returning to Castle Ravenloft.
 
-If Father Lucian dies, locals bury his body in the church cemetery, whereupon it rises the following night as a vampire spawn under Strahd's control. If Rictavio (area N2) learns of the priest's death, he suggests that the characters burn the priest's body to ensure that it doesn't rise from the dead.
+If Father Lucian dies, locals bury his body in the church cemetery, whereupon it rises the following night as a vampire spawn under Strahd's control. If [[Rictavio]] (area N2) learns of the priest's death, he suggests that the characters burn the priest's body to ensure that it doesn't rise from the dead.
 
 #### Development
 

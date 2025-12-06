@@ -2,22 +2,22 @@
 [[Blue Water Inn]]
 [[Non-Player Characters]]
 # Dr. Rudolph van Richten
-## Disguised (as Rictavio)
+## Disguised (as [[Rictavio]])
 **Roleplaying Information**
-***Resonance.*** Rictavio should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
+***Resonance.*** [[Rictavio]] should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
 
-***Emotions.*** To onlookers, Rictavio most often appears to feel amused, delighted, or satisfied.
+***Emotions.*** To onlookers, [[Rictavio]] most often appears to feel amused, delighted, or satisfied.
 
-***Motivations.*** Rictavio wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
+***Motivations.*** [[Rictavio]] wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
 
-***Inspirations.*** When planning Rictavio, channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
+***Inspirations.*** When planning [[Rictavio]], channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
 
 **Character Information**
-***Persona.*** To the world, Rictavio appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
+***Persona.*** To the world, [[Rictavio]] appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
 
-***Morale.*** In a fight, Rictavio would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
+***Morale.*** In a fight, [[Rictavio]] would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
 
-***Relationships.*** Rictavio is secretly Dr. Rudolph van Richten, the famed vampire hunter.
+***Relationships.*** [[Rictavio]] is secretly Dr. Rudolph van Richten, the famed vampire hunter.
 ## Undisguised (as Himself)
 **Roleplaying Information**
 ***Resonance.*** Van Richten should inspire gratitude for his knowledge (freely shared), comfort with his confidence and experience, and mild irritation with his paranoia and bluntness.

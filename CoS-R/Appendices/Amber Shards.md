@@ -5,7 +5,7 @@ Though they don't carry the full essence of the vestiges, each amber shard bears
 > [!info]+ **Finding Amber Shards**
 > The players have an opportunity to obtain an amber shard:
 > * during [[Character Creation]]
-> * after defeating Izek Strazni in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
+> * after defeating [[Izek Strazni]] in [[Arc F - Lady Wachter's Wish]] / [[Arc G - The Strazni Siblings]] (see [[#Seriach, the Hell Hound Whisperer]])
 > * after raiding the Castle Ravenloft treasury in [[Arc P - Ravenloft Heist]] (see [[#Great Taar Haak, the Five-Headed Destroyer]])
 > * following Scorilo if he loses the boasting match in [[Arc R - Trials of the Mountain]] (see [[#Zrin-Hala, the Howling Storm]])
 > * after defeating the bodaks in [[Arc R - Trials of the Mountain]] (see [[#Sykane, the Soul Hungerer]])
@@ -158,7 +158,7 @@ If the player declines the voice's offer, they can commune with the vestige agai
 
 ***Condition.*** You become twitchy and nervous. You have disadvantage on Charisma (Deception) checks.
 ## Seriach, the Hell Hound Whisperer
-*Shard Location: Izek Strazni*
+*Shard Location: [[Izek Strazni]]*
 
 ***Spell.*** _Scorching Ray._
 
