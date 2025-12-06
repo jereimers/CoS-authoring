@@ -18,7 +18,7 @@
 
 ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
 
-
+#statblock
 <div class="statblock">
 <h2>Ithuriel, the Dawnbringer</h2>
 <em>Medium Celestial, Lawful Evil</em>
@@ -86,7 +86,7 @@ At will: detect evil and good<br>
 <p><strong><em>Shift (Costs 2 Reactions).</em></strong> In response to suffering one of the following conditions, Ithuriel momentarily assumes the form of the corresponding beast, ending the condition: blinded (giant bat), grappled (octopus), paralyzed (giant poisonous snake), prone (giant spider), restrained (mouse), or stunned (jellyfish). Ithuriel then immediately returns to his true form.</p>
 </div>
 <br>
-
+#statblock
 <div class="statblock">
 <h2>Ithuriel, the Fallen Star</h2>
 <em>Huge Celestial, Lawful Evil</em>
