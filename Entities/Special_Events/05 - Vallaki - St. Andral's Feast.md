@@ -8,7 +8,7 @@ The vampire spawn begin the attack that night. They cling to the outer walls and
 
 During the chaos, Strahd enters the church in bat form, then reverts to vampire form and attacks Father Lucian. Unless the characters intervene, Strahd kills the priest before returning to Castle Ravenloft.
 
-If Father Lucian dies, locals bury his body in the church cemetery, whereupon it rises the following night as a vampire spawn under Strahd's control. If Rictavio (area N2) learns of the priest's death, he suggests that the characters burn the priest's body to ensure that it doesn't rise from the dead.
+If Father Lucian dies, locals bury his body in the church cemetery, whereupon it rises the following night as a vampire spawn under Strahd's control. If [[Rictavio]] (area N2) learns of the priest's death, he suggests that the characters burn the priest's body to ensure that it doesn't rise from the dead.
 
 ## Development
 

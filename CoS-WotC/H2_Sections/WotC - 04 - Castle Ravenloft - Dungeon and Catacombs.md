@@ -523,7 +523,7 @@ The coins are made of clay painted gold and are worthless. The funeral barge, wh
 
 ### Crypt 18 
 
-The stone door of this crypt has been carefully laid to one side. Through the swirly mists of the perpetual fog, freshly engraved letters spell out the words "Ireena Kolyana: Wife."
+The stone door of this crypt has been carefully laid to one side. Through the swirly mists of the perpetual fog, freshly engraved letters spell out the words "[[Ireena Kolyana]]: Wife."
 
 The crypt is empty and has been swept clean. This is where Strahd intends to keep Ireena once he turns her into a vampire spawn.
 

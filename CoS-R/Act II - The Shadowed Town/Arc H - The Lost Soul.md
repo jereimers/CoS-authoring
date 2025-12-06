@@ -55,7 +55,7 @@ If the players ask for the spirit’s name, it writes its name in the frost: *Er
 
 While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
 
-The players can learn from Urwin Martikov, Danika Dorakova, Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
+The players can learn from [[Urwin Martikov]], [[Danika Dorakova]], Father Lucian Petrovich, or Lady Fiona Wachter that “Victor” is the name of Baron Vallakovich’s teenage son.
 # H2. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
@@ -415,7 +415,7 @@ The stone compartment also contains a *charm of mass heroism*, resembling a gold
 > [!item]+ **Charm of Mass Heroism**
 > As an action, the wielder of this charm can give any number of creatures within 30 feet the benefit of a *potion of heroism*. Once they do so, the charm vanishes from their person.
 
-Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of [[Ireena]] or Ismark, and wish only to be returned to their father, Franz.
 
 ![[IMG-20251205143153501.png]]
 <span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -798,7 +798,7 @@ Every twenty minutes, two of the six **dretches** guarding the players return to
 
 Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal Plane to torment Franz in the Barovian refugee camp. Bella and Offalia remain in **O3. Bedroom** to guard Myrtle and Fyodor, taunting them with tales of their imminent and terrible deaths to pass the time. 
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of [[Ireena]] or Ismark, and wish only to be returned to their father, Franz.
 
 If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
 ### Finding a Cure
@@ -1258,7 +1258,7 @@ This arc also serves to cement Lady Wachter's alliance with the players, strengt
 
 The **gallows speaker**'s attack on Stella has been added to explicitly introduce Leo Dilisnya as an antagonist for this arc (even if his identity is currently unknown to the players). 
 
-Stella's fading tether has been added to provide a clear countdown for this arc's dramatic question, with her fading memories and strange visions serving to foreshadow the existence of reincarnation in Barovia (a key narrative element in Ireena's character arc, explored further in [[Arc X - Tatyana's Legacy]]).
+Stella's fading tether has been added to provide a clear countdown for this arc's dramatic question, with her fading memories and strange visions serving to foreshadow the existence of reincarnation in Barovia (a key narrative element in [[Ireena]]'s character arc, explored further in [[Arc X - Tatyana's Legacy]]).
 
 Victor's teleportation circle is now a functional one to (1) make clear to the players that magical escape from Barovia is not possible, and (2) to ensure that the players view Victor as a competent mage, rather than an incompetent one.
 

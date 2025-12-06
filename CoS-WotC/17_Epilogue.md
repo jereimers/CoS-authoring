@@ -24,7 +24,7 @@ Rahadin has served Strahd's family for hundreds of years and doesn't take his ma
 
 ### Sergei and Ireena
 
-This optional scene can be used after Strahd has been defeated. It assumes that Ireena Kolyana survived the adventure and hasn't yet been reunited with Sergei.
+This optional scene can be used after Strahd has been defeated. It assumes that [[Ireena Kolyana]] survived the adventure and hasn't yet been reunited with Sergei.
 
 On the morning after Strahd's demise, the characters feel drawn to Castle Ravenloft's overlook (area K6), and there they witness the following scene.
 
@@ -34,9 +34,9 @@ A light flashes behind you. Wheeling around, you see a stately man-a being of fl
 
 His voice is calm and peaceful. "My name is Sergei von Zarovich." He turns to Ireena. "Tatyana, the time is at hand to rest. Come, my love and wife." He stretches forth his hand.
 
-Ireena Kolyana's questioning eyes suddenly open with recognition and knowledge. Forgotten memories rush back to her. "Sergei!" she cries, springing to him with the grace of a doe. They embrace.
+[[Ireena Kolyana]]'s questioning eyes suddenly open with recognition and knowledge. Forgotten memories rush back to her. "Sergei!" she cries, springing to him with the grace of a doe. They embrace.
 
-Ireena turns to you and says, "I am Ireena Kolyana, but in my past I was Sergei's beloved Tatyana. Through these many centuries we have played out the tragedy of our lives. Now, with our deepest gratitude to you, that tragedy is over. It is time for joy to begin again."
+Ireena turns to you and says, "I am [[Ireena Kolyana]], but in my past I was Sergei's beloved Tatyana. Through these many centuries we have played out the tragedy of our lives. Now, with our deepest gratitude to you, that tragedy is over. It is time for joy to begin again."
 
 Shimmering light surrounds Ireena and Sergei. Hand in hand, they walk east toward the edge of the overlook. Their feet do not touch the ground as they tread a path beyond this mortal world. Their invisible road takes them beyond the eastern precipice, their glow illuminating and thinning the clouds above Barovia. The clouds suddenly break open, letting shafts of glorious sunlight flood through. In the valley below, the strange fog dissolves. Barovia is free once more.
 

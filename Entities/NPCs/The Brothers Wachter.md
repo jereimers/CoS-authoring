@@ -1,6 +1,6 @@
-# WotC source:
-[[Non-Player Characters]]
-# The Brothers Wachter
+
+# Portrait
+![[Watchter_bros.png]]
 ## Nikolai Wachter
 ### **Personality**
 
@@ -25,6 +25,7 @@
 - **Choppy:** Low-key intimidated by Choppy’s “sorcerous” aura but pretends not to be. Calls magic “cheating.”
 - **Varnish:** Polarized reactions. Sometimes forgets he exists; sometimes treats him like a curiosity. He understands nothing about bards.
 
+#needs_filling
 **Roleplaying Information**
 ***Resonance.*** {{NPC}} should inspire {{emotion1}} with , {{emotion2}} for , and {{emotion3}}.
 
@@ -66,6 +67,7 @@
 - **Choppy:** Will absolutely ask Choppy uncomfortable questions about magic.
 - **Varnish:** Karl sees right through Varnish in a weird, unsettling way—something about the bardic facade intrigues him.
 
+#needs_filling
 **Roleplaying Information**
 ***Resonance.*** {{NPC}} should inspire {{emotion1}} with , {{emotion2}} for , and {{emotion3}}.
 
@@ -81,3 +83,6 @@
 ***Morale.*** In a fight, .
 
 ***Relationships.***
+
+# source:
+[[Non-Player Characters]]

@@ -28,7 +28,7 @@ Barovia is a land of ghosts, werewolves, and other fell creatures. The wildernes
 
 For the people of Barovia, there is no escape from this harsh land. The town of Vallaki stands ready to defend itself against the servants of Strahd, but it's far from the sanctuary it purports to be. The village of Krezk lies near the edge of Strahd's domain, its abbey now in the clutches of evil, misguided creatures.
 
-Of all the settlements in Strahd's domain, the village of Barovia is by far the most oppressed. Many of its shops are closed, and the locals have succumbed to despair. It is well known that Strahd desires the burgomaster's adopted daughter, Ireena Kolyana. The villagers neither protect nor harm her, lest they incur the vampire's wrath. Few know that Ireena bears an uncanny resemblance to Tatyana, Strahd's dead beloved.
+Of all the settlements in Strahd's domain, the village of Barovia is by far the most oppressed. Many of its shops are closed, and the locals have succumbed to despair. It is well known that Strahd desires the burgomaster's adopted daughter, [[Ireena Kolyana]]. The villagers neither protect nor harm her, lest they incur the vampire's wrath. Few know that Ireena bears an uncanny resemblance to Tatyana, Strahd's dead beloved.
 
 The village of Barovia cowers in the shadow of Castle Ravenloft, Strahd's home and fortress. The castle stands atop a great spire of rock, invincible and ever watchful. Every night, thousands of bats fly out of the castle to feed. It is said that Strahd sometimes flies with them. Barovia will never be safe until the evil in his castle is destroyed.
 

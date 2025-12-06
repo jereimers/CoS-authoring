@@ -20,7 +20,7 @@ The ruined mansion is littered with the rotted remains of furniture and decor. T
 
 A ghost takes shape in the fog, assuming the form of a giant of a man, his features mutilated and his entrails hanging out like frayed ropes. Despite its intimidating presence, the apparition has a cringing light in its eyes. "Why do you invade my home? Begone, I beseech you!"
 
-Strahd refuses to let Burgomaster Ulrich's spirit find rest because of what he did to poor Marina. The ghost recounts Marina's sad tale if prompted. Only by convincing Ulrich that Marina has been reborn in the form of Ireena Kolyana can the characters put the tortured spirit to rest. The ghost must see Ireena in the flesh, and it can't travel beyond the confines of the crumbled mansion.
+Strahd refuses to let Burgomaster Ulrich's spirit find rest because of what he did to poor Marina. The ghost recounts Marina's sad tale if prompted. Only by convincing Ulrich that Marina has been reborn in the form of [[Ireena Kolyana]] can the characters put the tortured spirit to rest. The ghost must see Ireena in the flesh, and it can't travel beyond the confines of the crumbled mansion.
 
 Ulrich's ghost is neutral good. It attacks if threatened or if the characters begin searching the ruined mansion for treasure. If the ghost is reduced to 0 hit points, it re-forms after 24 hours. The characters receive experience points for the ghost only if they lay Ulrich's spirit to rest, not if they defeat the ghost in combat.
 
@@ -103,10 +103,10 @@ Rotted coffins and moldy bones are buried in the graveyard. Characters who explo
 
 Strahd had this monument erected after Marina's death. The monument is hidden in the marsh, and the characters aren't likely to find it on their own unless they scour the area thoroughly. If they lay Burgomaster Ulrich's spirit to rest (see area U2), it points them to this location before fading away. Without Ulrich's guidance, the characters must enter the square in which the monument is located and search that area. A character who searches the area for 10 minutes can make a DC 15 Wisdom (Perception) check, finding the monument on a success. If the monument isn't found, the check can be repeated after another 10 minutes of searching.
 
-The following boxed text assumes that the characters have met Ireena Kolyana. If they have not, don't read the sentence that mentions her.
+The following boxed text assumes that the characters have met [[Ireena Kolyana]]. If they have not, don't read the sentence that mentions her.
 
 %% --- Page 226 --- %%
-Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a life-sized stone monument carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to Ireena Kolyana. Carved into the monument's base is an epitaph.
+Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a life-sized stone monument carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to [[Ireena Kolyana]]. Carved into the monument's base is an epitaph.
 
 The epitaph reads as follows: Marina, Taken by the Mists.
 

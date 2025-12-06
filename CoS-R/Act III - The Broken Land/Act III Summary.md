@@ -1,10 +1,10 @@
 In this act, which begins the morning after the players’ first full moon in Vallaki, the players receive a pair of invitations.
 
-The first, a plea from Urwin Martikov, asks the players to travel to the Wizard of Wines winery to the west in order to investigate a mysterious wine shortage in [[Arc J - The Stolen Gem]].
+The first, a plea from [[Urwin Martikov]], asks the players to travel to the Wizard of Wines winery to the west in order to investigate a mysterious wine shortage in [[Arc J - The Stolen Gem]].
 
 The second, a letter from Strahd von Zarovich himself, invites the players to dine at Castle Ravenloft with him and his court on the night before the new moon in [[Arc O - Dinner with the Devil]].
 
-Should the players accept the Martikovs’ mission in [[Arc J - The Stolen Gem]], they gain two companions for the journey: Muriel Vinshaw, a **wereraven** agent of the Keepers of the Feather; and Ireena Kolyana, who asks to join the players permanently in the fight against Strahd. The players must rescue the winery from the Forest Folk **druids** who have conquered it and, once they have done so, retrieve an enchanted gem from Yester Hill to the south before the Wizard of Wines falls to destruction.
+Should the players accept the Martikovs’ mission in [[Arc J - The Stolen Gem]], they gain two companions for the journey: Muriel Vinshaw, a **wereraven** agent of the Keepers of the Feather; and [[Ireena Kolyana]], who asks to join the players permanently in the fight against Strahd. The players must rescue the winery from the Forest Folk **druids** who have conquered it and, once they have done so, retrieve an enchanted gem from Yester Hill to the south before the Wizard of Wines falls to destruction.
 
 Meanwhile, as the players explore other leads across the western half of the Barovia, they can recruit the Vistana monster hunter Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]], investigate the werewolf pack in [[Arc L - The Den of Wolves]], and uncover the mysteries of Argynvostholt in [[Arc M - The Dragon's Manor]].
 
@@ -50,7 +50,7 @@ The quests of Act III become available and are resolved as given in the table be
 
 The most common path through Act III is as follows:
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶).
+* **Neyavr 9.** The players receive [[Urwin Martikov]]'s request to complete [[Arc J - The Stolen Gem]] (🔶).
 * **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
 * **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir in the village of Krezk and conduct a seance at the Abbey of St. Markovia in [[Arc K - The Fallen Abbey]], then stake out the werewolf den at nightfall in [[Arc L - The Den of Wolves]].
 * **Neyavr 12.** The players investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
@@ -61,7 +61,7 @@ The most common path through Act III is as follows:
 
 Alternately, particularly swift players might take the following path through Act III instead:
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶), then investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
+* **Neyavr 9.** The players receive [[Urwin Martikov]]'s request to complete [[Arc J - The Stolen Gem]] (🔶), then investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
 * **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
 * **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir and conduct a seance in [[Arc K - The Fallen Abbey]], and stake out the werewolf den in [[Arc L - The Den of Wolves]].
 * **Neyavr 12.** The players take a day of downtime.

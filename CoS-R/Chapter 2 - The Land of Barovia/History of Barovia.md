@@ -436,7 +436,7 @@ Upon his return, however, Izek's new arm was seen by Baron Valentin Vallakovich.
 
 Vargas became Baron, and Izek his right hand. Not long thereafter, Izek began to dream of Ireena and commissioned the toymaker Gadof Blinsky to craft toys that resembled her. (See <span class="citation">[[Izek Strazni]] (p. 231)</span> and <span class="citation">Creepy Toys (p. 118)</span>.)
 
-Meanwhile, at the Wizard of Wines, Danika Dorakova, a **wereraven** and agent of the Keepers of the Feather, became pregnant with the child of Urwin Martikov, her sweetheart and beau. Alarmed by their romantic dalliances, their families betrothed them at once to ensure that the child would not be born out of wedlock.
+Meanwhile, at the Wizard of Wines, [[Danika Dorakova]], a **wereraven** and agent of the Keepers of the Feather, became pregnant with the child of [[Urwin Martikov]], her sweetheart and beau. Alarmed by their romantic dalliances, their families betrothed them at once to ensure that the child would not be born out of wedlock.
 
 Shortly before the wedding, however, the disguised **roc** of Mount Ghakis—acting at the behest of Madam Eva—secretly stole one of the three magic gems from the winery’s fields while Urwin was on watch, ending its production of Champagne du Stompe. Madam Eva foresaw that the theft would bring discord to the Martikov family and drive Urwin to Vallaki, where he would one day assist and guide heroes who could defeat Strahd and return sunlight to Barovia.
 

@@ -2,7 +2,7 @@
 ![[izek_strazni.png]]
 # Profile: Izek Strazni
 ## **Roleplaying Information**
-***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in [[Ireena Kolyana]].
 
 ***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
 
@@ -15,9 +15,9 @@
 
 ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
 
-***Relationships.*** Izek is the adoptive "son" of [[Baron Vargas Vallakovich]], the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+***Relationships.*** Izek is the adoptive "son" of [[Baron Vargas Vallakovich]], the captain of [[N. Town of Vallaki|Vallaki]]'s town guard, a frequent customer of the toymaker [[Gadof Blinsky]], and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
 
-# #statblock
+# #statblock 
 ## 1st Form
 <div class="statblock">
 <h2>Izek Strazni, 1st Form</h2>
@@ -78,7 +78,6 @@
 
 <br>
 ## 2nd Form
-
 <div class="statblock">
 <h2>Izek Strazni, 2nd Form</h2>
 <em>Medium humanoid, neutral evil</em>

@@ -10,7 +10,7 @@ This slouching, centuries-old stone church has a bulging steeple in the back and
 
 This church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar (see the "Bones of St. Andral" section). Father Lucian Petrovich (LG male human priest) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named Milivoj (see below) tends the grounds and digs graves.
 
-At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male and female human commoners) and 2d6 equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
+At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male and female human commoners) and 2d6 equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named [[Willemina Rikalova]]. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 ![img-43.jpeg](img-43.jpeg)
 
 Milivoj ( N male human commoner) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
@@ -33,7 +33,7 @@ The theft of the bones has left the church vulnerable to attack by Strahd's mini
 
 Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 
-The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, Urwin Martikov, considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
+The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, [[Urwin Martikov]], considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
 
 A bed for the night costs 1 ep. Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge. A cooked wolf steak costs 1 ep .
 
@@ -48,7 +48,7 @@ MAP 5.2: BLUE WATER INN (AREA N2)
 
 ### Keepers of the Feather
 
-Urwin Martikov (LG male human) is a wereraven (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, Danika Dorakova (LG female human), is also a wereraven, as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
+[[Urwin Martikov]] (LG male human) is a wereraven (see appendix D) and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. Urwin's wife and business partner, [[Danika Dorakova]] (LG female human), is also a wereraven, as are their two sons, Brom and Bray. The boys have only 7 hit points each and, at ages eleven and nine, are too young to be effective combatants.
 
 At any given time, another 1d4 wereravens (members of the Keepers of the Feather) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn.
 
@@ -98,7 +98,7 @@ On rare occasions when he has something to say, Szoldar speaks brusquely, while 
 Nikolai and Karl Wachter ( N male human nobles) are brothers of noble birth. They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers. Their mother, Fiona Wachter (see area N4), is an influential figure in town, but her sons never talk about her. They'd rather listen to tales of the characters' harrowing adventures or hear about how the characters plan to free Vallaki from the burgomaster's madness.
 
 #### Rictavio. 
-The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name Rictavio-a false identity adopted by the legendary vampire hunter Rudolph van Richten (see appendix D). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. Rictavio claims to be a carnival ringmaster from a distant land. He's been staying at the inn for almost a month, taking advantage of Urwin Martikov's generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn't welcome at the inn, so Rictavio gave it to the local toymaker (see area N7).
+The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name Rictavio-a false identity adopted by the legendary vampire hunter Rudolph van Richten (see appendix D). He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. Rictavio claims to be a carnival ringmaster from a distant land. He's been staying at the inn for almost a month, taking advantage of [[Urwin Martikov]]'s generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn't welcome at the inn, so Rictavio gave it to the local toymaker (see area N7).
 
 Rictavio admits to having no musical talent but manages to entertain locals nonetheless with his stories of faraway places. Twice each day, at dawn and again at dusk, he leaves the inn with a couple of apples and a cooked wolf steak wrapped in a handkerchief. He claims the food is for his portly friend, "the destitute toymaker" (area N7) and his pet monkey. In fact, the apples are for his horse Drusilla (area N2f), and the steak is for his captured saber-toothed tiger (area N5).
 
@@ -121,7 +121,7 @@ The double doors that lead outside can be barred shut from within.
 %% --- Page 138 --- %%
 This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
 
-Urwin Martikov, who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
+[[Urwin Martikov]], who prepares most of the meals, is found here throughout the day. He occasionally receives help from his two boys, but they are easily distracted. A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable. A door in the west wall leads outside and is usually barred from the inside.
 
 A secret door at the west end of the south wall can be pushed open to reveal a wooden staircase that leads up to area N2i.
 
@@ -143,7 +143,7 @@ This small room lies under a wooden staircase (area N2i). Hanging from wooden pe
 
 Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost-you can see hundreds of them.
 
-Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four swarms of ravens and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, Urwin Martikov and two other wereravens hear the ruckus and investigate (in human form).
+Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door. If the characters tamper with the chest, the ravens gather into four swarms of ravens and attack. If two swarms are killed, the others flee. Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, [[Urwin Martikov]] and two other wereravens hear the ruckus and investigate (in human form).
 
 A secret door in the back of the loft can be pushed open to reveal a bedchamber (area N2p) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks.
 
@@ -263,9 +263,9 @@ MAP 5.3: BURGOMASTER'S MANSION (AREA N3)
 
 Use the following information to roleplay the burgomaster and his family.
 #### The Baron. 
-The burgomaster, [[Baron Vargas Vallakovich]] (NE male human noble), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp.
+The burgomaster, Baron Vargas Vallakovich (NE male human noble), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp.
 
-The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [[Izek Strazni]] (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8).
+The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named Izek Strazni (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8).
 
 If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and sends twelve guards to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty commoners to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
 
@@ -360,12 +360,12 @@ The staircase climbs to a ten-foot-wide gallery that stretches almost the length
 
 ### N3j. Izek's Bedroom
 
-The door to this room is locked. [[Izek Strazni]] carries the only key.
-The following description assumes the characters have met Ireena Kolyana (see chapter 3, area E4). If the characters haven't met her, don't read the last sentence.
+The door to this room is locked. Izek Strazni carries the only key.
+The following description assumes the characters have met [[Ireena Kolyana]] (see chapter 3, area E4). If the characters haven't met her, don't read the last sentence.
 
-Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like Ireena Kolyana.
+Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like [[Ireena Kolyana]].
 
-The burgomaster's monstrous henchman, [[Izek Strazni]] (see appendix D), sleeps here at night. During the day, he is in town taking care of his master's business. Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
+The burgomaster's monstrous henchman, Izek Strazni (see appendix D), sleeps here at night. During the day, he is in town taking care of his master's business. Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
 
 A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery's name, the Wizard of Wines, and wine's name, Purple Grapemash No. 3.
 
@@ -384,9 +384,9 @@ If the burgomaster has not been drawn elsewhere, he is here. Add:
 
 Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
 
-[[Baron Vargas Vallakovich]] never goes anywhere without his two mastiffs. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
+Baron Vargas Vallakovich never goes anywhere without his two mastiffs. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
 
-The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won't pick a fight with well-armed strangers, however. If he can't make the characters yield to his authority, he swallows his pride until he can circle around with [[Izek Strazni]] and assemble his guards to run them out of town.
+The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won't pick a fight with well-armed strangers, however. If he can't make the characters yield to his authority, he swallows his pride until he can circle around with Izek Strazni and assemble his guards to run them out of town.
 
 The baron's desk contains three drawers stuffed with blank sheets of parchment, jars of ink, and writing quills. It also holds thick books of tax records dating back to the times of the baron's father, grandfather, and great-grandfather.
 
@@ -521,7 +521,7 @@ MAP 5.4: WACHTERHAUS (AREA N4)
 ### Roleplaying
 
 Use the following information to roleplay Lady Wachter, her family, and her associates.
-Lady of the House. Lady Fiona Wachter (LE female human priest with AC 10 and no armor) makes no secret of her family's long-standing loyalty to the von Zarovich line. She believes that Strahd von Zarovich is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that [[Baron Vargas Vallakovich]] won't give up his birthright without a fight.
+Lady of the House. Lady Fiona Wachter (LE female human priest with AC 10 and no armor) makes no secret of her family's long-standing loyalty to the von Zarovich line. She believes that Strahd von Zarovich is no tyrant but, at worst, a negligent landlord. She would happily serve Strahd as burgomaster of Vallaki, but she knows that Baron Vargas Vallakovich won't give up his birthright without a fight.
 
 Fiona conspired to wed her young daughter, Stella, to the baron's son, Victor, as part of a plot to gain a foothold in the baron's mansion, but Stella found Victor to be demented, and he showed no interest in Stella whatsoever. In fact, he spoke such unkind words to Stella that she went mad, and Fiona had to lock her daughter away (see area N4n).
 
@@ -534,7 +534,7 @@ FIONA WACHTER AND MAJESTO
 
 Another secret of Fiona's is that she sleeps with the corpse of her dead husband, Nikolai, who died of sickness nearly three years ago and whom Fiona cherished. Lady Wachter casts gentle repose spells on the corpse to keep it from deteriorating.
 
-If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron's evil henchman, [[Izek Strazni]]. She's happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd's enemy.
+If the characters come to Wachterhaus looking for help to overthrow the burgomaster, Lady Wachter is all ears and suggests they start by killing the baron's evil henchman, Izek Strazni. She's happy to take care of the rest. If they come looking for a way to defeat Strahd, Lady Wachter turns them away, stating in no uncertain terms that she is not, nor ever will be, Strahd's enemy.
 
 Lady Wachter has a different list of prepared spells from that of the priest in the Monster Manual:
 
@@ -858,11 +858,11 @@ Blinsky believes the burgomaster is right-that the only way to escape from Barov
 - A wood-and-string mobile of hanging bats with flapping wings (price 9 cp )
 - A wind-up musical merry-go-round with figures of snarling wolves chasing children in place of prancing horses (price 9 sp )
 - A ventriloquist's dummy that looks like Strahd von Zarovich (price 9 sp )
-- A doll that looks remarkably like Ireena Kolyana (not for sale; see below)
+- A doll that looks remarkably like [[Ireena Kolyana]] (not for sale; see below)
 
 %% --- Page 161 --- %%
-#### Ireena Kolyana Dolls. 
-Blinsky makes special dolls for the burgomaster's henchman, [[Izek Strazni]] (see area N3 and appendix D). Izek doesn't pay for the dolls but instead threatens to burn down Blinsky's shop unless the toymaker delivers a new doll every month. Every doll is modeled on a description given to Blinsky by Izek, and each doll has been closer to capturing Ireena's likeness than the last. Blinsky doesn't know that the doll is meant to be modeled after anyone in particular. If Ireena is with the party, however, Blinsky realizes that she is the inspiration for Izek's dolls.
+#### [[Ireena Kolyana]] Dolls. 
+Blinsky makes special dolls for the burgomaster's henchman, Izek Strazni (see area N3 and appendix D). Izek doesn't pay for the dolls but instead threatens to burn down Blinsky's shop unless the toymaker delivers a new doll every month. Every doll is modeled on a description given to Blinsky by Izek, and each doll has been closer to capturing Ireena's likeness than the last. Blinsky doesn't know that the doll is meant to be modeled after anyone in particular. If Ireena is with the party, however, Blinsky realizes that she is the inspiration for Izek's dolls.
 
 #### Von Weerg's Masterpiece. 
 Blinsky considers himself a student of a great inventor and toymaker named Fritz von Weerg. Blinsky has heard rumors that von Weerg's greatest invention-a clockwork man-lies somewhere in Castle Ravenloft. If the characters seem intent on going there, Blinsky asks if they would be so kind as to find the clockwork "myasterpiece" and "dyeliver" it to him, in exchange for which Blinsky offers to make them any toy they desire. Because "byusiness" has not been good, he says, he has no other reward to offer except, perhaps, his new monkey companion.
@@ -881,7 +881,7 @@ Pikes will be provided.
 ALL WILL BE WELL!
 -The Baron-
 
-The Wolf's Head Jamboree has already occurred, making the square's proclamations out of date. If the characters linger, they see the burgomaster's henchman, [[Izek Strazni]] (see appendix D), arrive with two town guards. Izek orders one guard to tear down all of the old proclamations while the other posts the following new one:
+The Wolf's Head Jamboree has already occurred, making the square's proclamations out of date. If the characters linger, they see the burgomaster's henchman, Izek Strazni (see appendix D), arrive with two town guards. Izek orders one guard to tear down all of the old proclamations while the other posts the following new one:
 
 COME ONE, COME ALL,
 to the greatest celebration of the year:
@@ -895,7 +895,7 @@ Most Vallakians have no idea whom the statue in the square represents. The burgo
 
 ### Donkey-Headed Criminals
 
-The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and [[Izek Strazni]] carries the keys on an iron ring.
+The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and Izek Strazni carries the keys on an iron ring.
 
 Three men, two women, and two boys are trapped in the stocks-all of them tired, wet, and famished. The five adults have the statistics of human commoners, and the children are noncombatants. The plaster donkey heads they wear are meant to encourage ridicule.
 

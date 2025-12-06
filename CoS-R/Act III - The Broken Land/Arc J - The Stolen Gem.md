@@ -1,8 +1,8 @@
 _An adventure for five 5th-level characters._
 
-In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to [[Davian Martikov]], the leader of the order.)
+In this arc, the first morning after the players' first full moon in Barovia, they are approached by [[Urwin Martikov]], who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to [[Davian Martikov]], the leader of the order.)
 
-Before the players depart Vallaki, Ireena Kolyana—inspired by the players’ exploits there and filled with grim determination following her encounters with [[Izek Strazni]]—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
+Before the players depart Vallaki, [[Ireena Kolyana]]—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, [[Ireena]] joins the party as a permanent companion for the remainder of the campaign.
 
 Upon arriving at the Wizard of Wines, the players meet [[Davian Martikov]]—the patriarch of the Martikov family—and his assorted children and grandchildren, who have taken shelter in a hidden cavern beneath the nearby woods. Davian shares that the winery has been invaded by a group of druids known as the Forest Folk alongside a horde of twisted plant creatures called **blights**. Davian asks the players to defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.
 
@@ -21,7 +21,7 @@ Should the players meet Strahd at the Whispering Wall, he shares a brief history
 Should the players return to Kavan’s cairn and present him with Svarog’s wand, he shares with them the story of the schism between the Forest Folk (who chose to worship Strahd) and the Mountain Folk (who defied Strahd’s authority) long ago. Kavan tells the players of the Ladies of the Fanes, and instructs them to travel to the hidden Mountain Folk settlement of Soldav in Tsolenka Pass if they wish to find a way to reverse the land’s corruption.
 # J1. The Blue Water Inn
 ### J1a. Urwin’s Request
-The morning after the night of the players’ first full moon in Barovia, if they have been staying at the Blue Water Inn, Urwin Martikov approaches them with an expression of obvious concern. 
+The morning after the night of the players’ first full moon in Barovia, if they have been staying at the Blue Water Inn, [[Urwin Martikov]] approaches them with an expression of obvious concern. 
 
 After exchanging pleasantries, Urwin reluctantly (though quietly) asks if they would be willing to assist him and Danika with a problem that the inn is currently facing. If the players agree, Urwin shares the following information:
 
@@ -65,7 +65,7 @@ When the players meet Urwin in the Blue Water Inn's kitchen after accepting his 
 > 
 > ***Morale.*** In a fight, Muriel would gladly pull out her shortsword or crossbow and dare her opponent to strike first, fleeing only if her regeneration were blocked or outmatched.
 > 
-> ***Relationships.*** Muriel is an agent of the Keepers of the Feather under [[Davian Martikov]], a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
+> ***Relationships.*** Muriel is an agent of the Keepers of the Feather under [[Davian Martikov]], a contact and ally of Keeper spymaster [[Urwin Martikov]], and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
 
 Muriel greets the players warmly and introduces herself, noting that Urwin has told her that she’ll be bringing them to the Wizard of Wines even as they make sure that she “doesn’t get killed." Following their reply, she then chides the players briefly, playfully suggesting that they “don’t seem like the adventuring type". If the players share any of their exploits in Vallaki or beyond, Muriel cheerfully concedes that they do indeed look well-equipped and well-prepared and thanks them for taking the job.
 
@@ -76,7 +76,7 @@ Muriel greets the players warmly and introduces herself, noting that Urwin has t
 > 
 > * (If accused of being a shapeshifter) “What, like some kind of tree-hugging druid? I don’t even have a wooden staff. And I *hate* trees."
 > * (If accused of being a wereraven) “Oh, so like a werewolf but for ravens instead? That’s so stupid. ‘Oh, look at me, I’m a dangerous werewolf who turns into birds!’"
-> * (If her blue streak of hair is pointed out) “I once saw a wolf with an ugly face, but that doesn’t mean it was [[Izek Strazni]] in disguise. Good on that bird, though. He’s got good taste."
+> * (If her blue streak of hair is pointed out) “I once saw a wolf with an ugly face, but that doesn’t mean it was Izek Strazni in disguise. Good on that bird, though. He’s got good taste."
 > * (If the players continue to insist that Muriel was the blue-winged raven) "Believe what you want. But if I catch you sneaking birdseed into my rations, we're probably gonna have a problem."
 
 If the players provide undeniable evidence for their suggestion (such as Muriel’s uncanny ability to regenerate from her wounds), she winces, then insists that she can’t say anything further without first speaking to her “boss." (She won’t disclose her boss’s identity, but can truthfully promise that her boss is neither Strahd nor one of his servants.)
@@ -134,20 +134,20 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
     <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
 </div>
 
-### Ireena's Request
-Before the players depart the Blue Water Inn, if they have previously treated Ireena Kolyana with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
+### [[Ireena]]'s Request
+Before the players depart the Blue Water Inn, if they have previously treated [[Ireena Kolyana]] with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
 
-Ireena, who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
+[[Ireena]], who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
 
-* Ireena shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
-* If Ireena was stalked or kidnapped by [[Izek Strazni]] in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
-* Ireena notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
+* [[Ireena]] shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
+* If [[Ireena]] was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
+* [[Ireena]] notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
 
-If the players appear concerned for Ireena’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
+If the players appear concerned for [[Ireena]]’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
 
-If the players suggest that Ireena will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
+If the players suggest that [[Ireena]] will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
 
-If the players suggest that Ireena’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
+If the players suggest that [[Ireena]]’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
 # J2. The Old Svalich Road
 The journey from the town of Vallaki to the **Wizard of Wines winery** is just under seven miles long and takes two-and-one-quarter hours to complete. To get to the winery, the players must travel to the Raven River Crossroads, then head south.
 ## J2a. Crossing the River
@@ -223,7 +223,7 @@ A player with a passive Wisdom (Perception) score of 15 or greater or who succee
 In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
 
 > [!combat]- **Balancing the False Trail**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 10% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 10% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to three. 
 > * ***Four Players.*** Reduce the number of vine blights to four. 
@@ -250,7 +250,7 @@ The last stretch of the journey to the Wizard of Wines is largely as described i
 > 
 > Livius adventured with Ismark and Lugdana for nearly a decade afterward, scouting out dangers and spying on their enemies. When he finally retired from adventuring, he used the wealth and notoriety he had gained to found the Keepers of the Feather, a secret society of wereravens dedicated to opposing the forces of darkness across Barovia. Though the Keepers would not themselves enter the fray, they vowed to serve, guide, and shelter any heroes who might one day rise in Lugdana’s memory.
 > 
-> Ten years ago, Madam Eva—assisted by the **roc of Mount Ghakis** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>. Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, Danika Dorakova, left for Vallaki the following morning, never to return.
+> Ten years ago, Madam Eva—assisted by the **roc of Mount Ghakis** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>. Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, [[Danika Dorakova]], left for Vallaki the following morning, never to return.
 > 
 > Just over three months ago, when the ravens caught word of Doru’s brewing rebellion, the **wereraven** Elric Martikov—one of Davian’s youngest sons and [[Elvir Martikov]]’s twin brother—became determined to fight alongside them. Davian, however, forbade him from doing so.
 > 
@@ -286,13 +286,13 @@ If the players descend the ladder, read:
 <div class="description">
 <p>You descend the wooden ladder, each step echoing faintly in the enclosed space as the rungs creak beneath your weight. Overhead, heavy raindrops drum against the closed trapdoor with a relentless rhythm, the muffled sound of booming thunder echoing far above. Rivulets of rainwater run down the damp stone walls around you, pooling in a sloshing, watery pit thirty feet below.</p>
 <p>Halfway down the shaft, the walls open up into a small stone cavern, its rough walls damp and glistening. Lanterns hang from iron hooks that jut out from the walls, their flickering flames filling the space with the warm glow of candlelight. The perimeter of the cavern hosts a collection of crates and sacks, which appear to have been kept in relatively good condition. A tunnel stretches away from the south wall of the cave, a thin layer of mist clinging to its floor as it vanishes into darkness.</p>
-<p>Bedrolls and blankets are strewn across the rough cavern floor, occupied by an assortment of adults and children. Two men bearing a striking resemblance to Urwin Martikov lean against the western wall—the elder with dark hair tinged slightly with gray, and the younger bearing softer features and a mop of brownish hair.</p>
+<p>Bedrolls and blankets are strewn across the rough cavern floor, occupied by an assortment of adults and children. Two men bearing a striking resemblance to [[Urwin Martikov]] lean against the western wall—the elder with dark hair tinged slightly with gray, and the younger bearing softer features and a mop of brownish hair.</p>
 <p>A woman kneels beside a pair of young boys not far away, her angular features framed by locks of chestnut hair. A bald, broad-shouldered man with a darker complexion sits beside her, cradling an infant sleeping peacefully in his arms. A teenager showing a blend of the man and woman's features sits with his knees held to his chest a few feet beyond, a half-whittled stick clutched in his hands.</p>
 <p>The cloaked figure stands at the head of the group, the cowl of his cloak lowered to reveal the features of a man in his elder years. His gray, suspicious eyes scowl back at you, framed by strands of silver-gray hair that cascade down to his shoulders from the receding hairline along his scalp. His face is bronzed and weathered, and the wrinkles above his eyebrows split his forehead like furrowed troughs.</p>
 <p>The patched green cloak he wears has clearly seen better days, but appears to have been proudly decorated with clusters of raven's feathers meticulously sewn into the cowl and shoulders, as well as a menagerie of nearly a dozen old pewter medallions and trinkets that have been haphazardly stitched into the fabric. His weight leans against an old wooden cane, its wide surface carved with intricate patterns of grapes and vines, and his thick fingers tap impatiently against its edge.</p>
 </div>
 
-The two men resembling Urwin Martikov are Adrian and [[Elvir Martikov]], respectively. The woman is [[Stefania Martikov]] and the man beside her is [[Dag Tomescu]], her husband. The two boys are Martin and Viggo, the infant is Yolanda, and the teenager is Claudiu. The cloaked man is [[Davian Martikov]].
+The two men resembling [[Urwin Martikov]] are Adrian and [[Elvir Martikov]], respectively. The woman is [[Stefania Martikov]] and the man beside her is [[Dag Tomescu]], her husband. The two boys are Martin and Viggo, the infant is Yolanda, and the teenager is Claudiu. The cloaked man is [[Davian Martikov]].
 
 > [!profile]+ **Meet the Martikovs**
 > When roleplaying the Martikov family, keep the following information in mind:
@@ -305,9 +305,9 @@ The two men resembling Urwin Martikov are Adrian and [[Elvir Martikov]], respect
 > * **Martin and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
 > * **Davian** is the patriarch of the Martikov family and the widower of his late wife, Angelika Oraonova. Publicly, he avows that Elric was a fool, insubordinate, and disobedient for refusing Davian’s command to stay away from Castle Ravenloft. Deep down, Davian is shattered that the last words he spoke to his son before Elric’s death were, “*And don’t come back!*" Davian most often feels annoyed, irritated, satisfied, or grumpy, and should make the players feel insulted, grateful, and sympathetic to him.
 
-Davian greets Muriel with obvious familiarity, then gruffly asks the players to identify themselves and explain their presence. If informed that the players have been sent by Urwin Martikov, Davian snorts and scoffs at “the audacity of that lout." 
+Davian greets Muriel with obvious familiarity, then gruffly asks the players to identify themselves and explain their presence. If informed that the players have been sent by [[Urwin Martikov]], Davian snorts and scoffs at “the audacity of that lout." 
 
-Davian curtly introduces each member of the family if asked. He is also willing to tersely confirm that Urwin Martikov is his son, though refuses to speak further of their relationship.
+Davian curtly introduces each member of the family if asked. He is also willing to tersely confirm that [[Urwin Martikov]] is his son, though refuses to speak further of their relationship.
 ### Davian’s Request
 Upon learning that the players have been sent to investigate the delayed wine shipments, Davian is glad to share the following information:
 
@@ -342,7 +342,7 @@ As the family splinters, Dag approaches the players and greets them with a sheep
 
 Dag can share the following information if asked:
 
-* Ten years ago, someone stole something valuable from the winery while Urwin Martikov was keeping watch. Davian blamed Urwin for the theft, convinced that he’d been fooling around with his betrothed, Danika Dorakova, instead of paying attention. Davian and Urwin had a furious fight the following morning, which ended with Urwin departing the winery for Vallaki. Urwin hasn’t returned since, and Davian never recovered the thing that was stolen, nor did he ever find the culprit. (If asked what was stolen, Dag says only that it was a gemstone—a prized family heirloom, and one of Davian’s most treasured possessions.)
+* Ten years ago, someone stole something valuable from the winery while [[Urwin Martikov]] was keeping watch. Davian blamed Urwin for the theft, convinced that he’d been fooling around with his betrothed, [[Danika Dorakova]], instead of paying attention. Davian and Urwin had a furious fight the following morning, which ended with Urwin departing the winery for Vallaki. Urwin hasn’t returned since, and Davian never recovered the thing that was stolen, nor did he ever find the culprit. (If asked what was stolen, Dag says only that it was a gemstone—a prized family heirloom, and one of Davian’s most treasured possessions.)
 * Just over three months ago, Elric Martikov, Elvir’s twin brother and Muriel’s betrothed, joined a rebellion in the village of Barovia that marched on Castle Ravenloft. Elric had always been bright-eyed and optimistic—a dreamer who believed in a better future for his loved ones. Davian forebade him from going, and ordered Elric never to return when he disobeyed. Davian’s words came true—Elric died in the castle, and his death shattered the Martikov family once again.
 * Claudiu was especially close to his two youngest uncles, and Elric most of all. He and Elvir haven’t taken Elric’s death well, with both falling into a kind of melancholic despair and Elvir lashing out at anyone who gets on his bad side.
 
@@ -478,7 +478,7 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
 The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
 
 > [!combat]- **Balancing the Cellar**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 29% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 29% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of needle blights to four.
 > * ***Four Players.*** Reduce the number of needle blights to six.
@@ -580,7 +580,7 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 > Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
 
 > [!combat]- **Balancing the Vat Room**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally (Ireena Kolyana), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Replace the elder twig blights with ordinary **twig blights**.
 > * ***Four Players.*** Reduce the number of elder twig blights to one.
@@ -761,7 +761,7 @@ The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immuni
 Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
 
 > [!combat]- **Balancing the Loading Dock**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to three.
 > * ***Four Players.*** Reduce the number of vine blights to four.
@@ -786,7 +786,7 @@ When the players first reach the second floor, they can hear the sound of clatte
 The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
 
 > [!combat]- **Balancing the Printing Press**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of vine blights to one.
 > * ***Four Players.*** Reduce the number of vine blights to two.
@@ -828,7 +828,7 @@ If the players speak with him, Lorghoth is glad to share the following informati
 When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
 
 > [!combat]- **Balancing the Loading Winch**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally (Ireena Kolyana), and one CR 1/4 ally (swarm of ravens), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken.
 > * ***Four Players.*** Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
@@ -868,7 +868,7 @@ Elvir and Claudiu are awed and slightly shaken at the players’ ability to defy
 After thanking and congratulating the players, [[Davian Martikov]] reveals that he has not been entirely forthright with the players. He then agrees to share the following information:
 
 * The Forest Folk didn’t attack merely because they are “bad neighbors." Davian and his family are members of the Keepers of the Feather—a secret society dedicated to aiding those who oppose Strahd von Zarovich and his servants. The Keepers of the Feather, which aim to guide and shelter others rather than fighting Strahd directly, uses ravens as their messengers and spies.
-* Davian is the leader of the organization, and all of his children are also members. (Davian can confirm that Muriel Vinshaw and Urwin Martikov are also members of the Keepers of the Feather, as well as a number of other Barovians scattered across the valley.)
+* Davian is the leader of the organization, and all of his children are also members. (Davian can confirm that Muriel Vinshaw and [[Urwin Martikov]] are also members of the Keepers of the Feather, as well as a number of other Barovians scattered across the valley.)
 * Just over three months ago, one of Davian’s youngest sons—Elvir’s twin brother, Elric—planned to travel to Castle Ravenloft to join the revolt against Strahd. Davian forebade it, reminding Elric that the Keepers of the Feather were spies, not fighters, and that joining the rebellion openly could compromise the secret of their existence. Elric defied him and joined the revolt anyway.
 * Elric died in Castle Ravenloft. Not long thereafter, Baba Lysaga’s **scarecrows** and the druids of Yester Hill—often accompanied by a mysterious, dark-skinned woman—began staging attacks against the winery. 
 * The Winery’s best-kept secret is the source of its wine: three green gemstones the size and shape of pinecones enchanted with plant-growing magic. Since its founding, the Martikovs have used these gemstones to grow three vintages of wine: Champagne du le Stompe, Red Dragon Crush, and Purple Grapemash No. 3. 
@@ -1039,7 +1039,7 @@ The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as des
 ### Greeting Strahd
 Strahd greets the players with familiarity. He also addresses their companions as follows:
 
-* If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
+* If [[Ireena]] is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
 * If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
 
 Strahd then asks what business the players might have on the road to Yester Hill—especially at such a dark and forsaken time of night. “I find that it is always the final hours before dawn that I most enjoy," Strahd says, “but I confess I did not expect to find kindred spirits on such a lonely path this eve."
@@ -1112,7 +1112,7 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
 
 > [!combat]- **Balancing the Ritual’s Guards**
-> The combat encounter with the **druid assailants** and **berserkers** (see [[Arc J - The Stolen Gem#J5c. The Ritual Begins|The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, and two CR 2 allies (Ireena Kolyana and Muriel Vinshaw), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> The combat encounter with the **druid assailants** and **berserkers** (see [[Arc J - The Stolen Gem#J5c. The Ritual Begins|The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, and two CR 2 allies ([[Ireena Kolyana]] and Muriel Vinshaw), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the number of druid assailants to one.
 > * ***Four Players.*** Reduce the number of berserkers to one.
@@ -1310,7 +1310,7 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
 </div>
 
 > [!combat]- **Balancing the Second Bride**
-> This combat encounter is a **brusing** combat encounter against a party of five 5th-level players. one CR 1 ally (Muriel Vinshaw), and one CR 2 ally (Ireena Kolyana), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **brusing** combat encounter against a party of five 5th-level players. one CR 1 ally (Muriel Vinshaw), and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Decrease Ludmilla’s hit points to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
 > * ***Four Players.*** Decrease Ludmilla’s hit points to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
@@ -1431,10 +1431,10 @@ When the hook first manifests, a tall arch formed of fog and swirling mist appea
 
 After three rounds, the arch vanishes forever, and the player character is trapped within the Whispering Wall for eternity, with no means of escape. (The character can be freed only if the players restore the memory of the Dreamer in the **Epilogue.**)
 
-> [!abstract]+ **What Ireena Sees**
+> [!abstract]+ **What [[Ireena]] Sees**
 > If Muriel is with the players, she declines to enter the Wall alongside them. “I’ll take no gift from von Zarovich," she says quietly. “And I know what I’d see, anyway." (Muriel is referring to Elric.)
 > 
-> If Ireena is with the players, she enters the Wall if at least half of the players do so (rounded down), and remains outside otherwise. If she enters, she sees a dawning sun rising over an open road, which flows through a picturesque landscape toward a gleaming city that stands in the distance. A covered wagon stands upon the road, and a woman’s voice invites her warmly to enter, “because we’ve got a long journey ahead of us." Upon exiting the Wall, Ireena’s cheeks glisten with tears. (She refuses to share the contents of her vision while Strahd is present, but is willing to share them later if asked.)
+> If [[Ireena]] is with the players, she enters the Wall if at least half of the players do so (rounded down), and remains outside otherwise. If she enters, she sees a dawning sun rising over an open road, which flows through a picturesque landscape toward a gleaming city that stands in the distance. A covered wagon stands upon the road, and a woman’s voice invites her warmly to enter, “because we’ve got a long journey ahead of us." Upon exiting the Wall, [[Ireena]]’s cheeks glisten with tears. (She refuses to share the contents of her vision while Strahd is present, but is willing to share them later if asked.)
 
 To an outside observer, a player who leaves the Wall returns no more than one round after they entered it, and in exactly the same condition. When all players have either returned from or been trapped in the Wall, Strahd retrieves a small, luminescent object from a pocket within his cloak and holds it into the air. (The object, which Strahd obtained from the Whispering Wall in exchange for the sacrifice of his **animated armor**, and which he stowed in his cloak at the beginning of the conversation, resembles a spark of light condensed into solid form.)
 

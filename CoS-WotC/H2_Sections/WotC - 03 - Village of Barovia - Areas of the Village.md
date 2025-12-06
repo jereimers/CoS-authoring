@@ -18,7 +18,7 @@ The tavern building is about 60 feet square. Close inspection of the sign reveal
 ISMARK THE LESSER
 Ismark (LG male human veteran) is a young man who sits by himself at a corner table, sipping his wine. Other villagers call him "Ismark the Lesser" because he has lived in the shadow of his father for most of his life.
 
-Ismark isn't a typically dour Barovian. He invites the characters to join him, offers to pay for their wine, and asks for their aid in protecting his adopted sister, Ireena Kolyana. If they agree to help, he takes them to the burgomaster's residence (area E4). He wants the characters to help him escort Ireena to Vallaki, a settlement in the heart of the valley, beyond the view of Castle Ravenloft and (he hopes) beyond the reach of Strahd. Ismark knows that moving Ireena is a gamble, since she's vulnerable to Strahd when she is outside their home, but he has heard assertions that Vallaki is well-defended.
+Ismark isn't a typically dour Barovian. He invites the characters to join him, offers to pay for their wine, and asks for their aid in protecting his adopted sister, [[Ireena Kolyana]]. If they agree to help, he takes them to the burgomaster's residence (area E4). He wants the characters to help him escort Ireena to Vallaki, a settlement in the heart of the valley, beyond the view of Castle Ravenloft and (he hopes) beyond the reach of Strahd. Ismark knows that moving Ireena is a gamble, since she's vulnerable to Strahd when she is outside their home, but he has heard assertions that Vallaki is well-defended.
 
 Ismark is as tight-lipped as any of the other Barovian villagers, unless the talk deals with Ireena or Strahd. Ismark knows everything the other villagers know. He also knows that, for some unknown reason, Strahd is attracted to Ireena and desires her above all others.
 
@@ -46,7 +46,7 @@ A weary-looking mansion squats behind a rusting iron fence. The iron gates are t
 
 Characters who survey the grounds can, with a successful DC 11 Wisdom (Perception) check, discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints. The footprints were made by zombies and ghouls under Strahd's control.
 
-Ireena Kolyana (LG female human noble with 14 hit points), the adopted daughter of the burgomaster, is inside the mansion and won't open the heavily barred door to anyone unless she is convinced that those outside her door have no allegiance to Strahd. If the characters convince her, either with good roleplaying or a successful DC 15 Charisma (Deception or Persuasion) check, or if Ismark is with them, she opens the door and invites them in.
+[[Ireena Kolyana]] (LG female human noble with 14 hit points), the adopted daughter of the burgomaster, is inside the mansion and won't open the heavily barred door to anyone unless she is convinced that those outside her door have no allegiance to Strahd. If the characters convince her, either with good roleplaying or a successful DC 15 Charisma (Deception or Persuasion) check, or if Ismark is with them, she opens the door and invites them in.
 
 If the characters enter the mansion, read:
 
@@ -126,7 +126,7 @@ Doru hasn't fed since he was imprisoned, and he cries out to his father at all h
 
 In addition to the lore known to all Barovians (see "Barovian Lore" in chapter 2), Donavich knows the following useful information:
 
-- Ireena Kolyana isn't the natural daughter of Kolyan Indirovich. Although Ireena never knew, Kolyan found her at the edge of the Svalich Woods near the Pillarstone of Ravenloft. She was but a girl then and seemed to have no memory of her past. Kolyan adopted her and loved her dearly.
+- [[Ireena Kolyana]] isn't the natural daughter of Kolyan Indirovich. Although Ireena never knew, Kolyan found her at the edge of the Svalich Woods near the Pillarstone of Ravenloft. She was but a girl then and seemed to have no memory of her past. Kolyan adopted her and loved her dearly.
 - Every night at midnight, the spirits of dead adventurers rise up out of the church graveyard, forming a silent procession as they walk the road toward Castle Ravenloft. (See "March of the Dead" in the "Special Events" section at the chapter's end.)
 
 Funeral for the Burgomaster. If the characters bring Kolyan Indirovich's body to the church, Donavich presses the characters into helping him bury the burgomaster in the cemetery (area E6) at dawn. During the burial, Donavich offers prayers to the Morninglord in exchange for Kolyan Indirovich's deliverance from Barovia.

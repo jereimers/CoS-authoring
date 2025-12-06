@@ -5,7 +5,7 @@ Like all of the Domains of Dread, Barovia is entrapped by the mists of Ravenloft
 
 Precious few—including only archmages, scholars, and (at times) the Darklords themselves—know that the Dark Powers exist. Fewer still know of their true nature and origins. While the Dark Powers were born from the miasma of evil that dwells within the Amber Temple of Barovia, they are not themselves the vestiges—the non-sapient fragments of dead, malevolent gods—that are sealed within the sarcophagi of the temple. (For more information about the vestiges of the Amber Temple, see <span class="citation">The Amber Temple (p. 181)</span>.)
 
-The Dark Powers do not necessarily seek to corrupt those they encounter. Instead, for certain individuals, they seek to offer a choice between darkness and light—and to punish and ensnare those who fall to their temptations. In this adventure, two such individuals are Strahd von Zarovich and Ireena Kolyana.
+The Dark Powers do not necessarily seek to corrupt those they encounter. Instead, for certain individuals, they seek to offer a choice between darkness and light—and to punish and ensnare those who fall to their temptations. In this adventure, two such individuals are Strahd von Zarovich and [[Ireena Kolyana]].
 
 As described in <span class="citation">Mists of Ravenloft</span> and <span class="citation">Sunlight in Barovia (p. 23-24)</span>, the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. 
 
@@ -52,7 +52,7 @@ However, Baron Vallakovich commands the loyalty of [[Izek Strazni]], a cruel and
 
 Though Vallaki is far from a police state, Izek has spies throughout the town—individuals that he has threatened or intimidated into keeping him abreast of news and information. Those who speak ill of the Baron or his “festivals” (described in <span class="citation">Chapter 5: The Town of Vallaki (p. 95)</span>) are thrown in the stocks as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. Those who go further may find themselves forcibly summoned to the Baron’s manor for “corrective rehabilitation,” or even left to the tender mercies of Izek himself, whose diabolic mastery of fire allows him to burn his victims’ flesh or set their homes aflame.
 
-As a result, the vast majority of Vallakians have surrendered themselves to Baron Vallakovich’s rule, too terrified of Izek to dare speak out. The sole exceptions are Lady Fiona Wachter, as described in <span class="citation">Vallaki Lore (p. 96)</span>, and her followers, described further in [[#The Cult of Ezra]].
+As a result, the vast majority of Vallakians have surrendered themselves to Baron Vallakovich’s rule, too terrified of Izek to dare speak out. The sole exceptions are Lady Fiona Wachter, as described in <span class="citation">[[Vallaki Lore]] (p. 96)</span>, and her followers, described further in [[#The Cult of Ezra]].
 ## Krezkians
 The people of Krezk are largely as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>, <span class="citation">S3. Village of Krezk (p. 145)</span>, and <span class="citation">Krezk Lore (p. 146)</span>. The villagers are largely unaware that their burgomaster, Dmitri Krezkov, is secretly a werewolf.
 ## Vistani
@@ -68,7 +68,7 @@ The First Folk are a loose society of druidic hunter-gatherers descended from th
 
 Both everywhere and nowhere, the Dark Powers are not quite a proper faction—their goals are inscrutable, their true agenda concealed. As the nameless jailers of Strahd von Zarovich, they seek only to ensure that his prison remains in place, and his suffering continues.
 
-As part of Strahd’s punishment, however, the Dark Powers quietly work to keep the soul of Tatyana Federovna—now reincarnated as Ireena Kolyana—out of the vampire’s reach. For all their might, it is against the nature of the Dark Powers to act directly upon the souls within their domains: they can neither destroy her, nor command her spirit. 
+As part of Strahd’s punishment, however, the Dark Powers quietly work to keep the soul of Tatyana Federovna—now reincarnated as [[Ireena Kolyana]]—out of the vampire’s reach. For all their might, it is against the nature of the Dark Powers to act directly upon the souls within their domains: they can neither destroy her, nor command her spirit. 
 
 However, as they once did with Strahd, the Dark Powers can always offer a choice—in Ireena’s case, a choice to end her existence, to flee from Strahd’s pursuit, and to find the safety of temporary oblivion. Nearly five hundred years ago, Tatyana Federovna accepted this offer, and leapt from the Pillarstone of Ravenloft to her doom. Forty years later, Marina Ulrich did the same, and let slip to her father the secret of Strahd’s pursuit.
 
@@ -82,7 +82,7 @@ The Keepers, despite their lycanthropic nature, are spies—not warriors. With t
 
 More importantly, one of the Keepers—a young **wereraven** named Elric, Muriel’s former romantic partner—recently accompanied Doru’s mob of Barovians to Castle Ravenloft, and was killed in the slaughter. Fearing Strahd’s attention, the rest of the Keepers are now laying low, hoping to keep their members safe and their secrets out of the vampire’s hands.
 
-That doesn’t mean, though, that the Keepers are staying idle. Their spy network—led by Urwin Martikov and his wereraven associates—has tendrils that reach throughout the valley and mountains, gathering constant intelligence from the flocks of ravens that soar through the skies. Some among the Keepers joke that not a twig could be snapped in the Svalich Woods without Urwin knowing of it—and, sometimes, they wouldn’t be far wrong.
+That doesn’t mean, though, that the Keepers are staying idle. Their spy network—led by [[Urwin Martikov]] and his wereraven associates—has tendrils that reach throughout the valley and mountains, gathering constant intelligence from the flocks of ravens that soar through the skies. Some among the Keepers joke that not a twig could be snapped in the Svalich Woods without Urwin knowing of it—and, sometimes, they wouldn’t be far wrong.
 
 ## Barovian Refugees
 
@@ -223,7 +223,7 @@ More practically, the module's fast-paced narrative requires short travel times 
 
 ***Cultures.*** The changes to Barovian history are discussed in further detail in **History of Barovia** below. In Vallaki, [[Izek Strazni]] now has a small number of local spies to explain why—in a town where all guards have been assigned to patrol the walls—the Baron is so easily able to find and prosecute individuals for "malicious unhappiness." Secondly, the First Folk have been included to provide a shared backstory for the mad druids of Yester Hill and the berserkers of the Balinok Mountains.
 
- ***Factions.*** More information about the Dark Powers' relationship with Strahd von Zarovich and Ireena Kolyana is discussed in **Chapter 3: Running the Game.** The deceased wereraven, Elric, has been added to the Keepers of the Feather to explain why Baba Lysaga and the druids of Yester Hill have suddenly discovered the society's existence. 
+ ***Factions.*** More information about the Dark Powers' relationship with Strahd von Zarovich and [[Ireena Kolyana]] is discussed in **Chapter 3: Running the Game.** The deceased wereraven, Elric, has been added to the Keepers of the Feather to explain why Baba Lysaga and the druids of Yester Hill have suddenly discovered the society's existence. 
 
 Meanwhile, the Barovian refugees have been added outside of Vallaki's walls to give Ireena a non-selfish reason to travel to Vallaki (i.e., to aid the refugees in relocating from Barovia); to explain why the village of Barovia is a hollow, empty town; and to provide Fiona Wachter with victims to offer Strahd on the night of the Vallakian "Blood Tax," which provides the players a critical opportunity to infiltrate Castle Ravenloft while Strahd is not present.
 

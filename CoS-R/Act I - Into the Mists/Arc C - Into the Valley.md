@@ -10,18 +10,18 @@ Soon afterward, the players finally arrive at the Vistani encampment at Tser Poo
 
 While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the *Holy Symbol of Ravenkind*, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, Arabelle.
 
-If the players are tasked with escorting Ireena to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
+If the players are tasked with escorting [[Ireena]] to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
 
-Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster Rictavio and the sons of Lady Fiona Wachter. When morning comes, the players can also have a fateful encounter with [[Baron Vargas Vallakovich]] and his brutish enforcer, [[Izek Strazni]]...
+Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster [[Rictavio]] and the sons of Lady Fiona Wachter. When morning comes, the players can also have a fateful encounter with Baron Vargas Vallakovich and his brutish enforcer, [[Izek Strazni]]...
 
 > [!warning]+ **The Road From Tser Pool**
 >
-> The module’s map of Barovia depicts a dotted line that appears to connect the Tser Pool Encampment to Tser Falls. Despite its appearance, [[H. Tser Falls]] makes clear that this is not a shortcut. Instead, this dotted line is a footpath that leads to the base of Tser Falls, one thousand feet below the bridge overhead. At no point does it actually reconnect to the main road.
+> The module’s map of Barovia depicts a dotted line that appears to connect the Tser Pool Encampment to Tser Falls. Despite its appearance, [[Tser Falls (p. 37)]] makes clear that this is not a shortcut. Instead, this dotted line is a footpath that leads to the base of Tser Falls, one thousand feet below the bridge overhead. At no point does it actually reconnect to the main road.
 >
 > To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Old Svalich Road westward.
 
 > [!info]+ **No Random Encounters**
-> This guide incorporates the material in the original *Curse of Strahd* module only by reference. As such, whenever the players are traveling, you should disregard the [[WotC - 02 - Lands of Barovia - Random Encounters|Random Encounters]] section except where a particular encounter is referenced and incorporated directly.
+> This guide incorporates the material in the original *Curse of Strahd* module only by reference. As such, whenever the players are traveling, you should disregard the [[Random Encounters (p. 28)]] section except where a particular encounter is referenced and incorporated directly.
 # C1. The Svalich Woods
 The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour.
 ## C1a. The Barovian Scouts
@@ -34,9 +34,9 @@ As the players travel, read:
 
 If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
 
-The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
+The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting [[Ireena]] against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see Ireena venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. (Ireena stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
+If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see [[Ireena]] venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. ([[Ireena]] stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
 
 The scouts are searching for the Lansten family: two parents and three young children—a girl and two boys—who went missing during the zombie attack on the village and haven’t been seen since. After asking whether the players have seen their quarries on their journey, the scouts warn them not to stray from the road, noting that dead and dark things lurk beneath the treetops. Kereza and Korga then respectfully depart.
 
@@ -46,7 +46,7 @@ As the players continue down the road, read:
 
 <div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
 
-While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See [[03_Chapter 2 - The Lands of Barovia#Strahd's Spies|Strahd's Spies]] for more information.)
+While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See [[Strahd's Spies, pg. 29]] for more information.)
 
 If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
 
@@ -66,23 +66,23 @@ The players can attempt to lure the zombies away from the clearing; given the zo
 
 If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two *healer’s kits*, two vials of *holy water*, and one *potion of healing.*
 # C2. River Ivlis Crossroads
-This scene takes place in [[F. River Ivlis Crossroads]]
+[[<em>This scene takes place in Chapter 2: Area F.</em>]]
 
 As the players approach this area, the drizzling rain stops. Read:
 
 <div class="description"><p>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.</p></div>
 
-The players have arrived at the River Ivlis Crossroads, which is largely as described in [[F. River Ivlis Crossroads]]. Do not check for a random encounter when the players arrive.
+The players have arrived at the River Ivlis Crossroads, which is largely as described in [[River Ivlis Crossroads (p. 35)]]. Do not check for a random encounter when the players arrive.
 
-This scene begins similarly to [[F. River Ivlis Crossroads]]. However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in <span class="citation">Black Carriage (p. 37)</span> and Carriage House (p. 54), comes into view.
+This scene begins similarly to [[River Ivlis Crossroads (p. 35)</span>. However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in <span class="citation">Black Carriage (p. 37)</span> and <span class="citation">Carriage House (p. 54)]], comes into view.
 ## C2a. Strahd’s Arrival
-The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in [[K49. Lounge]]. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
+The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in [[K49. Lounge (p. 70)]]. If present, [[Ireena]] gasps at the sight of him, whispering that she thought that he was dead.
 
 > [!abstract]+ **What If The Players Flee?**
 >
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
+> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus [[Ireena]]—emerge from the fog behind them and snarl, obstructing the players' escape.
 
-The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
+The carriage then comes to a stop. Read the following, modifying the text as necessary if [[Ireena]] isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
 
 <div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
 <p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
@@ -92,7 +92,7 @@ If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
 <div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
 <p>The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. </p></div>
 
-Whether Ireena is with the party or not, add:
+Whether [[Ireena]] is with the party or not, add:
 
 <div class="description"><p>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.</p></div>
 
@@ -158,7 +158,7 @@ Whether Ireena is with the party or not, add:
 > 
 > <hr>
 > 
-> The wolves are **dire wolves**, as described in [[03_Chapter 2 - The Lands of Barovia#Dire Wolves|Dire Wolves]]. (The number of dire wolves in the pack is equal to the number of players in the party plus Ireena.)
+> The wolves are **dire wolves**, as described in [[Dire Wolves (p. 30)]]. (The number of dire wolves in the pack is equal to the number of players in the party plus [[Ireena]].)
 > 
 > If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
 
@@ -195,7 +195,7 @@ If the players ask about Strahd's driver, Strahd introduces him as Escher, "my c
 During the conversation, at moments when it seems natural to do so, [[Strahd von Zarovich#The Gentleman|Strahd]] poses the players the following questions (in no particular order):
 
 * "Ismark Kolyanovich defied me by obstructing the justice I meted out unto his village. Why should I, as his lord, not punish him for his disloyalty?"
-* "I have claimed Ireena Kolyana, and marked her as my own. Why should I not take her with me to Castle Ravenloft right now?"
+* "I have claimed [[Ireena Kolyana]], and marked her as my own. Why should I not take her with me to Castle Ravenloft right now?"
 * "You are trespassers in my lands, and the last outsider that entered Barovia fostered sedition and treachery. Why should I not dispatch you now, to prevent you from doing the same?" (Strahd's question is referring to Dr. Rudolph van Richten.)
 
 If the players buried Walter's bones and put the spirits of Death House to rest, Strahd poses an additional question:
@@ -209,13 +209,13 @@ As the players attempt to answer his questions, [[Strahd von Zarovich#The Gentle
 The players can push Strahd to make the following concessions:
 
 * He agrees to overlook Ismark's transgressions, so long as Ismark does not defy him or act counter to his will again.
-* He agrees to allow Ireena to depart the River Ivlis Crossroads safely. (Strahd will not grant a longer grace period than that.) 
+* He agrees to allow [[Ireena]] to depart the River Ivlis Crossroads safely. (Strahd will not grant a longer grace period than that.) 
 * He agrees to refrain from judgment against the players unless they take action directly against his person.
 * He agrees to forgive the players their transgressions against the cult of Death House.
 
 The players might successfully exact these concessions using a variety of arguments, including (but not limited to) the following:
 
-* The players have promised Ismark that they will escort Ireena to Vallaki and they must be allowed to fulfill their word.
+* The players have promised Ismark that they will escort [[Ireena]] to Vallaki and they must be allowed to fulfill their word.
 * The players have taken no hostile action against Strahd and should be granted a presumption of innocence.
 * The players' actions in Death House were conducted in self-defense, and therefore should be excused. 
 
@@ -223,15 +223,15 @@ If the players appear to doubt Strahd's fidelity to his concessions, [he promise
 
 When the players have answered all of Strahd's questions to his satisfaction, he bids them farewell and steps back into the black carriage.
 
-As he does, Strahd’s **dire wolves**—including one for each player plus Ireena—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage and the wolves then depart for Castle Ravenloft.
+As he does, Strahd’s **dire wolves**—including one for each player plus [[Ireena]]—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage and the wolves then depart for Castle Ravenloft.
 ## C2e. Departing the Crossroads
-As the players move to depart the River Ivlis Crossroads after Strahd has left, they encounter [[03_Chapter 2 - The Lands of Barovia#The Hanged One|The Hanged One]]. The character hanged from the gallows should be the character who was the rudest to Strahd or the least cooperative with his questions.
+As the players move to depart the River Ivlis Crossroads after Strahd has left, they encounter [[[The Hanged One (p. 35)]()]]. The character hanged from the gallows should be the character who was the rudest to Strahd or the least cooperative with his questions.
 # C3. The Strix
 Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, the players hear the sound of a distressed bird cawing from above. A raven with blue-tipped wings—recognizably the same raven that met them in the village of Barovia—then crashes into the road at the players’ feet, visibly wounded. This is, again, the **wereraven** Muriel, in disguise with 1 hit point. Her wings and torso have been penetrated by several dozen silver barbs, leaving her unable to fly, regenerate, or transform until removed.
 
 > [!info]+ **Dying NPCs**
 >
-> As noted in Monsters and Death (Player's Handbook, p. 198), allied non-player characters—such as Muriel Vinshaw and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws Player's Handbook, p. 197).
+> As noted in Monsters and Death ([[Player's Handbook, p. 198</span>), allied non-player characters—such as Muriel Vinshaw and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws (<span class="citation">Player's Handbook, p. 197]]).
 
 The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix**: a large artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers. 
 
@@ -243,7 +243,7 @@ The **greater strix** uses the statistics of a **manticore**, but is a Medium co
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**, but with vulnerability to fire damage). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
 > [!combat]- **Balancing the Strix**
-> This combat encounter is a **bruising** encounter against a party of five 3rd-level players and a CR 1 ally (Ireena Kolyana), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is a **bruising** encounter against a party of five 3rd-level players and a CR 1 ally ([[Ireena Kolyana]]), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * ***Three Players.*** Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer.
 > * ***Four Players.*** Reduce the number of swarms of lesser strix to one.
@@ -251,8 +251,8 @@ The greater strix is joined by two **swarms of lesser strix** (each using the st
 
 These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players instead if they attempt to harm it or otherwise shelter Muriel from its assault. It fights to the death.
 
-> [!warning]+ **Don't Hurt Ireena**
-> Strahd's minions and those loyal to him, including the strix, don't attack Ireena.
+> [!warning]+ **Don't Hurt [[Ireena]]**
+> Strahd's minions and those loyal to him, including the strix, don't attack [[Ireena]].
 
 If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 15 Wisdom (Medicine) check, reducing her to 0 hit points and causing her to fall unconscious on a failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
 
@@ -314,7 +314,7 @@ If rescued, Muriel remains with the players until she can discern their intent. 
 <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
 </div>
 
-If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
+If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to [[Urwin Martikov]] at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
 
 > [!info]+ **Muriel Incognito**
 > While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the *speak with animals* spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators. If asked for her name, she excitedly introduces herself as "Blue," and grows increasingly stubborn if questioned.
@@ -329,24 +329,24 @@ If she learns that the players plan to travel to Vallaki, Muriel travels with th
 > * **Trumpet.** To celebrate a victory or achievement.
 
 # C4. Tser Pool
-This scene takes place in [[G. Tser Pool Encampment]]
+[[<em>This scene takes place in Chapter 2: Area G.</em>]]
 
 The journey from the River Ivlis Crossroads to the Tser Pool Encampment is one-and-a-half miles long and takes thirty minutes.
 
 > [!warning]+ **New Content Warning**
 > In the v2.0.8 update, added **July 18, 2024**, Madam Eva's invitation in [[Arc B - Welcome to Barovia]] was removed. In its place, Ismark Kolyanovich now asks the players to travel to Tser Pool and seek Madam Eva's guidance on how Strahd may be defeated. Dungeon Masters who used the old version of Arc B should instead use the [[Deprecated Material/Arc C - Into the Valley#C4. Tser Pool|deprecated version of this scene]]. (All other scenes in this arc, beginning with [[#C5. The Skeletal Rider]], remain unchanged.)
 ## C4a. Arrival at Tser Pool
-This area is largely as described in [[G. Tser Pool Encampment]]. However, none of the Vistani at the camp are intoxicated, and only one—a Vistana woman named Eliza—serves as a spy for Strahd.
+This area is largely as described in [[G. Tser Pool Encampment (p. 36)]]. However, none of the Vistani at the camp are intoxicated, and only one—a Vistana woman named Eliza—serves as a spy for Strahd.
 
-As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in [[02_Chapter 1 - Into the Mists#Mysterious Visitors|Mysterious Visitors]]. However, he has the spell *major image* prepared rather than *vampiric touch*.
+As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in [[Mysterious Visitors (p. 19)]]. However, he has the spell *major image* prepared rather than *vampiric touch*.
 
-Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in [[Vistani Lore]]. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **night hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
+Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in [[Vistani Lore (p. 27)]]. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **night hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
 
 However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears. 
 
 If the players ask whether Strahd obtained a foretelling from Madam Eva, Stanimir tells them that Madam Eva shares her gifts freely with all—but that each person’s future is different, and often difficult to discern.
 ## C4b. Madam Eva's Tent
-This scene unfolds largely as described in [[03_Chapter 2 - The Lands of Barovia#Madam Eva's Tent|Madam Eva's Tent]]. After greeting the players, [[Non-Player Characters#Madam Eva|Madam Eva]] names each player character personally, giving them one or more symbolic epithets related to their histories, their goals, and/or their capabilities.
+This scene unfolds largely as described in [[Madam Eva’s Tent (p. 37)]]. After greeting the players, [[Non-Player Characters#Madam Eva|Madam Eva]] names each player character personally, giving them one or more symbolic epithets related to their histories, their goals, and/or their capabilities.
 
 > [!profile]+ **Profile: Madam Eva**
 >
@@ -442,7 +442,7 @@ If the players accept the challenge, Eliza, Arturi, and [[Non-Player Characters#
 * **Stanimir** wagers a worn deck of Tarokka cards that once belonged to his late wife. (“They’ve sat unused and dusty in my wagon for long enough,” he says with a sad smile. “I think she’d like it if they were out in the world again.”)
 * **Eliza** wagers a collapsible brass spyglass with a small, maneuverable mirror, allowing the user to peer around corners.
 * **Arturi** wagers a short manuscript on werewolves authored by Dr. Rudolph van Richten.
-* **Ireena** wagers a painted wooden hairclip in the shape of a sunflower that she once wore as a child.
+* **[[Ireena]]** wagers a painted wooden hairclip in the shape of a sunflower that she once wore as a child.
 
 Give the players a few minutes away from the table to plan out their stories before the game begins.
 
@@ -451,7 +451,7 @@ Give the players a few minutes away from the table to plan out their stories bef
 > * Stanimir, believing that a grain of truth lies at the heart of every tale, votes nothing but True.
 > * Eliza, not one for half-truths, alternates between True and False.
 > * Arturi, cynical and distrusting, alternates between Half-True and False.
-> * Ireena, quick to warm to the player, alternates between True and Half-True.
+> * [[Ireena]], quick to warm to the player, alternates between True and Half-True.
 
 
 > [!lore]+ **Arturi's Manuscript**
@@ -478,7 +478,7 @@ Give the players a few minutes away from the table to plan out their stories bef
 >
 > A spell of removal can also cure an afflicted lycanthrope, though those who accept the beast may fight it bitterly. As for those unfortunate souls born under the curse, they are doomed to bear their affliction for life. As far as my research has shown, there exists no cure, no respite for such individuals. They are caught in an eternal struggle, forever haunted by the wolf within.
 ### Stanimir’s Tale
-Stanimir goes first, delivering the same tale as described in [[02_Chapter 1 - Into the Mists#The Dancing Fire|The Dancing Fire]]. However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
+Stanimir goes first, delivering the same tale as described in [[The Dancing Fire (p. 20)]]. However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
 
 When his tale has ended and all participants have made their guesses—Eliza and Arturi going last, with Eliza voting “True” and Arturi voting “Half-True”—Stanimir reveals that his story was indeed a true tale of the Vistani people, and that the wounded prince lived on as a friend to the Vistani, even when his heart was led astray by shadows and mist. (If asked, Stanimir admits that the prince was [[Strahd von Zarovich]] in the days before he came to Barovia, and that his promise to the Vistani is why they remain in the valley to this day, “without fear or favor.”)
 ### Eliza’s Tale
@@ -507,7 +507,7 @@ After three of the players have gone, Arturi then shares the following tale:
 </div>
 
 When his tale has ended and all participants have made their guesses—Stanimir and Eliza going last, with Stanimir voting “True” and Eliza voting “False”—Arturi reveals that his story was true. He politely declines, however, to reveal anything further, noting only with a sad smile that "A story cannot truly be told until it has ended."
-### Ireena’s Tale
+### [[Ireena]]’s Tale
 After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireena]] (if present) then shares the following tale:
 
 <div class="description"><p>"When I was a child, my father took me and my brother to a vast, tranquil lake. I remember the sand beneath my bare feet, and the lapping of the waves against the shore. </p>
@@ -517,9 +517,9 @@ After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireen
 <p>"A heavy mist had descended around me, and shadowed shapes lurked in every corner. I stepped forward, one hand reaching fearfully into the fog—and a wolf made of mist leapt forth, its jaws opened wide to devour me. And then—everything went black.</p>
 <p>"The next thing I remembered, I awoke in my own bed, my father's humming echoing from the kitchen. I don't know how I got there, or what became of the wolf, but I can still remember its teeth as clearly as ever."</p></div>
 
-When her tale has ended and all participants have made their guesses—Stanimir voting “True” and Eliza and Arturi voting “False”—Ireena reveals that her story was false. With a quiet laugh, she shares that the story is a dream that she’s had since childhood, noting that there are no lakes near the village of Barovia and that she’d never seen a **dire wolf** until recently.
+When her tale has ended and all participants have made their guesses—Stanimir voting “True” and Eliza and Arturi voting “False”—[[Ireena]] reveals that her story was false. With a quiet laugh, she shares that the story is a dream that she’s had since childhood, noting that there are no lakes near the village of Barovia and that she’d never seen a **dire wolf** until recently.
 
-If challenged on his vote, Stanimir merely says, with a mysterious smile, that many dreams have a kernel of truth. He then thanks Ireena for sharing her tale.
+If challenged on his vote, Stanimir merely says, with a mysterious smile, that many dreams have a kernel of truth. He then thanks [[Ireena]] for sharing her tale.
 ### Arturi Departs
 When the game ends, Arturi bids the players farewell and departs from the camp. If asked why, he shares, with a sad smile, that the camp is in danger each moment he lingers there after dark. "I have been selfish tonight," he murmurs, "and pushed my fortunes as far as I dare. But I dare not remain any longer, for fear of the terror that might follow." 
 
@@ -562,7 +562,7 @@ Eliza hopes to travel with the players openly to their destination. If refused, 
 > [!lore]+ **Eliza's Fanaticism**
 > Eliza freely admits that few Vistani agree with her beliefs or loyalty to Strahd—a fact that drives her to curse the "ungrateful" and "faithless" among them. Although she doesn't believe Barovia is the ancestral home of the Vistani, Eliza believes it to be a new home that Strahd found for them.
 
-**If the players attack Eliza**, she attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in Chases (Dungeon Master's Guide, p. 252), using the **Wilderness Chase Complications** table as follows:
+**If the players attack Eliza**, she attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in [[Chases (<em>Dungeon Master's Guide</em>, p. 252)]], using the **Wilderness Chase Complications** table as follows:
 
 * Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
 * Use a stampede of spooked **elk** for the stampede of spooked animals
@@ -570,7 +570,7 @@ Eliza hopes to travel with the players openly to their destination. If refused, 
 
 While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
 
-**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 11 Dexterity (Stealth) check, followed by a DC 11 Wisdom (Survival) check. Players who depart from the road in this way encounter a **will-o'-wisp** as described in [[03_Chapter 2 - The Lands of Barovia#Will-o'-Wisp|Will-o'-Wisp]].
+**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 11 Dexterity (Stealth) check, followed by a DC 11 Wisdom (Survival) check. Players who depart from the road in this way encounter a **will-o'-wisp** as described in [[Will-o'-Wisp (p. 33)]].
 ### The March of the Dead
 When the players arrive at the River Ivlis Crossroads, read:
 
@@ -584,7 +584,7 @@ The silhouette is Madam Eva. She does not answer if called out to, and waits for
 > [!abstract]+ **Eliza's Flight**
 > If the players failed to stop Eliza from following them, Eliza is hiding behind a patch of underbrush to the north of the crossroads, watching them silently. If she is, Madam Eva's eyes flare wide, and she exhales sharply. "Fools!" she breathes. "You were followed—dispatch her, or all is lost!" She then gestures toward Eliza's hiding place. 
 > 
-> Once noticed, Eliza immediately attempts to flee into the woods, beginning with a 30-foot head start. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in Chases (Dungeon Master's Guide, p. 252), using the **Wilderness Chase Complications** table as follows:
+> Once noticed, Eliza immediately attempts to flee into the woods, beginning with a 30-foot head start. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in [[Chases (<em>Dungeon Master's Guide</em>, p. 252)]], using the **Wilderness Chase Complications** table as follows:
 > * Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
 > * Use a stampede of spooked **elk** for the stampede of spooked animals
 > * Use a **giant spider** for the creature indigenous to the area
@@ -593,11 +593,11 @@ The silhouette is Madam Eva. She does not answer if called out to, and waits for
 > 
 > If Eliza is caught, Madam Eva is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, Madam Eva coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
 
-If further questioned, Madam Eva holds up a hand, then silently turns to face the unmarked graveyard near the gallows. The March of the Dead, as described in [[04_Chapter 3 - The Village of Barovia#March of the Dead|March of the Dead]], begins shortly thereafter.
+If further questioned, Madam Eva holds up a hand, then silently turns to face the unmarked graveyard near the gallows. The March of the Dead, as described in [[March of the Dead (p. 48)]], begins shortly thereafter.
 
 Once the March has begun, Madam Eva informs the players: "Each spirit in this march shares a common trait. Can you suppose what that might be?" If the players answer correctly, she then asks, "Where do you suppose they might be headed?"
 
-Regardless of the players' answer, Madam Eva then shares the information about the March provided in [[04_Chapter 3 - The Village of Barovia#March of the Dead|March of the Dead]], either in response to the players' questions or of her own initiative once the March has fully departed the graveyard.
+Regardless of the players' answer, Madam Eva then shares the information about the March provided in [[March of the Dead (p. 48)]], either in response to the players' questions or of her own initiative once the March has fully departed the graveyard.
 
 "This is the precipice you walk," she warns them once the March has departed. "There are many paths among the webs of Fate, but I can only see what may be—not what will. I can tell you what you *must* do, but I cannot ensure that you will succeed. For if you fail, this shall be your resting place—a place without legacy, glory, or love. Do you understand?"
 
@@ -669,7 +669,7 @@ When the players awaken at Tser Pool the following morning, Stanimir invites the
 
 If the players attempt to speak with Madam Eva again before departing, Stanimir warns them that "the old woman" is asleep, and does not wish to be disturbed. If the players attempt to enter her tent, they find her asleep on a pallet beside her table.
 # C5. The Skeletal Rider
-When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in [[03_Chapter 2 - The Lands of Barovia#Skeletal Rider|Skeletal Rider]], which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
+When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in [[Skeletal Rider (p. 31)]], which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
 
 > [!abstract]+ **Following the Rider**
 > If followed, the rider continues to ignore the players. After traveling a short distance down the road, it turns south down an old hunting path into the woods, which it follows east toward Barovia's eastern border. (The rider is roaming randomly, and has no particular destination.)
@@ -683,7 +683,7 @@ As the players travel west from the River Ivlis Crossroads, read:
 
 Pause to allow the players to act or react. If the players remain silent, continue to [[#C7. The High Road]] below. Otherwise, allow the players to explore the area.
 ## The Watchtower
-The ruined watchtower was built as a lookout post by the Order of the Silver Dragon long ago. It has the same structure as the guard tower at [[T. Tsolenka Pass]], with the following changes:
+The ruined watchtower was built as a lookout post by the Order of the Silver Dragon long ago. It has the same structure as the [[Guard Tower (p. 157)]] at Tsolenka Pass, with the following changes:
 
 * The tower door has been half-pulled from its hinges and can be opened easily.
 * The temperature and wind in the tower are far less severe.
@@ -739,7 +739,7 @@ If the players pause, proceed, or attack, the six wolves in the woods strike. Re
 ![[IMG-20251205143152322.jpg]]
 
 > [!combat]- **Balancing the Wolves** 
-> This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+> This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally ([[Ireena Kolyana]]), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
 > 
 > * **Three Players**. Reduce the number of wolves to 3. 
 > * **Four Players**. Reduce the number of wolves to 4. 
@@ -764,9 +764,9 @@ As the players depart this area, a player with a passive Wisdom (Perception) sco
 > [!lore]+ **The Watching Wolves**
 > The two wolves are **werewolves** in wolf form. Bloodthirsty brutes loyal to Kiril Stoyanovich and Strahd von Zarovich, they will reappear to stalk the players in [[#C11. The Werewolves' Hunt]].
 ## C7b. Tser Falls
-This scene takes place in [[H. Tser Falls]]
+[[<em>This scene takes place in Chapter 2: Area H.</em>]]
 
-This area is largely as described in Tser Falls (p. 37). Additionally, when the players arrive, they can see a revenant (p. 31) standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
+This area is largely as described in [[Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)]] standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
 
 ![[IMG-20251205143155424.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -813,22 +813,22 @@ Before the players depart, the revenant warns them to beware "those who walk in 
 
 The revenant will not leave its post on the bridge under any circumstances.
 # C8. Black Carriage
-This scene takes place in [[I. Black Carriage]]
+[[<em>This scene takes place in Chapter 2: Area I.</em>]]
 
-The journey from Tser Falls to the [[I. Black Carriage]] is one-and-a-half miles and takes thirty minutes. As the players make this journey, read:
+The journey from Tser Falls to the [[Black Carriage (p. 37)]] is one-and-a-half miles and takes thirty minutes. As the players make this journey, read:
 
 <div class="description"><p>You continue down the winding road, which climbs a short distance north before bending west to avoid a bald-headed peak on the right, its craggy cliffs bearing an array of sharp rocks that jut out over the roadway.</p>
 <p>It's not long before the road bends north once again, a second hill arising from the fog on your left. Twisted trees dot its steep slopes, their branches reaching out like gnarled fingers.</p>
 <p>As you travel deeper between the hills, the road narrows and the cliffs grow taller. Soon, though, the hills fall away once more, the road continuing forth into a small, fog-choked basin.</p></div>
 
-This area is as described in [[I. Black Carriage]]. (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
+This area is as described in [[Black Carriage (p. 37)]]. (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
 
-The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in [[B. Gates of Barovia]], but seen from the opposite side.
+The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in [[Gates of Barovia (p. 33)]], but seen from the opposite side.
 
 > [!abstract]+ **Visiting Castle Ravenloft**
 > If the players decide to visit Castle Ravenloft (e.g., to investigate Gertruda's disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
 # C9. Old Bonegrinder
-This scene takes place in [[O. Old Bonegrinder]].
+[[<em>This scene takes place in Chapter 6: Area O.</em>]]
 
 The journey from the Gates of Barovia to **Old Bonegrinder** is two-and-a-half miles long and takes forty-five minutes. As the players make this journey, read:
 
@@ -841,11 +841,11 @@ If the players remain silent or continue ahead, read:
 
 <div class="description"><p>The road soon emerges from the woods once more, veering between two hills. Before long, it bends to the north, hugging the base of a mountain.</p></div>
 
-The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in [[WotC - 06 - Old Bonegrinder - Approaching the Windmill|Approaching the Windmill]]. There are no ravens at or near the windmill. 
+The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in [[Approaching the Windmill (p. 125)]]. There are no ravens at or near the windmill. 
 
-As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in [[03 - Village of Barovia - Dream Pastries|Dream Pastries]]. 
+As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in [[Dream Pastries (p. 48)]]. 
 
-This scene largely unfolds as described in [[03 - Village of Barovia - Dream Pastries|Dream Pastries]], but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
+This scene largely unfolds as described in [[Dream Pastries (p. 48)]], but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
 
 ![[IMG-20251205143157474.png]]
 <span class="credit">"Morgantha Disguised" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -896,7 +896,7 @@ The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-qu
 <p>As the road continues, the forest swallows it up on both sides. The trees towering far above your heads, blocking out all but the barest hints of gray light. The air grows thick and heavy with the scent of moss and rotting leaves; in the distance, you hear a raven's gurgling croak, followed by the sound of fluttering wings.</p>
 <p>Before long, it becomes clear that your presence in this dreary land has not gone unnoticed. A raven follows you for several minutes while keeping a respectful distance.</p></div>
 
-This encounter unfolds as described in [[03_Chapter 2 - The Lands of Barovia#Swarms of Ravens|Swarms of Ravens]], with the party joined by two **swarms of ravens**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
+This encounter unfolds as described in [[Swarms of Ravens (p. 32)]], with the party joined by two **swarms of ravens**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel. 
 
 As the players proceed down the road, read:
 
@@ -904,11 +904,11 @@ As the players proceed down the road, read:
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, she freezes and asks the players if the party can take a quick detour across the field to the lake. If asked, she notes only that the lake seems strangely familiar.
 
-Lake Zarovich is as described in [[L. Lake Zarovich]], but without the beached rowboats or Bluto's boat visible. 
+Lake Zarovich is as described in [[L. Lake Zarovich (p. 38)]], but without the beached rowboats or Bluto's boat visible. 
 
-Upon arriving at the shore of the lake, Ireena notes with trepidation that it appears to be the same lake that she has seen in her dreams. (If she hasn't already shared it, Ireena tells the story of her dream, described in [[#C4d. The Dancing Fire]] above.)
+Upon arriving at the shore of the lake, [[Ireena]] notes with trepidation that it appears to be the same lake that she has seen in her dreams. (If she hasn't already shared it, [[Ireena]] tells the story of her dream, described in [[#C4d. The Dancing Fire]] above.)
 
-Ireena is certain, however, that she has never visited this lake with Ismark and her father, Kolyan. She is uncertain of the implications, but becomes lost in thought if a player reminds her that her father found her wandering the Old Svalich Woods as a child.
+[[Ireena]] is certain, however, that she has never visited this lake with Ismark and her father, Kolyan. She is uncertain of the implications, but becomes lost in thought if a player reminds her that her father found her wandering the Old Svalich Woods as a child.
 # C11. The Werewolves' Hunt
 As the players continue down the road, read:
 
@@ -927,7 +927,7 @@ The werewolves don't attack immediately, preferring to wait for the perfect time
 <div class="description"><p>The woodland road takes you through a small, forested clearing, the circular treeline littered with dense thickets, moss-covered boulders, and craggy ridges.</p>
 <p>Then, without warning, five wolves leap from the forest, yellow eyes glinting as their muzzles curl into snarls!</p></div>
 
-Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
+Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) [[Ireena]], the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
 
 Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, use the statblock below for the werewolves, rather than the one in the *Monster Manual*:
 
@@ -993,7 +993,7 @@ If the werewolves die, they reverts to their true forms: a young man with pale, 
 Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
 
 > [!combat]+ **Balancing the Werewolf Hunt** 
-> This combat encounter is an **oppressive** combat encounter against a party of five 3rd-level players, a CR 1 ally (Ireena Kolyana), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel), and will consume approximately 84% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> This combat encounter is an **oppressive** combat encounter against a party of five 3rd-level players, a CR 1 ally ([[Ireena Kolyana]]), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel), and will consume approximately 84% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > * _**Three Players.**_ Reduce the number of wolves to one.,
 > * _**Four Players.**_ Reduce the number of wolves to two.,
@@ -1001,7 +1001,7 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 
 > [!info]+ **Lycanthropy in Barovia**
 >
-> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** (Monster Manual, p. 207). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
+> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** ([[Monster Manual, p. 207]]). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
 >
 > Instead, an infected creature only receives the benefits of lycanthropy upon transforming into their hybrid form on the night of the full moon. During this time, the creature becomes an NPC under the DM's control until dawn, at which point the creature loses the benefits of lycanthropy.
 >
@@ -1025,18 +1025,18 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 > As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
 # C12. The Town of Vallaki
 ## C12a. The Vallakian Gates
-The road continues forward to the [[N. Town of Vallaki]], largely as described in [[WotC - 05 - Vallaki - Approaching the Town|Approaching the Town]]. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
+The road continues forward to the [[N. Town of Vallaki]], largely as described in [[Approaching the Town (p. 95)]]. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
 
 <div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
 
 If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
-<div class="description"><p>Some of them regard Ireena with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
+<div class="description"><p>Some of them regard [[Ireena]] with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
 
 This area, the Morning Gate, is largely as described in [[WotC - 05 - Vallaki - Town Gates]]. The tents are a camp of Barovian refugees, housing those who survived the trek from the [[E. Village of Barovia]] in the wake of Strahd's siege.
 ### The Refugee Camp
-If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
+If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, [[Ireena]] approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
 
 The members of the refugee camp, which include [[Emeric]], a melancholy older man, and [[Magda]], a grief-stricken young woman, can share the following information:
 
@@ -1046,9 +1046,9 @@ The members of the refugee camp, which include [[Emeric]], a melancholy older ma
 * Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
 * Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in [[03 - Village of Barovia - Dream Pastries]] (p. 125).
 
-The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that Ireena herself has brought a curse upon their people. Few have any wish to deal with her further.
+The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that [[Ireena]] herself has brought a curse upon their people. Few have any wish to deal with her further.
 
-Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
+Following her interaction with the refugees, [[Ireena]] is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
 #### Parriwimple's Mini-Arc
 
 He sees the refugees, is horrified, confused, and instantly sympathetic.  
@@ -1058,7 +1058,7 @@ Their gratitude stuns him.
 
 This is the first time he feels useful by choice, not because Bildrath barked orders.
 
-During the night (or during a moment when Ireena is pointedly excluded), someone asks:
+During the night (or during a moment when [[Ireena]] is pointedly excluded), someone asks:
 
 “Big lad… could you stay a bit? Not forever, just until they let us in? The little ones feel safer when you’re near.”
 
@@ -1069,11 +1069,11 @@ He wants to go with them—but also, he doesn’t want to leave these people beh
 
 The next morning, Parriwimple approaches the group shyly:
 
-##### If Ireena is present:
+##### If [[Ireena]] is present:
 
 He glances at her, anxious about the way people flinched from her.  
 This reinforces his idea:
-“Ireena can’t stay, but I can…”  
+“[[Ireena]] can’t stay, but I can…”  
 “I can help them while you help her.”
 ##### If Arden or Choppy has been protective of him:
 
@@ -1121,7 +1121,7 @@ As the players pass down Vallaki's main avenue, read:
 <p>Flickering candlelight lingers behind the shuttered townhouse windows, and humanoid shadows move beyond closed curtains. Long shadows lurk in the alleyways, where the grass grows long and twisted beneath the stained and sagging wood of the buildings above. </p>
 <p>The streets are empty, though you can see a single cloaked figure traveling away from you down the central road.  In the distance beyond the walls, a lone wolf howls, and a cold gust of wind cuts through the night like a knife.</p></div>
 
-The cloaked figure is Willemina Rikalova, as described in [[N1. St. Andral's Church]]. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
+The cloaked figure is [[Willemina Rikalova]], as described in [[N1. St. Andral's Church]]. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
 
 As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in [[05 - Vallaki - Lady Wachter's Wish]]. (Ernst does not yet deliver an invitation to dine with Lady Wachter, though he does return to [[N4. Wachterhaus]] to report back to Lady Wachter when the players leave his sight.)
 ## C12b. The Blue Water Inn
@@ -1139,7 +1139,7 @@ When the players first arrive, the inn contains the following notable NPCs:
 
 <span class="credit">"The Martikovs of the Blue Water Inn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Urwin Martikov**
+> [!profile]+ **Profile: [[Urwin Martikov]]**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
@@ -1155,9 +1155,9 @@ When the players first arrive, the inn contains the following notable NPCs:
 >
 > ***Morale.*** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
 >
-> ***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of Danika Dorakova. He is also the exiled son of [[Davian Martikov]], and the beloved older brother of Adrian, Elvir, and [[Stefania Martikov]]. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
+> ***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of [[Danika Dorakova]]. He is also the exiled son of [[Davian Martikov]], and the beloved older brother of Adrian, Elvir, and [[Stefania Martikov]]. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
 
-> [!profile]+ **Profile: Danika Dorakova**
+> [!profile]+ **Profile: [[Danika Dorakova]]**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
@@ -1173,62 +1173,62 @@ When the players first arrive, the inn contains the following notable NPCs:
 >
 > ***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
 >
-> ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
+> ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of [[Urwin Martikov]]. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
 ### Entering the Inn
-The taproom is as described in [[N2. Blue Water Inn#N2c. Taproom|N2c. Taproom]]. However, add the following text to the end of this area's description:
+The taproom is as described in [[N2. Blue Water Inn#N2c. Taproom]]. However, add the following text to the end of this area's description:
 
 <div class="description">
 <p>Nearly a dozen Vallakians sit scattered across the various tables, nursing mugs of wine or bowls of hearty stew. Along the staircase, a colorfully dressed man wearing a feathered, wide-brimmed hat gestures wildly at the head of a long table, holding the rapt attention of the several patrons sitting there. You hear a wave of laughter ripple through the group, followed by a smattering of light applause.</p>
 </div>
 
-The man is the ringmaster [[Rictavio]], who is largely as described in [[WotC - 20 - Appendix D - Monsters and NPCs - Creatures (R-Z)#Rictavio|WotC Appendix D]] and [[N2. Blue Water Inn#N2c. Taproom#Rictavio.|Rictavio]]. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in [[N2. Blue Water Inn#N2c. Taproom#Wachter Brothers.|Wachter Brothers]].
+The man is the ringmaster [[Rictavio]], who is largely as described in [[WotC - 20 - Appendix D - Monsters and NPCs - Creatures (R-Z)#Rictavio]] and [[N2. Blue Water Inn#N2c. Taproom]]. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in [[N2. Blue Water Inn#N2c. Taproom]].
 ![[IMG-20251205143159095.png]]
-<span class="credit">"Rictavio" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"[[Rictavio]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
 
-If the characters approach the bar, [[Urwin Martikov]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in [[N2. Blue Water Inn#N2c. Taproom#Wolf Hunters.|Wolf Hunters]].
+If the characters approach the bar, [[Urwin Martikov]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] are also seated at the bar, and are as described in [[N2. Blue Water Inn#N2c. Taproom|N2c]].
 
-[[Urwin Martikov]] greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
+[[Urwin Martikov|Urwin]] greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
 
-Before [[Urwin Martikov]] can reply to the players, [[Danika Dorakova]] returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
+Before [[Urwin Martikov|Urwin]] can reply to the players, [[Danika Dorakova|Danika]] returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
 
 * Danika lightheartedly accuses Urwin of plotting to rent rooms to guests "for free" again, an allegation that Urwin cheerfully denies. 
 * Danika tells the players that Urwin has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. (Urwin graciously concedes the point.) 
 * "After all," Urwin says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
 * Danika pecks Urwin's cheek with a kiss and says, "The table by the window is getting hungry." Urwin winks at the players, picks up the tray again, and exits the bar to deliver the food.
 
-Danika then tells the players the rates for room and board, as listed in [[N2. Blue Water Inn]]. (Both the large guest room, [[N2. Blue Water Inn#N2m. Guest Room|N2m. Guest Room]], as well as the two small guest rooms, [[N2. Blue Water Inn#N2I. Guest Rooms|N2l. Guest Rooms]], are available for rent.) When [[Urwin Martikov]] returns, he offers to take the players' orders for dinner, assuming they're hungry. 
+Danika then tells the players the rates for room and board, as listed in [[N2. Blue Water Inn]]. (Both the large guest room, [[N2. Blue Water Inn#N2m. Guest Room|N2m]], as well as the two small guest rooms, [[N2. Blue Water Inn#N2I. Guest Rooms|N2l]], are available for rent.) When [[Urwin Martikov|Urwin]] returns, he offers to take the players' orders for dinner, assuming they're hungry. 
 
-The players then have a few minutes to talk with Urwin and Danika or amongst themselves. During this conversation, Urwin and Danika can provide the players with information about Rictavio, the Festival of the Blazing Sun (which will take place in five days at noon), and the nearby Vistani camp, as described in [[Vallaki Lore]]. 
+The players then have a few minutes to talk with Urwin and Danika or amongst themselves. During this conversation, Urwin and Danika can provide the players with information about [[Rictavio]], the [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] (which will take place in five days at noon), and the nearby [[N9. Vistani Camp|Vistani camp]], as described in [[Vallaki Lore]]. 
 
-Both Urwin and Danika can provide directions to any major landmark inside of Vallaki, including **N1. St. Andral's Church**, **N5. Arasek Stockyard**, and **N8. Town Square**. If the players ask about the inn's other guest, Urwin and Danika can also share information about Rictavio, which is largely as described in [[N2. Blue Water Inn#N2c. Taproom#Rictavio.|N2c]], except that Rictavio first arrived that same morning.
+Both Urwin and Danika can provide directions to any major landmark inside of Vallaki, including [[N1. St. Andral's Church]], [[N5. Arasek Stockyard]], and [[N8. Town Square]]. If the players ask about the inn's other guest, Urwin and Danika can also share information about [[Rictavio]], which is largely as described in [[N2. Blue Water Inn#N2c. Taproom|N2c]], except that [[Rictavio]] first arrived that same morning.
 
 The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make Urwin alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
 
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See **Map 5.2: Blue Water Inn**.)
+If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See [[map-05.02-blue-water-inn.jpg|Map 5.2 - Blue Water Inn]])
 ### The Ringmaster's Tale
-If any of the players approach Rictavio's table, Nikolai and Karl Wachter urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. (Szoldar Szoldarovich, the wolf hunter, has turned his chair away from the bar to listen in.)
+If any of the players approach [[Rictavio]]'s table, [[The Brothers Wachter|Nikolai and Karl Wachter]] urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. ([[Szoldar Szoldarovich]], the wolf hunter, has turned his chair away from the bar to listen in.)
 
-> [!profile]+ **Profile: Rictavio**
+> [!profile]+ **Profile: [[Rictavio]]**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Rictavio should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
+> ***Resonance.*** [[Rictavio]] should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
 >
-> ***Emotions.*** To onlookers, Rictavio most often appears to feel amused, delighted, or satisfied.
+> ***Emotions.*** To onlookers, [[Rictavio]] most often appears to feel amused, delighted, or satisfied.
 >
-> ***Motivations.*** Rictavio wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
+> ***Motivations.*** [[Rictavio]] wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
 >
-> ***Inspirations.*** When planning Rictavio, channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
+> ***Inspirations.*** When planning [[Rictavio]], channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
 >
 > **Character Information**
-> ***Persona.*** To the world, Rictavio appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
+> ***Persona.*** To the world, [[Rictavio]] appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
 >
-> ***Morale.*** In a fight, Rictavio would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
+> ***Morale.*** In a fight, [[Rictavio]] would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
 >
-> ***Relationships.*** Rictavio is secretly Dr. Rudolph van Richten, the famed vampire hunter.
+> ***Relationships.*** [[Rictavio]] is secretly Dr. Rudolph van Richten, the famed vampire hunter.
 
-After clearing his throat, Rictavio shares the following story:
+After clearing his throat, [[Rictavio]] shares the following #story:
 
 <div class="description">
 <p>The vampire Count Belasco kept his coffin, not in a crypt or keep, but in the cellar of an old, decrepit inn, which was managed by his servant, Igoron.</p>
@@ -1249,34 +1249,34 @@ After clearing his throat, Rictavio shares the following story:
 <p>There was a sizzle, a hiss, and a burst of smoke and flame. Olivenka, purse clutched to her chest, watched in awe as Count Belasco succumbed to the morning light, until all that remained was a smoldering heap of ash and a charred, smoking wig.</p>
 </div>
 
-"Poor Olivenka never quite got over it," Rictavio concludes, his eyes twinkling. "After all—it was quite the 'hair-raising' experience!" As his listeners boo, guffaw, and applaud, he bows, then waves to Danika for another round of drinks. As she approaches, Brom and Bray run past her into the kitchen, giggling.
+"Poor Olivenka never quite got over it," [[Rictavio]] concludes, his eyes twinkling. "After all—it was quite the 'hair-raising' experience!" As his listeners boo, guffaw, and applaud, he bows, then waves to [[Danika Dorakova|Danika]] for another round of drinks. As she approaches, Brom and Bray run past her into the kitchen, giggling.
 
-If spoken with, Rictavio is willing to share the following information over drinks:
+If spoken with, [[Rictavio]] is willing to share the following information over drinks:
 
-* He is Rictavio, a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 16 Wisdom (Insight) check reveals that Rictavio's words sound a bit too smooth and practiced.)
+* He is [[Rictavio]], a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 16 Wisdom (Insight) check reveals that [[Rictavio]]'s words sound a bit too smooth and practiced.)
 * He recently arrived that morning, and took up residence in the Blue Water Inn's private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
 
-During the conversation, Rictavio subtly attempts to learn more information than he reveals, hoping to glean the players' identities, capabilities, relationships, and histories in and beyond Barovia. If asked why he seems to be so curious, he bombastically insists that he's always in search of new tales to add to his repertoire.
+During the conversation, [[Rictavio]] subtly attempts to learn more information than he reveals, hoping to glean the players' identities, capabilities, relationships, and histories in and beyond Barovia. If asked why he seems to be so curious, he bombastically insists that he's always in search of new tales to add to his repertoire.
 
-When he's finished his drink, Rictavio takes another flourishing bow and excuses himself. As he does, Nikolai and Karl boo and urge Rictavio to tell another story. "We've heard one about a stupid Count," Nikolai says. "What about a stupid Baron?"
+When he's finished his drink, [[Rictavio]] takes another flourishing bow and excuses himself. As he does, [[The Brothers Wachter|Nikolai and Karl]] boo and urge [[Rictavio]] to tell another story. "We've heard one about a stupid Count," [[Nikolai Wachter|Nikolai]] says. "What about a stupid Baron?"
 
 If the players don't intervene, the following sequence of events then occurs:
 
-* The table and nearby taproom go silent, with many patrons eyeing Nikolai and Rictavio nervously.
-* From his place at the bar, Szoldar rumbles, "Best not, boy." (Behind him, Yevgeni grunts, then echoes, "Best not.")
-* Karl scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
-* Rictavio clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, Rictavio bows with a flourish, then ascends the stairs to [[N2. Blue Water Inn#N2n. Private Guest Room|N2n. Private Guest Room]]. 
+* The table and nearby taproom go silent, with many patrons eyeing Nikolai and [[Rictavio]] nervously.
+* From his place at the bar, [[Szoldar Szoldarovich|Szoldar]] rumbles, "Best not, boy." (Behind him, [[Yevgeni Krushkin|Yevgeni]] grunts, then echoes, "Best not.")
+* [[Karl Wachter|Karl]] scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
+* [[Rictavio]] clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, [[Rictavio]] bows with a flourish, then ascends the stairs to [[N2. Blue Water Inn#N2n. Private Guest Room|Private Guest Room]]. 
 
-Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in N2o. Boys' Bedroom (p. 102) over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)]] to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
-### The Brothers Wachter
-If the players linger at Rictavio's table, the Wachter brothers are happy (if prodded) to rant about:
+Any player who watches as [[Rictavio]] makes his way along [[N2. Blue Water Inn#N2j. Great Balcony|the Great Balcony]] sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in [[N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)]] to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
+### [[The Brothers Wachter]]
+If the players linger at [[Rictavio]]'s table, the Wachter brothers are happy (if prodded) to rant about:
 
 - the Festival of the Blazing Sun,
 - Vallaki's recent history of festivals,
 - the Baron's response to those who speak ill of the festivals, and
 - the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
 
-(See [[Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in [[N2. Blue Water Inn#Wachter Brothers.|N2c]].
+(See [[Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)]].
 
 Through conversation, it becomes evident that the brothers have a deep, personal enmity toward [[Izek Strazni]] and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 20 Charisma (Persuasion) check.
 
@@ -1287,11 +1287,11 @@ At some point during the conversation, Danika approaches the table to clear away
 - Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
 - As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
 
-If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in [[N2. Blue Water Inn#N2c. Taproom|N2c]]. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
+If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in [[N2c. Taproom (p. 100)]]. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
 ### Eating Dinner
-Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
+Shortly after [[Rictavio]]'s story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
 
-Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in [[N2. Blue Water Inn#N2o. Boys' Bedroom|N2o]]. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
+Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in [[N2o. Boy' Bedroom (p. 102)]]. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
 
 If the players do not interrupt, Danika scolds the boys as follows:
 
@@ -1303,18 +1303,18 @@ If the soup was spilled, Danika directs Bray to fetch a pail of water from **N2a
 
 In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, Danika smiles fondly and says, "They can be a handful sometimes, but they're good boys."
 
-If the players ask about the children's masks, Danika tells them that Urwin bought them from the local toymaker, Gadof Blinsky, who works at [[N7. Blinsky Toys]].
+If the players ask about the children's masks, Danika tells them that Urwin bought them from the local toymaker, Gadof Blinsky, who works at [[N7. Blinsky Toys (p.118)]].
 
 The taproom slowly clears out over the following two hours. Nikolai and Karl Wachter stumble outside and collapse in the inn's shed, too drunk to make their way home.
 
-If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and [[N2. Blue Water Inn#N2m. Guest Room|N2m. Guest Room]]). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
+If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and [[N2m. Guest Room (p. 102)]]). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
 
-***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted Ireena to Vallaki, they earn an additional 250 XP. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
+***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted [[Ireena]] to Vallaki, they earn an additional 250 XP. (The players don't need to bring [[Ireena]] to St. Andral's church to receive this XP.)
 ## C12c. Morning in Vallaki
 ### Urwin's Advice
-When the players first emerge from their rooms onto [[N2. Blue Water Inn#N2k. Guest Balcony|the guest balcony]] the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
+When the players first emerge from their rooms onto [[N2k. Guest Balcony]] the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
 
-Lowering his voice, Urwin warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. Urwin can share the following additional information, as described in [[Vallaki Lore]]:
+Lowering his voice, Urwin warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. Urwin can share the following additional information, as described in [[Vallaki Lore (p. 96)]]:
 
 * The date of the Festival of the Blazing Sun, which will take place from dawn to noon of the players' fifth full day in Vallaki,
 * Vallaki's recent history of festivals,
@@ -1323,49 +1323,49 @@ Lowering his voice, Urwin warns the players that they must be cautious in Vallak
 
 Urwin quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
 
-If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in [[Vallaki Lore]]. However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
+If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in [[Vallaki Lore (p. 96)]]. However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
 
-As Urwin's conversation draws to a close, Rictavio descends the stairs from [[N2. Blue Water Inn#N2n. Private Guest Room|his private room]] and approaches the bar, greeting the players with a nod. Urwin bids him good morning and removes a small parcel from beneath the counter, which Rictavio accepts and tucks into his cloak.
+As Urwin's conversation draws to a close, [[Rictavio]] descends the stairs from [[N2n. Private Guest Room]] and approaches the bar, greeting the players with a nod. Urwin bids him good morning and removes a small parcel from beneath the counter, which [[Rictavio]] accepts and tucks into his cloak.
 
 > [!abstract]+ **What's In the Parcel?**
 > If asked, Urwin can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
 ### Following the Ringmaster
-If one or more players follow Rictavio out of the Blue Water Inn, they can follow him to [[N2. Blue Water Inn#N2f. Stable|the stable]] without difficulty.
+If one or more players follow [[Rictavio]] out of the Blue Water Inn, they can follow him to [[N2f. Stable (p. 101)]] without difficulty.
 
-Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
+Once inside, [[Rictavio]] removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, [[Rictavio]] checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
 
 > [!info]+ **Group Checks**
-> See Group Checks (Player's Handbook, p. 175) for more information on how to use group ability checks.
+> See [[Group Checks (<em>Player's Handbook</em>, p. 175)]] for more information on how to use group ability checks.
 
 > [!abstract]+ **Detecting Magic**
-> If a player casts _detect magic_ while in Rictavio's presence, they can immediately notice:
+> If a player casts _detect magic_ while in [[Rictavio]]'s presence, they can immediately notice:
 > 
 > * the aura of illusion magic surrounding his _hat of disguise_,
 > * the aura of enchantment magic surrounding his _ring of mind shielding_, and
 > * the aura of abjuration magic surrounding his _amulet of proof against detection and location_, which he wears hidden beneath his shirt.
 
-If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity. 
+If he detects any players, [[Rictavio]] calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity. 
 
-If asked who the food is for, Rictavio insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in [[N7. Blinsky Toys]].)
+If asked who the food is for, [[Rictavio]] insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in [[N7. Blinsky Toys (p. 118)]].)
 
-If confronted regarding his magic items or true identity, Rictavio directs the players to check their surroundings for spies, then demands that they prove themselves not to be spies of Strahd. If the players respond persuasively, he then insists that they swear themselves to secrecy. If they do, his story changes as follows:
+If confronted regarding his magic items or true identity, [[Rictavio]] directs the players to check their surroundings for spies, then demands that they prove themselves not to be spies of Strahd. If the players respond persuasively, he then insists that they swear themselves to secrecy. If they do, his story changes as follows:
 
-* If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
-* If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
+* If the players do not suspect his true identity, [[Rictavio]] "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
+* If the players do suspect his true identity, [[Rictavio]] "reveals" that he is Arthur Sedgwick, a  former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
 
-These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+These are lies. A DC 18 Wisdom (Insight) check indicates that [[Rictavio]]'s eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, [[Rictavio]] denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
 
-Rictavio declines to share further information for fear that Strahd's agents might steal it from them. 
+[[Rictavio]] declines to share further information for fear that Strahd's agents might steal it from them. 
 
-If he fails to detect the players, Rictavio uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd. 
+If he fails to detect the players, [[Rictavio]] uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd. 
 
-> [!abstract]+ **Following Rictavio**
-> Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
+> [!abstract]+ **Following [[Rictavio]]**
+> Once he departs the Blue Water Inn's stable, [[Rictavio]] proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
 ### Exiting the Inn
 As the players depart the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
 
-* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: [[Baron Vargas Vallakovich]] (as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family|Roleplaying the Vallakovich Family, p. 105]]) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. [[Izek Strazni]] leads the procession. 
-* The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is Willemina Rikalova, the mother of the imprisoned shoemaker Udo Lukovich.)
+* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in [[Roleplaying the Vallakovich Family, p. 105]]) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. [[Izek Strazni]] leads the procession. 
+* The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is [[Willemina Rikalova]], the mother of the imprisoned shoemaker Udo Lukovich.)
 * The Baron angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with the Baron to release her son, Udo, claiming that he meant no harm with his “foolish joke.” 
 * The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
 * Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
@@ -1373,7 +1373,7 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 ![[IMG-20251205143159947.png]]
 <span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: [[Baron Vargas Vallakovich]]**
+> [!profile]+ **Profile: Baron Vargas Vallakovich**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
@@ -1394,7 +1394,7 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 > [!profile]+ **Profile: [[Izek Strazni]]**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+> ***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in [[Ireena Kolyana]].
 >
 > ***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
 >
@@ -1407,7 +1407,7 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 >
 > ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
 >
-> ***Relationships.*** Izek is the adoptive "son" of [[Baron Vargas Vallakovich]], the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+> ***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
 
 If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
 
@@ -1417,7 +1417,7 @@ If the players interrupt Willemina’s arrest, the Baron greets them as outsider
 
 The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in [[N1. St. Andral's Church]]) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in [[N1. St. Andral's Church, p. 97]]) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
 
 > [!lore]+ **What's Lucian Doing Here?**
 > After discovering [[Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
@@ -1430,9 +1430,9 @@ The Baron imperiously orders that he see to it, then informs the players that th
 
 The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” The Baron nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
 
-If Ireena is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches Ireena’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving Ireena feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
+If [[Ireena]] is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches [[Ireena]]’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving [[Ireena]] feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
 
-If asked, Ireena notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
+If asked, [[Ireena]] notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
 
 If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to Lady Fiona Wachter at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
 
@@ -1443,7 +1443,7 @@ If the players defied Vargas or Izek in any way, or otherwise assisted Willemina
 
 ***Encounter with Strahd.*** Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain. 
 
-As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and Ireena go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
+As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and [[Ireena]] go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
 
 While running this scene, recall the wise words of Tywin Lannister: "Any man who must say 'I am the king' is no true king." So too for Strahd: allowing the players to successfully irritate, annoy, or otherwise drive him to "punish them" functionally allows the players to gain a certain measure of control over the conversation, reducing Strahd's appearance of real and apparent control, and indicating that Strahd is a petty noble who cares about his own ego. Always remember that, especially at this stage, the players *cannot hurt* Strahd in any meaningful way—and, as such, he feels no need to hurt *them* in any meaningful way.
 
@@ -1461,9 +1461,9 @@ Lycanthropic immunity has been changed to silver-based regeneration in order to 
 
 ***The Dancing Fire.*** The Game of Stories has been introduced to provide the players with an opportunity to decompress in a relatively safe location while engaging with and exploring one anothers' histories and interests. The Game itself—along with its wagers—introduces an aspect of dramatic tension to the encounter, ensuring that players remain invested and engaged with each story told. 
 
-Stanimir's tale indicates the relationship between Strahd and the Vistani, thereby foreshadowing Arrigal's loyalty to him. Eliza's tale introduces the *Holy Symbol of Ravenkind* and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). Arturi's tale colorfully introduces the tragedy of Dr. Rudolph van Richten, building the suspense for a character that the players will soon have an opportunity to meet. Finally, Ireena's tale foreshadows her relationship to [[Izek Strazni]] and her true origins in Vallaki.
+Stanimir's tale indicates the relationship between Strahd and the Vistani, thereby foreshadowing Arrigal's loyalty to him. Eliza's tale introduces the *Holy Symbol of Ravenkind* and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). Arturi's tale colorfully introduces the tragedy of Dr. Rudolph van Richten, building the suspense for a character that the players will soon have an opportunity to meet. Finally, [[Ireena]]'s tale foreshadows her relationship to [[Izek Strazni]] and her true origins in Vallaki.
 
-***A Gift for Arabelle.*** Madam Eva's request has been added to create a hook to Blinsky Toys in Vallaki (allowing the players to observe Izek's commissioned Ireena-shaped doll) and to the Vistani encampment outside of Vallaki (allowing the players to begin the quest to find the missing Arabelle).
+***A Gift for Arabelle.*** Madam Eva's request has been added to create a hook to Blinsky Toys in Vallaki (allowing the players to observe Izek's commissioned [[Ireena]]-shaped doll) and to the Vistani encampment outside of Vallaki (allowing the players to begin the quest to find the missing Arabelle).
 
 ***The Skeletal Rider.*** The encounter with the skeletal rider is a short, but evocative scene that aims to resonate with the themes of undeath, loneliness, and mystery that infuse this arc.
 
@@ -1473,15 +1473,14 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 
 ***Meeting Morgantha.*** This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in [[Arc H - The Lost Soul]].) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
 
-***The Deep Woods.*** The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. Ireena's reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
+***The Deep Woods.*** The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. [[Ireena]]'s reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
 
 ***The Werewolf's Hunt.*** This brief combat encounter introduces werewolves and provides the swarms of ravens (and Muriel) with an opportunity to assist and defend the players. The wolves' ***Maul*** action option has been added to create a more tense and dynamic combat scenario.
 ## Welcome to Vallaki
-***The Refugee Camp.*** The Barovian refugee camp has been placed here to provide the players with an additional reason to hate Baron Vallakovich and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting Ireena's efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
+***The Refugee Camp.*** The Barovian refugee camp has been placed here to provide the players with an additional reason to hate Baron Vallakovich and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting [[Ireena]]'s efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
 
 ***The Tax.*** The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
 
-***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
+***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster [[Rictavio]]. [[Rictavio]]'s tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
 
-***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of Ireena, and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**
-
+***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of [[Ireena]], and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**

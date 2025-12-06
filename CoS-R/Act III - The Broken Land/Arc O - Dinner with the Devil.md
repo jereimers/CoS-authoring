@@ -50,7 +50,7 @@ Rahadin declines to depart until the players have read Strahd’s invitation and
 
 If the players ask or appear to be concerned as to whether Strahd truly means not to harm them, Rahadin coldly notes that Strahd is lord of the land, and his word of safe passage to and from the dinner is binding on both others and himself. “He has promised you guestright," Rahadin notes, glaring. “Do not presume to spit upon his honor or authority."
 
-If the players ask or appear to be concerned whether Ireena would be safe at the castle, Rahadin coldly notes that both the players and Ireena would be welcome guests and protected under guestright, so long as they have not committed any offense against Strahd personally—which, to Rahadin’s knowledge, neither Ireena nor the players have done. If the players appear doubtful, Rahadin notes coolly, “Had my master sought to take Lady Kolyana from you, he could have done so as it pleased him, without your permission. She is, of course, not obliged to attend—but I advise you not to question the strength of his word."
+If the players ask or appear to be concerned whether [[Ireena]] would be safe at the castle, Rahadin coldly notes that both the players and [[Ireena]] would be welcome guests and protected under guestright, so long as they have not committed any offense against Strahd personally—which, to Rahadin’s knowledge, neither [[Ireena]] nor the players have done. If the players appear doubtful, Rahadin notes coolly, “Had my master sought to take Lady Kolyana from you, he could have done so as it pleased him, without your permission. She is, of course, not obliged to attend—but I advise you not to question the strength of his word."
 
 If the players ask to delay their response, Rahadin coolly notes that his “master" expects an answer upon his return. 
 
@@ -63,7 +63,7 @@ If the players make no move to stop him, Rahadin then moves toward the door, pau
 > [!abstract]+ **Ezmerelda’s Advice**
 > If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a once-in-a-lifetime opportunity to scope out the castle before retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
 >
-> Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
+> Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding [[Ireena]], secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
 
 # O2. Arrigal’s Insight
 One day before the dinner is scheduled to take place, if the players rescued Arabelle in [[Arc E - The Missing Vistana]], Arrigal of <span class="citation">N9. Vistani Camp (p. 119)</span> finds the players at or shortly after nightfall. (If the players spend the night away from Vallaki, Arrigal instead finds them as they pass through or around Vallaki when traveling to Castle Ravenloft the following day.)
@@ -380,12 +380,12 @@ The players recognize the man as Escher, Strahd’s **vampire spawn** consort, w
 >
 > Sasha hates what she has become—and the only thing she hates more than that is Strahd. Though she isn’t sure why he awoke her, she desires nothing less than his complete and utter end—and her own opportunity to finally find rest at last.
 
-If Ireena is with the party, Sasha briefly startles upon glimpsing her—almost as though “she’s seen a ghost"—but swiftly regains her composure.
+If [[Ireena]] is with the party, Sasha briefly startles upon glimpsing her—almost as though “she’s seen a ghost"—but swiftly regains her composure.
 
 > [!lore]+ **Sasha & Tatyana**
 > Although Sasha and Tatyana never met in life, Sasha is deeply familiar with Tatyana’s face, having spent many years studying the other woman’s features in the commissioned portrait Strahd placed in <span class="citation">K37. Study (p. 66)</span>. Although Sasha once hated Tatyana for escaping Strahd’s clutches, age has matured her loathing to pity, and Sasha now mourns Tatyana as a woman not unlike herself: a victim of Strahd’s appetites and cruelty.
 >
-> Though she isn’t sure whether she believes it herself, Sasha knows that Strahd believes Ireena is Tatyana reincarnated—a fact he used to idly mock her shortly after her emergence from her tomb. Though she is powerless to disobey Strahd’s will, Sasha—shocked by Ireena’s resemblance to Tatyana—prays that Ireena might avoid her counterpart’s fate, and that her soul might one day find freedom from Strahd’s dark clutches.
+> Though she isn’t sure whether she believes it herself, Sasha knows that Strahd believes [[Ireena]] is Tatyana reincarnated—a fact he used to idly mock her shortly after her emergence from her tomb. Though she is powerless to disobey Strahd’s will, Sasha—shocked by [[Ireena]]’s resemblance to Tatyana—prays that [[Ireena]] might avoid her counterpart’s fate, and that her soul might one day find freedom from Strahd’s dark clutches.
 ## O4c. The Great Entry
 <span class="citation"><em>This scene takes place in Chapter 4, Area K8.</em></span>
 
@@ -404,8 +404,8 @@ Escher and Sasha then close the entry doors behind them, joining the players and
 
 Anastrasya then attempts to introduce the players to Escher and Sasha, introducing them as “our Lord’s newest delight" and “our Lord’s eldest bride," respectively. “Dearest Sasha doesn’t look her years, of course," she adds, almost as an afterthought. “Why, our Lord recently told me she still looks as radiant as the first day he laid eyes on her." (A player with a passive Wisdom (Insight) of 13 or greater notices Sasha visibly tremble at Anastrasya’s backhanded “compliment," Sasha’s fingers tightening into fists as her vampiric claws draw blood from her own palms.)
 
-> [!abstract]+ **Escher and Ireena**
-> If Ireena is not present, Escher is flamboyant, cheerful, and flirtatious with the players, determined to show Strahd’s other consorts that he won’t be cowed by their efforts to pull rank. If Ireena is present, Escher, though still flamboyant, is more withdrawn and even occasionally abrasive and quick-tempered. Too ashamed of the consequences of his decision to awaken Strahd—such as the death of Ireena’s father and the deaths of many of his friends and neighbors—he is unwilling to meet her eyes for the duration of the evening.
+> [!abstract]+ **Escher and [[Ireena]]**
+> If [[Ireena]] is not present, Escher is flamboyant, cheerful, and flirtatious with the players, determined to show Strahd’s other consorts that he won’t be cowed by their efforts to pull rank. If [[Ireena]] is present, Escher, though still flamboyant, is more withdrawn and even occasionally abrasive and quick-tempered. Too ashamed of the consequences of his decision to awaken Strahd—such as the death of [[Ireena]]’s father and the deaths of many of his friends and neighbors—he is unwilling to meet her eyes for the duration of the evening.
 
 ### Volenta’s Toy
 As introductions draw to a close, Rahadin moves into <span class="citation">K9. Guests' Hall (p. 56)</span> to guard the entrance to <span class="citation">K21. South Tower Stair (p. 59)</span>. As he does, a man emerges from the south tower stair and joins the players and brides in the great entry. Read:
@@ -869,7 +869,7 @@ If Escher is the players' guide, he is curt and visibly slouching as he shows th
 > > > [!lore]- **Lief Lipsiege**
 > > > When Khazan first became Strahd’s arcane advisor four centuries ago, Strahd already had the additional services of Lief Lipsiege, an elderly master accountant wholly dedicated to his work. Unwilling to lose Lief’s services when he died, Strahd—after promising Lief his salary would continue to fund his siblings and their descendants—worked with Khazan to transform Lief into a **wight**, thereby allowing Lief to continue his life’s work even into undeath. Since then, Lief has obediently served as Strahd’s accountant, though his mind has grown scattered and his memory full of holes over the many years since his death.
 > > > 
-> > Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
+> > Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If [[Ireena]] is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
 > > 
 > > If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
 > > > 
@@ -1352,7 +1352,7 @@ A player who asks Varushka or succeeds in a DC 13 Wisdom (Insight) check learns 
 * “He took so much from you. This is what you’re owed."
 
 > [!lore]+ **Dark Whispers**
-> The whispering shadows are a manifestation of the [[Lore of Barovia#Dark Powers|Dark Powers]]. Eager to remove Ireena Kolyana from the players’ influence and protection, they have reached out to embrace Varushka’s spirit to dissuade her from allowing the players to escape from her Nightmare.
+> The whispering shadows are a manifestation of the [[Lore of Barovia#Dark Powers|Dark Powers]]. Eager to remove [[Ireena Kolyana]] from the players’ influence and protection, they have reached out to embrace Varushka’s spirit to dissuade her from allowing the players to escape from her Nightmare.
 
 The players can again attempt to persuade Varushka to free them by making any reasonable argument and succeeding on a DC 15 Charisma (Persuasion) check. The check is made with disadvantage if the players failed the first Charisma (Persuasion) check. Otherwise, the check is made with advantage if the players’ arguments directly rebut the Dark Powers’ whispers, and succeeds automatically if the players present Varushka with Katarina’s note or its contents.
 
