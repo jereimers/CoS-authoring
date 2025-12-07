@@ -16,10 +16,10 @@ For the reconsecrations to work, however, the players must first help Urwin and 
 > * Van Richten’s ploy worked, and the two parted ways shortly thereafter. Van Richten then immediately began preparing to return to Barovia, intending to slay Strahd von Zarovich before Ezmerelda could do so—and die in penance if necessary.
 > * When the players first return to the Luna River Crossroads after completing [[Arc S - A Sword of Sunlight]], they are met by Alexei, who pleads with them to accompany him to the Vistani camp. 
 > * At the Vistani camp, the players encounter Escher, who is searching for Rudolph van Richten, and can help the Vistani drive Escher off.
-> * After dealing with Escher, the players learn that Arabelle was recently wounded when a pack of ghouls attacked; while Van Richten has done his best to stabilize her, she is slowly dying of the ghouls’ venom.
-> * Players who attempt to heal Arabelle hear Madam Radanavich’s curse (“Live you always among monsters, and see everyone you love die beneath their claws."), which prevents Arabelle from healing and worsens her wounds. Van Richten can also share that his curse is responsible for Arabelle’s condition—for, despite his best efforts, he allowed himself to feel affection toward her, and so hastened her demise.
+> * After dealing with Escher, the players learn that [[Arabelle]] was recently wounded when a pack of ghouls attacked; while Van Richten has done his best to stabilize her, she is slowly dying of the ghouls’ venom.
+> * Players who attempt to heal [[Arabelle]] hear Madam Radanavich’s curse (“Live you always among monsters, and see everyone you love die beneath their claws."), which prevents [[Arabelle]] from healing and worsens her wounds. Van Richten can also share that his curse is responsible for [[Arabelle]]’s condition—for, despite his best efforts, he allowed himself to feel affection toward her, and so hastened her demise.
 > * Van Richten shares the truth of the Radanavich massacre. Ezmerelda responds as she and Arturi respond below.
-> * Arabelle whispers the following prophecy: “When blood of two is blood of one / and broken wheels meet fiery tongues / the dead shall halt their endless war / and blight the living nevermore." (To lift Van Richten’s curse, Ezmerelda and Van Richten must complete the Vistani blood rite, rendering Van Richten a Radanavich, then burn the wreckage of the Radanavich caravan.)
+> * [[Arabelle]] whispers the following prophecy: “When blood of two is blood of one / and broken wheels meet fiery tongues / the dead shall halt their endless war / and blight the living nevermore." (To lift Van Richten’s curse, Ezmerelda and Van Richten must complete the Vistani blood rite, rendering Van Richten a Radanavich, then burn the wreckage of the Radanavich caravan.)
 > * The remainder of the chapter otherwise proceeds largely as described below.
 # T1. Return to Soldav
 ## T1a. The Narrow Road
@@ -1811,7 +1811,7 @@ Shortly after the fight ends, read:
 
 When their mirth has quelled, Arturi and Van Richten thank the players for their kindness and aid. “We owe you a debt that can never be repaid," Van Richten says. A player with a passive Wisdom (Insight) score of 12 or higher notices that his eyes are smiling, as though a great weight has been lifted off of his shoulders.
 
-If asked about his next intentions, Van Richtens considers the eastern mountains thoughtfully. “I do not know," he says at last. “But I feel that your accomplishments are rapidly pushing Von Zarovich to act. Arabelle’s prophecy still rings in my ears, as do Madam Eva’s final words to me. I shall remain by Vallaki, for now, if only to protect the Vistani there from harm. But when the day comes, I shall be ready."
+If asked about his next intentions, Van Richtens considers the eastern mountains thoughtfully. “I do not know," he says at last. “But I feel that your accomplishments are rapidly pushing Von Zarovich to act. [[Arabelle]]’s prophecy still rings in my ears, as do Madam Eva’s final words to me. I shall remain by Vallaki, for now, if only to protect the Vistani there from harm. But when the day comes, I shall be ready."
 ### Erasmus’ Return
 With Van Richten’s curse lifted, Erasmus van Richten’s ghost is finally able to cross over into the Material Plane. Shortly after the undead horde retreats, read:
 

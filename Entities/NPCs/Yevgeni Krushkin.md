@@ -1,6 +1,6 @@
-# source:
-[[Non-Player Characters]]
-# Yevgeni Krushkin
+# Yevgeni Krushkin #Profile
+## #Portrait 
+![[05-004.yevgeni-krushkin.png]]
 As described in [[N2. Blue Water Inn#Wolf Hunters.]]
 <div class="statblock">
 <h2>Scout</h2>

@@ -332,7 +332,7 @@ The treasure is buried in the graveyard at the River Ivlis crossroads (chapter 2
 ##### 8 of Coins-Tax Collector
 The Vistani have what you seek. A missing child holds the key to the treasure's release.
 
-The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). "A missing child" refers to Arabelle (see chapter 2, area L).
+The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). "A missing child" refers to [[Arabelle]] (see chapter 2, area L).
 
 ##### 9 of Coins-Miser
 Look for a fortress inside a fortress, in a place hidden behind fire.
@@ -539,7 +539,7 @@ This card refers to [[Davian Martikov]] (see chapter 12, "The Wizard of Wines").
 
 I see a child-a Vistana. You must hurry, for her fate hangs in the balance. Find her at the lake!
 
-This card refers to Arabelle (see chapter 2, area L). She gladly joins the party. But if she returns to her camp (chapter 5, area N9), her father, Luvash, refuses to let her leave.
+This card refers to [[Arabelle]] (see chapter 2, area L). She gladly joins the party. But if she returns to her camp (chapter 5, area N9), her father, Luvash, refuses to let her leave.
 
 #### B. Tempter (Queen of Diamonds)
 

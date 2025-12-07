@@ -442,7 +442,7 @@ Shortly before the wedding, however, the disguised **roc** of Mount Ghakis—act
 
 Madam Eva’s foretelling proved prescient. As described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, Davian blamed Urwin for the theft, leading to a bitter fight. Urwin and Danika departed the winery altogether for Vallaki, where they purchased a run-down tavern and renamed it the Blue Water Inn. The inn soon became a haven for the members of the Keepers of the Feather, who expanded their operations in Vallaki and extended their spy network. 
 
-Not far away, in the Vistani encampment just outside of Vallaki, the Vistana Luvash became the proud father of Arabelle—a descendant of Madam Eva’s blood.
+Not far away, in the Vistani encampment just outside of Vallaki, the Vistana Luvash became the proud father of [[Arabelle]]—a descendant of Madam Eva’s blood.
 
 Months later, Ezmerelda, now a young woman, ran from home in search of Dr. Van Richten. Two years passed before she finally found him, becoming his apprentice as described in <span class="citation">Ezmerelda d'Avenir (p. 231)</span>. Their companionship lasted for two more years—until Van Richten came to learn the terrible truth of the Vistani curse that haunted him. Unwilling to either reveal the truth to Ezmerelda or risk her death at the curse's dark hands, Van Richten staged a fierce and raw argument, driving Ezmerelda and his other students away for—he believed—their own safety.
 

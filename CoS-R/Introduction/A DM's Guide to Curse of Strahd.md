@@ -68,7 +68,7 @@ Whether you're looking for a guide to roleplaying Strahd von Zarovich, a compreh
 > * Organizing each chapter chronologically while organizing each chapter by narrative instead of area in order to make the adventure easier for a DM to run and understand
 > * Incorporating the official adventure only by direct reference while providing all information DMs might need exactly when they need it, > ensuring readers never need to flip through multiple pages or chapters to find what they're looking for. 
 > * Restructuring Vallaki to have a clear and positive “victory condition,” allowing players to earn a sense of achievement and security rather than slogging them down in a morass of politics and bad options
-> * Combining and simplifying the core adventure arcs involving Dr. Rudolph van Richten, the missing Vistana Arabelle, and Doru's rebellion in order to provide a single, satisfying narrative that ties together all loose ends. 
+> * Combining and simplifying the core adventure arcs involving Dr. Rudolph van Richten, the missing Vistana [[Arabelle]], and Doru's rebellion in order to provide a single, satisfying narrative that ties together all loose ends. 
 > * Scaffolding a clear progression of the players’ relationship with Strahd, including pre-written encounters with tense and meaningful dramatic conflicts that preserve player agency while promoting an antagonistic relationship with Strahd himself. 
 > * Revising and rebalancing nearly every combat encounter in the adventure in order to create an engaging, dynamic, fair, and challenging experience without risking frequent PC death or TPKs.
 > 

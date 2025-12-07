@@ -23,6 +23,6 @@ Bluto is a hollow shell of a man, barely able to understand his own actions. He 
 
 Characters who act quickly can save Arabelle before she drowns. A character on the shore must succeed on a DC 15 Strength (Athletics) check to reach her in time. The DC is 10 for characters who took a rowboat out onto the lake.
 
-Arabelle has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside Vallaki (chapter 5, area N9). She is certain that her father, Luvash, will give the characters a reward for doing so.
+[[Arabelle]] has alabaster-white skin and raven-black hair. If rescued, she demands to be returned to her family's camp outside Vallaki (chapter 5, area N9). She is certain that her father, Luvash, will give the characters a reward for doing so.
 
-A descendant of Madam Eva with the blood of Barovian royalty in her veins, Arabelle is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.
+A descendant of Madam Eva with the blood of Barovian royalty in her veins, [[Arabelle]] is unaware of her connection to Strahd. She acts more like an adult than a child. Despite her recent misadventure, she believes that a great destiny awaits her.

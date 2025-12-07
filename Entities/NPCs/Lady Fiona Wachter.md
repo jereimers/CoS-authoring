@@ -1,11 +1,7 @@
-# Profile: Lady Fiona Wachter
-Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+# Lady Fiona Wachter #Profile 
 
-* Cantrips (at will): _light, toll the dead, thaumaturgy_ 
-* 1st level (4 slots): _command, sanctuary, bane_ 
-* 2nd level (3 slots): _blindness/deafness, zone of truth, hold person_ 
-* 3rd level (2 slots): _animate dead, spirit guardians_
-
+## #Portrait 
+![[05-007.fiona-wachter.png]]
 ## **Roleplaying Information**
 ***Resonance.*** Lady Wachter should inspire wariness for her loyalty to Strahd, grudging respect for her streak of pragmatic rationality, endearment for her dedication to her children, and pity for the tragedy of her family.
 
@@ -21,3 +17,10 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 ***Morale.*** In a fight, Lady Wachter would attempt to negotiate or flee, seeking any means necessary to quell hostilities, up to and including outright surrender. If necessary to save her life or those of her children, however, she would fight to the death with bitter ferocity.
 
 ***Relationships.*** Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of [[Baron Vargas Vallakovich]].
+
+Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+
+* Cantrips (at will): _light, toll the dead, thaumaturgy_ 
+* 1st level (4 slots): _command, sanctuary, bane_ 
+* 2nd level (3 slots): _blindness/deafness, zone of truth, hold person_ 
+* 3rd level (2 slots): _animate dead, spirit guardians_

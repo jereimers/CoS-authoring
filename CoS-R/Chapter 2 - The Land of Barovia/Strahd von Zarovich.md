@@ -92,7 +92,7 @@ To this end, Strahd has crafted an ambitious and dangerous ritual to escape the 
 
 Using the Fanes in the ritual will also allow Strahd to bring the valley itself—and all of its inhabitants—along with him to the Material Plane. Given that Barovia was his final conquest and the centerpiece of his power, Strahd will not relinquish it so easily.
 
-***The Control Mechanism.*** The raw power of the leylines beneath the Fanes is wild and near-impossible to control. Even as their master, only a token of the Ladies’ divinity can allow Strahd to direct them. He has recently learned that a child with the blood of the Seeker resides somewhere within the valley—the Vistana Arabelle, though Strahd does not yet know her name—and has directed his spies to locate and capture her. 
+***The Control Mechanism.*** The raw power of the leylines beneath the Fanes is wild and near-impossible to control. Even as their master, only a token of the Ladies’ divinity can allow Strahd to direct them. He has recently learned that a child with the blood of the Seeker resides somewhere within the valley—the Vistana [[Arabelle]], though Strahd does not yet know her name—and has directed his spies to locate and capture her. 
 
 Should this plot fail, Strahd must instead journey to the Whispering Wall at Yester Hill and make a sacrifice of great personal value—his **animated armor**, the symbol of his early conquests and might—exchanging a piece of his past for a promise of his future.
 

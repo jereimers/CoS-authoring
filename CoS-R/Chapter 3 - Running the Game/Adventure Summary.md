@@ -33,9 +33,9 @@ Upon their arrival in Vallaki, the players can find shelter at the Blue Water In
 <div class="subtitle"><em>For characters of 4th level and higher.</em></div>
 In this act, the players are left to explore the shadowed town of Vallaki—a Barovian settlement that has fallen to tension and conflict in the wake of Strahd's awakening.
 
-As the players seek to complete lingering obligations—escorting Ireena to St. Andral's Church, purchasing and delivering a toy for the Vistani child Arabelle, and uncovering the *Tome of Strahd*—they meet new allies and enemies, including Father Lucian, the priest of St. Andral's Church; Izek Strazni, Baron Vallakovich's brutal enforcer; and Lady Fiona Wachter, the Baron's Strahd-loyalist rival.
+As the players seek to complete lingering obligations—escorting Ireena to St. Andral's Church, purchasing and delivering a toy for the Vistani child [[Arabelle]], and uncovering the *Tome of Strahd*—they meet new allies and enemies, including Father Lucian, the priest of St. Andral's Church; Izek Strazni, Baron Vallakovich's brutal enforcer; and Lady Fiona Wachter, the Baron's Strahd-loyalist rival.
 
-At St. Andral's Church, the players will be tasked with recovering the stolen bones of St. Andral in order to protect the church's holy protection. At the nearby Vistani encampment, the players will have an opportunity to prove themselves heroes by finding and rescuing Arabelle following her mysterious disappearance—and receive a mysterious prophecy if they do. And at Wachterhaus, the ancestral home of House Wachter, the players will be given a choice: slay Izek Strazni and allow Lady Wachter to seize power—or do nothing, and allow the Baron's mad reign to continue.
+At St. Andral's Church, the players will be tasked with recovering the stolen bones of St. Andral in order to protect the church's holy protection. At the nearby Vistani encampment, the players will have an opportunity to prove themselves heroes by finding and rescuing [[Arabelle]] following her mysterious disappearance—and receive a mysterious prophecy if they do. And at Wachterhaus, the ancestral home of House Wachter, the players will be given a choice: slay Izek Strazni and allow Lady Wachter to seize power—or do nothing, and allow the Baron's mad reign to continue.
 
 Meanwhile, one of the players begins to experience haunting apparitions, leading them to discover the tragic fate of Stella Wachter's soul—and an opportunity to restore her broken mind. Simultaneously, a nocturnal killer haunts Vallaki's streets, secretly working to drive the disguised vampire hunter Dr. Rudolph van Richten out of hiding.
 
@@ -46,7 +46,7 @@ Act II ends on the morning after the players' first full moon in Barovia, which 
 | Level | Arc   | Milestone                                                | XP    |
 | :---: | ----- | -------------------------------------------------------- | ----- |
 |   4   | D     | The players restore the bones of St. Andral              | 1,250 |
-|   4   | E     | The players find Arabelle and receive her prophecy       | 1,250 |
+|   4   | E     | The players find [[Arabelle]] and receive her prophecy       | 1,250 |
 |   4   | F / G | The players defeat Izek Strazni                          | 1,500 |
 |  4/5  | I     | The players gain safe passage through Krezk's gates      | 750   |
 |   5   | H     | The players rescue Stella's soul from the Ethereal Plane | 1,750 |
@@ -114,7 +114,7 @@ Even once the Whispering Wall is quelled, however, a greater danger emerges in [
 
 ***Village of Barovia.*** If the players escorted Ireena to Vallaki, reconciled Doru with Father Donavich, befriended Dr. Rudolph van Richten in Vallaki, and inspired Ireena to reject Sergei's invitation, the village of Barovia is saved by the leadership and prowess of Ismark Kolyanovich, Doru and Donavich, Dr. Van Richten and the **ghost** Erasmus van Richten, and the spirit of Sergei von Zarovich.
 
-***Town of Vallaki.*** If the players restored the soul of Stella Wachter, aided Lady Fiona Wachter in defeating Izek Strazni, located the missing Vistana Arabelle, recovered the stolen bones of St. Andral, and rescued the Blue Water Inn from Baba Lysaga, the town of Vallaki is saved by the power and foresight of Lady Fiona Wachter and her cult; the young **mage** Victor Vallakovich; the Vistani Luvash, Arrigal, and Arabelle; the dusk elves; the priest Father Lucian Petrovich; and the **wereravens** [[Urwin Martikov]] and [[Danika Dorakova]].
+***Town of Vallaki.*** If the players restored the soul of Stella Wachter, aided Lady Fiona Wachter in defeating Izek Strazni, located the missing Vistana [[Arabelle]], recovered the stolen bones of St. Andral, and rescued the Blue Water Inn from Baba Lysaga, the town of Vallaki is saved by the power and foresight of Lady Fiona Wachter and her cult; the young **mage** Victor Vallakovich; the Vistani Luvash, Arrigal, and [[Arabelle]]; the dusk elves; the priest Father Lucian Petrovich; and the **wereravens** [[Urwin Martikov]] and [[Danika Dorakova]].
 
 ***Village of Krezk.*** If the players rescued Ilya Krezkov from the Werewolf Den, rescued Emil Toranescu from the dungeons of Castle Ravenloft, and restored the Abbot's divine grace, the village of Krezk is saved by the might and savagery of the redeemed Abbot, the Belview **mongrelfolk**, the Krezkov **werewolves**, and Emil's new **werewolf** pack.
 
