@@ -1,6 +1,6 @@
 # Yevgeni Krushkin #Profile
 ## #Portrait 
-![[05-004.yevgeni-krushkin.png]]
+![[IMG-20251207141712788.png]]
 As described in [[N2. Blue Water Inn#Wolf Hunters.]]
 <div class="statblock">
 <h2>Scout</h2>

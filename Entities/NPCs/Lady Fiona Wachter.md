@@ -1,7 +1,7 @@
 # Lady Fiona Wachter #Profile 
 
 ## #Portrait 
-![[05-007.fiona-wachter.png]]
+![[IMG-20251207141712750.png]]
 ## **Roleplaying Information**
 ***Resonance.*** Lady Wachter should inspire wariness for her loyalty to Strahd, grudging respect for her streak of pragmatic rationality, endearment for her dedication to her children, and pity for the tragedy of her family.
 

@@ -1206,7 +1206,7 @@ Both [[Urwin]] and Danika can provide directions to any major landmark inside of
 
 The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make [[Urwin]] alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
 
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See [[map-05.02-blue-water-inn.jpg|Map 5.2 - Blue Water Inn]])
+If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See [[IMG-20251207141712572.jpg|Map 5.2 - Blue Water Inn]])
 ### The Ringmaster's Tale
 If any of the players approach [[Rictavio]]'s table, [[The Brothers Wachter|Nikolai and Karl Wachter]] urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. ([[Szoldar Szoldarovich]], the wolf hunter, has turned his chair away from the bar to listen in.)
 

@@ -1,5 +1,5 @@
 # portrait
-![[05-003.szoldar-szoldarovich.png]]
+![[IMG-20251207141712676.png]]
 
 
 
