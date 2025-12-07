@@ -451,7 +451,7 @@ There is no NPC who can inspire the characters.
 Search for a troubled young man surrounded by wealth and madness. His home is his prison.
 
 %% --- Page 17 --- %%
-This card refers to Victor Vallakovich (see chapter 5, area N3t). Realizing that the characters are the key to his salvation, he enthusiastically leaves home and accompanies them to Castle Ravenloft.
+This card refers to [[Victor Vallakovich]] (see chapter 5, area N3t). Realizing that the characters are the key to his salvation, he enthusiastically leaves home and accompanies them to Castle Ravenloft.
 
 #### B. Donjon (King of Clubs) 
 

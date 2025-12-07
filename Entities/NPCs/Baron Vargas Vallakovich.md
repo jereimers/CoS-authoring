@@ -15,7 +15,7 @@
 
 ***Morale.*** In a fight, Vargas would command his dogs, Claw and Fang, as well as [[Izek Strazni]] and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
 
-***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of Victor Vallakovich, the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of [[Izek Strazni]], his captain of the guard and chief enforcer.
+***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of [[Victor Vallakovich]], the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of [[Izek Strazni]], his captain of the guard and chief enforcer.
 
 # Knowledge
 Can share with players during scene in his library:

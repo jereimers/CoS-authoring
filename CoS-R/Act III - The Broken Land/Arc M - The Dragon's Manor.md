@@ -180,7 +180,7 @@ Should the players express interest in retrieving those garments, Godfrey asks o
 
 If the players ask about the origin of the buried remains, Godfrey solemnly informs them that the Order of the Silver Dragon made its final stand there.
 ### Obtaining the Garments
-If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in Vallaki, borrow from the dusk elves of the Vallakian <span class="citation">N9. Vistani Camp (p. 119)</span>, or borrow from Burgomaster Dmitri Krezkov of Krezk.
+If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in Vallaki, borrow from the dusk elves of the Vallakian <span class="citation">[[N9. Vistani Camp]] (p. 119)</span>, or borrow from Burgomaster Dmitri Krezkov of Krezk.
 
 As the players head south from the Luna River Crossroads after obtaining one or more shovels, read:
 

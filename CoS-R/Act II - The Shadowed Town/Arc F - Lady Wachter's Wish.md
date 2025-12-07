@@ -34,11 +34,11 @@ The envelope contains the following letter, with the blank filled with the name 
 <p>Lady Fiona Wachter</p>
 </div>
 
-If the players ask Urwin about Lady Wachter, he can share all of the information about her described in <span class="citation">[[Vallaki Lore]] (p. 96)</span>. He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. (Urwin, who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
+If the players ask Urwin about Lady Wachter, he can share all of the information about her described in [[Vallaki Lore]] (p. 96). He can also share that, according to town legend, Lady Wachter’s parents and elder brother were killed in a mysterious accident when she was a teenager. ([[Urwin]], who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
 # F2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
-Wachterhaus is largely as described in <span class="citation">N4. Wachterhaus (p. 110)</span>, but with the following changes:
+Wachterhaus is largely as described in [[N4. Wachterhaus]] (p. 110),  but with the following changes:
 
 ***Stella's Bedroom.*** Stella Wachter doesn't scratch at her door or call out to the players in <span class="citation">N4l. Upstairs Hall (p. 113)</span>. If found, she is dull-eyed and non-responsive, incapable of speaking to the players or even moving of her own volition. (This is because she has lost her soul, which is currently trapped in the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information.)
 
@@ -57,7 +57,7 @@ Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 1
 * 2nd level (3 slots): *blindness/deafness, zone of truth, hold person*
 * 3rd level (2 slots): *animate dead, spirit guardians*
 ## F2a. Welcome to Wachterhaus
-As the players approach Wachterhaus, read the following description instead of the text in <span class="citation">N4. Wachterhaus (p. 110)</span>:
+As the players approach Wachterhaus, read the following description instead of the text in [[N4. Wachterhaus]] (p. 110):
 
 <div class="description">
 <p>A thick garden, filled with herbs and vines stands beside this wide, red-roofed manor. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. A handsome red-painted door stands at the house's entrance, its upper half set with frosted glass.</p>
@@ -172,9 +172,9 @@ Lady Wachter can also share the following information about Izek:
 
 Where appropriate, Lady Wachter can also share the following story about her daughter, Stella:
 
-* Six months ago, against her advice, Lady Wachter’s daughter, Stella, began visiting Victor Vallakovich, the Baron’s son. Lady Wachter warned her against entanglement with the Vallakovich family, but Stella ignored her pleas.
+* Six months ago, against her advice, Lady Wachter’s daughter, Stella, began visiting [[Victor Vallakovich]], the Baron’s son. Lady Wachter warned her against entanglement with the Vallakovich family, but Stella ignored her pleas.
 * Just over two months ago, [[Izek Strazni]] returned Stella to Wachterhaus in her current state: mindless and speechless, unable to walk, eat, or even dress herself without another’s assistance. 
-* Baron Vallakovich has refused to discuss the matter in depth, suggesting only that the girl’s fragile constitution and her family’s exposure to the Devil were to blame. Victor Vallakovich himself has refused to speak to her at all.
+* Baron Vallakovich has refused to discuss the matter in depth, suggesting only that the girl’s fragile constitution and her family’s exposure to the Devil were to blame. [[Victor Vallakovich]] himself has refused to speak to her at all.
 * Fiona is convinced that Izek or the Vallakoviches did something terrible to Stella—and that, even if they did not, their cold refusal to assist or even commiserate with her illness proves their unfitness to rule.
 
 > [!abstract]+ **Stella’s Illness**
@@ -323,7 +323,7 @@ Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bo
 
 As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
 ### 4. End of the Day
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">N7. Blinsky Toys (p. 118)</span>, where he attempts to pick up the doll that looks like [[Ireena Kolyana]]. 
+When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">[[N7. Blinsky Toys]] (p. 118)</span>, where he attempts to pick up the doll that looks like [[Ireena Kolyana]]. 
 
 > [!abstract]+ **The Missing Doll**
 >
@@ -553,7 +553,7 @@ Lady Wachter can share that, according to the book, Vladislav was a Wachter and 
 >
 > Lady Wachter then commands the guards to open the gates to the Barovian refugees, resettling them in the town square until such a time as housing can be found. (Any Barovian refugees addicted to dream pastries continue to visit the eastern Morning Gate daily to purchase fresh pastries from Morgantha, and are joined by a number of Vallakians interested in her wares.) Any Vistani who wish to are also free to enter the town as they choose.
 >
-> [[Baron Vargas Vallakovich]] and his family are placed under unofficial house arrest, with the mansion guarded by two of Lady Wachter’s **cultists** at all times—one guarding the front door and one guarding the back. The cultists assure Baron Vallakovich that they are present for his protection, both from ungrateful townsfolk and servants of Strahd, but are under strict orders to bar him and his family from exiting the manor. Victor Vallakovich, the Baron’s son, is mildly perturbed by this development, but takes no action against it.
+> [[Baron Vargas Vallakovich]] and his family are placed under unofficial house arrest, with the mansion guarded by two of Lady Wachter’s **cultists** at all times—one guarding the front door and one guarding the back. The cultists assure Baron Vallakovich that they are present for his protection, both from ungrateful townsfolk and servants of Strahd, but are under strict orders to bar him and his family from exiting the manor. [[Victor Vallakovich]], the Baron’s son, is mildly perturbed by this development, but takes no action against it.
 >
 > Udo Lukovich, the shoemaker, is released from his prison in the Baron’s home and returned to his mother, Willemina.
 
@@ -570,7 +570,7 @@ Stella's introduction has been added as a prelude to the dinner to humanize Lady
 
 Lady Wachter's connection to Baba Lysaga and the tragic death of her family have been added to provide her with a tie to the spirit of Leo Dilisnya, and a means to entrap the hags of Old Bonegrinder in [[Arc H - The Lost Soul]]
 
-Lady Wachter's interest in using Stella to secure power in Vallaki through marriage with Victor Vallakovich has been removed to make Lady Wachter a more sympathetic character, to deepen her internal conflict and guilt in [[Arc H - The Lost Soul]] (because her coldness toward Victor discouraged him and Stella from seeking her aid sooner), and to make Victor's friendship with Stella more meaningful to the two of them.
+Lady Wachter's interest in using Stella to secure power in Vallaki through marriage with [[Victor Vallakovich]] has been removed to make Lady Wachter a more sympathetic character, to deepen her internal conflict and guilt in [[Arc H - The Lost Soul]] (because her coldness toward Victor discouraged him and Stella from seeking her aid sooner), and to make Victor's friendship with Stella more meaningful to the two of them.
 
 Lady Wachter's scheme with the poisoned wine has been added to provide the players with a fuller gameplay experience in the lead-up to Izek's assassination (thereby building the dramatic tension and enhancing the impact of Izek's ultimate death), and to provide the players with a reason to seek out and benefit from Lady Wachter's aid.
 

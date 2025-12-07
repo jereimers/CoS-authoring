@@ -125,7 +125,7 @@ Danika Martikov usually tends bar while her husband busies himself in the kitche
 
 Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic (area N2q). From noon to dusk, the taproom holds 2d4 local patrons (male and female commoners). Between dusk and midnight, 2d8 Vallakians are here. In addition, one or more of the following people might be present during this time.
 
-Wolf Hunters. Szoldar Szoldarovich and Yevgeni Krushkin (N male human scouts) are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody. Both men are grim and have haunted looks in their eyes.
+Wolf Hunters. Szoldar Szoldarovich and [[Yevgeni Krushkin]] (N male human scouts) are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody. Both men are grim and have haunted looks in their eyes.
 
 These two are dour fellows, but they seldom pass up an opportunity to earn coin. If the characters are looking for guides or information about the land of Barovia, Szoldar and Yevgeni can be of service. They aren't afraid to venture beyond Vallaki's walls during the day, and they know the woods and valley well. They're willing to serve as guides for 5 gp per day, or to provide directions to important landmarks in exchange for free drinks. They think it's foolish to travel "this cursed realm" at night and won't do so unless their payment is exorbitant ( 100 gp or more).
 
@@ -321,7 +321,7 @@ Two members of the baron's household staff have vanished in the past week: the b
 At the risk of sacrificing her sanity, the baron's wife, Lydia Petrovna (LG female human commoner), has embraced her husband's philosophy of happiness. She laughs at the baron's every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-and-sandwich parties in the parlor for her "dearest friends," many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the town priest, Father Lucian Petrovich. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft (chapter 4, area K84, crypt 11).
 
 ##### The Baronet. 
-The baron's miserable son, Victor Vallakovich (NE male human mage), has confined himself to the attic (area N3t), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a teleportation circle in the hope of escaping Barovia and leaving his parents to their doom.
+The baron's miserable son, [[Victor Vallakovich]] (NE male human mage), has confined himself to the attic (area N3t), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a teleportation circle in the hope of escaping Barovia and leaving his parents to their doom.
 
 #### N3a. Entrance Hall and Vestibule 
 
@@ -876,7 +876,7 @@ burst forth and attack.
 ##### Teleport Destination. 
 Characters who teleport to this location from area K78 in Castle Ravenloft arrive at the point marked T on the map.
 
-### N7. Blinsky Toys 
+### [[N7. Blinsky Toys]] 
 
 This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
 
@@ -946,7 +946,7 @@ If the characters are exiled from Vallaki without their weapons, the Keepers of 
 
 If the guards fall to waylay the characters, lzek (if he's still around) flees to the burgomaster's mansion, giving the characters the run of the town. The townsfolk lock themselves in their homes, fearful that the characters aim to murder them.
 
-### N9. Vistani Camp 
+### [[N9. Vistani Camp]] 
 
 Several footpaths and horse trails lead to this location in the woods southwest of Vallaki.
 

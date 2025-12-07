@@ -327,7 +327,7 @@ Depending on the players’ resting place, Strahd uses a different strategy or s
 | <span class="citation">N2. Blue Water Inn (p. 98)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">N4. Wachterhaus (p. 110)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| <span class="citation">N9. Vistani Camp (p. 119)</span> | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
+| <span class="citation">[[N9. Vistani Camp]] (p. 119)</span> | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
 | <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span> | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">Chapter 7: Argynvostholt (p. 129)</span> | Strahd uses [[#The Hostage]]. |
 | <span class="citation">S3. Village of Krezk (p. 145)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Storm]]. |

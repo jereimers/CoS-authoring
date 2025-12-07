@@ -9,7 +9,7 @@ For the reconsecrations to work, however, the players must first help Urwin and 
 >
 > * Arturi Radanavich will be removed from the campaign.
 > * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
-> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
+> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">[[N9. Vistani Camp]] (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
 > * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
 > * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
 > * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
@@ -199,7 +199,7 @@ The roc is willing to fly the players to any single location in Barovia except C
 > ***Vallaki to Berez.*** The journey from Vallaki to Berez is four and one-half miles long and takes one and one-half hours.
 
 > [!abstract]+ **Kasimir’s Departure**
-> When the players descend the mountain, Kasimir shares that he must return to the dusk elf encampment at <span class="citation">N9. Vistani Camp (p. 119)</span> to see that his people are protected. “When Patrina first appeared in my dreams, I never believed myself the one who would wield the weapon of sunlight against Zarovich," he says. “I knew that I would uncover it—guard it, if needed, until it found its rightful hand. But my place is with my people, and it is time I returned to them."
+> When the players descend the mountain, Kasimir shares that he must return to the dusk elf encampment at <span class="citation">[[N9. Vistani Camp]] (p. 119)</span> to see that his people are protected. “When Patrina first appeared in my dreams, I never believed myself the one who would wield the weapon of sunlight against Zarovich," he says. “I knew that I would uncover it—guard it, if needed, until it found its rightful hand. But my place is with my people, and it is time I returned to them."
 > 
 > Before Kasimir departs, he asks, thoughtfully: “The Vistani have a tradition—the blood rite, they call it—by which a man may become Vistani himself, though he was not born amongst their wagons. When we came to the valley, I shared the blood rite with the man who brought us here; I let Kasimir of Othrondil die, and was reborn as Kasimir Velikov, blood-brother of the Vistani." He pauses, then continues: “But Patrina could never let go of the past. While I sought to move forward, she could only ever look back. I can’t help but wonder, though—if she had completed the blood rite as I did, and so became Vistani, would she have fallen down the dark path she did?"
 > 
@@ -219,7 +219,7 @@ The roc is willing to fly the players to any single location in Barovia except C
 > If spoken to using a *speak with animals* spell, a raven shares that the winery was attacked by a “great evil," and that its flock speaks of a lone survivor who fled to the “home of blue water." (The raven, which didn’t witness the attack personally, is referring to Baba Lysaga and the Blue Water Inn, respectively.)
 
 > [!info]+ **Victor’s Plea**
-> Shortly after the players descend the mountain (e.g., as they conclude their investigation of the Wizard of Wines), if the players befriended or assisted him in [[Arc H - The Lost Soul]], one of them receives the following *sending* from Victor Vallakovich: *I need your help. Lady Wachter has betrayed us, the town has gone mad, and I can’t reach Stella. When will you return?*
+> Shortly after the players descend the mountain (e.g., as they conclude their investigation of the Wizard of Wines), if the players befriended or assisted him in [[Arc H - The Lost Soul]], one of them receives the following *sending* from [[Victor Vallakovich]]: *I need your help. Lady Wachter has betrayed us, the town has gone mad, and I can’t reach Stella. When will you return?*
 >
 > If the players ask for further information, Victor replies with the following additional *sending*: *Too much to share like this. Come to my family’s home. Don’t let the gate guards see you.*
 ## T2a. The Wizard of Wines
@@ -426,7 +426,7 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
 >
 > Urwin pleads with the players to share the gem’s location—and thief, if they know its identity. He is shocked to learn that the gem was hidden at the peak of Mt. Ghakis—but begins laughing with a deep, disbelieving chuckle upon learning that it was taken by the roc of Mt. Ghakis. “Madness," he croaks in bewildered delight, wiping a tear from his eye. “Everything else in the world has gone insane. Why not this?"
 ### Vallakovich Manor
-If the players visit <span class="citation">N3. Burgomaster’s Mansion (p. 103)</span>, Victor Vallakovich greets them at the door and ushers them to <span class="citation">N3t. Victor’s Workroom (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation">N3l. Library (p. 107)</span>, which he has adopted as his own study since his father’s death.)
+If the players visit <span class="citation">N3. Burgomaster’s Mansion (p. 103)</span>, [[Victor Vallakovich]] greets them at the door and ushers them to <span class="citation">N3t. Victor’s Workroom (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation">N3l. Library (p. 107)</span>, which he has adopted as his own study since his father’s death.)
 
 > [!abstract]+ **Vargas’s Death**
 > If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], both Victor and Vargas’s wife, Lydia Petrovna, have struggled to adapt to his death. Although Victor stands to inherit Vargas’s lands and titles when he comes of age—thereby preserving the family’s wealth and status—both Victor and his mother have found it difficult to accustom themselves to a world without Vargas in it. 
@@ -1358,7 +1358,7 @@ If the players follow him into the trees, they can discern his features: a young
 > [!lore]+ **The Vistani Guest**
 > Two days ago, Strahd von Zarovich learned from a Vistani spy of the connection between Arturi Radanavich and Dr. Rudolph van Richten. Reasoning that Arturi’s unique curse may be connected to Van Richten—who Strahd hopes to use as a sacrifice in the Grand Conjunction’s ritual—Strahd “invited" Arturi to Castle Ravenloft, where he delivered him into the care of a platoon of surviving castle **wights**. Arturi was made a mandatory guest in <span class="citation">K32. Maid in Hell (p. 64)</span>, imprisoned so that Strahd could study his curse in greater detail.
 >
-> Last night, Arturi staged a daring escape, barely escaping with his life through the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. Upon his arrival at <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, Arturi swiftly made his way to <span class="citation">N9. Vistani Camp (p. 119)</span>, where he sought refuge with the Vallakian Vistani. Since then, Luvash and Arrigal have concealed Arturi within <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>, tended to his wounds, and sent covert messengers to <span class="citation">P. Luna River Crossroads (p. 40)</span> in the hopes of securing the players’ aid.
+> Last night, Arturi staged a daring escape, barely escaping with his life through the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span>. Upon his arrival at <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, Arturi swiftly made his way to <span class="citation">[[N9. Vistani Camp]] (p. 119)</span>, where he sought refuge with the Vallakian Vistani. Since then, Luvash and Arrigal have concealed Arturi within <span class="citation">N9i. Vistani Treasure Wagon (p. 123)</span>, tended to his wounds, and sent covert messengers to <span class="citation">P. Luna River Crossroads (p. 40)</span> in the hopes of securing the players’ aid.
 >
 > Arturi knows he can’t stay at the Vistani encampment past nightfall, knowing that his curse will inevitably lure a horde of undead to kill the innocents that dwell there. Arturi, however, fears that Strahd will soon use his *scrying* materials to track him down—and, using Arturi’s cursed connection to Van Richten, track down and capture the doctor as well. With Van Richten dead or turned, Arturi fears that there may be no way to lift his curse, leaving him hunted by undead for the remainder of his life.
 
@@ -1373,7 +1373,7 @@ If the players express an interest in meeting Luvash’s “guest," Alexei direc
 
 Before departing, Alexei warns the players not to approach the Vistani camp openly, and to conceal their presence from any watchful spies. “I cannot return with you," he says, his voice trembling. “If our people are seen with you, it could mean calamity for us—or worse." Alexei then turns and vanishes into the Svalich Wood, making his way back to the Vistani camp by another way.
 ## T4b. The Vistani Encampment
-<span class="citation">N9. Vistani Camp (p. 199)</span> is largely as described in [[Arc E - The Missing Vistana]]. However, if the players approach openly or are otherwise recognized, read:
+<span class="citation">[[N9. Vistani Camp]] (p. 199)</span> is largely as described in [[Arc E - The Missing Vistana]]. However, if the players approach openly or are otherwise recognized, read:
 
 <div class="description">
 <p>Each Vistani that sees your face flinches. Several faces watch fearfully from wagon windows, while parents usher their children away at your approach.</p>
