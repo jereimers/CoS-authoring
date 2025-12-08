@@ -3,23 +3,27 @@ type: barovian_day
 tags:
   - timeline
   - barovia/date
-barovian_date_key: 0735-11-04
-barovian_date: 4 Neyavr, 735
+barovian_date_key: 0735-11-01
+barovian_date: 1 Neyavr, 735
 month: Neyavr
-day_of_month: 4
-moon_phase: waxing_half
-primary_location: Vallaki
+day_of_month: 1
+moon_phase: new
+primary_location: "[[Vallaki]]"
 act: Act II
-arc: Arc D - St. Andral's Feast
+arc: "[[Arc C - Into the Valley]]"
 sessions:
   - 
   - 
 party_level: 4
 major_events:
-  - Arabelle's Nameday
+  - Depart Vilage of Barovia
+  - Encounter Strahd at Ivlis River Crossroads
+  - Save Blue-Winged Raven from the strix
+  - Play Game of Stories at Tser Pool Camp
+  - Receive Tarokka reading from Madam Eva at Ivlis River Crossroads
 factions_active:
-  - Wachter Cult
-  - Vistani (Town Camp)
+  - Vistani (Tser Pool)
+  - Barovian Scouts
 party_presence:
   - Arden
   - Fig
@@ -27,6 +31,16 @@ party_presence:
   - Varnish
   - Ireena
   - Parriwimple
+  - "[[Blue-Winged Raven]]"
+NPCs_met: 
+  - "[[Eliza]]"
+  - "[[Stanimir]]"
+  - "[[Arturi Radanavich]]"
+  - "[[Madam Eva]]"
+  - "[[Kereza]]"
+  - "[[Korga]]"
+  - "[[Strahd]]"
+  - "[[Escher]]"
 ---
 # 4 Neyavr, 735 — Vallaki
 
@@ -34,6 +48,7 @@ party_presence:
 Short prose summary of what “history” would say happened.
 
 ## Scenes
+
 
 
 ## NPC Movements

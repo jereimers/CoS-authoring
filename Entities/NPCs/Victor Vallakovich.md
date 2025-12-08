@@ -1,3 +1,115 @@
+---
+npc: true
+name: Victor Vallakovich
+aliases:
+  - Victor
+pronouns: he/him
+race: Human
+class: Wizard
+age: 18
+gender: male
+creature_type: humanoid
+origin: "[[Vallaki]]"
+home_base: "[[N3. Burgomaster's Mansion#N3t. Victor's Workroom|Victor's Workroom]]"
+current_location: "[[N3. Burgomaster's Mansion#N3t. Victor's Workroom|Victor's Workroom]]"
+factions:
+  - "[[Vallakoviches]]"
+arc:
+  - "[[Arc F - Lady Wachter's Wish]]"
+  - "[[Arc H - The Lost Soul]]"
+first_appearance_session:
+first_appearance_date: 3 Neyavr 735
+status: alive
+role_in_story: Major NPC; unstable wizard; Stella's would-be savior
+statblock_source: Curse of Strahd – Vallaki section
+cr: 5
+spellcasting:
+  class: wizard
+  level: 5
+  spellbook_contains:
+    - sending
+    - fear
+  spellbook_missing:
+    - remove curse
+resonance: |
+  Players should feel annoyed at his suspicion and condescension, sympathetic to his anxiety, frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
+emotions:
+  - curious
+  - frustrated
+  - suspicious
+  - excited
+  - bored
+  - anxious
+  - desperate
+  - determined
+motivations:
+  - Restore Stella's soul to her body.
+  - Escape Barovia.
+inspirations:
+  - Jonathan Byers (Stranger Things)
+  - "Prince Zuko (Avatar: The Last Airbender)"
+  - Raven (Teen Titans)
+  - Perrin Aybara (Wheel of Time)
+vocal_notes: |
+  Quiet, slightly monotone, with bursts of intensity when excited or anxious. Occasional awkward pauses and self-corrections, especially when talking about Stella or his magic.
+signature_lines:
+  - You wouldn’t understand. None of you do.
+  - It’s not dangerous— not if I do it right this time.
+  - Stella trusted me, once. I have to make that mean something.
+relationships:
+  - name: "[[Baron Vargas Vallakovich]]"
+    relation: father
+    attitude: resentful, intimidated
+    notes: |
+      Victor resents his father's cruelty and incompetence but feels trapped by his authority and the expectations placed upon him.
+  - name: "[[Baroness Lydia Petrovna]]"
+    relation: mother
+    attitude: protective, frustrated
+    notes: |
+      He pities her fragile optimism and nervous breakdowns, but still loves her and avoids upsetting her when he can.
+  - name: "[[Stella Wachter]]"
+    relation: closest friend / would-be love interest
+    attitude: guilty, devoted
+    notes: |
+      Victor is haunted by what his teleportation circle did to Stella and is obsessed with restoring her mind.
+  - name: "[[Erasmus van Richten]]"
+    relation: strange friend in the Ethereal Plane
+    attitude: curious, wary
+    notes: |
+      Victor is fascinated by Erasmus and jealous of the time Stella spends talking to him.
+  - name: "[[Izek Strazni]]"
+    relation: enemy
+    attitude: terrified, hateful
+    notes: |
+      Izek killed Victor's cat Murka with a casual kick; Victor never forgot and later reanimated Murka's skeleton.
+knowledge_topics:
+  - topic: "[[Arabelle]]"
+    category: quest hook
+    summary: |
+      If persuaded to help, Victor will assist the party in searching for Arabelle and share what he knows about Khazan and the tower on Lake Baratok.
+  - topic: "[[Khazan]]"
+    category: lore
+    summary: |
+      Found Khazan's spellbook in his father's library; knows the sigil and that Khazan once built a wizard's tower with powerful warding magic.
+  - topic: "[[Amber Temple]]"
+    category: lore
+    summary: |
+      Knows from Khazan's notes that it is an amber-forged temple once guarded by a dragon's knights, where Khazan sought forbidden power.
+  - topic: "[[Lake Baratok]]"
+    category: location
+    summary: |
+      Knows the location of Khazan's tower on a gravel causeway jutting into the lake and can give directions if the party agrees to retrieve artifacts.
+portrait: IMG-20251205143153009.png
+portrait_credit: Your artist/source here
+handouts:
+  - "[[Victor's Spellbook Notes]]"
+tags:
+  - npc
+  - cos
+  - vallaki
+  - wizard
+---
+
 # Victor Vallakovich #Profile 
 Victor’s spellbook contains the _sending_ and _fear_ spells and does not contain _remove curse._
 ## #Portrait

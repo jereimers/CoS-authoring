@@ -3,32 +3,34 @@ type: barovian_day
 tags:
   - timeline
   - barovia/date
-barovian_date_key: 0735-11-04
-barovian_date: 4 Neyavr, 735
+barovian_date_key: 0735-11-02
+barovian_date: 2 Neyavr, 735
 month: Neyavr
-day_of_month: 4
-moon_phase: waxing_half
+day_of_month: 2
+moon_phase: waxing_crescent
 primary_location: Vallaki
-act: Act II
-arc: Arc D - St. Andral's Feast
+act: "[[Act I Summary]]"
+arc: "[[Arc C - Into the Valley]]"
 sessions:
   - 
   - 
 party_level: 4
 major_events:
-  - Arabelle's Nameday
+  - Rictavio checks in to Blue Water Inn
+  - Party arrives in Vallaki
 factions_active:
-  - Wachter Cult
-  - Vistani (Town Camp)
+  - Keepers of the Feather
+  - Strahd's Spies (Eliza)
 party_presence:
   - Arden
   - Fig
   - Choppy
   - Varnish
-  - Ireena
-  - Parriwimple
+  - "[[Ireena]]"
+  - "[[Parriwimple]]"
+  - "[[Muriel Vinshaw]]"
 ---
-# 4 Neyavr, 735 — Vallaki
+# 2 Neyavr, 735 — Tser Pool -> Vallaki
 
 ## Summary of the Day
 Short prose summary of what “history” would say happened.
@@ -41,7 +43,7 @@ Short prose summary of what “history” would say happened.
 - **Fiona Wachter**: quietly escalates anti-Vallakovich plotting.
 - **Rictavio**: seen in town square, then vanishes.
 
-## Threads & Clocks
+## Threads & Countdowns
 - **Blazing Sun Tension Clock**: 🕒🕒🕒🕑 (3/4)
 - **Strahd’s Attention**: increases if PCs grandstand at festival.
 

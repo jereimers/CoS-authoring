@@ -3,22 +3,23 @@ type: barovian_day
 tags:
   - timeline
   - barovia/date
-barovian_date_key: 0735-11-04
-barovian_date: 4 Neyavr, 735
+barovian_date_key: 0735-11-03
+barovian_date: 3 Neyavr, 735
 month: Neyavr
-day_of_month: 4
-moon_phase: waxing_half
+day_of_month: 3
+moon_phase: waxing_crescent
 primary_location: Vallaki
 act: Act II
-arc: Arc D - St. Andral's Feast
+arc:
 sessions:
   - 
   - 
-party_level: 4
+time_of_day_focus:
+party_level: 5
 major_events:
-  - Arabelle's Nameday
+  - Festival of the Blazing Sun preparations
+  - 
 factions_active:
-  - Wachter Cult
   - Vistani (Town Camp)
 party_presence:
   - Arden
@@ -28,7 +29,7 @@ party_presence:
   - Ireena
   - Parriwimple
 ---
-# 4 Neyavr, 735 — Vallaki
+# 3 Neyavr, 735 — Vallaki
 
 ## Summary of the Day
 Short prose summary of what “history” would say happened.

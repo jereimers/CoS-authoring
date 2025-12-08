@@ -7,16 +7,21 @@ barovian_date_key: 0735-11-04
 barovian_date: 4 Neyavr, 735
 month: Neyavr
 day_of_month: 4
-moon_phase: waxing_half
+day_of_week: Moonday
 primary_location: Vallaki
 act: Act II
 arc: Arc D - St. Andral's Feast
 sessions:
   - 
   - 
-party_level: 4
+session_notes:
+  - - - 
+  - - - 
+time_of_day_focus: 
+party_level: 5
 major_events:
-  - Arabelle's Nameday
+  - Festival of the Blazing Sun preparations
+  - 
 factions_active:
   - Wachter Cult
   - Vistani (Town Camp)
