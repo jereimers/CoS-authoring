@@ -17,20 +17,13 @@ factions:
 arc:
   - "[[Arc F - Lady Wachter's Wish]]"
   - "[[Arc H - The Lost Soul]]"
+  - "[[Arc E - The Missing Vistana]]"
 first_appearance_session:
 first_appearance_date: 3 Neyavr 735
 status: alive
 role_in_story: Major NPC; unstable wizard; Stella's would-be savior
 statblock_source: Curse of Strahd – Vallaki section
 cr: 5
-spellcasting:
-  class: wizard
-  level: 5
-  spellbook_contains:
-    - sending
-    - fear
-  spellbook_missing:
-    - remove curse
 resonance: |
   Players should feel annoyed at his suspicion and condescension, sympathetic to his anxiety, frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
 emotions:
@@ -56,51 +49,8 @@ signature_lines:
   - You wouldn’t understand. None of you do.
   - It’s not dangerous— not if I do it right this time.
   - Stella trusted me, once. I have to make that mean something.
-relationships:
-  - name: "[[Baron Vargas Vallakovich]]"
-    relation: father
-    attitude: resentful, intimidated
-    notes: |
-      Victor resents his father's cruelty and incompetence but feels trapped by his authority and the expectations placed upon him.
-  - name: "[[Baroness Lydia Petrovna]]"
-    relation: mother
-    attitude: protective, frustrated
-    notes: |
-      He pities her fragile optimism and nervous breakdowns, but still loves her and avoids upsetting her when he can.
-  - name: "[[Stella Wachter]]"
-    relation: closest friend / would-be love interest
-    attitude: guilty, devoted
-    notes: |
-      Victor is haunted by what his teleportation circle did to Stella and is obsessed with restoring her mind.
-  - name: "[[Erasmus van Richten]]"
-    relation: strange friend in the Ethereal Plane
-    attitude: curious, wary
-    notes: |
-      Victor is fascinated by Erasmus and jealous of the time Stella spends talking to him.
-  - name: "[[Izek Strazni]]"
-    relation: enemy
-    attitude: terrified, hateful
-    notes: |
-      Izek killed Victor's cat Murka with a casual kick; Victor never forgot and later reanimated Murka's skeleton.
-knowledge_topics:
-  - topic: "[[Arabelle]]"
-    category: quest hook
-    summary: |
-      If persuaded to help, Victor will assist the party in searching for Arabelle and share what he knows about Khazan and the tower on Lake Baratok.
-  - topic: "[[Khazan]]"
-    category: lore
-    summary: |
-      Found Khazan's spellbook in his father's library; knows the sigil and that Khazan once built a wizard's tower with powerful warding magic.
-  - topic: "[[Amber Temple]]"
-    category: lore
-    summary: |
-      Knows from Khazan's notes that it is an amber-forged temple once guarded by a dragon's knights, where Khazan sought forbidden power.
-  - topic: "[[Lake Baratok]]"
-    category: location
-    summary: |
-      Knows the location of Khazan's tower on a gravel causeway jutting into the lake and can give directions if the party agrees to retrieve artifacts.
-portrait: IMG-20251205143153009.png
-portrait_credit: Your artist/source here
+portrait: "[[IMG-20251205143153009.png]]"
+portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
   - "[[Victor's Spellbook Notes]]"
 tags:
@@ -108,6 +58,7 @@ tags:
   - cos
   - vallaki
   - wizard
+  - ally
 ---
 
 # Victor Vallakovich #Profile 

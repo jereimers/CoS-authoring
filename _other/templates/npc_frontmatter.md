@@ -1,6 +1,6 @@
 ---
 type: NPC
-name: NPC Name
+name: <% tp.file.title %>
 aliases:
   - Alias One
   - Alias Two
@@ -16,10 +16,10 @@ current_location: "[[Where They Are Now]]"
 factions:
   - "[[Faction or Family A]]"
   - "[[Faction or Group B]]"
-arc:
+arc(s):
   - "[[Arc X - Title]]"
   - "[[Arc Y - Other Arc]]"
-first_appearance_session: 7
+first_appearance_session: 5
 first_appearance_date: 3 Neyavr 735
 status: alive
 role_in_story: Major NPC
@@ -50,5 +50,3 @@ tags:
   - npc
   - vallaki
 ---
-
-#needs_filling

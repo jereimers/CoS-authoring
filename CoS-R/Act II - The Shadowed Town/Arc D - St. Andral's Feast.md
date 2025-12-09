@@ -219,7 +219,7 @@ As Milivoj reaches the door, he tersely addresses Jarzinka as “Mother” and g
 
 If the players inform Milivoj that they want to speak with him about St. Andral’s bones, he scowls, insists that he knows nothing about the matter, and attempts to close the door. A player can prevent him from doing so with a successful DC 10 Strength or Dexterity check. (If Milivoj successfully closes the door, the players can make him open it again by making a sufficient nuisance of themselves, by succeeding on a DC 10 Charisma (Intimidation or Persuasion) check, or by forcing the door down with a successful DC 10 Strength check.)
 
-Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, Fiona's spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
+Milivoj denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, [[Lady Fiona Wachter|Fiona]]'s spy, though Milivoj doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
 
 If the players accuse Milivoj of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, Milivoj admits to stealing them, as described in <span class="citation">Bones of St. Andral (p. 97)</span>. Players who confront Milivoj with evidence from the crypt automatically succeed. Milivoj can't take the players to the coffin maker's shop himself, but notes that Father Lucian can lead them there.
 
@@ -495,7 +495,7 @@ If the players and Father Lucian successfully return the stolen bones to St. And
 
 **_Milestone_**. Returning the bones of St. Andral completes a story milestone. Upon returning them to the church, award each player 1,250 XP.
 # D6. Rahadin's Visit
-At dusk on the first night after the bones have been restored and Lady Fiona Wachter has assumed power in [[Arc F - Lady Wachter's Wish]] or following [[Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of Lady Wachter's standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
+At dusk on the first night after the bones have been restored and [[Lady Fiona Wachter]] has assumed power in [[Arc F - Lady Wachter's Wish]] or following [[Arc G - The Strazni Siblings]], Rahadin, Strahd's chamberlain, arrives in Vallaki atop his _phantom steed_. He then commands the town guard to arrest Milivoj and Henrik and bring them to the town square for judgment. (Because of [[Lady Fiona Wachter|Lady Wachter]]'s standing orders to obey the laws of Castle Ravenloft—so long as they do not bring harm to the innocent people of Vallaki—the guards at the gates do not disobey.)
 ## D6a. The Invitation
 Rahadin next rides to the Blue Water Inn or wherever else the players can be found. There, he delivers the players an invitation to dine at Castle Ravenloft, as described in [[Arc O - Dinner with the Devil]], before departing.
 
@@ -509,7 +509,7 @@ Father Lucian and Milivoj's siblings are grateful to see the players upon their 
 
 If confronted, Rahadin can coldly share that Milivoj and Henrik have been found guilty of crimes against Vallaki and its people.
 
-If the players demand to know which crimes Milivoj and Henrik have committed, or at another suitable point during the proceedings, the crowd parts as Lady Fiona Wachter arrives, flanked by four **guards** and two **cultists**. Lady Wachter then demands Rahadin inform her of Milivoj and Henrik's crimes. "If the servants of Castle Ravenloft presume to commandeer my guards without my knowledge or permission," she fumes, "I have that right, at least."
+If the players demand to know which crimes Milivoj and Henrik have committed, or at another suitable point during the proceedings, the crowd parts as [[Lady Fiona Wachter]] arrives, flanked by four **guards** and two **cultists**. [[Lady Fiona Wachter|Lady Wachter]] then demands Rahadin inform her of Milivoj and Henrik's crimes. "If the servants of Castle Ravenloft presume to commandeer my guards without my knowledge or permission," she fumes, "I have that right, at least."
 
 Rahadin then reads aloud the following proclamation:
 
@@ -521,7 +521,7 @@ Rahadin then reads aloud the following proclamation:
 
 The proclamation is signed and sealed by Strahd.
 
-As the Chamberlain of Castle Ravenloft, Rahadin informs the players, he has determined that the sentence for these crimes is death—unless any are willing to speak in the convicted's favor, presenting mitigating circumstances that alleviate the severity of their transgressions. (Lady Wachter will take no action to bar Strahd's justice, but supports the players in their efforts if friendly toward them.)
+As the Chamberlain of Castle Ravenloft, Rahadin informs the players, he has determined that the sentence for these crimes is death—unless any are willing to speak in the convicted's favor, presenting mitigating circumstances that alleviate the severity of their transgressions. ([[Lady Fiona Wachter|Lady Wachter]] will take no action to bar Strahd's justice, but supports the players in their efforts if friendly toward them.)
 
 Should the players do so, Rahadin plays the role of an adversarial and cold-hearted judge, pushing back against their responses and probing at the hole in their reasoning. The players might argue the following mitigating circumstances:
 
@@ -562,7 +562,7 @@ If the players appear horrified by Rahadin's chosen sentence, he coldly reminds 
 
 If the players appear unpersuaded, Milivoj tells them hoarsely, "Please, don't do anything stupid on my behalf. I did something wrong, and I'll accept any punishment. Just so long as my siblings don't suffer." (If punished with branding, flogging, or mutilation, Milivoj grits his teeth and stifles a roar of pain, but refuses to cry out and give Rahadin the satisfaction.)
 
-If any players appear likely to obstruct Rahadin's efforts to carry out a sentence, Lady Wachter quietly pleads with them not to be foolish. "He is the chamberlain of Castle Ravenloft and Von Zarovich's right hand," she insists. If the players have successfully bartered Rahadin down from execution, she adds: "You've already saved lives today. Don't trade your own for a doomed endeavor. Vallaki *needs* you."
+If any players appear likely to obstruct Rahadin's efforts to carry out a sentence, [[Lady Fiona Wachter|Lady Wachter]] quietly pleads with them not to be foolish. "He is the chamberlain of Castle Ravenloft and Von Zarovich's right hand," she insists. If the players have successfully bartered Rahadin down from execution, she adds: "You've already saved lives today. Don't trade your own for a doomed endeavor. Vallaki *needs* you."
 
 If the players actually attempt to obstruct Rahadin's efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers Henrik and Milivoj's sentences.
 

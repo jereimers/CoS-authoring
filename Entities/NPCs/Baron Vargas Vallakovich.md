@@ -1,3 +1,63 @@
+---
+npc: true
+name: Baron Vargas Vallakovich
+aliases:
+  - Vargas
+  - The Baron
+  - Baron Vallakovich
+  - Vargas Vallakovich
+pronouns: he/him
+race: Human
+class: Noble
+age: 53
+gender: male
+creature_type: humanoid
+origin: "[[N. Town of Vallaki]]"
+home_base: "[[N3. Burgomaster's Mansion]]"
+current_location: "[[N3. Burgomaster's Mansion]]"
+factions:
+  - "[[Vallakoviches]]"
+arc:
+  - "[[Arc C - Into the Valley]]"
+  - "[[Arc E - The Missing Vistana]]"
+  - "[[Arc F - Lady Wachter's Wish]]"
+  - "[[Arc G - The Strazni Siblings]]"
+  - "[[Arc H - The Lost Soul]]"
+  - "[[Arc D - St. Andral's Feast]]"
+first_appearance_session: 10
+first_appearance_date: 3 Neyavr 735
+status: alive
+role_in_story: Major NPC
+statblock_source:
+cr: 2
+resonance: |
+  One- or two-sentence reminder of how the NPC should feel to the players.
+emotions:
+  - curious
+  - frustrated
+  - anxious
+motivations:
+  - Primary driving goal
+  - Secondary goal or fear
+inspirations:
+  - Name (Source)
+  - Name (Source)
+vocal_notes: |
+  Short description of voice, cadence, physical tics.
+signature_lines:
+  - Favorite line or catchphrase.
+  - Another line you might improv from.
+relationships:
+  - "[[Victor Vallakovich]]"
+portrait: "[[05-006.baroness-baron.png]]"
+portrait_credit: CoS-WotC
+handouts:
+tags:
+  - npc
+  - vallaki
+  - cos
+---
+
 # Portrait
 ![[vargas_vallakovich.png]]
 # Profile: Baron Vargas Vallakovich

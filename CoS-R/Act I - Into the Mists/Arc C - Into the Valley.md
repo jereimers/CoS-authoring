@@ -1123,7 +1123,7 @@ As the players pass down Vallaki's main avenue, read:
 
 The cloaked figure is [[Willemina Rikalova]], as described in [[N1. St. Andral's Church]]. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
 
-As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in [[05 - Vallaki - Lady Wachter's Wish]]. (Ernst does not yet deliver an invitation to dine with Lady Wachter, though he does return to [[N4. Wachterhaus]] to report back to Lady Wachter when the players leave his sight.)
+As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in [[05 - Vallaki - Lady Wachter's Wish]]. (Ernst does not yet deliver an invitation to dine with [[Lady Fiona Wachter|Lady Wachter]], though he does return to [[N4. Wachterhaus]] to report back to [[Lady Fiona Wachter|Lady Wachter]] when the players leave his sight.)
 ## C12b. The Blue Water Inn
 
 This area is largely as described in [[N2. Blue Water Inn]]. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
@@ -1323,7 +1323,7 @@ Lowering his voice, [[Urwin]] warns the players that they must be cautious in Va
 
 [[Urwin]] quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
 
-If the players ask whether the Baron has any enemies in Vallaki, [[Urwin]] can also share the information about [[Lady Fiona Wachter]] described in [[Vallaki Lore]] (p. 96). However, instead of describing Lady Wachter's "mad daughter," [[Urwin]] shares only that Lady Fiona has a daughter, [[Stella Wachter]], who Lady Wachter has recently kept cloistered on the grounds of [[N4. Wachterhaus]] for unknown reasons.
+If the players ask whether the Baron has any enemies in Vallaki, [[Urwin]] can also share the information about [[Lady Fiona Wachter]] described in [[Vallaki Lore]] (p. 96). However, instead of describing [[Lady Fiona Wachter|Lady Wachter]]'s "mad daughter," [[Urwin]] shares only that [[Lady Fiona Wachter|Lady Fiona]] has a daughter, [[Stella Wachter]], who [[Lady Fiona Wachter|Lady Wachter]] has recently kept cloistered on the grounds of [[N4. Wachterhaus]] for unknown reasons.
 
 As [[Urwin]]'s conversation draws to a close, [[Rictavio]] descends the stairs from [[N2. Blue Water Inn#N2n. Private Guest Room|his private room]] and approaches the bar, greeting the players with a nod. [[Urwin]] bids him good morning and removes a small parcel from beneath the counter, which [[Rictavio]] accepts and tucks into his cloak.
 
@@ -1434,7 +1434,7 @@ If [[Ireena]] is with the party, she has drawn up the hood of her cloak upon exi
 
 If asked, [[Ireena]] notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
 
-If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to Lady Fiona Wachter at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
+If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to [[Lady Fiona Wachter]] at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
 
 ***End of an Act.*** When the players set off from the Blue Water Inn for their first full day in Vallaki, **Act I** ends and **Act II** begins.
 # Design Notes: Into the Valley
@@ -1483,4 +1483,4 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 
 ***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster [[Rictavio]]. [[Rictavio]]'s tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
 
-***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of [[Ireena]], and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**
+***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of [[Ireena]], and to provide [[Lady Fiona Wachter]] with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**

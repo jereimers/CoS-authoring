@@ -3,37 +3,30 @@ type: barovian_day
 tags:
   - timeline
   - barovia/date
-barovian_date_key: 0735-11-04
-barovian_date: 4 Neyavr, 735
+barovian_date_key: 0735-10-26
+barovian_date: 26 Octyavr, 735
 month: Neyavr
-day_of_month: 4
-day_of_week: Moonday
-primary_location: Vallaki
+day_of_month: 26
+moon_phase
+primary_location: Death House
 act: Act II
 arc: Arc D - St. Andral's Feast
 sessions:
   - 
   - 
-session_notes:
-  - - - 
-  - - - 
 time_of_day_focus: 
-party_level: 5
+party_level: 1
 major_events:
-  - Festival of the Blazing Sun preparations
+  - 
   - 
 factions_active:
   - Wachter Cult
-  - Vistani (Town Camp)
 party_presence:
   - Arden
   - Fig
-  - Choppy
-  - Varnish
-  - Ireena
-  - Parriwimple
+  - Blue
 ---
-# 4 Neyavr, 735 — Vallaki
+# 26 Octyavr, 735 — Death House
 
 ## Summary of the Day
 Short prose summary of what “history” would say happened.
