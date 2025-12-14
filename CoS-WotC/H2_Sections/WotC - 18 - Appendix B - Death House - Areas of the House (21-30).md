@@ -1,6 +1,6 @@
 # Areas of the House (21-30)
 
-#[[21. Secret Stairs]]
+#[[Secret Stairs]]
 
 #[[DUNGEON FEATURES]]
 
@@ -43,7 +43,7 @@ The stone slab is etched with the name Thornboldt Durst. The chamber beyond cont
 If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by Thorn's ghost when this occurs is no longer possessed (see also the "Development" section in area 20).
 
 %% --- Page 304 --- %%
-#[[24. Cult Initiates' Quarters]]
+#[[Cult Initiates' Quarters]]
 
 ## 25. Well and Cultist Quarters
 
@@ -65,12 +65,12 @@ This room's chest contains an ivory hairbrush with silver bristles (worth 25 gp 
 ### 25E. 
 This room's chest contains a silvered shortsword (worth 110 gp ).
 
-#[[26. Hidden Spiked Pit]]
+#[[Hidden Spiked Pit]]
 
-#[[27. Dining Hall]]
+#[[Dining Hall]]
 
-#[[28. Larder]]
+#[[Larder]]
 
-#[[29. Ghoulish Encounter]]
+#[[Ghoulish Encounter]]
 
-#[[30. Stairs Down]]
+#[[Stairs Down]]

@@ -33,7 +33,7 @@ Characters can pass through ordinary webs, including thick cobwebs, without fear
 
 #[[D. River Ivlis]]
 
-#[[E. Village of Barovia]]
+#[[Village of Barovia]]
 
 #[[F. River Ivlis Crossroads]]
 

@@ -38,7 +38,7 @@ If the players ask Urwin about [[Lady Fiona Wachter|Lady Wachter]], he can share
 # F2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
-Wachterhaus is largely as described in [[N4. Wachterhaus]] (p. 110),  but with the following changes:
+Wachterhaus is largely as described in [[Wachterhaus]] (p. 110),  but with the following changes:
 
 ***Stella's Bedroom.*** Stella Wachter doesn't scratch at her door or call out to the players in <span class="citation">N4l. Upstairs Hall (p. 113)</span>. If found, she is dull-eyed and non-responsive, incapable of speaking to the players or even moving of her own volition. (This is because she has lost her soul, which is currently trapped in the Ethereal Plane. See [[Arc H - The Lost Soul]] for more information.)
 
@@ -57,7 +57,7 @@ Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 1
 * 2nd level (3 slots): *blindness/deafness, zone of truth, hold person*
 * 3rd level (2 slots): *animate dead, spirit guardians*
 ## F2a. Welcome to Wachterhaus
-As the players approach Wachterhaus, read the following description instead of the text in [[N4. Wachterhaus]] (p. 110):
+As the players approach Wachterhaus, read the following description instead of the text in [[Wachterhaus]] (p. 110):
 
 <div class="description">
 <p>A thick garden, filled with herbs and vines stands beside this wide, red-roofed manor. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. A handsome red-painted door stands at the house's entrance, its upper half set with frosted glass.</p>
@@ -323,7 +323,7 @@ Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bo
 
 As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
 ### 4. End of the Day
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">[[N7. Blinsky Toys]] (p. 118)</span>, where he attempts to pick up the doll that looks like [[Ireena Kolyana]]. 
+When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">[[Blinsky Toys]] (p. 118)</span>, where he attempts to pick up the doll that looks like [[Ireena Kolyana]]. 
 
 > [!abstract]+ **The Missing Doll**
 >

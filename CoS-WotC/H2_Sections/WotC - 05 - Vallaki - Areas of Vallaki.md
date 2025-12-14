@@ -836,7 +836,7 @@ burst forth and attack.
 #### Teleport Destination. 
 Characters who teleport to this location from area K78 in Castle Ravenloft arrive at the point marked T on the map.
 
-## [[N7. Blinsky Toys]] 
+## [[Blinsky Toys]] 
 
 This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
 
@@ -906,7 +906,7 @@ If the characters are exiled from Vallaki without their weapons, the Keepers of 
 
 If the guards fall to waylay the characters, lzek (if he's still around) flees to the burgomaster's mansion, giving the characters the run of the town. The townsfolk lock themselves in their homes, fearful that the characters aim to murder them.
 
-## [[N9. Vistani Camp]] 
+## [[Vistani Camp]] 
 
 Several footpaths and horse trails lead to this location in the woods southwest of Vallaki.
 

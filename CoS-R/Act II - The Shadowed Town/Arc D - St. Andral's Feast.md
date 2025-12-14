@@ -1,6 +1,6 @@
 _An adventure for five 4th-level characters._
 
-In this arc, the players escort [[Ireena Kolyana]] to [[N1. St. Andral's Church|St. Andral's Church]] in [[Vallaki]], fulfilling their vow to her brother, [[Ismark]]. However, [[Father Lucian Petrovich|Father Lucian]], the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
+In this arc, the players escort [[Ireena Kolyana]] to [[St. Andral's Church|St. Andral's Church]] in [[Vallaki]], fulfilling their vow to her brother, [[Ismark]]. However, [[Father Lucian Petrovich|Father Lucian]], the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.
 
 The players have until the night of their fifth day after arriving in Vallaki to identify the thief (the church groundskeeper, [[Milivoj]]), track down the bones to their hiding place (the Vallaki coffin maker's shop), and return them to their rightful place in the church. Their mission will bring them into direct conflict with Volenta Popofsky, Strahd's most sadistic vampiric bride, and her vampiric minions.
 
@@ -233,7 +233,7 @@ If informed that the bones may have been stolen to allow an attack upon the chur
 ## D2b. Departing the House
 Once Milivoj has admitted to the bones' theft, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] can lead the players to the coffin maker's shop. (He knows the owner, Henrik, well, and hopes that he can reason with the man.) If the players appear skeptical, Father Lucian—who has the statistics of a **priest**—reveals that he bears the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promises them that he is more than capable of defending himself.
 
-If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in [[N6. Coffin Maker's Shop|**Coffin Maker's Shop**]] (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
+If the players suggest reporting the theft of the bones to the burgomaster, Father Lucian is reluctant to do so, fearing the possibility of raising a panic. With a successful DC 15 Charisma (Persuasion) check, however, the players can convince Father Lucian to join them in reporting the theft to Baron Vallakovich, who responds as described in [[Coffin Maker's Shop|**Coffin Maker's Shop**]] (If the players don't have Father Lucian with them, the burgomaster refuses to believe that the bones are responsible for the church's divine protection or to assist the players in recovering them.)
 
 > [!abstract]+ **Reporting the Theft**
 >
@@ -244,7 +244,7 @@ If the players suggest reporting the theft of the bones to the burgomaster, Fath
 # D3. Arasek Stockyard
 <span class="citation"><em>This scene takes place in Chapter 5: Area N5.</em></span>
 
-Arasek Stockyard is largely as described in [[N5. Arasek Stockyard]]. However, while [[Rictavio]]'s wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
+Arasek Stockyard is largely as described in [[Arasek Stockyard]]. However, while [[Rictavio]]'s wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
 
 If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
 
@@ -296,7 +296,7 @@ The hidden wire can be identified before the compartment is fully opened with a 
 Opening the compartment without disabling the wire or unsuccessfully attempting to disarm the wire causes the noisemaker to loudly screech, “Is no fun, is no Blinsky!” repeatedly for 1 minute, alerting the vampires in **N6f. Vampire Nest**.
 
 > [!lore]+ **The Noisemaker**
-> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">[[N7. Blinsky Toys]] (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
+> Volenta purchased the noisemaker from Gadof Blinsky of Blinsky Toys, described further in <span class="citation">[[Blinsky Toys]] (p. 118)</span>, several nights ago. Though tempted to kill him or take the toy by force, Blinsky's affinity for the macabre led Volenta to regard him as a kindred spirit, and she elected to spare his life on a whim. 
 
 > [!abstract]+ **Disabling the Noisemaker**
 > If the players successfully retrieve the bones without alerting the vampires, Volenta discovers the bones to be missing shortly after she awakens at dusk that night. If Henrik is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of <span class="citation">N8. Town Square (p. 119)</span>. In either case, Volenta then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.

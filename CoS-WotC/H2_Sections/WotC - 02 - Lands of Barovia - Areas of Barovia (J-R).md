@@ -101,7 +101,7 @@ With his sanity restored, Mordenkainen can be stubborn and difficult even with h
 
 The *archmage* has never had his fortune read by Madam Eva and doesn't care to, but if he is told about the *Holy Symbol of Ravenkind*, the *Tome of Strahd*, and the *Sunsword*, he insists that these items be recovered before he and the party confront Strahd. If Strahd is defeated and Mordenkainen survives, the *archmage* gladly accompanies the characters back to their world if they invite him, if only not to disappoint them.
 
-#[[N. Town of Vallaki]]
+#[[Town of Vallaki]]
 
 #[[O. Old Bonegrinder]]
 

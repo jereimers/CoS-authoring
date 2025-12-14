@@ -10,8 +10,8 @@ age: 18
 gender: male
 creature_type: humanoid
 origin: "[[Vallaki]]"
-home_base: "[[N3. Burgomaster's Mansion#N3t. Victor's Workroom|Victor's Workroom]]"
-current_location: "[[N3. Burgomaster's Mansion#N3t. Victor's Workroom|Victor's Workroom]]"
+home_base: "[[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|Victor's Workroom]]"
+current_location: "[[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|Victor's Workroom]]"
 factions:
   - "[[Vallakoviches]]"
 arc:

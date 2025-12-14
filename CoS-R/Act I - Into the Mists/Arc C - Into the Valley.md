@@ -1025,7 +1025,7 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 > As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
 # C12. The Town of Vallaki
 ## C12a. The Vallakian Gates
-The road continues forward to the [[N. Town of Vallaki]], largely as described in [[Approaching the Town (p. 95)]]. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
+The road continues forward to the [[Town of Vallaki]], largely as described in [[Approaching the Town (p. 95)]]. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph: 
 
 <div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
 
@@ -1034,7 +1034,7 @@ If the players departed from Tser Pool that morning, they arrive in Vallaki at d
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
 <div class="description"><p>Some of them regard [[Ireena]] with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
 
-This area, the Morning Gate, is largely as described in [[WotC - 05 - Vallaki - Town Gates]]. The tents are a camp of Barovian refugees, housing those who survived the trek from the [[E. Village of Barovia]] in the wake of Strahd's siege.
+This area, the Morning Gate, is largely as described in [[WotC - 05 - Vallaki - Town Gates]]. The tents are a camp of Barovian refugees, housing those who survived the trek from the [[Village of Barovia]] in the wake of Strahd's siege.
 ### The Refugee Camp
 If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, [[Ireena]] approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
 
@@ -1121,19 +1121,19 @@ As the players pass down Vallaki's main avenue, read:
 <p>Flickering candlelight lingers behind the shuttered townhouse windows, and humanoid shadows move beyond closed curtains. Long shadows lurk in the alleyways, where the grass grows long and twisted beneath the stained and sagging wood of the buildings above. </p>
 <p>The streets are empty, though you can see a single cloaked figure traveling away from you down the central road.  In the distance beyond the walls, a lone wolf howls, and a cold gust of wind cuts through the night like a knife.</p></div>
 
-The cloaked figure is [[Willemina Rikalova]], as described in [[N1. St. Andral's Church]]. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
+The cloaked figure is [[Willemina Rikalova]], as described in [[St. Andral's Church]]. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
 
-As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in [[05 - Vallaki - Lady Wachter's Wish]]. (Ernst does not yet deliver an invitation to dine with [[Lady Fiona Wachter|Lady Wachter]], though he does return to [[N4. Wachterhaus]] to report back to [[Lady Fiona Wachter|Lady Wachter]] when the players leave his sight.)
+As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in [[05 - Vallaki - Lady Wachter's Wish]]. (Ernst does not yet deliver an invitation to dine with [[Lady Fiona Wachter|Lady Wachter]], though he does return to [[Wachterhaus]] to report back to [[Lady Fiona Wachter|Lady Wachter]] when the players leave his sight.)
 ## C12b. The Blue Water Inn
 
-This area is largely as described in [[N2. Blue Water Inn]]. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
+This area is largely as described in [[Blue Water Inn]]. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
 
 When the players first arrive, the inn contains the following notable NPCs:
 
-* [[Danika Dorakova]], who is pouring drinks and serving patrons in [[N2. Blue Water Inn#N2c. Taproom]]; 
-* [[[[Urwin]] Martikov]], who is cooking bread and beet stew in [[N2. Blue Water Inn#N2e. Kitchen]];
-* Brom and Bray Martikov, who are playing with toys in [[N2. Blue Water Inn#N2o. Boys' Bedroom]]; and
-* [[Rictavio]], who is telling stories to the patrons in [[N2. Blue Water Inn#N2c. Taproom]], including Nikolai and Karl Wachter.
+* [[Danika Dorakova]], who is pouring drinks and serving patrons in [[Blue Water Inn#N2c. Taproom]]; 
+* [[[[Urwin]] Martikov]], who is cooking bread and beet stew in [[Blue Water Inn#N2e. Kitchen]];
+* Brom and Bray Martikov, who are playing with toys in [[Blue Water Inn#N2o. Boys' Bedroom]]; and
+* [[Rictavio]], who is telling stories to the patrons in [[Blue Water Inn#N2c. Taproom]], including Nikolai and Karl Wachter.
 
 ![[IMG-20251205143157605.png]]
 
@@ -1175,19 +1175,19 @@ When the players first arrive, the inn contains the following notable NPCs:
 >
 > ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of [[[[Urwin]] Martikov]]. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
 ### Entering the Inn
-The taproom is as described in [[N2. Blue Water Inn#N2c. Taproom]]. However, add the following text to the end of this area's description:
+The taproom is as described in [[Blue Water Inn#N2c. Taproom]]. However, add the following text to the end of this area's description:
 
 <div class="description">
 <p>Nearly a dozen Vallakians sit scattered across the various tables, nursing mugs of wine or bowls of hearty stew. Along the staircase, a colorfully dressed man wearing a feathered, wide-brimmed hat gestures wildly at the head of a long table, holding the rapt attention of the several patrons sitting there. You hear a wave of laughter ripple through the group, followed by a smattering of light applause.</p>
 </div>
 
-The man is the ringmaster [[Rictavio]], who is largely as described in [[WotC - 20 - Appendix D - Monsters and NPCs - Creatures (R-Z)#Rictavio]] and [[N2. Blue Water Inn#N2c. Taproom]]. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in [[N2. Blue Water Inn#N2c. Taproom]].
+The man is the ringmaster [[Rictavio]], who is largely as described in [[WotC - 20 - Appendix D - Monsters and NPCs - Creatures (R-Z)#Rictavio]] and [[Blue Water Inn#N2c. Taproom]]. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in [[Blue Water Inn#N2c. Taproom]].
 ![[IMG-20251205143159095.png]]
 <span class="credit">"[[Rictavio]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
 
-If the characters approach the bar, [[[[Urwin]] Martikov]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] are also seated at the bar, and are as described in [[N2. Blue Water Inn#N2c. Taproom|N2c]].
+If the characters approach the bar, [[[[Urwin]] Martikov]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] are also seated at the bar, and are as described in [[Blue Water Inn#N2c. Taproom|N2c]].
 
 [[[[Urwin]] Martikov|[[Urwin]]]] greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
 
@@ -1198,15 +1198,15 @@ Before [[[[Urwin]] Martikov|[[Urwin]]]] can reply to the players, [[Danika Dorak
 * "After all," [[Urwin]] says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
 * Danika pecks [[Urwin]]'s cheek with a kiss and says, "The table by the window is getting hungry." [[Urwin]] winks at the players, picks up the tray again, and exits the bar to deliver the food.
 
-Danika then tells the players the rates for room and board, as listed in [[N2. Blue Water Inn]]. (Both the large guest room, [[N2. Blue Water Inn#N2m. Guest Room|N2m]], as well as the two small guest rooms, [[N2. Blue Water Inn#N2I. Guest Rooms|N2l]], are available for rent.) When [[[[Urwin]] Martikov|[[Urwin]]]] returns, he offers to take the players' orders for dinner, assuming they're hungry. 
+Danika then tells the players the rates for room and board, as listed in [[Blue Water Inn]]. (Both the large guest room, [[Blue Water Inn#N2m. Guest Room|N2m]], as well as the two small guest rooms, [[Blue Water Inn#N2I. Guest Rooms|N2l]], are available for rent.) When [[[[Urwin]] Martikov|[[Urwin]]]] returns, he offers to take the players' orders for dinner, assuming they're hungry. 
 
-The players then have a few minutes to talk with [[Urwin]] and Danika or amongst themselves. During this conversation, [[Urwin]] and Danika can provide the players with information about [[Rictavio]], the [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] (which will take place in five days at noon), and the nearby [[N9. Vistani Camp|Vistani camp]], as described in [[Vallaki Lore]]. 
+The players then have a few minutes to talk with [[Urwin]] and Danika or amongst themselves. During this conversation, [[Urwin]] and Danika can provide the players with information about [[Rictavio]], the [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] (which will take place in five days at noon), and the nearby [[Vistani Camp|Vistani camp]], as described in [[Vallaki Lore]]. 
 
-Both [[Urwin]] and Danika can provide directions to any major landmark inside of Vallaki, including [[N1. St. Andral's Church]], [[N5. Arasek Stockyard]], and [[N8. Town Square]]. If the players ask about the inn's other guest, [[Urwin]] and Danika can also share information about [[Rictavio]], which is largely as described in [[N2. Blue Water Inn#N2c. Taproom|N2c]], except that [[Rictavio]] first arrived that same morning.
+Both [[Urwin]] and Danika can provide directions to any major landmark inside of Vallaki, including [[St. Andral's Church]], [[Arasek Stockyard]], and [[Town Square]]. If the players ask about the inn's other guest, [[Urwin]] and Danika can also share information about [[Rictavio]], which is largely as described in [[Blue Water Inn#N2c. Taproom|N2c]], except that [[Rictavio]] first arrived that same morning.
 
 The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make [[Urwin]] alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
 
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See [[IMG-20251207141712572.jpg|Map 5.2 - Blue Water Inn]])
+If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See [[IMG-20251214135139927.jpg|Map 5.2 - Blue Water Inn]])
 ### The Ringmaster's Tale
 If any of the players approach [[Rictavio]]'s table, [[The Brothers Wachter|Nikolai and Karl Wachter]] urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. ([[Szoldar Szoldarovich]], the wolf hunter, has turned his chair away from the bar to listen in.)
 
@@ -1265,9 +1265,9 @@ If the players don't intervene, the following sequence of events then occurs:
 * The table and nearby taproom go silent, with many patrons eyeing Nikolai and [[Rictavio]] nervously.
 * From his place at the bar, [[Szoldar Szoldarovich|Szoldar]] rumbles, "Best not, boy." (Behind him, [[Yevgeni Krushkin|Yevgeni]] grunts, then echoes, "Best not.")
 * [[Karl Wachter|Karl]] scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
-* [[Rictavio]] clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, [[Rictavio]] bows with a flourish, then ascends the stairs to [[N2. Blue Water Inn#N2n. Private Guest Room|Private Guest Room]]. 
+* [[Rictavio]] clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, [[Rictavio]] bows with a flourish, then ascends the stairs to [[Blue Water Inn#N2n. Private Guest Room|Private Guest Room]]. 
 
-Any player who watches as [[Rictavio]] makes his way along [[N2. Blue Water Inn#N2j. Great Balcony|the Great Balcony]] sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in [[N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)]] to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
+Any player who watches as [[Rictavio]] makes his way along [[Blue Water Inn#N2j. Great Balcony|the Great Balcony]] sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in [[N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)]] to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
 ### [[The Brothers Wachter]]
 If the players linger at [[Rictavio]]'s table, the Wachter brothers are happy (if prodded) to rant about:
 
@@ -1291,7 +1291,7 @@ If the players ask [[Urwin]] or Danika about the Wachter brothers, [[Urwin]] can
 ### Eating Dinner
 Shortly after [[Rictavio]]'s story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
 
-Danika turns, revealing the culprit: a red-cheeked [[Brom Martikov]] wearing one of the painted wooden clown masks as described in [[N2. Blue Water Inn#N2o. Boys' Bedroom|N2o. Boys' Bedroom]] (p. 102). ([[Bray Martikov]], wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
+Danika turns, revealing the culprit: a red-cheeked [[Brom Martikov]] wearing one of the painted wooden clown masks as described in [[Blue Water Inn#N2o. Boys' Bedroom|N2o. Boys' Bedroom]] (p. 102). ([[Bray Martikov]], wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
 
 If the players do not interrupt, Danika scolds the boys as follows:
 
@@ -1299,20 +1299,20 @@ If the players do not interrupt, Danika scolds the boys as follows:
 * Danika asks the boys, "What did your father tell you about wearing those masks in the taproom?" Both boys remove their masks, flushed, and Brom says, sheepishly, "We're not supposed to do it."
 * Danika then asks the boys, "And what did I tell you about running in the taproom?" The two are quiet, then Bray pipes up, " . . . we're not s'posed to do it?" Danika replies, "Exactly."
 
-If the soup was spilled, Danika directs Bray to fetch a pail of water from [[N2. Blue Water Inn#N2a. Well|the well]] outside, and Brom to fetch a mop from the kitchen to clean up the mess. If the soup wasn't spilled, Danika reminds the boys that they're supposed to be helping their father cook dinner, and shoos them into the kitchen.
+If the soup was spilled, Danika directs Bray to fetch a pail of water from [[Blue Water Inn#N2a. Well|the well]] outside, and Brom to fetch a mop from the kitchen to clean up the mess. If the soup wasn't spilled, Danika reminds the boys that they're supposed to be helping their father cook dinner, and shoos them into the kitchen.
 
 In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, [[Danika]] smiles fondly and says, "They can be a handful sometimes, but they're good boys."
 
-If the players ask about the children's masks, Danika tells them that [[Urwin]] bought them from the local toymaker, Gadof Blinsky, who works at [[N7. Blinsky Toys]] (p.118).
+If the players ask about the children's masks, Danika tells them that [[Urwin]] bought them from the local toymaker, Gadof Blinsky, who works at [[Blinsky Toys]] (p.118).
 
 The taproom slowly clears out over the following two hours. Nikolai and Karl Wachter stumble outside and collapse in the inn's shed, too drunk to make their way home.
 
-If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See [[N2. Blue Water Inn#N2I. Guest Rooms|N2l. Guest Rooms]] and [[N2. Blue Water Inn#N2m. Guest Room|N2m. Guest Room]] (p. 102)). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
+If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See [[Blue Water Inn#N2I. Guest Rooms|N2l. Guest Rooms]] and [[Blue Water Inn#N2m. Guest Room|N2m. Guest Room]] (p. 102)). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
 
 ***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted [[Ireena]] to Vallaki, they earn an additional 250 XP. (The players don't need to bring [[Ireena]] to St. Andral's church to receive this XP.)
 ## C12c. Morning in Vallaki
 ### [[Urwin]]'s Advice
-When the players first emerge from their rooms onto [[N2. Blue Water Inn#N2k. Guest Balcony|the balcony]] the following morning, [[Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
+When the players first emerge from their rooms onto [[Blue Water Inn#N2k. Guest Balcony|the balcony]] the following morning, [[Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
 
 Lowering his voice, [[Urwin]] warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. [[Urwin]] can share the following additional information, as described in [[Vallaki Lore]] (p. 96):
 
@@ -1323,14 +1323,14 @@ Lowering his voice, [[Urwin]] warns the players that they must be cautious in Va
 
 [[Urwin]] quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
 
-If the players ask whether the Baron has any enemies in Vallaki, [[Urwin]] can also share the information about [[Lady Fiona Wachter]] described in [[Vallaki Lore]] (p. 96). However, instead of describing [[Lady Fiona Wachter|Lady Wachter]]'s "mad daughter," [[Urwin]] shares only that [[Lady Fiona Wachter|Lady Fiona]] has a daughter, [[Stella Wachter]], who [[Lady Fiona Wachter|Lady Wachter]] has recently kept cloistered on the grounds of [[N4. Wachterhaus]] for unknown reasons.
+If the players ask whether the Baron has any enemies in Vallaki, [[Urwin]] can also share the information about [[Lady Fiona Wachter]] described in [[Vallaki Lore]] (p. 96). However, instead of describing [[Lady Fiona Wachter|Lady Wachter]]'s "mad daughter," [[Urwin]] shares only that [[Lady Fiona Wachter|Lady Fiona]] has a daughter, [[Stella Wachter]], who [[Lady Fiona Wachter|Lady Wachter]] has recently kept cloistered on the grounds of [[Wachterhaus]] for unknown reasons.
 
-As [[Urwin]]'s conversation draws to a close, [[Rictavio]] descends the stairs from [[N2. Blue Water Inn#N2n. Private Guest Room|his private room]] and approaches the bar, greeting the players with a nod. [[Urwin]] bids him good morning and removes a small parcel from beneath the counter, which [[Rictavio]] accepts and tucks into his cloak.
+As [[Urwin]]'s conversation draws to a close, [[Rictavio]] descends the stairs from [[Blue Water Inn#N2n. Private Guest Room|his private room]] and approaches the bar, greeting the players with a nod. [[Urwin]] bids him good morning and removes a small parcel from beneath the counter, which [[Rictavio]] accepts and tucks into his cloak.
 
 > [!abstract]+ **What's In the Parcel?**
 > If asked, [[Urwin]] can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
 ### Following the Ringmaster
-If one or more players follow [[Rictavio]] out of the Blue Water Inn, they can follow him to [[N2. Blue Water Inn#N2f. Stable|N2f. Stable]] (p. 101) without difficulty.
+If one or more players follow [[Rictavio]] out of the Blue Water Inn, they can follow him to [[Blue Water Inn#N2f. Stable|N2f. Stable]] (p. 101) without difficulty.
 
 Once inside, [[Rictavio]] removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, [[Rictavio]] checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
 
@@ -1346,7 +1346,7 @@ Once inside, [[Rictavio]] removes the parcel from his coat, withdraws two apples
 
 If he detects any players, [[Rictavio]] calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity. 
 
-If asked who the food is for, [[Rictavio]] insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in [[N7. Blinsky Toys]] (p. 118).)
+If asked who the food is for, [[Rictavio]] insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in [[Blinsky Toys]] (p. 118).)
 
 If confronted regarding his magic items or true identity, [[Rictavio]] directs the players to check their surroundings for spies, then demands that they prove themselves not to be spies of Strahd. If the players respond persuasively, he then insists that they swear themselves to secrecy. If they do, his story changes as follows:
 
@@ -1417,7 +1417,7 @@ If the players interrupt Willemina’s arrest, the Baron greets them as outsider
 
 The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in [[N1. St. Andral's Church]], p. 97) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in [[St. Andral's Church]], p. 97) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
 
 > [!lore]+ **What's Lucian Doing Here?**
 > After discovering [[Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)

@@ -7,9 +7,9 @@ The following areas correspond to labels on the map of the house below.
 
 MAP B.1: DEATH HOUSE
 
-#[[1. Entrance]]
+#[[Entrance]]
 
-#[[2. Main Hall]]
+#[[Main Hall]]
 ## 3. Den of Wolves 
 
 This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are three stuffed wolves.
@@ -32,9 +32,9 @@ Behind a small door in the southwest corner of the kitchen is a dumbwaiter-a 2-f
 
 A Small character can squeeze into the elevator box with a successful DC 10 Dexterity (Acrobatics) check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.
 
-#[[5. Dining Room]]
+#[[Dining Room]]
 
-#[[6. Upper Hall]]
+#[[Upper Hall]]
 ## 7. Servants' Room 
 
 An undecorated bedroom (area 7A) contains a pair of beds with straw-stuffed mattresses. At the foot of each bed is an empty footlocker. Tidy servants' uniforms hang from hooks in the adjoining closet (area 7B).
@@ -78,4 +78,4 @@ Strahd von Zarovich
 
 The chest contains three blank books with black leather covers (worth 25 gp each), three spell scrolls (bless, protection from poison, and spiritual weapon), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, "Old Bonegrinder"). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.
 
-#[[10. Conservatory]]
+#[[Conservatory]]

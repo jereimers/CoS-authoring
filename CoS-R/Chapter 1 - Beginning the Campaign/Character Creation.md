@@ -173,20 +173,20 @@ Your players can choose one or more bonds from the table below to weave a tapest
 # Motivations
 If you choose to use the ***Barovian Relics*** adventure hook for one or more players (see **Chapter 3: Running the Game**), have those players choose a core character motivation from the following table.
 
-|d12|Motivation|Relic|
-|:---:|:---|:---|
-|1|Knowledge| Amber Shard |
-|2|Redemption|Angel's Feather|
-|3|Family|Wanderer's Scarf|
-|4|Inheritance|Dragon's Scale|
-|5|Wealth|Electrum Coin|
-|6|Healing|Wolf's Tooth|
-|7|Duty|Raven's Feather|
-|8|Power|Crumpled Page|
-|9|Ambition|Tattered Banner|
-|10|Faith|Sunrise Medallion|
-|11|Harmony|Stone Crest|
-|12|Justice|Broken Blade|
+| d12 | Motivation  | Relic             |
+| :-: | :---------- | :---------------- |
+|  1  | Knowledge   | Amber Shard       |
+|  2  | Redemption  | Angel's Feather   |
+|  3  | Family      | Wanderer's Scarf  |
+|  4  | Inheritance | Dragon's Scale    |
+|  5  | Wealth      | Electrum Coin     |
+|  6  | Healing     | Wolf's Tooth      |
+|  7  | Duty        | Raven's Feather   |
+|  8  | Power       | Crumpled Page     |
+|  9  | Ambition    | Tattered Banner   |
+| 10  | Faith       | Sunrise Medallion |
+| 11  | Harmony     | Stone Crest       |
+| 12  | Justice     | Broken Blade      |
 
 Once a player has chosen their core motivation, use the relevant section below to aid that player in developing their character's history and goals.
 ## Knowledge—The Amber Shard
@@ -200,8 +200,8 @@ The player who possesses the *amber shard* should have strong, vivid reasons to 
 ***Developments.*** In [[Arc A - Escape From Death House]], the player recognizes Elisabeth Durst's *amber shard* as similar in appearance to their own. In [[Arc G - The Strazni Siblings]], the player recognizes Izek Strazni's *amber shard* in a similar way. In [[Arc R - Trials of the Mountain]], Elder Burebis of Soldav can recognize the *amber shard* as a shard of evil taken from the Amber Temple, and the player can recognize the *amber shards* kept by the **shoosuva** and **bodaks** as resembling their own. 
 
 If the player character is reduced to 0 hit points in Barovia while in possession of their *amber shard*, it behaves as described in [[Amber Shards]] offering the player an opportunity to forge a pact with a vestige of the Amber Temple that fits the player character's personality, flaws, and temptations. Upon entering the Amber Temple, the player's *amber shard* glows and tugs in the same way that it did upon sensing Death House, guiding the player toward a suitable amber sarcophagus.
-## Redemption—The Angel's Feather
-![[IMG-20251205143119637.png]]
+## Redemption—The [[Angel's Feather]]
+![[IMG-20251212182958091.png]]
 A player seeking **redemption** begins the campaign with the *angel's feather*, a large, snow-white feather. When viewed beneath the light of the morning sun, the feather's barbs glimmer like gold.
 
 Unbeknownst to the player, the *angel's feather* formerly belonged to Ithuriel, a **deva** that serves the god Lathander, who is known to his followers as the Morninglord. Ithuriel is the true name of the Abbot, who dwells in the Abbey of Saint Markovia in Barovia. When it senses the presence of Death House, the feather is swept away by an unseen wind, its barbs glimmering with golden light, before eventually landing on the house's threshold.
@@ -302,8 +302,8 @@ The player who possesses the *stone crest* should have strong, vivid reasons to 
 ***Developments.*** When the player first approaches the exterior of Soldav in [[Arc R - Trials of the Mountain]], the *stone crest* hums and releases a scent of pine needles and earth soil as it did upon sensing Death House, both of which grow stronger as the player approaches the Shrine of the Rozana in Soldav. 
 
 If the player shows the *stone crest* to Kavan in [[Arc J - The Stolen Gem]] or to Elder Burebis in [[Arc R - Trials of the Mountain]], the crest is recognized as an artifact and symbol of the Ladies of the Fanes. 
-## Justice—The Broken Blade
-![[IMG-20251205143120152.png]]
+## Justice—The [[Broken Blade]]
+![[IMG-20251212182831977.png]]
 A player seeking **justice** begins the campaign with the *broken blade*, the shattered tip of an elven longsword. The blade is engraved with the sigil of a lion rampant, which seems to roar when the light of dusk touches it.
 
 Unbeknownst to the player, the blade once belonged to Erevan, a dusk elf prince. Erevan, a master bladesinger, practiced the style of the lion, which he also used as his personal sigil. However, Erevan refused to pay tribute to King Barov von Zarovich, a powerful warlord and the father of Strahd von Zarovich. 

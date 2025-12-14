@@ -68,7 +68,7 @@ tags:
 
 ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
 
-***Relationships.*** Izek is the adoptive "son" of [[Baron Vargas Vallakovich]], the captain of [[N. Town of Vallaki|Vallaki]]'s town guard, a frequent customer of the toymaker [[Gadof Blinsky]], and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
+***Relationships.*** Izek is the adoptive "son" of [[Baron Vargas Vallakovich]], the captain of [[Town of Vallaki|Vallaki]]'s town guard, a frequent customer of the toymaker [[Gadof Blinsky]], and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
 
 # #statblock 
 ## 1st Form

@@ -1,7 +1,7 @@
 # Yevgeni Krushkin #Profile
 ## #Portrait 
-![[IMG-20251207141712788.png]]
-As described in [[N2. Blue Water Inn#Wolf Hunters.]]
+![[IMG-20251214135140413.png]]
+As described in [[Blue Water Inn#Wolf Hunters.]]
 <div class="statblock">
 <h2>Scout</h2>
 <em>Small or Medium Humanoid, Neutral</em>

@@ -25,8 +25,8 @@ A dumbwaiter in the corner of the west wall has a button on the wall next to it.
 
 The jewelry box on the vanity is made of silver with gold filigree (worth 75 gp ). It contains three gold rings (worth 25 gp each) and a thin platinum necklace with a topaz pendant (worth 750 gp ).
 
-#[[13. Bathroom]]
-#[[14. Storage Room]]
+#[[Bathroom]]
+#[[Storage Room]]
 
 ## 15. Nursemaid's Suite
 
@@ -50,7 +50,7 @@ This bare hall is choked with dust and cobwebs.
 
 The door to area 20 is held shut with a padlock. Its key is kept in the library (area 8), but the lock can also be picked with thieves' tools and a successful DC 15 Dexterity check.
 
-#[[17. Spare Bedroom]]
+#[[Spare Bedroom]]
 
 ## 18. Storage Room
 
@@ -62,7 +62,7 @@ If the characters disturb the remains, the nursemaid's specter appears and attac
 
 A secret door in the east wall appears only when certain conditions are met; see area 21 for more information.
 
-#[[19. Spare Bedroom]]
+#[[Spare Bedroom B]]
 ## 20. Children's Room 
 
 The door to this room is locked from the outside (see area 16 for details).

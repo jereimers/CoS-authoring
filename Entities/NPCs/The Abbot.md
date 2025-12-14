@@ -1,3 +1,10 @@
+---
+aliases:
+  - Ithuriel
+  - Abbot
+  - the Abbot
+---
+
 # WotC source:
 [[Non-Player Characters]]
 # The Abbot

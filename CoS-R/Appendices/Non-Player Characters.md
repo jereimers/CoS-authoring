@@ -1,9 +1,9 @@
-# [[E7. Haunted House]]
+# [[Haunted House]]
 ## [[Rosavalda Rose Durst]]
 
 ## [[Thornboldt Thorn Durst]]
 
-# [[E. Village of Barovia]]
+# [[Village of Barovia]]
 ## [[Ismark Kolyanovich]]
 
 ## [[Ireena Kolyana]]
@@ -41,32 +41,32 @@
 
 ## [[Morgantha, Dream Peddler]]
 
-# [[N. Town of Vallaki]]
-## [[N2. Blue Water Inn]]
+# [[Town of Vallaki]]
+## [[Blue Water Inn]]
 ### [[Urwin Martikov]]
 ### [[Danika Dorakova]]
 ### [[Rictavio]]
 ### [[Muriel Vinshaw]]
 ### [[Szoldar Szoldarovich]]
 ### [[Yevgeni Krushkin]]
-## [[N1. St. Andral's Church]]
+## [[St. Andral's Church]]
 
 ### [[Father Lucian Petrovich]]
 ### [[Milivoj]]
 ### [[Willemina Rikalova]]
 
-## [[N3. Burgomaster's Mansion]]
+## [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion]]
 ### [[Baron Vargas Vallakovich]]
 ### [[Izek Strazni]]
 ### [[Victor Vallakovich]]
 
-## [[N7. Blinsky Toys]]
+## [[Blinsky Toys]]
 ### [[Gadof Blinsky]]
-## [[N9. Vistani Camp]]
+## [[Vistani Camp]]
 ### [[Luvash]]
 ### [[Arrigal]]
 ### [[Kasimir Velikov]]
-## [[N4. Wachterhaus]]
+## [[Wachterhaus]]
 ### [[Lady Fiona Wachter]]
 ### [[Gallows Speaker]]
 ### [[The Brothers Wachter]]

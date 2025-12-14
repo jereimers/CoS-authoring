@@ -56,7 +56,7 @@ As a result, the vast majority of Vallakians have surrendered themselves to Baro
 ## Krezkians
 The people of Krezk are largely as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>, <span class="citation">S3. Village of Krezk (p. 145)</span>, and <span class="citation">Krezk Lore (p. 146)</span>. The villagers are largely unaware that their burgomaster, Dmitri Krezkov, is secretly a werewolf.
 ## Vistani
-The Vistani are largely as described in <span class="citation">Vistani (p. 26)</span>, with two major semi-permanent settlements: the encampment at Tser Pool (as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>), and the encampment near Vallaki (as described in <span class="citation">[[N9. Vistani Camp]] (p. 119)</span>). 
+The Vistani are largely as described in <span class="citation">Vistani (p. 26)</span>, with two major semi-permanent settlements: the encampment at Tser Pool (as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>), and the encampment near Vallaki (as described in <span class="citation">[[Vistani Camp]] (p. 119)</span>). 
 
 However, most Barovian Vistani view the valley as a temporary shelter from the evils of the world beyond, or as a brief stopover on their journeys through the mists. Only a few Vistani within Barovia reside there permanently and regard Strahd as their "king"; among those that do, even fewer serve Strahd faithfully as his eyes, ears, and hands amidst the valley. Most Barovian Vistani simply want to live their lives, to partake in life's wonders, and to raise their families in peace.
 ## Dusk Elves

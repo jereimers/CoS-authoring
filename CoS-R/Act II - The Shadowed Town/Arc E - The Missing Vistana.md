@@ -58,7 +58,7 @@ If the players return to Vallaki, confront [[Rictavio]], and persuade him that t
 # E1. Blinsky Toys
 <em>This scene takes place in Chapter 5: Area N7.</em>
 
-After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, [[Arabelle]], the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking [[Urwin Martikov]], [[Danika Dorakova]], or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in [[N8. Town Square]] (p. 119).
+After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, [[Arabelle]], the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking [[Urwin Martikov]], [[Danika Dorakova]], or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in [[Town Square]] (p. 119).
 
 
 > [!profile]+ **Profile: Gadof Blinsky**
@@ -80,7 +80,7 @@ After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase
 >
 > ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling [[Ireena Kolyana]] for [[Izek Strazni]], and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 
-Blinsky Toys is as described in [[N7. Blinsky Toys]] (p. 118). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
+Blinsky Toys is as described in [[Blinsky Toys]] (p. 118). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
 If the players ask Blinsky about the doll resembling [[Ireena Kolyana]] (see Creepy Toys, p. 118), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
@@ -95,12 +95,12 @@ As the characters exit Blinsky Toys, they can see [[Izek Strazni]] and two **gua
 # E2. Vistani Camp
 <em>This scene takes place in Chapter 5: Area N9.</em>
 
-The path from Vallaki to the Vistani Camp is as described in [[N9. Vistani Camp]] (p. 119). The journey is one-half mile long and takes approximately ten minutes.
+The path from Vallaki to the Vistani Camp is as described in [[Vistani Camp]] (p. 119). The journey is one-half mile long and takes approximately ten minutes.
 
 When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#E2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#E2b. Dusk Elf Hovels]]).
 ## E2a. The Vistani Encampment
 ### Entering the Vistani Camp
-The Vistani are largely as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]], with the encampment largely as described in [[N9. Vistani Camp#N9c. Vistani Tent|N9c. Vistani Tent]], [[N9. Vistani Camp#N9d. Horses|N9d. Horses]], [[N9. Vistani Camp#N9e. Luvash's Wagon|N9e. Luvash's Wagon]], [[N9. Vistani Camp#N9f. Wagon of Sleeping Vistani|N9f. Wagon of Sleeping Vistani]], [[N9. Vistani Camp#N9g. Wagon of Gambling Vistani|N9g. Wagon of Gambling Vistani]], [[N9. Vistani Camp#N9h. Vistani Family Wagon|N9h. Vistani Family Wagon]], and [[N9. Vistani Camp#N9i. Vistani Treasure Wagon|N9i. Vistani Treasure Wagon]] (pp. 121-23). 
+The Vistani are largely as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]], with the encampment largely as described in [[Vistani Camp#N9c. Vistani Tent|N9c. Vistani Tent]], [[Vistani Camp#N9d. Horses|N9d. Horses]], [[Vistani Camp#N9e. Luvash's Wagon|N9e. Luvash's Wagon]], [[Vistani Camp#N9f. Wagon of Sleeping Vistani|N9f. Wagon of Sleeping Vistani]], [[Vistani Camp#N9g. Wagon of Gambling Vistani|N9g. Wagon of Gambling Vistani]], [[Vistani Camp#N9h. Vistani Family Wagon|N9h. Vistani Family Wagon]], and [[Vistani Camp#N9i. Vistani Treasure Wagon|N9i. Vistani Treasure Wagon]] (pp. 121-23). 
 
 When the players first enter the tent, modify the descriptive text as follows:
 
@@ -176,13 +176,13 @@ If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hov
 > 
 > Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
 ## E2b. Dusk Elf Hovels
-The dusk elf hovels are as described in [[N9. Vistani Camp#N9b. Dusk Elf Hovels|N9b. Dusk Elf Hovels]] (p. 121). The dusk elves themselves are as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]] (p. 119). If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
+The dusk elf hovels are as described in [[Vistani Camp#N9b. Dusk Elf Hovels|N9b. Dusk Elf Hovels]] (p. 121). The dusk elves themselves are as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]] (p. 119). If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
 
 If the players inquire about Luvash’s mission, the guard directs them to Kasimir's hovel. The guard notes, however, that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
 ## E2c. Kasimir’s Hovel
 <em>This scene takes place in Chapter 5: Area N9a.</em>
 
-Kasimir’s hovel is largely as described in [[N9. Vistani Camp#N9a. Kasimir's Hovel|N9a. Kasimir's Hovel]] (p. 121). If the players enter it, read:
+Kasimir’s hovel is largely as described in [[Vistani Camp#N9a. Kasimir's Hovel|N9a. Kasimir's Hovel]] (p. 121). If the players enter it, read:
 
 <div class="description">
 <p>You enter into a small, cozy vestibule several degrees warmer than the chill mists outside. The walls of this small chamber are decorated with hanging sketches and portraits of proud and wise-looking elves with dark skin, tree-borne spires carved of dark wood, and artistic depictions of constellations and celestial bodies. Two curtains of dark brown fabric obscure the entrance to another chamber beyond.</p>
@@ -246,9 +246,9 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 # E3. Burgomaster’s Mansion
 <em>This scene takes place in Chapter 5: Area N3.</em>
 
-The burgomaster's mansion is largely as described in [[N3. Burgomaster's Mansion]] (p. 103). However, the magic mirror in [[N3. Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p]] (p. 108) has been modified and moved to [[N3. Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109). See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
+The burgomaster's mansion is largely as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion]] (p. 103). However, the magic mirror in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p]] (p. 108) has been modified and moved to [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109). See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
-If the players visit the burgomaster’s mansion openly, they are greeted by Claudia, the Baron’s maid, and led to the den as described in N3. Burgomaster's Mansion (p. 103) and [[N3. Burgomaster's Mansion#N3e. Den|N3e. Den]] (p. 106). The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in [[N3. Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107)**.
+If the players visit the burgomaster’s mansion openly, they are greeted by Claudia, the Baron’s maid, and led to the den as described in N3. Burgomaster's Mansion (p. 103) and [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3e. Den|N3e. Den]] (p. 106). The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107)**.
 ## E3a. Entering the Mansion
 If [[Ireena Kolyana]] has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
 
@@ -272,7 +272,7 @@ The Baron cannot be convinced with appeals to [[Arabelle]]’s safety, insisting
 
 If the players wish to visit the library, the baron summons Claudia, the maid, to escort them to the library before departing. (Proceed to [[#E3b. Searching the Library]].) If the players wish to interview Tereska, the baron asks Claudia to escort them to the kitchen instead. In both cases, as the Baron departs, he asks them to avoid discussing the spirit with anyone who lives outside the household. 
 
-The kitchen is largely as described in [[N3. Burgomaster's Mansion#N3g. Kitchen|N3g. Kitchen]] (p. 106). The cook, [[Tereska]], is a broad-shouldered, rough-hewn woman with a tough, no-nonsense attitude who wears her heart on her sleeve. She is reluctant to discuss the spirit, but can share the following information if asked:
+The kitchen is largely as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3g. Kitchen|N3g. Kitchen]] (p. 106). The cook, [[Tereska]], is a broad-shouldered, rough-hewn woman with a tough, no-nonsense attitude who wears her heart on her sleeve. She is reluctant to discuss the spirit, but can share the following information if asked:
 
 * The spirit has mostly been seen on the second floor, though strange sounds have been heard coming from the attic at night. 
 * Tereska experienced one particularly bad haunting while retrieving an old pot from the attic last week—an eerie presence, coupled with a cold draft and the unmistakable sound of breathing—which nearly pushed her to quit her job.
@@ -281,26 +281,26 @@ The kitchen is largely as described in [[N3. Burgomaster's Mansion#N3g. Kitchen|
 * Few members of the household enter the attic anymore, though the Baron’s son, [[Victor Vallakovich]], has been known to disappear into it for hours or even days at a time. When he does, Tereska usually leaves his meals on a table by the entrance to the attic and knocks on the trapdoor to alert him. 
 * If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” just over two months ago. (Tereska doesn’t remember her name, but knows that the girl was [[Lady Fiona Wachter]]’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that the Baron’s family matters are none of her business.
 
-If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in [[N3. Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108). She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
+If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108). She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
 ### 2. Infiltrating the Mansion
 The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by [[Izek Strazni]] one minute afterward. 
 
 The NPCs in the mansion behave as follows:
 
-* [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in [[N3. Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107) during the day, and in [[N3. Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108) at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
-* Baroness Lydia Petrovna can generally be found in [[N3. Burgomaster's Mansion#N3c. Dining Room|N3c. Dining Room]] (p. 106) during the day and in [[N3. Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108) at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
-* [[Victor Vallakovich]] can generally be found in [[N3. Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109) both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
-* Tereska, the cook, can generally be found in [[N3. Burgomaster's Mansion#N3g. Kitchen|N3g. Kitchen]] (p. 106) during the day, and in [[N3. Burgomaster's Mansion#N3f. Servants' Quarters|N3f. Servants' Quarters]] (p. 106) at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
-* Claudia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in [[N3. Burgomaster's Mansion#N3f. Servants' Quarters|N3f. Servants' Quarters]] (p. 106) at night. If she finds the players trespassing, she immediately raises the alarm.
+* [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107) during the day, and in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108) at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
+* Baroness Lydia Petrovna can generally be found in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3c. Dining Room|N3c. Dining Room]] (p. 106) during the day and in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108) at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
+* [[Victor Vallakovich]] can generally be found in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109) both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
+* Tereska, the cook, can generally be found in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3g. Kitchen|N3g. Kitchen]] (p. 106) during the day, and in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3f. Servants' Quarters|N3f. Servants' Quarters]] (p. 106) at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
+* Claudia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3f. Servants' Quarters|N3f. Servants' Quarters]] (p. 106) at night. If she finds the players trespassing, she immediately raises the alarm.
 
 > [!abstract]+ **Banishment from Vallaki**
 > If Izek and the guards confront the players and defeat them in combat, they confiscate the players' weapons and throw them out of town, leaving them as food for the wolves of the Svalich Wood. The players awaken west of Vallaki, on the Old Svalich Road, stripped of their armor and any non-hidden weapons, equipment, or valuables. 
 > 
-> To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in [[N3. Burgomaster's Mansion#N3m. Locked Closet|N3m. Locked Closet]] (p. 107), near the chained [[Udo Lukovich]].
+> To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3m. Locked Closet|N3m. Locked Closet]] (p. 107), near the chained [[Udo Lukovich]].
 ## E3b. Searching the Library
 <em>This scene takes place in Chapter 5: Area N3l.</em>
 
-If the players gain access to [[N3. Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107), they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
+If the players gain access to [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107), they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
 
 In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: [[Ireena]] Strazni, the younger sister of [[Izek Strazni]] and the daughter of Grygori and Fatima Strazni. According to the records, however, [[Ireena]] Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while [[Ireena]]’s cause of death is marked as *Unknown (presumed devoured by wolves).*
 
@@ -326,11 +326,11 @@ Shortly after the players discover these records, however, they are interrupted 
 >
 > ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears [[Izek Strazni]], who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
 
-Victor, who is largely as described in [[N3. Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
+Victor, who is largely as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
 If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of [[Arabelle]]’s disappearance or by making a successful DC 15 Charisma (Persuasion) check. 
 
-If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to [[N3. Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] to speak further. He won’t share any information outside of his workroom.
+If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] to speak further. He won’t share any information outside of his workroom.
 
 > [!lore]+ **Ethereal Entities**
 >
@@ -372,19 +372,19 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 ## E3c. Speaking with Victor
 <em>This scene takes place in Chapter 5: Area N3t.</em>
 
-Victor’s workroom is largely as described in [[N3. Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
+Victor’s workroom is largely as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
 > [!Warning]+ Counterspell 2024
 > 
 > This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Arc H - The Lost Soul#Battle with the Hags|Arc H - The Lost Soul]].
 
 
-Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from [[N3. Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p. Bridal Gown and Spirit Mirror]] (p. 108) against the wall beside the rug.
+Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p. Bridal Gown and Spirit Mirror]] (p. 108) against the wall beside the rug.
 
 The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of [[Stella Wachter]].)
 
 > [!abstract]+ **Meeting Victor**
-> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in [[N3. Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109) if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
+> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109) if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
 >
 > Shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#E3b. Searching the Library]] above.
 
@@ -451,7 +451,7 @@ If the players enter the shack, read:
 <p>The walls of this cramped shack are stained dark with age and use. Knives, cleavers, traps, and chains hang from the walls, each one well-cleaned and oiled. Animal pelts hang from the rafters, their empty eyes seeming to watch you as you pass.</p>
 </div>
 
-As described in [[N2. Blue Water Inn#N2c. Taproom|N2c. Taproom]] (p. 100), Szoldar and Yevgeni are glad to serve as guides if paid, or to provide directions to Lake Baratok in exchange for a promise of free drinks when the players return. If they join the party, the two men are as described in N2c. Taproom (p. 100), but each bring three silvered arrows for the trip.
+As described in [[Blue Water Inn#N2c. Taproom|N2c. Taproom]] (p. 100), Szoldar and Yevgeni are glad to serve as guides if paid, or to provide directions to Lake Baratok in exchange for a promise of free drinks when the players return. If they join the party, the two men are as described in N2c. Taproom (p. 100), but each bring three silvered arrows for the trip.
 
 If the players choose to set off on their own, Szoldar gives the following directions:
 

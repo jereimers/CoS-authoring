@@ -1,5 +1,5 @@
 # portrait
-![[IMG-20251207141712676.png]]
+![[IMG-20251214135140247.png]]
 
 
 
@@ -68,4 +68,4 @@
 </div>
 
 # source:
-As described in [[N2. Blue Water Inn#Wolf Hunters.]]
+As described in [[Blue Water Inn#Wolf Hunters.]]

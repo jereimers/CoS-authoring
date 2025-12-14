@@ -8,7 +8,7 @@ barovian_date: 28 Octyavr, 735
 month: Octyavr
 day_of_month: 28
 moon_phase: waning_crescent
-primary_location: "[[E. Village of Barovia]]"
+primary_location: "[[Village of Barovia]]"
 act: Act I
 arc: "[[Arc B - Welcome to Barovia]]"
 sessions:
@@ -17,7 +17,7 @@ sessions:
 session_notes:
   - - - 
   - - - 
-time_of_day_focus: 
+time_of_day_focus:
 party_level: 4
 major_events:
   - Festival of the Blazing Sun preparations

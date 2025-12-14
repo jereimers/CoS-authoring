@@ -26,7 +26,7 @@ The staircase ends at a landing with a 6-foot-high ceiling of close-fitting plan
 
 Once the trapdoor has been found and opened, it remains available to characters as a way into and out of the dungeon level.
 
-#[[33. Cult Leaders' Den]]
+#[[Cult Leaders' Den]]
 
 ## 34. Cult Leaders' Quarters
 
@@ -43,7 +43,7 @@ Characters searching the footlocker find a folded cloak of protection, a small w
 These items were taken from adventurers who were drawn into Barovia, captured, and killed by the cult.
 
 %% --- Page 306 --- %%
-#[[35. Reliquary]]
+#[[Reliquary]]
 
 ## 36. Prison
 
@@ -57,7 +57,7 @@ A secret door in the south wall can be found with a successful DC 15 Wisdom (Per
 
 Hanging on the back wall of the cell marked X on the map is a human skeleton clad in a tattered black robe. The skeleton belongs to a cult member who questioned the cult's blind devotion to Strahd. Characters who search the skeleton find a gold ring (worth 25 gp) on one of its bony fingers.
 
-#[[37. Portcullis]]
+#[[Portcullis]]
 
 ## 38. Ritual Chamber
 

@@ -1,6 +1,6 @@
 # Profile: Milivoj
 ## Portrait
-![[IMG-20251207141712630.png]]
+![[IMG-20251214135034780.png]]
 ## **Roleplaying Information**
 ***Resonance.*** Milivoj should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for his frustration at his parents' addiction to dream pastries, and endearment to him for his wholehearted dedication to provide for his siblings, no matter the cost to himself.
 

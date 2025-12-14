@@ -12,9 +12,9 @@ class: Priest
 age: 59
 gender: female
 creature_type: humanoid
-origin: "[[N. Town of Vallaki]]"
-home_base: "[[N4. Wachterhaus]]"
-current_location: "[[N4. Wachterhaus]]"
+origin: "[[Town of Vallaki]]"
+home_base: "[[Wachterhaus]]"
+current_location: "[[Wachterhaus]]"
 factions:
   - "[[Wachters]]"
 arc(s):
@@ -57,7 +57,7 @@ relationships:
   - "[[Karl Wachter]]"
   - "[[Stella Wachter]]"
   - "[[Ernst Larnak]]"
-portrait: "[[IMG-20251207141712750.png]]"
+portrait: "[[IMG-20251214135214250.png]]"
 portrait_credit: CoS-WotC
 handouts:
 tags:
@@ -71,7 +71,7 @@ tags:
 # Lady Fiona Wachter #Profile 
 
 ## #Portrait 
-![[IMG-20251207141712750.png]]
+![[IMG-20251214135214250.png]]
 ## **Roleplaying Information**
 ### ***Resonance.*** 
 Lady Wachter should inspire wariness for her loyalty to Strahd, grudging respect for her streak of pragmatic rationality, endearment for her dedication to her children, and pity for the tragedy of her family.

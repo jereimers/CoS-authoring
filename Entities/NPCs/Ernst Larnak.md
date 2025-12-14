@@ -66,4 +66,4 @@ tags:
 
 ***Morale.*** In a fight, .
 
-***Relationships.*** [[Lady Fiona Wachter]] hires him to spy for her. Lives in [[N. Town of Vallaki|Vallaki]]. 
+***Relationships.*** [[Lady Fiona Wachter]] hires him to spy for her. Lives in [[Town of Vallaki|Vallaki]]. 

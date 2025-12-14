@@ -9,12 +9,12 @@ aliases:
 pronouns: he/him
 race: Human
 class: Noble
-age: 53
+age: 64
 gender: male
 creature_type: humanoid
-origin: "[[N. Town of Vallaki]]"
-home_base: "[[N3. Burgomaster's Mansion]]"
-current_location: "[[N3. Burgomaster's Mansion]]"
+origin: "[[Town of Vallaki]]"
+home_base: "[[Entities/Areas/Town of Vallaki/Burgomaster's Mansion]]"
+current_location: "[[Entities/Areas/Town of Vallaki/Burgomaster's Mansion]]"
 factions:
   - "[[Vallakoviches]]"
 arc:
@@ -30,25 +30,27 @@ status: alive
 role_in_story: Major NPC
 statblock_source:
 cr: 2
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance: Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
 emotions:
-  - curious
-  - frustrated
-  - anxious
+  - annoyed
+  - offended
+  - satisfied
+  - outraged
+  - impatient
+  - smug
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
+  - Secure his power free from Strahd's influence
+  - Lead Vallaki to escape the Mists by forcing everyone in town to be happy.
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+  - Lord Farquaad (Shrek)
+  - Joffrey Baratheon (Game of Thrones)
+  - Governor Ratcliffe (Pocahontas)
+vocal_notes: Short description of voice, cadence, physical tics.
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
+  - All will be well!
 relationships:
   - "[[Victor Vallakovich]]"
+  - "[[Izek Strazni]]"
 portrait: "[[05-006.baroness-baron.png]]"
 portrait_credit: CoS-WotC
 handouts:
@@ -56,28 +58,36 @@ tags:
   - npc
   - vallaki
   - cos
+  - noble
 ---
 
 # Portrait
 ![[vargas_vallakovich.png]]
 # Profile: Baron Vargas Vallakovich
 ## **Roleplaying Information**
-***Resonance.*** Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
+### ***Resonance.*** 
+Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
 
-***Emotions.*** Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
+### ***Emotions.*** 
+Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
 
-***Motivations.*** Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
+### ***Motivations.*** 
+Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
 
-***Inspirations.*** When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
+### ***Inspirations.*** 
+When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
 
 ## **Character Information**
-***Persona.*** To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
+### ***Persona.*** 
+To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
 
-***Morale.*** In a fight, Vargas would command his dogs, Claw and Fang, as well as [[Izek Strazni]] and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
+### ***Morale.*** 
+In a fight, Vargas would command his dogs, Claw and Fang, as well as [[Izek Strazni]] and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
 
-***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of [[Victor Vallakovich]], the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of [[Izek Strazni]], his captain of the guard and chief enforcer.
+### ***Relationships.*** 
+Vargas, the burgomaster of Vallaki, is the father of [[Victor Vallakovich]], the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of [[Izek Strazni]], his captain of the guard and chief enforcer.
 
-# Knowledge
+###  ***Knowledge***
 Can share with players during scene in his library:
 * For the past two months, a spirit has haunted the Vallakovich mansion. 
 * Servants have seen its reflection in mirrors or darkened windows, and have reported cold drafts, strange sounds, and objects that move of their own volition.

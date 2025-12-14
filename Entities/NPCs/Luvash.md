@@ -1,6 +1,6 @@
 # Profile: Luvash
 ## Portrait
-![[IMG-20251207141712586.png]]
+![[IMG-20251214135403996.png]]
 ## **Roleplaying Information**
 ***Resonance.*** Luvash should make the players feel sympathetic to his grief, endeared to his dedication to his daughter, irritated with his stubbornness, and mildly uncomfortable with his hot temper.
 

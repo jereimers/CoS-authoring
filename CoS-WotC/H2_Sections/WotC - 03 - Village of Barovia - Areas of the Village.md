@@ -4,7 +4,7 @@ The following areas correspond to labels on the map of the village of Barovia be
 
 %% --- Page 56 --- %%
 
-#[[E1. Bildrath's Mercantile]]
+#[[Bildrath's Mercantile]]
 
 ## E2. Blood of the Vine Tavern
 
@@ -38,7 +38,7 @@ Three Vistani spies ( N female humans) named Alenka, Mirabel, and Sorvia sit at 
 
 If the characters arrive in the company of other Vistani, the owners are much more likely to engage them in conversation and provide useful information. They suggest that the characters visit Madam Eva (see chapter 2, area G) to have their fortunes read.
 
-#[[E3. Mad Mary's Townhouse]]
+#[[Mad Mary's Townhouse]]
 
 ## E4. Burgomaster's Mansion
 
@@ -145,6 +145,6 @@ If the characters restrain Doru and either promise him blood or threaten to dest
 
 If your card reading reveals that a treasure is in the undercroft, it's contained in a moldy, old chest in the southwest corner of the room. The chest is unlocked and not trapped.
 
-#[[E6. Cemetery]]
+#[[Cemetery]]
 
-#[[E7. Haunted House]]
+#[[Haunted House]]
