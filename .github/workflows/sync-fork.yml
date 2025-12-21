@@ -1,24 +1,36 @@
-name: Sync Fork
+name: Sync Upstream
+
+permissions:
+  contents: write
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual triggering
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to trigger it manually from the Actions tab
 
 jobs:
-  sync:
+  sync_with_upstream:
+    name: Sync Main with Upstream
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          repository: jereimers/Curse-of-Strahd-Reloaded # Replace with your fork's path
-          token: ${{ secrets.PAT_TOKEN }} # Use a Personal Access Token with repo scope
+          ref: main             # Checkout your fork's main branch
+          fetch-depth: 0        # Fetch full history for merges
 
-      - name: Add upstream remote
-        run: git remote add upstream https://github.com/DragnaCarta/Curse-of-Strahd-Reloaded.git # Replace with original repo's path
-
-      - name: Fetch upstream and merge
-        run: |
-          git fetch upstream
-          git merge upstream/main
-          git push origin main
+      - name: Sync Upstream
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        with:
+          target_sync_branch: main
+          # REQUIRED: The upstream repo you want to sync from
+          upstream_sync_repo: DragnaCarta/Curse-of-Strahd-Reloaded
+          upstream_sync_branch: main
+          # REQUIRED: Secret for pushing changes to your fork
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Set to 'false' to actually perform the sync. 
+          # Set to 'true' to run a test without pushing changes.
+          test_mode: false
