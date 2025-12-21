@@ -19,20 +19,20 @@ The players must climb Yester Hill without alerting the druids’ patrols, fight
 Should the players meet Strahd at the Whispering Wall, he shares a brief history of the wall and invites them to venture into its misted depths, where they can face visions of their deepest desires. Before departing, Strahd presents the players with their reward, as well as additional gifts for each player who entered and returned from the Whispering Wall.
 
 Should the players return to Kavan’s cairn and present him with Svarog’s wand, he shares with them the story of the schism between the Forest Folk (who chose to worship Strahd) and the Mountain Folk (who defied Strahd’s authority) long ago. Kavan tells the players of the Ladies of the Fanes, and instructs them to travel to the hidden Mountain Folk settlement of Soldav in Tsolenka Pass if they wish to find a way to reverse the land’s corruption.
-# J1. The Blue Water Inn
+# J1. The [[Blue Water Inn]]
 ### J1a. Urwin’s Request
-The morning after the night of the players’ first full moon in Barovia, if they have been staying at the Blue Water Inn, [[Urwin Martikov]] approaches them with an expression of obvious concern. 
+The morning after the night of the players’ first full moon in Barovia, if they have been staying at the [[Blue Water Inn]], [[Urwin Martikov]] approaches them with an expression of obvious concern. 
 
 After exchanging pleasantries, Urwin reluctantly (though quietly) asks if they would be willing to assist him and Danika with a problem that the inn is currently facing. If the players agree, Urwin shares the following information:
 
-* The Blue Water Inn ordinarily receives regular shipments of wine once a fortnight from the Wizard of Wines, located at the southwest end of the Barovian valley, including both the popular Purple Grapemash No. 3 and the pricier Red Dragon Crush.
+* The [[Blue Water Inn]] ordinarily receives regular shipments of wine once a fortnight from the Wizard of Wines, located at the southwest end of the Barovian valley, including both the popular Purple Grapemash No. 3 and the pricier Red Dragon Crush.
 * However, this fortnight’s shipment is late by two days, and the inn’s supplies are beginning to run low. Urwin and Danika have enough in savings that this shouldn’t be an immediate problem, but they’re worried about the welfare of the winery, which hasn’t been heard from since the last shipment arrived.
 
 Urwin asks the players to travel to the Wizard of Wines and speak with the owner, a man named [[Davian Martikov]], to discern the reason for the delay and resolve it, if necessary. (If the players point out Davian’s last name, Urwin grimly admits that Davian is his father, but refuses to elaborate, sharing only that he and his father have not spoken in many years.) Urwin warns the players that Davian is a “stubborn old bird," and that his short temper might wear on their patience.
 
 Urwin notes, however, that the Inn has sufficient wine stock to last at least a few days. If the players have more pressing business to attend to, he’s happy for them to take an additional day or two before departing.
 
-If the players accept Urwin’s mission, he asks them to join him in the Blue Water Inn's kitchen in one hour to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
+If the players accept Urwin’s mission, he asks them to join him in the [[Blue Water Inn]]'s kitchen in one hour to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
 
 > [!lore]+ **What Urwin Knows**
 > Urwin believes that something terrible has happened to the winery—though what, he isn't sure. Although he sent out a half-dozen ravens to investigate when the first delivery failed to appear, none returned.
@@ -40,7 +40,7 @@ If the players accept Urwin’s mission, he asks them to join him in the Blue Wa
 > Urwin knows, thanks to Muriel, that Baba Lysaga's **strix** have recently begun to patrol the valley in greater force and numbers. Although Muriel has volunteered to investigate, he and Muriel have decided that the skies are likely no longer safe, and that the best way for her to proceed is on foot, preferably with skilled bodyguards.
 ## J1b. Setting Off
 ### Meeting Muriel
-When the players meet Urwin in the Blue Water Inn's kitchen after accepting his mission, he introduces them to Muriel Vinshaw. Read:
+When the players meet Urwin in the [[Blue Water Inn]]'s kitchen after accepting his mission, he introduces them to Muriel Vinshaw. Read:
 
 <div class="description">
 <p>A young woman leans against the stove, her arms crossed. She is short and dusky-skinned, with jet-black hair and dark eyes.  A  mud-stained cloak hangs across her shoulders, and a small, dark feather hangs on a leather cord around her neck between two carved wooden beads. A wooden crossbow hangs from a mount on her back, and a shortsword rests sheathed at her hip.</p>
@@ -135,9 +135,9 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
 </div>
 
 ### [[Ireena]]'s Request
-Before the players depart the Blue Water Inn, if they have previously treated [[Ireena Kolyana]] with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
+Before the players depart the [[Blue Water Inn]], if they have previously treated [[Ireena Kolyana]] with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
 
-[[Ireena]], who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
+[[Ireena]], who has learned of the players’ destination from Danika, [[Father Lucian Petrovich|Father Petrovich]], or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
 
 * [[Ireena]] shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
 * If [[Ireena]] was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
@@ -1048,11 +1048,11 @@ If the players attempt to conceal their purpose, Strahd guesses aloud that they 
 
 In either case, Strahd invites the players to walk alongside him as he rides to Yester Hill, “for the road is dark, and company always welcome." If they decline, he chides them for their rudeness and directs Beucephalus forward before vanishing amidst the shadows ahead. (This is Beucephalus’s ***ethereal stride*** feature, spiriting it and Strahd away to the Ethereal Plane.)
 ### Walking with Strahd
-If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
+If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off [[Volenta Popofsky]] in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
 
 If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
 
-If the players inquire as to the dinner at Ravenloft, or if the players previously rejected Rahadin’s invitation to dine with Strahd in [[Arc O - Dinner with the Devil]], Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
+If the players inquire as to the dinner at Ravenloft, or if the players previously rejected [[Rahadin]]’s invitation to dine with Strahd in [[Arc O - Dinner with the Devil]], Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
 
 If the players inquire as to the contents of Strahd’s saddlebags, Strahd merely states that they are his personal belongings—an old possession that he has come to dispose of in exchange for something new. (Strahd won’t elaborate further.)
 
@@ -1069,7 +1069,7 @@ As he and the players approach Yester Hill, Strahd asks them—in a bored, disin
 
 As in his first encounter with the players, Strahd is glad to accept any reasonable argument that the players might make in support of Strahd’s neutrality, though he once again revels in playing Devil’s advocate throughout the conversation. Strahd might eventually accept the following arguments, among others:
 
-* As with Volenta, Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
+* As with [[Volenta Popofsky|Volenta]], Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
 * Strahd appears to be interested enough in the players to have invited them to dine personally at his castle. Killing the players now, before they’ve had a chance to do so, would be a waste.
 * The Wizard of Wines is an economic pillar of the Barovian community. Depriving Strahd’s people of wine would do harm to an old and honorable family, and bring sadness and despair to the people they serve.
 
@@ -1149,7 +1149,7 @@ Unless the players intervene, the following scene then unfolds:
 * Ludmilla recognizes the pawn in Strahd’s hand and abruptly becomes stony-faced, her voice going sharp and cold. She then eyes the players with distaste, her lip curling, and notes, "Another one of your games, then. Very well, my Lord. I assure you, however, that you shall be disappointed."
 * Strahd gives Ludmilla a small smile, and says, “Perhaps. But I have always relished the opportunity for surprise." He and Beucephalus then vanish, disappearing into the Ethereal Plane through the use of Beucephalus’ ***ethereal stride***.
 
-Ludmilla then greets the players. If they have previously defeated Volenta in [[Arc D - St. Andral's Feast]], Ludmilla's eyes narrow and she adds, "I have heard tell of your encounter with my sister-bride. I imagine you thought you could rest easy atop your laurels. But Volenta has always been a halfwit, a hothead, and a fool. You will find me a far less pleasant adversary—as these pitiful ravens and their ilk have done."
+Ludmilla then greets the players. If they have previously defeated [[Volenta Popofsky|Volenta]] in [[Arc D - St. Andral's Feast]], Ludmilla's eyes narrow and she adds, "I have heard tell of your encounter with my sister-bride. I imagine you thought you could rest easy atop your laurels. But [[Volenta Popofsky|Volenta]] has always been a halfwit, a hothead, and a fool. You will find me a far less pleasant adversary—as these pitiful ravens and their ilk have done."
 
 As this conversation unfolds, the two **berserkers** and two **druid assailants** split off from the protective ring around the circle of druids and approach the players, moving to flank Ludmilla. They arrive at Ludmilla's location two rounds after she first greets the players.
 
@@ -1557,7 +1557,7 @@ Although Muriel was chased away before she could hear the end of the reading, sh
 <span class="credit">"Keeper's Whistle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!abstract]+ **The Wine Shipments**
-> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
+> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the [[Blue Water Inn]] in Vallaki. 
 > 
 > Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
 > 

@@ -15,7 +15,7 @@
 
 ***Morale.*** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
 
-***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of [[Danika Dorakova]]. He is also the exiled son of [[Davian Martikov]], and the beloved older brother of Adrian, Elvir, and Stefnia Martikov. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the Keepers of the Feather.
+***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of [[Danika Dorakova]]. He is also the exiled son of [[Davian Martikov]], and the beloved older brother of Adrian, Elvir, and Stefnia Martikov. In addition to co-owning the [[Blue Water Inn]], Urwin is the spymaster of the Keepers of the Feather.
 
 # #statblock 
 <div class="statblock">

@@ -1,12 +1,12 @@
 _An adventure for five 4th-level characters._
 
-In this arc, at Madam Eva’s request, the players visit Blinsky Toys, the home of Vallaki's resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, [[Arabelle]]. There, the players learn new information about the traveling ringmaster [[Rictavio]], and the Baron's brutish enforcer, [[Izek Strazni]].
+In this arc, at Madam Eva’s request, the players visit Blinsky Toys, the home of Vallaki's resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, [[Arabelle]]. There, the players learn new information about the traveling ringmaster [[Rictavio]], and [[Baron Vargas Vallakovich|the Baron]]'s brutish enforcer, [[Izek Strazni]].
 
 After obtaining a toy for [[Arabelle]], the players visit the Vistani encampment located a short distance away from Vallaki's walls. There, the players can meet the camp’s leaders: Luvash and [[Arrigal]], [[Arabelle]]’s father and uncle, respectively. 
 
-When the players learn that [[Arabelle]] has recently disappeared, Luvash asks them to retrieve a clue from the scene of her disappearance—a strange platinum signet ring—from Kasimir Velikov, one of the dusk elves whose hovels circle the encampment. Luvash believes that the ring may hold the key to finding his daughter, and promises the players a wealth of treasure if they research its secrets in the Baron’s personal library in Vallaki and uncover [[Arabelle]]’s location.
+When the players learn that [[Arabelle]] has recently disappeared, Luvash asks them to retrieve a clue from the scene of her disappearance—a strange platinum signet ring—from Kasimir Velikov, one of the dusk elves whose hovels circle the encampment. Luvash believes that the ring may hold the key to finding his daughter, and promises the players a wealth of treasure if they research its secrets in [[Baron Vargas Vallakovich|the Baron]]’s personal library in Vallaki and uncover [[Arabelle]]’s location.
 
-Upon obtaining the ring from Kasimir and returning to Vallaki, the players must gain access to Baron Vargas Vallakovich’s personal library—either by cunning, diplomacy, or subterfuge. Once inside, they are soon met by the Baron’s son, [[Victor Vallakovich]], whose spellbook bears the same sigil as the signet ring. 
+Upon obtaining the ring from Kasimir and returning to Vallaki, the players must gain access to [[Baron Vargas Vallakovich]]’s personal library—either by cunning, diplomacy, or subterfuge. Once inside, they are soon met by [[Baron Vargas Vallakovich|the Baron]]’s son, [[Victor Vallakovich]], whose spellbook bears the same sigil as the signet ring. 
 
 In exchange for the players’ promise to bring back any relics found therein—including, if possible, a proper wizard’s staff—Victor tells them that the sigil was the personal symbol of the archmage Khazan, whose abandoned tower sits on the shores of Lake Baratok. Though Victor doesn’t know how to get there, he can direct the players to Szoldar Szoldarovich, a Vallakian wolf-hunter who knows the Svalich Woods well.
 
@@ -20,7 +20,7 @@ If the players return to Vallaki, confront [[Rictavio]], and persuade him that t
 >
 > Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
 > 
-> ***Escher & Yan's Deal.*** Though Escher joined Strahd’s court freely, he has recently grown anxious that Strahd might soon discard him—especially if Strahd’s vampiric brides, Ludmilla, Anastrasya, and Volenta, succeed in winning back his favor. As such, when a Vistana named Yan—one of Strahd's many spies—visited Castle Ravenloft for a report, Escher struck a deal with him. Yan agreed to assist in locating the Ladies' descendant; in exchange, once Escher became Strahd’s favored consort, he would provide Yan with riches and power.
+> ***Escher & Yan's Deal.*** Though Escher joined Strahd’s court freely, he has recently grown anxious that Strahd might soon discard him—especially if Strahd’s vampiric brides, Ludmilla, Anastrasya, and [[Volenta Popofsky|Volenta]], succeed in winning back his favor. As such, when a Vistana named Yan—one of Strahd's many spies—visited Castle Ravenloft for a report, Escher struck a deal with him. Yan agreed to assist in locating the Ladies' descendant; in exchange, once Escher became Strahd’s favored consort, he would provide Yan with riches and power.
 > 
 > ***[[Arabelle]]’s Disappearance.*** Yan returned to the Vistani encampment outside of Vallaki—and it wasn’t long before he struck gold. Upon recognizing that Luvash’s daughter, [[Arabelle]], bore many of the signs that Escher had described, Yan summoned Escher to the camp and prepared to make his move.
 >
@@ -46,13 +46,13 @@ If the players return to Vallaki, confront [[Rictavio]], and persuade him that t
 >
 > As Van Richten worked, [[Arabelle]]—who had stowed a copy of the Hooded One Tarokka card in her pocket following a vague premonition that morning—felt her inner Sight flare once more. Without understanding entirely why, she hid the card in her pillow alongside a silvered dagger that Van Richten had given her, leaving her beaded charm bracelet wrapped around them.
 >
-> In the morning, Van Richten hid [[Arabelle]] in the back of the wagon, which he hitched to Drusilla, his horse, and rode it into Vallaki. There, he struck a deal with Gunther and Yelena Arasek to store the wagon (still holding [[Arabelle]]) in Arasek Stockyard, and took up residence in the private guest room of the Blue Water Inn.
+> In the morning, Van Richten hid [[Arabelle]] in the back of the wagon, which he hitched to Drusilla, his horse, and rode it into Vallaki. There, he struck a deal with Gunther and Yelena Arasek to store the wagon (still holding [[Arabelle]]) in Arasek Stockyard, and took up residence in the private guest room of the [[Blue Water Inn]].
 >
 > ***Aftermath of the Kidnapping.*** [[Arabelle]]’s absence didn’t go unnoticed for long. By dusk on the night she’d been kidnapped, Luvash had discovered the hungover Alexei and learned of his daughter’s disappearance. The Vistani and dusk elves spread out among the nearby woods, searching in vain for any sign of the missing girl.
 >
 > At nearly the same time that Van Richten and [[Arabelle]] were riding through Vallaki’s gates, a dusk elf named Savid found Yan’s decapitated body amidst the reeds of the Luna River amid signs of a struggle. Savid also found a strange trinket atop the bloodied grass: a platinum signet ring stamped with a strange sigil. He returned it to Luvash, who ordered Savid to deliver it to Kasimir Velikov—the dusk elves’ leader and scholar—for inspection upon Kasimir’s return. Luvash has continued the search for [[Arabelle]], though his personal efforts came to a bloody and brutal halt when his right leg was caught in a well-hidden wolf trap.
 >
-> Meanwhile, Van Richten plans to deliver [[Arabelle]] food from the Blue Water Inn’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see Van Richten's Guide to Ravenloft, p. 180)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
+> Meanwhile, Van Richten plans to deliver [[Arabelle]] food from the [[Blue Water Inn]]’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see Van Richten's Guide to Ravenloft, p. 180)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
 >
 > Both Van Richten and [[Arabelle]] know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in N2c. Taproom (p. 100). He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
 # E1. Blinsky Toys
@@ -78,7 +78,7 @@ After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase
 >
 > ***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
 >
-> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling [[Ireena Kolyana]] for [[Izek Strazni]], and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
+> ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling [[Ireena Kolyana]] for [[Izek Strazni]], and receives a humble stipend to craft decorations for [[Baron Vargas Vallakovich|Baron Vallakovich]]’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 
 Blinsky Toys is as described in [[Blinsky Toys]] (p. 118). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
@@ -161,9 +161,9 @@ Luvash can share the following information with the players:
 * The search parties haven’t yet found [[Arabelle]]. However, a dusk elf named Savid found Yan’s decapitated body lying in bloody grass near the Luna River, surrounded by signs of a fight.
 * Savid also found a strange signet ring lying in the grass, which seemed to have been dropped in the struggle. Luvash gave it to Kasimir, the dusk elves’ leader and foremost scholar, to identify, but hasn’t received any useful news or information.
 
-Luvash believes that the sigil on the signet ring may lead him to [[Arabelle]]’s location. Though Kasimir has been unable to make sense of it, Baron Vargas Vallakovich of Vallaki is rumored to own an impressive library of books, which could hold the key to identifying the ring. However, the Vistani and dusk elves are forbidden from entering the town.
+Luvash believes that the sigil on the signet ring may lead him to [[Arabelle]]’s location. Though Kasimir has been unable to make sense of it, [[Baron Vargas Vallakovich]] of Vallaki is rumored to own an impressive library of books, which could hold the key to identifying the ring. However, the Vistani and dusk elves are forbidden from entering the town.
 
-Luvash asks the players to recover the ring from Kasimir, then research its sigil in Baron Vallakovich’s library. Should the players return to him with actionable information about [[Arabelle]]’s whereabouts—or, better yet, [[Arabelle]] herself—Luvash promises to give them a valuable reward. (If pressed, Luvash can promise the players a sum of 500 gp—or an assortment of treasure worth as much or more.)
+Luvash asks the players to recover the ring from Kasimir, then research its sigil in [[Baron Vargas Vallakovich|Baron Vallakovich]]’s library. Should the players return to him with actionable information about [[Arabelle]]’s whereabouts—or, better yet, [[Arabelle]] herself—Luvash promises to give them a valuable reward. (If pressed, Luvash can promise the players a sum of 500 gp—or an assortment of treasure worth as much or more.)
 
 If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hovels** to meet with Kasimir.
 
@@ -211,7 +211,7 @@ The players can find Kasimir sitting on the green rug facing the fire, meditatin
 >
 > ***Morale.*** In a fight, Kasimir would attempt to negotiate a peace, but would not hesitate to unleash his most powerful spells—or use his magic to escape—if a diplomatic solution proved untenable.
 >
-> ***Relationships.*** Kasimir is the leader of the dusk elf encampment and the younger brother of the late Patrina Velikovna, a **banshee** who resides in the catacombs of Castle Ravenloft. Kasimir is also the cousin of Rahadin, Strahd’s chamberlain, and the nephew of the late dusk elf prince, Erevan Löwenhart. (Kasimir is not a direct blood relation of Erevan, who married Kasimir’s aunt, Lorelei.)
+> ***Relationships.*** Kasimir is the leader of the dusk elf encampment and the younger brother of the late Patrina Velikovna, a **banshee** who resides in the catacombs of Castle Ravenloft. Kasimir is also the cousin of [[Rahadin]], Strahd’s chamberlain, and the nephew of the late dusk elf prince, Erevan Löwenhart. (Kasimir is not a direct blood relation of Erevan, who married Kasimir’s aunt, Lorelei.)
 
 > [!info]+ **What Kasimir Knows**
 > If asked about the different factions and locations throughout Barovia, Kasimir can provide the following information:
@@ -222,7 +222,7 @@ The players can find Kasimir sitting on the green rug facing the fire, meditatin
 
 His right hand and forearm are a pale bluish-white, with much of the skin puffy and blistered. (A successful DC 12 Wisdom (Medicine) check identifies the symptoms of frostbite.)
 
-Kasimir welcomes the players warmly, though obviously with some discomfort. If the players ask for the signet ring, he produces it from his cloak and wishes them luck, noting that he could not identify it himself—odd, he thinks, given his knowledge of pre-Barovian heraldry and his long history in the valley. (He isn’t sure whether the Baron’s library might hold more information, but believes it a lead worth pursuing.)
+Kasimir welcomes the players warmly, though obviously with some discomfort. If the players ask for the signet ring, he produces it from his cloak and wishes them luck, noting that he could not identify it himself—odd, he thinks, given his knowledge of pre-Barovian heraldry and his long history in the valley. (He isn’t sure whether [[Baron Vargas Vallakovich|the Baron]]’s library might hold more information, but believes it a lead worth pursuing.)
 
 ![[IMG-20251205143150310.png]]
 <span class="credit">"Khazan's Ring" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -238,7 +238,7 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 <div class="description">
 <p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was a mere century old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.</p>
 <p>It was not Strahd that shattered the peace, but his father, King Barov von Zarovich II. In those days, our people dwelled in Othrondil, the Forest of Twilight. A council of princes ruled us, led by Erevan Löwenhart, my uncle and a master in the art of bladesong. When King Barov's eyes fell upon our lands, he demanded our fealty—our tribute to the borders of old Zarovia, the kingdom his ancestors once ruled. Erevan, who practiced the style of the lion and bore the lion's sigil, was never one to bow, however, and refused. His act of defiance ignited the fires of war.</p>
-<p>Barov's conquest was swift and brutal. His forces, joined by Rahadin, my cousin, and a traitor to our people, laid waste to our kingdom. I was a mage and scribe in Erevan's court—I saw Rahadin shatter Erevan’s blade and execute his family, marking the end of the royal line. My people were subjugated; those that resisted were hunted like rabbits.</p>
+<p>Barov's conquest was swift and brutal. His forces, joined by [[Rahadin]], my cousin, and a traitor to our people, laid waste to our kingdom. I was a mage and scribe in Erevan's court—I saw [[Rahadin]] shatter Erevan’s blade and execute his family, marking the end of the royal line. My people were subjugated; those that resisted were hunted like rabbits.</p>
 <p>Barov ruled over us with an iron fist—and when he died and his son, Strahd, came to power, we rose in rebellion, leading the charge for freedom. But Strahd was even more cunning and cruel than his sire. He quashed our revolt in a matter of days, and slaughtered our people in a genocide that left less than a hundred alive. He left us, the survivors, to the mercies of the Vistani, who took us into their caravans and led us to sanctuary in this valley.</p>
 <p>Strahd's hunger for conquest, however, was endless. Within a year, the last of his enemies had fallen, and he had claimed the valley for his own, naming it "Barovia." We found ourselves trapped, imprisoned in the heart of our conqueror's new empire. By then, however, we had built a home here, and chose to remain—hoping, in our heart of hearts, that the Vistani's kindness would keep us safe. And so here we have remained ever since.</p>
 </div>
@@ -248,29 +248,29 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 
 The burgomaster's mansion is largely as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion]] (p. 103). However, the magic mirror in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p]] (p. 108) has been modified and moved to [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109). See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
-If the players visit the burgomaster’s mansion openly, they are greeted by Claudia, the Baron’s maid, and led to the den as described in N3. Burgomaster's Mansion (p. 103) and [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3e. Den|N3e. Den]] (p. 106). The Baron arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107)**.
+If the players visit the burgomaster’s mansion openly, they are greeted by Claudia, [[Baron Vargas Vallakovich|the Baron]]’s maid, and led to the den as described in N3. Burgomaster's Mansion (p. 103) and [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3e. Den|N3e. Den]] (p. 106). [[Baron Vargas Vallakovich|The Baron]] arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107)**.
 ## E3a. Entering the Mansion
-If [[Ireena Kolyana]] has already visited the mansion alone and obtained an audience with the Baron regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade the Baron to grant them entry, or try to gain access by subterfuge if all else fails. 
+If [[Ireena Kolyana]] has already visited the mansion alone and obtained an audience with [[Baron Vargas Vallakovich|the Baron]] regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade [[Baron Vargas Vallakovich|the Baron]] to grant them entry, or try to gain access by subterfuge if all else fails. 
 
 If the players visit the library, proceed to [[#E3b. Searching the Library]] below.
-### 1. Persuading the Baron
-Upon first greeting the players, the Baron inquires as to their excitement for the upcoming Festival of the Blazing Sun. After pointing out the bundles of twigs piled about the mansion's grand foyer, he boasts of his plan to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
+### 1. Persuading [[Baron Vargas Vallakovich|the Baron]]
+Upon first greeting the players, [[Baron Vargas Vallakovich|the Baron]] inquires as to their excitement for the upcoming Festival of the Blazing Sun. After pointing out the bundles of twigs piled about the mansion's grand foyer, he boasts of his plan to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
 
 If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without [[Ireena]]’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
 
-While he is not generally inclined to grant their request, if the players indicate that they are adventurers, mages, clerics, scholars, or otherwise up to the task, Vargas is willing to allow them entry into the library if they agree to resolve a problem his household has been facing. He can share with them the following information:
+While he is not generally inclined to grant their request, if the players indicate that they are adventurers, mages, clerics, scholars, or otherwise up to the task, [[Baron Vargas Vallakovich|Vargas]] is willing to allow them entry into the library if they agree to resolve a problem his household has been facing. He can share with them the following information:
 
 * For the past two months, a spirit has haunted the Vallakovich mansion. 
 * Servants have seen its reflection in mirrors or darkened windows, and have reported cold drafts, strange sounds, and objects that move of their own volition.
-* The mansion’s butler and the baroness' lady-in-waiting have already left the Baron's employment, too fearful of the ghost to continue working in the house.
-* The Baron’s wife, Baroness Lydia Petrovna, hosts daily lunches for a group of Vallakian women, who Vargas uses to prepare costumes and decorations for his weekly festivals. Vargas is desperate to ensure that the women remain ignorant of the spirit’s existence.
-* The Baron's cook, a doughty woman named Tereska, has seen the spirit most recently, and nearly quit her job before the Baron convinced her to stay by (reluctantly) increasing her pay.
+* The mansion’s butler and the baroness' lady-in-waiting have already left [[Baron Vargas Vallakovich|the Baron]]'s employment, too fearful of the ghost to continue working in the house.
+* [[Baron Vargas Vallakovich|The Baron]]’s wife, Baroness Lydia Petrovna, hosts daily lunches for a group of Vallakian women, who [[Baron Vargas Vallakovich|Vargas]] uses to prepare costumes and decorations for his weekly festivals. [[Baron Vargas Vallakovich|Vargas]] is desperate to ensure that the women remain ignorant of the spirit’s existence.
+* [[Baron Vargas Vallakovich|The Baron]]'s cook, a doughty woman named Tereska, has seen the spirit most recently, and nearly quit her job before [[Baron Vargas Vallakovich|the Baron]] convinced her to stay by (reluctantly) increasing her pay.
 
-The Baron doesn’t mind allowing the players to use the library before they’ve solved the case, but will only grant them access if they agree to take it on. 
+[[Baron Vargas Vallakovich|The Baron]] doesn’t mind allowing the players to use the library before they’ve solved the case, but will only grant them access if they agree to take it on. 
 
-The Baron cannot be convinced with appeals to [[Arabelle]]’s safety, insisting that he cares little for the plight of a “Vistani whelp.”
+[[Baron Vargas Vallakovich|The Baron]] cannot be convinced with appeals to [[Arabelle]]’s safety, insisting that he cares little for the plight of a “Vistani whelp.”
 
-If the players wish to visit the library, the baron summons Claudia, the maid, to escort them to the library before departing. (Proceed to [[#E3b. Searching the Library]].) If the players wish to interview Tereska, the baron asks Claudia to escort them to the kitchen instead. In both cases, as the Baron departs, he asks them to avoid discussing the spirit with anyone who lives outside the household. 
+If the players wish to visit the library, [[Baron Vargas Vallakovich|the baron]] summons Claudia, the maid, to escort them to the library before departing. (Proceed to [[#E3b. Searching the Library]].) If the players wish to interview Tereska, [[Baron Vargas Vallakovich|the baron]] asks Claudia to escort them to the kitchen instead. In both cases, as [[Baron Vargas Vallakovich|the Baron]] departs, he asks them to avoid discussing the spirit with anyone who lives outside the household. 
 
 The kitchen is largely as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3g. Kitchen|N3g. Kitchen]] (p. 106). The cook, [[Tereska]], is a broad-shouldered, rough-hewn woman with a tough, no-nonsense attitude who wears her heart on her sleeve. She is reluctant to discuss the spirit, but can share the following information if asked:
 
@@ -278,17 +278,17 @@ The kitchen is largely as described in [[Entities/Areas/Town of Vallaki/Burgomas
 * Tereska experienced one particularly bad haunting while retrieving an old pot from the attic last week—an eerie presence, coupled with a cold draft and the unmistakable sound of breathing—which nearly pushed her to quit her job.
 * The Baroness’s lady-in-waiting, a quiet woman named Valentina, reported seeing the spirit in the Baroness’s mirror on multiple occasions. The Baroness hid the mirror away in the attic shortly thereafter.
 * Valentina described the spirit’s appearance as the distorted silhouette of a young woman. All of the servants agree that its hauntings universally carry a sense of sorrow, loneliness, and longing.
-* Few members of the household enter the attic anymore, though the Baron’s son, [[Victor Vallakovich]], has been known to disappear into it for hours or even days at a time. When he does, Tereska usually leaves his meals on a table by the entrance to the attic and knocks on the trapdoor to alert him. 
-* If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” just over two months ago. (Tereska doesn’t remember her name, but knows that the girl was [[Lady Fiona Wachter]]’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that the Baron’s family matters are none of her business.
+* Few members of the household enter the attic anymore, though [[Baron Vargas Vallakovich|the Baron]]’s son, [[Victor Vallakovich]], has been known to disappear into it for hours or even days at a time. When he does, Tereska usually leaves his meals on a table by the entrance to the attic and knocks on the trapdoor to alert him. 
+* If the players ask about Victor, Tereska notes that he eats too little and seems strangely isolated and terse for a young man his age, especially since the strange illness that struck “that Wachter girl” just over two months ago. (Tereska doesn’t remember her name, but knows that the girl was [[Lady Fiona Wachter]]’s daughter, and that she and Victor got along well.) Tereska declines to elaborate, insisting that [[Baron Vargas Vallakovich|the Baron]]’s family matters are none of her business.
 
 If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108). She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. Proceed to [[#E3c. Speaking with Victor]] below.
 ### 2. Infiltrating the Mansion
-The players may choose to infiltrate the mansion rather than obtain Baron Vallakovich’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by [[Izek Strazni]] one minute afterward. 
+The players may choose to infiltrate the mansion rather than obtain [[Baron Vargas Vallakovich|Baron Vallakovich]]’s permission. If they are found, however, one or more NPCs can raise the alarm by shouting for aid. If the alarm is raised, twelve **guards** arrive at the mansion two minutes later, followed by [[Izek Strazni]] one minute afterward. 
 
 The NPCs in the mansion behave as follows:
 
 * [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] can generally be found in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107) during the day, and in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108) at night. He is accompanied by his two **mastiffs**, Fang and Claw, at all times. If he finds the players trespassing, he sets Fang and Claw to attack them, but raises the alarm if the dogs are defeated.
-* Baroness Lydia Petrovna can generally be found in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3c. Dining Room|N3c. Dining Room]] (p. 106) during the day and in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108) at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, Vargas, and greets them accordingly; otherwise, she screams, then faints. 
+* Baroness Lydia Petrovna can generally be found in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3c. Dining Room|N3c. Dining Room]] (p. 106) during the day and in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108) at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, [[Baron Vargas Vallakovich|Vargas]], and greets them accordingly; otherwise, she screams, then faints. 
 * [[Victor Vallakovich]] can generally be found in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109) both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
 * Tereska, the cook, can generally be found in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3g. Kitchen|N3g. Kitchen]] (p. 106) during the day, and in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3f. Servants' Quarters|N3f. Servants' Quarters]] (p. 106) at night. If she finds the players trespassing, she gives them an opportunity to leave, but raises the alarm if they refuse.
 * Claudia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3f. Servants' Quarters|N3f. Servants' Quarters]] (p. 106) at night. If she finds the players trespassing, she immediately raises the alarm.
@@ -324,7 +324,7 @@ Shortly after the players discover these records, however, they are interrupted 
 >
 > ***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family from death. (Although often irritable, Victor won't lash out magically if offended or insulted.)
 >
-> ***Relationships.*** Victor is the only child of Baron Vargas Vallakovich (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears [[Izek Strazni]], who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
+> ***Relationships.*** Victor is the only child of [[Baron Vargas Vallakovich]] (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears [[Izek Strazni]], who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
 
 Victor, who is largely as described in [[Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
@@ -414,7 +414,7 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 >  
 > Victor truthfully tells the players that he's tried to keep his magic secret from his father, for fear that he would disapprove. However, his claims that his magic has caused the "hauntings" is a lie, and a DC 10 Wisdom (Insight) check reveals that he hesitates when telling his story, his eyes briefly darting toward the mirror leaned against the wall.
 > 
-> If caught in an evident lie, Victor confesses that the noises are likely caused by a spirit that haunts the house, but begs the players not to tell anyone for fear that the Baron might see fit to exorcise it. Victor promises to ensure the spirit keeps quiet, insisting that she likely didn't know that she was disturbing anyone. (Victor declines to introduce the spirit if asked, claiming that she's shy.) 
+> If caught in an evident lie, Victor confesses that the noises are likely caused by a spirit that haunts the house, but begs the players not to tell anyone for fear that [[Baron Vargas Vallakovich|the Baron]] might see fit to exorcise it. Victor promises to ensure the spirit keeps quiet, insisting that she likely didn't know that she was disturbing anyone. (Victor declines to introduce the spirit if asked, claiming that she's shy.) 
 > 
 > Victor doesn't reveal the spirit's true identity (Stella Wachter) or origins. See [[Arc H - The Lost Soul]] for more information.
 
@@ -776,7 +776,7 @@ The players experience no other encounters on their journey to Vallaki.
 # E8. Return to Vallaki
 The players' return to Vallaki from Lake Baratok is three and one-quarter miles long and takes approximately one hour.
 
-When the players return to Vallaki, they can pursue their leads either by seeking out [[Rictavio]] at the Blue Water Inn, or by directly investigating [[Rictavio]]’s wagon in Arasek Stockyard.
+When the players return to Vallaki, they can pursue their leads either by seeking out [[Rictavio]] at the [[Blue Water Inn]], or by directly investigating [[Rictavio]]’s wagon in Arasek Stockyard.
 
 As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom (Perception) score of 19 or higher notices the same silhouette as before watching them—this time, from the northwestern woods. The silhouette vanishes into the trees if looked at, spoken to, approached, or otherwise interacted with. (This is, again, [[Arrigal]], who has tracked the players back to Vallaki. If the players enter Vallaki, [[Arrigal]] uses his two daggers as makeshift pitons to climb over Vallaki’s palisade walls and sneak past the patrolling guards. He then continues stalking the players through the streets in the hopes that they’ll lead him to [[Arabelle]].)
 
@@ -799,7 +799,7 @@ As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom
 ## E8a. Confronting [[Rictavio]]
 <em>This scene takes place in Chapter 5: Area N2.</em>
 
-If the players visit the Blue Water Inn first, they can learn from [[Non-Player Characters#Danika Dorakova|Danika]] that [[Rictavio]] recently departed the inn and that he mentioned “inspecting his wagon for some necessary repairs.” If the players ask where [[Rictavio]] has kept his wagon, Danika recalls hearing him mention keeping it in Arasek Stockyard. 
+If the players visit the [[Blue Water Inn]] first, they can learn from [[Non-Player Characters#Danika Dorakova|Danika]] that [[Rictavio]] recently departed the inn and that he mentioned “inspecting his wagon for some necessary repairs.” If the players ask where [[Rictavio]] has kept his wagon, Danika recalls hearing him mention keeping it in Arasek Stockyard. 
 
 If the players indicate an interest in following [[Rictavio]] to the stockyard, Danika jokingly warns them to be on the lookout for dangerous beasts—local rumors suggest that the ringmaster is keeping something big and deadly in his wagon.
 
@@ -892,7 +892,7 @@ If the players demand it, Van Richten agrees to bring them to his wagon at Arase
 ## E8b. Following [[Rictavio]]
 <em>This scene takes place in Chapter 5: Area N5.</em>
 
-If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the Blue Water Inn, they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that [[Rictavio]] is repeatedly adjusting and re-adjusting the same spoke, and that [[Rictavio]]’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
+If the players follow [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] to Arasek Stockyard instead of waiting for him at the [[Blue Water Inn]], they can find him kneeling by the wagon, where he appears to be adjusting the spokes of the wagon’s rear left wooden wheel. A player with a passive Wisdom (Perception) score of 16 or higher notices that [[Rictavio]] is repeatedly adjusting and re-adjusting the same spoke, and that [[Rictavio]]’s lips are moving, as if he is speaking with someone. If the players watch him, he continues his task for a full five minutes—far longer than such a task should ordinarily take—before standing and moving to depart.
 
 If the players confront him, [[Rictavio]] greets them warmly, but feigns ignorance of their allegations and claims. If the players insist that they wish to help [[Arabelle]], show him the burned journal page, or otherwise threaten to blow his cover, [[Rictavio]]’s gaze hardens, his fist tightens around his cane, and his voice lowers to a near-whisper. He demands to know if they are spies of Strahd, and calmly threatens to “dispatch” them if they serve the Devil’s will.
 
@@ -1037,9 +1037,9 @@ Kasimir will later lead the players to the Amber Temple in [[Arc S - A Sword of 
 
 The symbols on the signet ring have been added to provide the players with the solution to the puzzle door at the entrance to Van Richten's Tower.
 
-Rahadin's relationship to Prince Erevan (relayed in Kasimir's story) has been added to accentuate his decision to choose King Barov as his family over his own people, and to create a more personal antagonistic relationship between Rahadin and the bearer of the *broken blade* in the ***Barovian Relics*** adventure hook.
+[[Rahadin]]'s relationship to Prince Erevan (relayed in Kasimir's story) has been added to accentuate his decision to choose King Barov as his family over his own people, and to create a more personal antagonistic relationship between [[Rahadin]] and the bearer of the *broken blade* in the ***Barovian Relics*** adventure hook.
 
-***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave [[Ireena]] in the safety of St. Andral's Church.
+***Burgomaster's Mansion.*** The "haunted mansion" plotline has been added to provide the players with a hook to [[Arc H - The Lost Soul]], and as a backup diplomatic option if the players chose to leave [[Ireena]] in the safety of [[St. Andral's Church]].
 
 The geneology of the Strazni family has been added to explicitly reveal [[Ireena]]'s connection to Izek, clarifying and accentuating the stakes of [[Arc G - The Strazni Siblings]].
 

@@ -13,7 +13,7 @@ Each rowboat can safely hold five people. The person fishing on the lake is Blut
 %% --- Page 50 --- %%
 ## Roleplaying Bluto 
 
-Bluto Krogarov is a destitute drunkard. He's desperate to catch some fish and trade them for wine at the Blue Water Inn. After he was unable to catch a single fish for a week, he kidnapped Arabelle, believing that Vistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
+Bluto Krogarov is a destitute drunkard. He's desperate to catch some fish and trade them for wine at the [[Blue Water Inn]]. After he was unable to catch a single fish for a week, he kidnapped Arabelle, believing that Vistani are lucky. He intends to sacrifice her to the lake, hoping it will give up some of its fish in return.
 
 If the characters watch Bluto from the shore for several minutes, or if they row out into the lake to greet him, he tosses the burlap sack into the water, watches it sink, and waits with fishing pole in hand for his reward.
 

@@ -1,12 +1,12 @@
 _An adventure for five 5th-level characters._
 
-In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, [[Victor Vallakovich]] asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.
+In this arc, following either a ghostly visitation at the [[Blue Water Inn]] or a wary bargain at [[Baron Vargas Vallakovich|the Baron]]’s mansion, [[Victor Vallakovich]] asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.
 
 Should the players accept Victor’s request, he tells them that Stella, from her place in the Ethereal Plane, has seen a **night hag** preying upon the dreams of several members of the Barovian refugee camp. He advises them to visit the camp to investigate the hag’s location while he prepares the rituals necessary to transport the players to the Ethereal Plane and return Stella’s soul to her body.
 
 In the refugee camp, the players can learn about the peddler Morgantha, who has regularly sold dream pastries to the refugees and several Vallakians since the refugees’ arrival nearly three months ago. While there, the players can also meet Franz, a widower refugee who has suffered from a wasting disease for the past two nights. Franz confesses to the players that he sold his children, Myrtle and Feodor, to Morgantha two days ago to pay for his dreams, and that he is now suffering the penance of his sins. The players can learn from the refugees that Morgantha hasn’t visited the town since Franz sold her his children.
 
-Shortly after speaking with Franz, the players receive a *sending* spell from Victor inviting them to return to the attic of the Baron’s mansion. There, Victor provides them with two paths they can take in order to obtain the night hag’s heartstone: they can bargain with her to obtain it, or they can attempt to seal her in a binding circle and then kill her. If the players select the latter, Victor tells them that he will need an additional day to research the binding circle before they can set off for Morgantha’s lair.
+Shortly after speaking with Franz, the players receive a *sending* spell from Victor inviting them to return to the attic of [[Baron Vargas Vallakovich|the Baron]]’s mansion. There, Victor provides them with two paths they can take in order to obtain the night hag’s heartstone: they can bargain with her to obtain it, or they can attempt to seal her in a binding circle and then kill her. If the players select the latter, Victor tells them that he will need an additional day to research the binding circle before they can set off for Morgantha’s lair.
 
 When the players return the following day, Victor anxiously informs them that he has been unable to find a means of performing the binding ritual. However, Stella can inform the group that a similar circle of enormous size surrounds the entirety of Wachterhaus, which Stella saw while exploring through the Ethereal Plane.
 
@@ -14,7 +14,7 @@ If the players request [[Lady Fiona Wachter|Lady Wachter]]’s help, she assists
 
 If the players successfully obtain [[Lady Fiona Wachter|Lady Wachter]]’s aid, she and four of her **cult fanatics** join the players for a journey to Morgantha’s lair at Old Bonegrinder. [[Lady Fiona Wachter|Lady Wachter]] warns the players that they will need to obtain the names of all hags within the windmill in order to bind them, lest any members of the coven escape to attack her or her cultists. Once the players have obtained the names of Morgantha’s daughters (and, hopefully, rescued the children imprisoned inside the windmill), Bella Sunbane and Offalia Wormwiggle, [[Lady Fiona Wachter|Lady Wachter]] leads her cultists in creating an enormous binding circle that binds the **night hags** to the Material Plane, allowing the players and Victor to destroy them.
 
-If the players fail to obtain [[Lady Fiona Wachter|Lady Wachter]]’s aid and instead elect to bargain with Morgantha for a loan of her heartstone, Morgantha agrees to lend it to the players on the condition that the players promise to later deliver a *soul leech* to the desk of Strahd’s chamberlain, Rahadin, whose twisted soul Morgantha craves. As collateral, Morgantha takes the players’ dreams, preventing the players from gaining the benefits of a long rest if they fail to fulfill Morgantha’s request within the next fourteen days.
+If the players fail to obtain [[Lady Fiona Wachter|Lady Wachter]]’s aid and instead elect to bargain with Morgantha for a loan of her heartstone, Morgantha agrees to lend it to the players on the condition that the players promise to later deliver a *soul leech* to the desk of Strahd’s chamberlain, [[Rahadin]], whose twisted soul Morgantha craves. As collateral, Morgantha takes the players’ dreams, preventing the players from gaining the benefits of a long rest if they fail to fulfill Morgantha’s request within the next fourteen days.
 
 Should the players successfully obtain a heartstone through assault or negotiation, Victor sends the group—and [[Lady Fiona Wachter|Lady Wachter]], if she is present—into the Ethereal Plane to perform the ritual and defend Stella’s spirits from a tide of ravenous spirits intent on taking her soulless body for their own. The horde, however, is not alone, and their leader—a sadistic **gallows speaker** dominated by the spirit of Leo Dilisnya—bears an ancient enmity for the house of Wachter...
 
@@ -38,7 +38,7 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > 
 > Back on the Material Plane, when the smoke and light cleared, Victor saw Stella standing limply at the center of the circle, her eyes dull and unresponsive.
 > 
-> Terrified that his father might learn of Victor’s magical abilities—or, worse, blame Victor for Stella’s fate— Victor told him that she had abruptly become catatonic for no apparent reason. Vargas, displeased with Stella's presence from the beginning, was all too glad to have an excuse to be rid of “the Wachter girl,” and directed Izek to return her to Wachterhaus immediately. [[Lady Fiona Wachter|Fiona]] was horrified by Stella’s fate and began plotting the downfall of the Vallakovich family in quiet fury.
+> Terrified that his father might learn of Victor’s magical abilities—or, worse, blame Victor for Stella’s fate— Victor told him that she had abruptly become catatonic for no apparent reason. [[Baron Vargas Vallakovich|Vargas]], displeased with Stella's presence from the beginning, was all too glad to have an excuse to be rid of “the Wachter girl,” and directed Izek to return her to Wachterhaus immediately. [[Lady Fiona Wachter|Fiona]] was horrified by Stella’s fate and began plotting the downfall of the Vallakovich family in quiet fury.
 > 
 > Victor spent two weeks wracked with guilt and sorrow before, strangely, one of the servants mentioned seeing a spirit resembling Stella in the mirror in his mother’s parlor. It was through the *spirit mirror* that Victor learned that Stella’s soul still lived in the Ethereal Plane—and it was through that mirror, communicating with handsigns and lip-reading, that the two—now aided by the ghost of Erasmus van Richten—began to work to restore Stella’s soul to her body.
 > 
@@ -55,11 +55,11 @@ If the players ask for the spirit’s name, it writes its name in the frost: *Er
 
 While Erasmus’s spirit is present, a player who succeeds on a DC 10 Wisdom (Insight or Perception) check senses a ghostly presence within the room—a presence that shines with innocence and a sense of fierce determination.
 
-The players can learn from [[Urwin Martikov]], [[Danika Dorakova]], Father Lucian Petrovich, or [[Lady Fiona Wachter]] that “Victor” is the name of Baron Vallakovich’s teenage son.
+The players can learn from [[Urwin Martikov]], [[Danika Dorakova]], [[Father Lucian Petrovich]], or [[Lady Fiona Wachter]] that “Victor” is the name of [[Baron Vargas Vallakovich|Baron Vallakovich]]’s teenage son.
 # H2. Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 5: Area N3t.</em></span>
 
-If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, Baron Vallakovich allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if [[Lady Fiona Wachter|Lady Wachter]] has already seized power. 
+If the players received [[#H1. Erasmus' Plea]] and ask to speak with Victor, [[Baron Vargas Vallakovich|Baron Vallakovich]] allows them to do so with a successful DC 12 Charisma (Persuasion or Deception) check, or automatically if they sufficiently flatter him or if [[Lady Fiona Wachter|Lady Wachter]] has already seized power. 
 
 If the players describe Erasmus' visitation to Victor, Victor glances at the *spirit mirror* in his workroom and says, sounding hurt, “I thought I told you I had this under control!” 
 
@@ -79,7 +79,7 @@ Victor then shares the following information:
 * Stella feels like she’s slowly losing memories of her life, even as her form in the Ethereal Plane is slowly growing more insubstantial. Sometimes, she can’t tell whether she’s herself or someone else; when that happens, she feels as though a part of her is curled up in a warm and wet place, with a comforting heartbeat echoing through the darkness.
 * To make matters worse, the tether between Stella’s shoulder blades that once connected her soul to her body is slowly growing shorter, leaving Victor fearing that she has little more than a week left before she disappears forever. (The shorter it gets, the more frequent Stella’s visions become, and the foggier her memory grows.)
 * Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on <span class="citation">p. 234 of Van Richten's Guide to Ravenloft</span>.)
-* If asked why they haven’t sought others’ help, Victor stubbornly insists that he doesn’t trust [[Lady Fiona Wachter]]; that his own father, the Baron, would be worse than useless; and that he and Stella are perfectly capable of solving her problem on their own. 
+* If asked why they haven’t sought others’ help, Victor stubbornly insists that he doesn’t trust [[Lady Fiona Wachter]]; that his own father, [[Baron Vargas Vallakovich|the Baron]], would be worse than useless; and that he and Stella are perfectly capable of solving her problem on their own. 
 
 If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
 
@@ -155,14 +155,14 @@ If [[Lady Fiona Wachter|Lady Wachter]] hasn't yet relocated the refugees, when t
 ## H3a. Inside the Camp
 If the players enter the camp, they are soon warily greeted by Emeric, a melancholy older man with graying hair, and Magda, a grief-stricken young woman with deep circles under their eyes. (While the camp doesn’t have any official leadership, Emeric and Magda were part of the initial wave of refugees from Barovia, and have pioneered the effort to welcome and organize the newcomers following Strahd’s siege.)
 
-Emeric and Magda are cautious of outsiders, but curious to know why the players have come to their camp. (Magda is briefly hopeful that the players are servants of Baron Vallakovich and that they have come to invite the refugees into Vallaki—a hope that Emeric, pointing to the players’ strange appearances, soon disabuses her of.)
+Emeric and Magda are cautious of outsiders, but curious to know why the players have come to their camp. (Magda is briefly hopeful that the players are servants of [[Baron Vargas Vallakovich|Baron Vallakovich]] and that they have come to invite the refugees into Vallaki—a hope that Emeric, pointing to the players’ strange appearances, soon disabuses her of.)
 
 Emeric and Magda can share the following general information about the camp (modified as necessary depending on current events):
 
 * The first Barovian refugees arrived at Vallaki's gates three months ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
 * Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
 * Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
+* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until [[Baron Vargas Vallakovich|the Baron]] sees reason and allows them to enter the walls.
 * Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>. (Emeric and Magda can add that Morgantha hasn't been to the camp in a few days.)
 
 If the players ask about the **night hag**, Emeric and Magda exchange glances and inform them that their description matches that of a recurring nightmare that Franz, another refugee, has been suffering for the past two nights. 
@@ -216,7 +216,7 @@ If the players tell Victor about Franz's words, he recognizes the "twisted, onyx
 
 Victor isn't sure what Franz meant about "the heart of the windmill." (He's sure it's not a heartstone, because night hags always keep their heartstones on their person.)
 
-Victor recalls seeing information about the windmill in an old book of records in his father's library. (Victor recalls the book bitterly because Vargas made him write a report on Vallakian history as punishment when Victor spoke ill of the town's founder, Boris Vallakovich.)
+Victor recalls seeing information about the windmill in an old book of records in his father's library. (Victor recalls the book bitterly because [[Baron Vargas Vallakovich|Vargas]] made him write a report on Vallakian history as punishment when Victor spoke ill of the town's founder, Boris Vallakovich.)
 
 Upon retrieving the book, Victor opens it to reveal a blueprint of the windmill, located alongside the original assignment of land from Baron Boris Vallakovich to Gustav and Elisabeth Durst. He points out excitedly that the design for the millstone contains a compartment built into its side—likely as a place for storage. If the hags are hiding something other than a heartstone in the windmill, it's likely located in that compartment.
 ### The Binding Ritual
@@ -260,7 +260,7 @@ Stella, through Victor, suggests that the players visit Wachterhaus to request [
 >
 > **_Leo's Revenge._** Despondent, Frederich returned to Vallaki empty-handed. Bereft of a better solution, Balthazar Wachter obtained candles, incense, and holy invocations from the occultist and led the family in a seance to exorcise the spirit from Wachterhaus.
 >
-> The seance, however, proved unsuccessful. Rather than banishing Leo’s spirit, it provided him an opening into the Material Plane that allowed him to fulfill his murderous vengeance. Two weeks later, the Baron’s guards found the three Wachters dead—though by all signs untouched—on the floor of Wachterhaus’s master bedroom. Leo had killed them before returning to haunt Castle Ravenloft, satisfied with his revenge at last.
+> The seance, however, proved unsuccessful. Rather than banishing Leo’s spirit, it provided him an opening into the Material Plane that allowed him to fulfill his murderous vengeance. Two weeks later, [[Baron Vargas Vallakovich|the Baron]]’s guards found the three Wachters dead—though by all signs untouched—on the floor of Wachterhaus’s master bedroom. Leo had killed them before returning to haunt Castle Ravenloft, satisfied with his revenge at last.
 >
 > **_[[Lady Fiona Wachter|Fiona]]'s Return._** Two weeks later, one of Baba Lysaga’s other disciples, following a routine trip to Vallaki to obtain supplies, told [[Lady Fiona Wachter|Fiona]] that her family had been found dead in their house in the midst of a seance. Realizing the depths of her mistake and overcome with guilt, [[Lady Fiona Wachter|Fiona]] confronted Baba Lysaga and told her that she intended to return to her family home. Baba Lysaga banished [[Lady Fiona Wachter|Fiona]] for her decision, and [[Lady Fiona Wachter|Fiona]] departed Berez for good.
 >
@@ -380,14 +380,14 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 >
 > If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
 >
-> Morgantha’s task is simple. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable.
+> Morgantha’s task is simple. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, [[Rahadin]]. Upon arriving in [[Rahadin]]’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable.
 > 
 >![[IMG-20251205143150487.png]]
 ><span class="credit">"Soul Leech" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 >
->The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
+>The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When [[Rahadin]] returns, the leech will secretly attach itself to his flesh, ensuring that—when [[Rahadin]] eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
 >
-> Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
+> Morgantha can tell the players that [[Rahadin]]’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
 
 > [!info]+ **The Megaliths**
 >
@@ -773,11 +773,11 @@ Morgantha distributes the vials to herself and her daughters, and then directs B
 >
 > If the player refuses to complete Morgantha’s task, intentionally delays the process, or attempts to flee, the coven attacks. As the player falls into unconsciousness, Morgantha strokes their hair and whispers, "A pity. I'd thought of you as stronger stock. We'll have to try again tomorrow." The player later awakens back in the attic with the others. Proceed to **Escaping the Windmill** below.
 
-***The Bargain.*** If the player completes Morgantha’s request and successfully delivers the body parts she needs to craft her protective amulets, she is willing to lend them her hearthstone for a period of three days in exchange for a promise to undertake a particular task. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, Rahadin. Upon arriving in Rahadin’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable. 
+***The Bargain.*** If the player completes Morgantha’s request and successfully delivers the body parts she needs to craft her protective amulets, she is willing to lend them her hearthstone for a period of three days in exchange for a promise to undertake a particular task. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, [[Rahadin]]. Upon arriving in [[Rahadin]]’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable. 
 
-The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When Rahadin returns, the leech will secretly attach itself to his flesh, ensuring that—when Rahadin eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
+The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When [[Rahadin]] returns, the leech will secretly attach itself to his flesh, ensuring that—when [[Rahadin]] eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
 
-Morgantha can tell the players that Rahadin’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
+Morgantha can tell the players that [[Rahadin]]’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
 
 As a form of insurance to ensure the players’ compliance, Morgantha takes their dreams as collateral once they accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
 
@@ -1292,7 +1292,7 @@ Lady Wachter's reliance upon the members of her cult for the binding ritual has 
 
 ***The Old Svalich Road.*** The **druid** random encounter has been added to introduce the Forest Folk faction prior to their official presence in [[Arc J - The Stolen Gem]], and to further foreshadow Lady Wachter's relationships with Baba Lysaga and Leo Dilisnya.
 
-***Bargain With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[Arc P - Ravenloft Heist]] and to foster a closer interest in Rahadin, Strahd's chamberlain. 
+***Bargain With the Hags.*** This brief alternative path is offered for parties that may wish to use a diplomatic solution instead of a hostile one, notwithstanding the hags' predation of Franz and his children. The soul leech has been added to provide the players with an additional impetus to raid Castle Ravenloft in [[Arc P - Ravenloft Heist]] and to foster a closer interest in [[Rahadin]], Strahd's chamberlain. 
 
 This guide intentionally foregoes alternative bargains that the hags might seek to make, such as directing the players to sell dream pastries or kidnap children for them. These alternative bargains fail for multiple reasons:
 

@@ -1,8 +1,8 @@
 In this act, the players are left to explore the shadowed town of Vallaki—a Barovian settlement that has found itself embroiled in tension, tragedy, and intrigue in the wake of Strahd's awakening.
 
-As the players seek to complete lingering obligations—escorting Ireena to St. Andral's Church in [[Arc D - St. Andral's Feast]] and delivering a toy to the Vistani child [[Arabelle]] in [[Arc E - The Missing Vistana]]—they'll meet new allies and enemies, including [[Victor Vallakovich]], the son of Baron Vargas Vallakovich; Lady Fiona Wachter, the Baron's rival for power; Father Lucian Petrovich, the priest of St. Andral's Church; Luvash and Arrigal, the leaders of the Vallakian Vistani camp; and Dr. Rudolph van Richten, the veteran vampire hunter and lone survivor of Doru's rebellion.
+As the players seek to complete lingering obligations—escorting Ireena to [[St. Andral's Church]] in [[Arc D - St. Andral's Feast]] and delivering a toy to the Vistani child [[Arabelle]] in [[Arc E - The Missing Vistana]]—they'll meet new allies and enemies, including [[Victor Vallakovich]], the son of Baron Vargas Vallakovich; Lady Fiona Wachter, the Baron's rival for power; [[Father Lucian Petrovich]], the priest of [[St. Andral's Church]]; Luvash and Arrigal, the leaders of the Vallakian Vistani camp; and Dr. Rudolph van Richten, the veteran vampire hunter and lone survivor of Doru's rebellion.
 
-At St. Andral's Church, the players will be tasked with recovering the stolen bones of St. Andral before the night of St. Andral's Feast in order to sustain the church's hallowed defenses. At the Vallakian Vistani encampment, the players will be asked to find and rescue [[Arabelle]] following her mysterious disappearance.
+At [[St. Andral's Church]], the players will be tasked with recovering the stolen bones of St. Andral before the night of St. Andral's Feast in order to sustain the church's hallowed defenses. At the Vallakian Vistani encampment, the players will be asked to find and rescue [[Arabelle]] following her mysterious disappearance.
 
 Soon after the players' arrival in Vallaki, Lady Wachter may invite them to dine with her personally at her family estate, Wachterhaus, seeking to recruit them into a dangerous conspiracy in [[Arc F - Lady Wachter's Wish]]. Meanwhile, [[Izek Strazni]] prowls Vallaki's streets for his long-lost sister, Ireena, in [[Arc G - The Strazni Siblings]]. And following a close encounter with the spirit of Erasmus van Richten, the players will be tasked with obtaining a *heartstone* from the night hags of Old Bonegrinder—a mission that ultimately culminates in an ethereal combat with the vengeful ghost of Leo Dilisnya and the recovery of the *Tome of Strahd* in [[Arc H - The Lost Soul]].
 
@@ -27,13 +27,13 @@ The players begin this act at 4th level and end it at 5th level, with each playe
 # Timeline
 Once the players arrive in Vallaki and Act II begins, the timeline of events unfolds as follows.
 ## Neyavr 2
-Before the players arrive, the ringmaster [[Rictavio]] reserves a room at the Blue Water Inn. 
+Before the players arrive, the ringmaster [[Rictavio]] reserves a room at the [[Blue Water Inn]]. 
 
 **The players arrive in Vallaki at dusk.**
 
-That night, the church groundskeeper, Milivoj, steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort.
+That night, the church groundskeeper, [[Milivoj]], steals the bones of St. Andral and delivers them to the local coffin-maker, Henrik van der Voort.
 ## Neyavr 3
-At dawn, [[Father Lucian Petrovich]] discovers the missing bones. Players who bring Ireena to St. Andral's Church after this point begin [[Arc D - St. Andral's Feast]].
+At dawn, [[Father Lucian Petrovich]] discovers the missing bones. Players who bring Ireena to [[St. Andral's Church]] after this point begin [[Arc D - St. Andral's Feast]].
 
 [[Izek Strazni]] and two **guards** put up posters in the Vallaki Town Square advertising the Festival of the Blazing Sun. Players who bring Ireena to the Town Square at this point in time begin [[Arc G - The Strazni Siblings]] if Izek has not already seen Ireena.
 
@@ -51,29 +51,29 @@ That night, if the players defied [[Baron Vargas Vallakovich|Baron Vallakovich]]
 ## [[Neyavr 4]]
 [[Arabelle]]'s nameday takes place at the Vistani encampment. (If the players haven't yet rescued her in [[Arc E - The Missing Vistana]], she is missing, and no celebration occurs.)
 
-If [[Izek Strazni]] saw [[Ireena Kolyana|Ireena]] outside of the Blue Water Inn on the players' first morning in Vallaki, he visits the Inn while the players are away—preferably at dusk, during Lady Wachter's dinner—and ransacks it in a search for Ireena. [[Arc G - The Strazni Siblings]] then begins.
+If [[Izek Strazni]] saw [[Ireena Kolyana|Ireena]] outside of the [[Blue Water Inn]] on the players' first morning in Vallaki, he visits the Inn while the players are away—preferably at dusk, during Lady Wachter's dinner—and ransacks it in a search for Ireena. [[Arc G - The Strazni Siblings]] then begins.
 ## Neyavr 5
-If the players accepted Lady Wachter's mission to kill [[Izek Strazni]], Ernst Larnak meets them at the Blue Water Inn with a poisoned bottle of wine and a burlap sack for Izek's head.
+If the players accepted Lady Wachter's mission to kill [[Izek Strazni]], Ernst Larnak meets them at the [[Blue Water Inn]] with a poisoned bottle of wine and a burlap sack for Izek's head.
 
 That night, if the players completed [[Arc E - The Missing Vistana]] and have not yet begun [[Arc H - The Lost Soul]], the spirit of Erasmus van Richten appears to the players as a **poltergeist** and invites them to meet with [[Victor Vallakovich]].
 ## Neyavr 6
 While the players are away, if the players haven't defeated [[Izek Strazni]] in [[Arc F - Lady Wachter's Wish]], Izek kidnaps Ireena and takes her to the Burgomaster's mansion as described in [[Arc G - The Strazni Siblings]].
 ## Neyavr 7
-If the players have not restored the bones of St. Andral to St. Andral's Church, the church's protective wards fail at dawn.
+If the players have not restored the bones of St. Andral to [[St. Andral's Church]], the church's protective wards fail at dawn.
 
 If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in <span class="citation">N8. Town Square (p. 119)</span> as described in [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun (p. 123)]]. If Izek kidnapped Ireena in [[Arc G - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at noon.
 
-At sundown, the parishioners of St. Andral's Church attend a service observing the holiday of St. Andral's Feast. 
+At sundown, the parishioners of [[St. Andral's Church]] attend a service observing the holiday of St. Andral's Feast. 
 
-If the protective wards of St. Andral's Church have not been restored, Strahd's vampiric bride [[Volenta Popofsky]] attacks the church during the service, killing dozens of Vallakians and Baroness Lydia Petrovna. 
+If the protective wards of [[St. Andral's Church]] have not been restored, Strahd's vampiric bride [[Volenta Popofsky]] attacks the church during the service, killing dozens of Vallakians and Baroness Lydia Petrovna. 
 ## Neyavr 8
-If the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc D - St. Andral's Feast]], an angry mob forms outside of Baron Vallakovich's manor. The hunter [[Szoldar Szoldarovich]] also finds [[Milivoj]], the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family. 
+If the players failed to prevent [[Volenta Popofsky|Volenta]]'s attack or otherwise defend [[St. Andral's Church]] in [[Arc D - St. Andral's Feast]], an angry mob forms outside of Baron Vallakovich's manor. The hunter [[Szoldar Szoldarovich]] also finds [[Milivoj]], the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family. 
 
-Shortly after sundown, if the players failed to prevent Volenta's attack or otherwise defend St. Andral's Church in [[Arc D - St. Andral's Feast]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. [[Victor Vallakovich]] escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, [[Izek Strazni]] also escapes, taking shelter in Q9. Servants' Quarters (p. 133) in Argynvostholt.
+Shortly after sundown, if the players failed to prevent [[Volenta Popofsky|Volenta]]'s attack or otherwise defend [[St. Andral's Church]] in [[Arc D - St. Andral's Feast]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. [[Victor Vallakovich]] escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, [[Izek Strazni]] also escapes, taking shelter in Q9. Servants' Quarters (p. 133) in Argynvostholt.
 
 At sundown, the **full moon** rises over Vallaki. (Due to Barovia's strange cosmology, the next full moon will arrive just two weeks later.)
 ## Neyavr 9
-If the players have not yet restored Stella Wachter's soul to her body, her spirit vanishes into the Ethereal Plane at dawn, and is reincarnated into a newborn infant in the village of Krezk. If he's still alive, a grieving [[Victor Vallakovich]] hears the call of an *amber shard* buried in the cemetery of St. Andral's Church. Upon unearthing it, he travels to the Amber Temple in search of a means of restoring Stella to life.
+If the players have not yet restored Stella Wachter's soul to her body, her spirit vanishes into the Ethereal Plane at dawn, and is reincarnated into a newborn infant in the village of Krezk. If he's still alive, a grieving [[Victor Vallakovich]] hears the call of an *amber shard* buried in the cemetery of [[St. Andral's Church]]. Upon unearthing it, he travels to the Amber Temple in search of a means of restoring Stella to life.
 ## Quest Timeline
 The quests of Act II become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable. The players arrive in Vallaki on Neyavr 2. See [[#Timeline]] above for more information about arc beginnings, events, and endings.)
 
@@ -89,9 +89,9 @@ The quests of Act II become available and are resolved as given in the table bel
 
 The most common path through Act II is as follows:
 
-* **Neyavr 2.** The players arrive in Vallaki and reserve rooms at the Blue Water Inn.
+* **Neyavr 2.** The players arrive in Vallaki and reserve rooms at the [[Blue Water Inn]].
 * **Neyavr 3.** The players complete [[Arc D - St. Andral's Feast]] and receive an invitation from Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]] (🔶).
-* **[[Neyavr 4]].** The players complete [[Arc E - The Missing Vistana]] and dine with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]] (🔶). [[Izek Strazni]] attacks the Blue Water Inn in [[Arc G - The Strazni Siblings]] (🔶).
+* **[[Neyavr 4]].** The players complete [[Arc E - The Missing Vistana]] and dine with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]] (🔶). [[Izek Strazni]] attacks the [[Blue Water Inn]] in [[Arc G - The Strazni Siblings]] (🔶).
 * **Neyavr 5.** The players assassinate [[Izek Strazni]] in [[Arc F - Lady Wachter's Wish]]. At night, the players are visited by the ghost of Erasmus van Richten in [[Arc H - The Lost Soul]] (🔶).
 * **Neyavr 6.** The players speak with [[Victor Vallakovich]] and the Barovian refugees in [[Arc H - The Lost Soul]] and attend Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]].
 * **Neyavr 7.** The players defeat the hags of Old Bonegrinder in [[Arc H - The Lost Soul]], then travel to Krezk in [[Arc I - The Walls of Krezk]] before returning to Vallaki.
@@ -99,9 +99,9 @@ The most common path through Act II is as follows:
 
 Alternately, particularly swift players might take the following path through Act II instead:
 
-* **Neyavr 2.** The players arrive in Vallaki and reserve rooms at the Blue Water Inn.
+* **Neyavr 2.** The players arrive in Vallaki and reserve rooms at the [[Blue Water Inn]].
 * **Neyavr 3.** The players complete [[Arc D - St. Andral's Feast]] and [[Arc E - The Missing Vistana]] and receive an invitation from Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]] (🔶).
-* **[[Neyavr 4]].** The players travel to Krezk and Berez in [[Arc I - The Walls of Krezk]], then return to Vallaki to dine with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]. [[Izek Strazni]] attacks the Blue Water Inn in [[Arc G - The Strazni Siblings]] (🔶).
+* **[[Neyavr 4]].** The players travel to Krezk and Berez in [[Arc I - The Walls of Krezk]], then return to Vallaki to dine with Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]. [[Izek Strazni]] attacks the [[Blue Water Inn]] in [[Arc G - The Strazni Siblings]] (🔶).
 * **Neyavr 5.** The players assassinate [[Izek Strazni]] in [[Arc F - Lady Wachter's Wish]]. At night, the players are visited by the ghost of Erasmus van Richten in [[Arc H - The Lost Soul]] (🔶).
 * **Neyavr 6.** The players speak with [[Victor Vallakovich]] and the Barovian refugees in [[Arc H - The Lost Soul]] and attend Lady Wachter's inauguration in [[Arc F - Lady Wachter's Wish]]. The players, Victor, and Lady Wachter defeat the hags of Old Bonegrinder in [[Arc H - The Lost Soul]].
 * **Neyavr 7.** The players return to Krezk in [[Arc I - The Walls of Krezk]], then visit Argynvostholt in [[Arc M - The Dragon's Manor]] (Act III) before returning to Vallaki.
@@ -111,25 +111,25 @@ The town of Vallaki can be a tangled web of assorted paths in the original modul
 ## The Zealous Crusaders
 In this potential narrative, the players are passionate, quick-moving characters with a penchant for action over thought.
 ### Neyavr 2
-After reserving rooms at the Blue Water Inn on their first night in Vallaki, the players befriend Karl and Nikolai Wachter and learn of the Wachter family's hatred of the Vallakoviches. 
+After reserving rooms at the [[Blue Water Inn]] on their first night in Vallaki, the players befriend Karl and Nikolai Wachter and learn of the Wachter family's hatred of the Vallakoviches. 
 ### Neyavr 3
-Upon encountering [[Izek Strazni]] and Baron Vargas Vallakovich for the first time, the players leap to [[Willemina Rikalova]]'s defense, nearly inciting an all-out brawl until Father Lucian Petrovich steps in to calm the tension. Their decision to act draws the attention of Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]
+Upon encountering [[Izek Strazni]] and Baron Vargas Vallakovich for the first time, the players leap to [[Willemina Rikalova]]'s defense, nearly inciting an all-out brawl until [[Father Lucian Petrovich]] steps in to calm the tension. Their decision to act draws the attention of Lady Fiona Wachter in [[Arc F - Lady Wachter's Wish]]
 
-The players and Ireena accompany Father Petrovich to St. Andral's Church, where they receive the hook for [[Arc D - St. Andral's Feast]]. After investigating and interrogating Milivoj, the players recruit Father Petrovich and travel to the coffin-maker's shop, where they do battle with Volenta Popofsky and recover the stolen bones.
+The players and Ireena accompany [[Father Lucian Petrovich|Father Petrovich]] to [[St. Andral's Church]], where they receive the hook for [[Arc D - St. Andral's Feast]]. After investigating and interrogating [[Milivoj]], the players recruit [[Father Lucian Petrovich|Father Petrovich]] and travel to the coffin-maker's shop, where they do battle with [[Volenta Popofsky]] and recover the stolen bones.
 
 Later that same afternoon, the players visit Blinsky Toys to purchase a toy for [[Arabelle]], followed by the Vistani encampment. There, they learn of [[Arc E - The Missing Vistana]], and accept the signet ring from Kasimir Velikov.
 
 That night, the players break into the Baron's Mansion, hoping to investigate the ring's history—only to be caught by [[Victor Vallakovich]], who leads them to his workroom and informs them of Khazan's tower at Lake Baratok. A chance sighting of Stella Wachter's silhouette in Victor's *spirit mirror* sparks a conversation, and the players begin [[Arc H - The Lost Soul]].
 ### [[Neyavr 4]]
-The players receive a dinner invitation from Lady Fiona Wachter at the Blue Water Inn, thereby beginning [[Arc F - Lady Wachter's Wish]]. While waiting for Szoldar and Yevgeni to return, the players visit the Barovian refugee camp outside of Vallaki's walls, meeting the refugee Franz and learning of Morgantha's true **night hag** nature in [[Arc H - The Lost Soul]].
+The players receive a dinner invitation from Lady Fiona Wachter at the [[Blue Water Inn]], thereby beginning [[Arc F - Lady Wachter's Wish]]. While waiting for Szoldar and Yevgeni to return, the players visit the Barovian refugee camp outside of Vallaki's walls, meeting the refugee Franz and learning of Morgantha's true **night hag** nature in [[Arc H - The Lost Soul]].
 
 After contriving an excuse to speak with Victor again, the players travel north to Szoldar and Yevgeni's dressing shack to obtain directions to Lake Baratok in [[Arc E - The Missing Vistana]]. The players venture forth on their own, and quickly discover [[Rictavio]]'s true identity. The players return to Vallaki by evening, confronting Dr. Rudolph van Richten and Arrigal in Arasek Stockyard, where they hear [[Arabelle]]'s prophecy.
 
 That night, the players dine with Lady Wachter at Wachterhaus, continuing [[Arc F - Lady Wachter's Wish]]. Though receptive to her hostility to the Baron, they're suspicious of her loyalty to Strahd, and decline her assassination mission. 
 
-Upon returning to the Blue Water Inn, however, the players find it ransacked by Izek himself—thereby beginning [[Arc G - The Strazni Siblings]]. Enraged, the players return to Wachterhaus and accept Lady Wachter's offer of aid in killing Izek once and for all. Ireena, upon learning of Izek's attack, demands the right to assist them.
+Upon returning to the [[Blue Water Inn]], however, the players find it ransacked by Izek himself—thereby beginning [[Arc G - The Strazni Siblings]]. Enraged, the players return to Wachterhaus and accept Lady Wachter's offer of aid in killing Izek once and for all. Ireena, upon learning of Izek's attack, demands the right to assist them.
 ### Neyavr 5
-The players continue [[Arc F - Lady Wachter's Wish]] when they meet Ernst Larnak in the taproom of the Blue Water Inn, where they receive the poisoned wine for Izek. The players sneak into the Baron's Mansion and persuade Tereska, the Baron's cook, to include the poisoned wine as a "gift" to Izek. The players stalk Izek for the rest of the day, eventually killing him on the shores of Lake Zarovich and delivering his severed head to Lady Wachter. That night, Lady Wachter intimidates Baron Vallakovich into surrendering power.
+The players continue [[Arc F - Lady Wachter's Wish]] when they meet Ernst Larnak in the taproom of the [[Blue Water Inn]], where they receive the poisoned wine for Izek. The players sneak into the Baron's Mansion and persuade Tereska, the Baron's cook, to include the poisoned wine as a "gift" to Izek. The players stalk Izek for the rest of the day, eventually killing him on the shores of Lake Zarovich and delivering his severed head to Lady Wachter. That night, Lady Wachter intimidates Baron Vallakovich into surrendering power.
 ### Neyavr 6
 The players learn of the **night hag** binding ritual from Victor in [[Arc H - The Lost Soul]]. Following Lady Wachter's speech in the town square at the end of Arc G - Lady Wachter's Wish, the players convince her to lower the protective circle around Wachterhaus, allowing Stella Wachter's spirit to manifest there and recruiting Lady Wachter as an ally.
 
@@ -143,21 +143,21 @@ The players return to Vallaki and spend a day of downtime exploring the town and
 ## The Cautious Explorers
 In this potential narrative, the players are cautious, soft-spoken characters with a preference for passivity over boldness.
 ### Neyavr 2
-After reserving rooms at the Blue Water Inn on their first night in Vallaki, the players watch the half-elf [[Rictavio]] carefully, viewing him with suspicion.
+After reserving rooms at the [[Blue Water Inn]] on their first night in Vallaki, the players watch the half-elf [[Rictavio]] carefully, viewing him with suspicion.
 ### Neyavr 3
 Upon encountering [[Izek Strazni]] and Baron Vargas Vallakovich for the first time, the players remain quiet along the sidelines, unwilling to risk their necks for a stranger. 
 
-The players bring Ireena to St. Andral's Church, where Father Petrovich delivers them the hook for [[Arc D - St. Andral's Feast]]. Agreeing that the night of the feast is far in the future, the players, leave Ireena at the church and depart for Blinsky Toys, followed by the Vistani encampment outside of Vallaki, where they begin [[Arc E - The Missing Vistana]].
+The players bring Ireena to [[St. Andral's Church]], where [[Father Lucian Petrovich|Father Petrovich]] delivers them the hook for [[Arc D - St. Andral's Feast]]. Agreeing that the night of the feast is far in the future, the players, leave Ireena at the church and depart for Blinsky Toys, followed by the Vistani encampment outside of Vallaki, where they begin [[Arc E - The Missing Vistana]].
 
 After accepting the signet ring from [[Kasimir Velikov]], the players visit the Baron's mansion to research its origins. There, Baron Vallakovich agrees to allow them access to his library in exchange for their investigation into a series of paranormal events that have lately plagued the mansion. 
 
 As the players investigate the attic, they meet [[Victor Vallakovich]] and the spirit of Stella Wachter, beginning [[Arc H - The Lost Soul]]. The players decide to bargain with the **night hag** coven, rather than fighting the hags, and agree to set off toward Old Bonegrinder after rescuing [[Arabelle]] and retrieving St. Andral's bones.
 
-Late that afternoon, the players travel to Szoldar and Yevgeni's dressing shack, where they recruit Szoldar as a guide to Lake Baratok in [[Arc E - The Missing Vistana]]. When they return to the Blue Water Inn, they find that [[Izek Strazni]] has ransacked it in search for Ireena.
+Late that afternoon, the players travel to Szoldar and Yevgeni's dressing shack, where they recruit Szoldar as a guide to Lake Baratok in [[Arc E - The Missing Vistana]]. When they return to the [[Blue Water Inn]], they find that [[Izek Strazni]] has ransacked it in search for Ireena.
 ### [[Neyavr 4]]
 The players and Szoldar travel west to Lake Baratok, where they uncover [[Rictavio]]'s true identity. They return to Vallaki and confront Dr. Rudolph van Richten and Arrigal in Arasek Stockyard, where they hear [[Arabelle]]'s prophecy.
 
-That afternoon, the players return to St. Andral's Church in [[Arc D - St. Andral's Feast]]. After investigating and interrogating Milivoj, the players recruit Father Petrovich and travel to the coffin-maker's shop, where they do battle with Volenta Popofsky and recover the stolen bones.
+That afternoon, the players return to [[St. Andral's Church]] in [[Arc D - St. Andral's Feast]]. After investigating and interrogating [[Milivoj]], the players recruit [[Father Lucian Petrovich|Father Petrovich]] and travel to the coffin-maker's shop, where they do battle with [[Volenta Popofsky]] and recover the stolen bones.
 ### Neyavr 5
 The players travel to Old Bonegrinder alone, where they attempt to bargain with the **night hag** Morgantha for the loan of her heartstone in [[Arc H - The Lost Soul]]. Because the players are unwilling to pay her price, however, Morgantha dismisses them without a deal. The players attempt to take her heartstone by force, but are easily dispatched by the coven, which locks them in the attic and infects them with cackle fever.
 

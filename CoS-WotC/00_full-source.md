@@ -4263,7 +4263,7 @@ Ludmilla Vilisevic wears a soiled white wedding gown, a gold tiara (worth 750 gp
 
 Anastrasya Karelova wears a stained and tattered red wedding gown, a black and crimson silk head scarf sewn with precious jewels (worth 750 gp), and a platinum necklace with a black opal pendant (worth 1,500 gp).
 
-Volenta Popofsky wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull (750 gp), and ten platinum rings set with gemstones (worth 250 gp each).
+[[Volenta Popofsky]] wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull (750 gp), and ten platinum rings set with gemstones (worth 250 gp each).
 
 #### Teleport Destination
 
@@ -4397,24 +4397,24 @@ No map of the church is provided. If one becomes necessary, assume that this chu
 
 This slouching, centuries-old stone church has a bulging steeple in the back and walls lined with cracked, stained glass windows depicting pious saints. A fence of wrought iron encloses a garden of gravestones next to the church. A thin mist creeps among the graves.
 
-This church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar (see the "Bones of St. Andral" section). Father Lucian Petrovich (LG male human priest) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named Milivoj (see below) tends the grounds and digs graves.
+This church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar (see the "Bones of St. Andral" section). Father Lucian Petrovich (LG male human priest) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named [[Milivoj]] (see below) tends the grounds and digs graves.
 
 At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male and female human commoners) and 2d6 equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named [[Willemina Rikalova]]. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 ![img-43.jpeg](img-43.jpeg)
 
-Milivoj ( N male human commoner) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
+[[Milivoj]] ( N male human commoner) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
 
 - His Strength is $15(+2)$.
 - His melee weapon attack bonus is +4 , and he deals $4(1 \mathrm{~d} 4+2)$ bludgeoning damage when he hits with the blunt head of his shovel.
 
-Milivoj rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings. He wants to be free of Barovia's curse but sees no hope of escape.
+[[Milivoj]] rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings. He wants to be free of Barovia's curse but sees no hope of escape.
 
 %% --- Page 134 --- %%
 Until recently, the church was protected from Strahd's depredations by the bones of St. Andral, which were sealed in a crypt beneath the church's main altar. But now the church is at risk because someone broke into the crypt a few nights ago and stole the bones. Until recently, Father Lucian was the only person in Vallaki who knew about the bones, but he recalls mentioning them to Yeska over a month ago to put the fearful boy at ease. After the bones were stolen, Father Lucian asked Yeska if he told anyone else about the bones. The boy nodded but wouldn't divulge a name.
 
-The culprit is Milivoj, whom Father Lucian correctly suspects. But the priest has been reluctant to confront Milivoj because the lad is so temperamental. Father Lucian has not reported the theft for fear of the distress that the news might cause, and he doesn't want to ruin the burgomaster's festival. If the party includes a good-aligned cleric or paladin, Father Lucian mentions the theft in the hope that the characters can provide assistance.
+The culprit is [[Milivoj]], whom Father Lucian correctly suspects. But the priest has been reluctant to confront [[Milivoj]] because the lad is so temperamental. Father Lucian has not reported the theft for fear of the distress that the news might cause, and he doesn't want to ruin the burgomaster's festival. If the party includes a good-aligned cleric or paladin, Father Lucian mentions the theft in the hope that the characters can provide assistance.
 
-St. Andral's crypt is a 10-foot-square, 5-foot high chamber beneath the chapel. To reach the crypt, Milivoj used his shovel to pry up the chapel floorboards. (The boards have since been replaced.) If one of the characters confronts Milivoj and succeeds on a DC 10 Charisma (Intimidation) check, he admits that Yeska told him about the bones. He also admits to passing along the information to Henrik van der Voort, the local coffin maker (area N6), and to stealing the bones for Henrik in return for money to help feed his younger sisters and brothers.
+St. Andral's crypt is a 10-foot-square, 5-foot high chamber beneath the chapel. To reach the crypt, [[Milivoj]] used his shovel to pry up the chapel floorboards. (The boards have since been replaced.) If one of the characters confronts [[Milivoj]] and succeeds on a DC 10 Charisma (Intimidation) check, he admits that Yeska told him about the bones. He also admits to passing along the information to Henrik van der Voort, the local coffin maker (area N6), and to stealing the bones for Henrik in return for money to help feed his younger sisters and brothers.
 
 The theft of the bones has left the church vulnerable to attack by Strahd's minions (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). If the bones are returned to their resting place, St. Andral's church once again becomes hallowed ground, as though the building was protected by a hallow spell.
 
@@ -5171,7 +5171,7 @@ Henrik van der Voort (LE male human commoner) is a mediocre carpenter and a trou
 ![img-52.jpeg](img-52.jpeg)
 
 HENRIK VAN DER VOORT
-The vampires plan to attack St. Andral's church (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). When Henrik learned about the sacred bones buried under the church, the vampire spawn ordered him to steal the bones, which Henrik paid Milivoj the gravedigger (see area N1) to do.
+The vampires plan to attack St. Andral's church (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). When Henrik learned about the sacred bones buried under the church, the vampire spawn ordered him to steal the bones, which Henrik paid [[Milivoj]] the gravedigger (see area N1) to do.
 
 Every window of Henrik's shop is a latticework of iron fitted with squares of frosted glass and locked from the inside. The outside doors of the shop are barred shut from within. If the characters knock on one of them, Henrik shouts, "We're closed! Go away!" without opening the door. If the characters accuse Henrik of stealing the bones of St. Andral, he shouts again, "Go away! Leave me alone!"
 

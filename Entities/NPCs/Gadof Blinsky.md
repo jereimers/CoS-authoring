@@ -68,7 +68,7 @@ tags:
 
 ***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
 
-***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by [[Rictavio]], the traveling ringmaster. Blinsky also makes dolls resembling [[Ireena Kolyana]] for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals.
+***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by [[Rictavio]], the traveling ringmaster. Blinsky also makes dolls resembling [[Ireena Kolyana]] for Izek Strazni, and receives a humble stipend to craft decorations for [[Baron Vargas Vallakovich|Baron Vallakovich]]’s weekly festivals.
 
 
 
@@ -89,4 +89,4 @@ tags:
 
 ***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
 
-***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by [[Rictavio]], the traveling ringmaster. Blinsky also makes dolls resembling [[Ireena Kolyana]] for Izek Strazni, and receives a humble stipend to craft decorations for Baron Vallakovich’s weekly festivals.
+***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by [[Rictavio]], the traveling ringmaster. Blinsky also makes dolls resembling [[Ireena Kolyana]] for Izek Strazni, and receives a humble stipend to craft decorations for [[Baron Vargas Vallakovich|Baron Vallakovich]]’s weekly festivals.

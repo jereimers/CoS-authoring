@@ -290,7 +290,7 @@ Unbeknownst to the player, the medallion once belonged to Sergei von Zarovich, t
 
 The player who possesses the *sunrise medallion* should have strong, vivid reasons to believe that it will strengthen or guide them in faith, and that certain signs of the divine will lead them to those in need of salvation and deliverance.
 
-***Developments.*** When the player first approaches St. Andral's Church in [[Arc D - St. Andral's Feast]], the *sunrise medallion* glows and shines in the direction of the church's doors. If the player shows the *sunrise medallion* to Father Donavich or Lucian, they recognize it as a symbol of the Church of the Morninglord and grow warmer and friendlier toward that player.
+***Developments.*** When the player first approaches [[St. Andral's Church]] in [[Arc D - St. Andral's Feast]], the *sunrise medallion* glows and shines in the direction of the church's doors. If the player shows the *sunrise medallion* to Father Donavich or [[Father Lucian Petrovich|Lucian]], they recognize it as a symbol of the Church of the Morninglord and grow warmer and friendlier toward that player.
 ## Harmony—The Stone Crest
 ![[IMG-20251205143120110.png]]
 A player seeking **harmony** begins the campaign with the *stone crest*, a flat, round stone engraved with the image of a three-pointed star. On the nights of the new moon, the star seems to glimmer with emerald light.

@@ -379,7 +379,7 @@
 * Expedited Volenta's escape
 * Gave Volenta a means to escape grapples
 * Added information regarding players who visit the church their first night in Vallaki
-* Clarified Milivoj's age
+* Clarified [[Milivoj]]'s age
 
 [[Arc E - The Missing Vistana]]
 * Relettered arc to compensate for removal of [[Arc D - The Tome of Strahd]]
@@ -510,7 +510,7 @@
 # Hotfix 2.0.5.5 (Jan. 18, 2024)
 • Fixed assorted typos & inconsistencies  
 • Clarified the location of the Sunsword and Tome of Strahd in [[Running the Adventure]]  
-• Removed language in [[Arc D - St. Andral's Feast]] indicating Milivoj doesn't come into work on the morning the PCs arrive.  
+• Removed language in [[Arc D - St. Andral's Feast]] indicating [[Milivoj]] doesn't come into work on the morning the PCs arrive.  
 • Gave Rahadin proficiency in Acrobatics, reduced the cost of his ***disarm*** reaction to 1 reaction, and modified Rahadin's **bleeding** status condition to be cured by magical healing  
 • Defined "bloodied" in [[Arc H - The Lost Soul]]  
 • Clarified the duration of the conversation with the gallows speaker in [[Arc H - The Lost Soul]]  
@@ -596,14 +596,14 @@
 * Added an additional paragraph at the end of the *Tome of Strahd*  
 
 **[[Arc D - St. Andral's Feast]]**
-* Added new scenes with Henrik and Milivoj when the players first arrive at St. Andral's Church  
+* Added new scenes with Henrik and [[Milivoj]] when the players first arrive at St. Andral's Church  
 * Added a new lore box detailing the theft of the bones  
-* Changed Milivoj's knowledge of the bones to come from eavesdropping rather than asking Yeska  
+* Changed [[Milivoj]]'s knowledge of the bones to come from eavesdropping rather than asking Yeska  
 * Clarified Ireena generally remains in the church from dusk until dawn  
-* Changed Lucian to accompany the players to Milivoj's home  
+* Changed Lucian to accompany the players to [[Milivoj]]'s home  
 * Clarified that breaking down Henrik's door doesn't wake Volenta up  
 * Clarified how Volenta obtained her noisemaker trap  
-* Added a new post-arc scene with Rahadin, Milivoj, and Henrik  
+* Added a new post-arc scene with Rahadin, [[Milivoj]], and Henrik  
 
 **[[Arc E - The Missing Vistana]]**
 * Reworked Rictavio's timeline to arrive on the morning of the players' arrival in Vallaki  

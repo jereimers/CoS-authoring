@@ -59,7 +59,7 @@ tags:
 
 ***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
 
-***Motivations.*** Izek wants to serve the Baron faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
+***Motivations.*** Izek wants to serve [[Baron Vargas Vallakovich|the Baron]] faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
 
 ***Inspirations.*** When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
 

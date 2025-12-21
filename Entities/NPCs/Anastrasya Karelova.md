@@ -59,7 +59,7 @@ tags:
 
 ***Emotions.*** Anastrasya most often feels calm, amused, satisfied, or intrigued.
 
-***Motivations.*** Anastrasya wants to remove Volenta, Ludmilla, and the players as competitors to Strahd’s affections—by setting them against each other, if at all possible.
+***Motivations.*** Anastrasya wants to remove [[Volenta Popofsky|Volenta]], Ludmilla, and the players as competitors to Strahd’s affections—by setting them against each other, if at all possible.
 
 ***Inspirations.*** When playing Anastrasya, channel Lara Raith (*The Dresden Files*), Margaery Tyrell (*Game of Thrones*), and Irene Adler (*Sherlock Holmes*)
 

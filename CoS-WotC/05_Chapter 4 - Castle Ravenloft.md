@@ -2133,7 +2133,7 @@ Ludmilla Vilisevic wears a soiled white wedding gown, a gold tiara (worth 750 gp
 
 Anastrasya Karelova wears a stained and tattered red wedding gown, a black and crimson silk head scarf sewn with precious jewels (worth 750 gp), and a platinum necklace with a black opal pendant (worth 1,500 gp).
 
-Volenta Popofsky wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull (750 gp), and ten platinum rings set with gemstones (worth 250 gp each).
+[[Volenta Popofsky]] wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull (750 gp), and ten platinum rings set with gemstones (worth 250 gp each).
 
 #### Teleport Destination
 

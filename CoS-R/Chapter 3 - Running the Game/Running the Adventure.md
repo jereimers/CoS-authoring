@@ -93,7 +93,7 @@ Assign Strahd's location in Castle Ravenloft to **K20. Heart of Sorrow**, repres
 ## The Tarokka Reading
 ***The Tome of Strahd.*** The *Tome of Strahd* has been expanded to provide the players with secret information about Strahd's ultimate plan, as well as additional hooks to the Fanes of Barovia and the Amber Temple. (If the players restore his memory and show him the *Tome*, the **lich** Exethanter can interpret Strahd's ciphers and notes at their request.) 
 
-The *Tome* has been intentionally placed in Vallaki to ensure that the players find it (and are intrigued by its mysteries) as early as possible. Because they tie strongly into other quests, Rictavio's wagon (***Seven of Stars—Illusionist***) and the attic of the Blue Water Inn (***Master of Coins—Rogue***) have been removed as possible locations.
+The *Tome* has been intentionally placed in Vallaki to ensure that the players find it (and are intrigued by its mysteries) as early as possible. Because they tie strongly into other quests, Rictavio's wagon (***Seven of Stars—Illusionist***) and the attic of the [[Blue Water Inn]] (***Master of Coins—Rogue***) have been removed as possible locations.
 
 ***The Holy Symbol of Ravenkind.*** The statistics of the *Holy Symbol* have been revised in order to ensure that its utility is not overshadowed by the *Sunsword* once the latter is obtained and to replace its nonstrategic *Hold Vampires* and *Turn Undead* features with tactical, engaging abilities. Its class restrictions for attunement have been removed to ensure that any party can use it—with or without a cleric or paladin.
 

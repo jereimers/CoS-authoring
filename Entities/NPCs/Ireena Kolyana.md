@@ -2,13 +2,13 @@
 type: NPC
 name: NPC Name
 aliases:
-  - Alias One
-  - Alias Two
+  - Ireena
+  - Lady Kolyana
 pronouns: he/him
 race: Human
-class: Wizard
+class: Expert
 age: 18
-gender: male
+gender: female
 creature_type: humanoid
 origin: "[[Location or Region]]"
 home_base: "[[Primary Location]]"
@@ -17,8 +17,6 @@ factions:
   - "[[Faction or Family A]]"
   - "[[Faction or Group B]]"
 arc:
-  - "[[Arc X - Title]]"
-  - "[[Arc Y - Other Arc]]"
 first_appearance_session: 7
 first_appearance_date: 3 Neyavr 735
 status: alive

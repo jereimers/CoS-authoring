@@ -22,7 +22,7 @@ When he answers the door, the players can observe that Kasimir’s [[Arc E - The
 > If asked about his mood, Kasimir claims that he has merely suffered poor visions during his meditations as of late. "Old memories," he adds, wincing slightly. This is a lie; a player who succeeds on a DC 10 Wisdom (Insight) check observes that Kasimir appeared to hesitate for a moment before answering. In truth, Kasimir is depressed because he fears that he will never conquer Mt. Ghakis’s slopes and reach the Amber Temple.
 
 > [!lore]+ **Kasimir, Patrina, and the Amber Temple**
-> More than four hundred years ago, before King Barov von Zarovich II—Strahd’s father—and Rahadin invaded and crushed the dusk elf principality of Othrondil, Kasimir was a scribe in the court of the dusk elf prince Erevan Löwenhart, his uncle. Kasimir’s elder sister, Patrina, was Erevan’s court **mage** and Kasimir’s arcane tutor.
+> More than four hundred years ago, before King Barov von Zarovich II—Strahd’s father—and [[Rahadin]] invaded and crushed the dusk elf principality of Othrondil, Kasimir was a scribe in the court of the dusk elf prince Erevan Löwenhart, his uncle. Kasimir’s elder sister, Patrina, was Erevan’s court **mage** and Kasimir’s arcane tutor.
 >
 > When King Barov’s armies swept into the Forest of Twilight and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family, including their uncle. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage simmered. When Barov died and was succeeded by his son, Strahd, Patrina joined the rebellion against him, determined to drive the invaders out of her homeland.
 >
@@ -58,13 +58,13 @@ When he answers the door, the players can observe that Kasimir’s [[Arc E - The
 >
 > Patrina’s soul, however, lived on. Instead of falling to the Barovian cycle of reincarnation, her spirit was drawn to the phylactery she had crafted mere weeks ago, sealed within the broken hilt of Sergei’s *brightblade*. Without the potion of transformation, however, she was unable to manifest a body, remaining trapped within the demiplane she had forged. 
 >
-> Kasimir collapsed Patrina’s laboratory and buried the Vallakians she had murdered. Determined to protect his sister’s once-sterling legacy, Kasimir told his people a half-truth: that she had become a consort of Strahd’s, and he had slain her to prevent her from becoming a vampire. When Kasimir’s tale reached Strahd’s ears, however, Strahd had no choice but to punish this dusk elf who claimed to have defied him—and sent Rahadin to execute the slaughter of every dusk elf woman and child amidst the encampment that had defied him.
+> Kasimir collapsed Patrina’s laboratory and buried the Vallakians she had murdered. Determined to protect his sister’s once-sterling legacy, Kasimir told his people a half-truth: that she had become a consort of Strahd’s, and he had slain her to prevent her from becoming a vampire. When Kasimir’s tale reached Strahd’s ears, however, Strahd had no choice but to punish this dusk elf who claimed to have defied him—and sent [[Rahadin]] to execute the slaughter of every dusk elf woman and child amidst the encampment that had defied him.
 >
 > Centuries passed. Strahd, craving release from the Mists, returned time after time to the Amber Temple—and soon discovered Exethanter’s lingering presence within its ancient library. Though he did not free Exethanter from Patrina’s bindings, Strahd summoned his spirit many times to discuss the nature of Barovia’s imprisonment and the means by which the land might be freed. Though he initially proved reluctant to assist a bearer of the Vampyr’s dark gift, Exethanter soon agreed to assist Strahd’s "theoretical" research—both because he found the work fascinating, and because he was desperate to escape the stasis that Patrina had left him in, if only for a few days at a time.
 > 
 > More than four hundred years after her death, Patrina felt the Grand Conjunction approaching from her place in the Amber Temple. Having eavesdropped on Strahd’s conversations with Exethanter, she strongly suspected that her best chance to escape her prison was approaching—as well as a golden opportunity to claim Strahd’s power over the Fanes while his attention lay elsewhere.
 >
-> Patrina sent Kasimir a dream: a vision of the Amber Temple, a promise of vengeance against Strahd, and a path to the amber sarcophagus where salvation purportedly lay. She sent him whispers of contrition and shame, as described in <span class="citation">Kasimir Velikov (p. 232)</span>, and vowed that she merely wished to avenge the deaths of her sisters that had perished at Rahadin’s treacherous hands. As proof of her goodwill, Patrina told him of a map case, hidden away in the ruins of Argynvostholt, whose contents would lead him to the Temple’s long-lost location.
+> Patrina sent Kasimir a dream: a vision of the Amber Temple, a promise of vengeance against Strahd, and a path to the amber sarcophagus where salvation purportedly lay. She sent him whispers of contrition and shame, as described in <span class="citation">Kasimir Velikov (p. 232)</span>, and vowed that she merely wished to avenge the deaths of her sisters that had perished at [[Rahadin]]’s treacherous hands. As proof of her goodwill, Patrina told him of a map case, hidden away in the ruins of Argynvostholt, whose contents would lead him to the Temple’s long-lost location.
 >
 > Though Kasimir remained suspicious of Patrina’s motives, Strahd’s vengeance against the village of Barovia disturbed and alarmed him. With his sister’s dream weighing heavily on his mind, Kasimir journeyed to Argynvostholt, where he found Sir Godfrey Gwilym chained amidst the manor’s ruined chapel. 
 > 
@@ -90,7 +90,7 @@ If any player asks him about the Amber Temple or his visit to Argynvostholt, how
 >
 > * ***Fear of Judgment.*** The Amber Temple, to those who are aware of the legend of its existence, is often associated with dark magic and evil powers. Kasimir prefers to keep his interest in the Temple secret to avoid being labeled a dark wizard—or, worse, attracting the attention of unsavory individuals who might crave its power for their own dark designs.
 > * ***Fear of Tarnishing Patrina’s Legacy.*** When Kasimir killed Patrina four centuries ago, he intentionally concealed the truth of her fall from grace in order to preserve her legacy as an intellectual leader of the dusk elves and an indomitable fighter for their freedom. Now, Kasimir dares not reveal the truth of her descent into dark magic, or her associations with the Amber Temple, for fear of tarnishing her legacy forever. 
-> * ***Fear of Shame.*** Kasimir believes that his lie led to the death of "every wife, mother, sister, and daughter" among the dusk elves’ people. Though he would take back his lie in a heartbeat if doing so would bring back those they lost, he knows that doing so is impossible—and, unconsciously, believes that exposing the lie now would render Rahadin’s genocide of his people "all for nothing." Such a revelation, he believes unconsciously, would make their deaths meaningless—and confirm him as the true cause of his people’s slaughter.
+> * ***Fear of Shame.*** Kasimir believes that his lie led to the death of "every wife, mother, sister, and daughter" among the dusk elves’ people. Though he would take back his lie in a heartbeat if doing so would bring back those they lost, he knows that doing so is impossible—and, unconsciously, believes that exposing the lie now would render [[Rahadin]]’s genocide of his people "all for nothing." Such a revelation, he believes unconsciously, would make their deaths meaningless—and confirm him as the true cause of his people’s slaughter.
 > * ***Fear of Guilt.*** Though his first three fears are predominantly responsible for his reluctance to speak truthfully, Kasimir also believes that the task Patrina has given him is his weight alone to bear. Though he knows the slopes of Mt. Ghakis are dangerous—and the Temple itself even moreso—Kasimir is unwilling to place more deaths on his conscience by permitting or inviting the players to accompany him.
 
 As the players work to convince Kasimir to reveal the truth, secretly place a six-sided die (persuasion die) on the table out of the players’ view. Set the die’s starting value as follows:
@@ -136,35 +136,35 @@ As the players make their way from the Vistani encampment to Vallaki or the Old 
 <p>As the northern treeline comes into view, the hunter’s trail splits, the eastern branch meandering further into the woods while the northern branch curves toward the pale thread of the Old Svalich Road in the distance. The air here is cool and quiet, with nothing but the rustling of leaves to fill the silence.</p>
 </div>
 
-## R2a. The Baron’s Revenge
-If [[Baron Vargas Vallakovich]] is alive, Lady Fiona Wachter is the current burgomaster of Vallaki, and the players made no efforts to conceal their travel to the Vistani encampment, a drunken Vargas and six **guards** attempt to corner the players on the road. Add:
+## R2a. [[Baron Vargas Vallakovich|The Baron]]’s Revenge
+If [[Baron Vargas Vallakovich]] is alive, Lady Fiona Wachter is the current burgomaster of Vallaki, and the players made no efforts to conceal their travel to the Vistani encampment, a drunken [[Baron Vargas Vallakovich|Vargas]] and six **guards** attempt to corner the players on the road. Add:
 
 <div class="description">
 <p>The stillness is broken by the crunching of wet mulch beneath boots. Seven mud-stained figures emerge from the eastern trail, their faces dark and stony. Six bear spears and crossbows, their chests decorated with the familiar rusted mail of the Vallakian guard. The seventh, you recognize instantly: [[Baron Vargas Vallakovich]].</p>
-<p>The Baron does not seem to have endured his retirement well. His greasy hair is unkempt, and his clothes are unwashed and haggard. His jowls have grown only looser, and deep, puffy circles mark the flesh beneath his eyes, just above the coarse, messy stubble that lines his jaws and chin. He wears an ill-fitting breastplate, with an unpolished scabbard tied to his hip. Even from a distance, he reeks of sweat and stale wine.</p>
-<p>"There they are," Vargas rasps, his bloodshot eyes twitching. "The treacherous <em>vermin</em>."</p>
+<p>[[Baron Vargas Vallakovich|The Baron]] does not seem to have endured his retirement well. His greasy hair is unkempt, and his clothes are unwashed and haggard. His jowls have grown only looser, and deep, puffy circles mark the flesh beneath his eyes, just above the coarse, messy stubble that lines his jaws and chin. He wears an ill-fitting breastplate, with an unpolished scabbard tied to his hip. Even from a distance, he reeks of sweat and stale wine.</p>
+<p>"There they are," [[Baron Vargas Vallakovich|Vargas]] rasps, his bloodshot eyes twitching. "The treacherous <em>vermin</em>."</p>
 </div>
 
-> [!lore]+ **Vargas’s Revenge**
-> In the wake of Lady Wachter’s rise to power, Vargas Vallakovich has simmered with quiet rage toward those responsible for his ouster. Though he has not thought to blame the players for Lady Wachter’s ascent, that recently changed when two of his still-loyal **guards** learned, from a drunk Nikolai and Karl Wachter, that the players met with Lady Wachter shortly before Izek’s death.
+> [!lore]+ **[[Baron Vargas Vallakovich|Vargas]]’s Revenge**
+> In the wake of Lady Wachter’s rise to power, [[Baron Vargas Vallakovich|Vargas Vallakovich]] has simmered with quiet rage toward those responsible for his ouster. Though he has not thought to blame the players for Lady Wachter’s ascent, that recently changed when two of his still-loyal **guards** learned, from a drunk Nikolai and Karl Wachter, that the players met with Lady Wachter shortly before Izek’s death.
 >
-> To satisfy his need for vengeance, Vargas directed one of his loyal guards to report back to him when the players were sighted approaching the town. Upon receiving the guard’s report, Vargas gathered a half-dozen loyal guards and set off for the Vistani encampment to "punish" the players for their treachery. (The guards, who previously received preferences and favors during Vargas’s rule, have soured at Vallaki’s new burgomaster, who has integrated her own loyalists into the town guard and done away with much of Vargas’s corruption.) 
+> To satisfy his need for vengeance, [[Baron Vargas Vallakovich|Vargas]] directed one of his loyal guards to report back to him when the players were sighted approaching the town. Upon receiving the guard’s report, [[Baron Vargas Vallakovich|Vargas]] gathered a half-dozen loyal guards and set off for the Vistani encampment to "punish" the players for their treachery. (The guards, who previously received preferences and favors during [[Baron Vargas Vallakovich|Vargas]]’s rule, have soured at Vallaki’s new burgomaster, who has integrated her own loyalists into the town guard and done away with much of [[Baron Vargas Vallakovich|Vargas]]’s corruption.) 
 >
-> Unfortunately, none of Vargas’s guards knew quite how to find the Vistani encampment. As a result, his group lost its way rather quickly, circling the muddy hunting trails of the Svalich Woods several times before finally encountering the party.
+> Unfortunately, none of [[Baron Vargas Vallakovich|Vargas]]’s guards knew quite how to find the Vistani encampment. As a result, his group lost its way rather quickly, circling the muddy hunting trails of the Svalich Woods several times before finally encountering the party.
 >
-> Vargas, who is heavily drunk, believes that the players could not have killed Izek without foul play and trickery. As a result, he is convinced that they are a group of cowardly frauds, and that any tales of their heroism or deeds are overblown at best—and flat-out lies at worst.
+> [[Baron Vargas Vallakovich|Vargas]], who is heavily drunk, believes that the players could not have killed Izek without foul play and trickery. As a result, he is convinced that they are a group of cowardly frauds, and that any tales of their heroism or deeds are overblown at best—and flat-out lies at worst.
 
-Vargas is determined to punish and shame the players for their treachery, as well as their "murder" of [[Izek Strazni]]. As the conversation unfolds, he rants that the players have "allied themselves with the Devil" and "brought ruin to the good people of Vallaki." He freely accuses the players of being cowards, poisoners, and usurpers, as well as dabblers in the dark arts. ("The Wachters have always been known to consort with vampires and devils," he sneers. "I suppose it’s no surprise that they would lower themselves to filth such as you.")
+[[Baron Vargas Vallakovich|Vargas]] is determined to punish and shame the players for their treachery, as well as their "murder" of [[Izek Strazni]]. As the conversation unfolds, he rants that the players have "allied themselves with the Devil" and "brought ruin to the good people of Vallaki." He freely accuses the players of being cowards, poisoners, and usurpers, as well as dabblers in the dark arts. ("The Wachters have always been known to consort with vampires and devils," he sneers. "I suppose it’s no surprise that they would lower themselves to filth such as you.")
 
-As the conversation continues, Vargas delivers the players an ultimatum: "Lay down your weapons and witches’ tools," he spits, drunkenly slurring his words, "and face the Baron’s justice."
+As the conversation continues, [[Baron Vargas Vallakovich|Vargas]] delivers the players an ultimatum: "Lay down your weapons and witches’ tools," he spits, drunkenly slurring his words, "and face [[Baron Vargas Vallakovich|the Baron]]’s justice."
 
-The players can convince Vargas and his guards to stand down by making a convincing threat and succeeding on a DC 15 Charisma (Intimidation) check, or by making a good argument and succeeding on a DC 20 Charisma (Persuasion) check. Vargas (use the statistics of a poisoned **noble**) and the guards attack on a failure, or if provoked or attacked.
+The players can convince [[Baron Vargas Vallakovich|Vargas]] and his guards to stand down by making a convincing threat and succeeding on a DC 15 Charisma (Intimidation) check, or by making a good argument and succeeding on a DC 20 Charisma (Persuasion) check. [[Baron Vargas Vallakovich|Vargas]] (use the statistics of a poisoned **noble**) and the guards attack on a failure, or if provoked or attacked.
 ## R2b. The Lord of Barovia
 
 > [!info]+ **The Tyrant**
 > At the beginning of this arc, Strahd’s persona changes from the Gentleman to the Tyrant. See [[Strahd von Zarovich]] for more information about roleplaying the Tyrant.
 ### Strahd’s Descent
-On initiative count 10 of the first round of combat, or shortly after the players convince Vargas and his guards to stand down, Strahd von Zarovich descends upon the crossroads. (If the players don’t encounter Vargas in [[#R2a. The Baron’s Revenge]], Strahd arrives immediately when the players reach the crossroads.) Read:
+On initiative count 10 of the first round of combat, or shortly after the players convince Vargas and his guards to stand down, Strahd von Zarovich descends upon the crossroads. (If the players don’t encounter [[Baron Vargas Vallakovich|Vargas]] in [[#R2a. The Baron’s Revenge]], Strahd arrives immediately when the players reach the crossroads.) Read:
 
 <div class="description">
 <p>Thunder rumbles in the distance, and the sky above begins to churn. Gray clouds darken to an oily black, and a shrill wind howls through the trees.</p>
@@ -179,20 +179,20 @@ Give the players a moment to respond. Then continue:
 Give the players another moment to respond. Then, if the players were fighting Vargas and his guards, add:
 
 <div class="description">
-<p>The swarm descends upon the Baron and his remaining guards, the bats’ tiny claws and teeth biting, ripping, tearing. Terrified, agonized screams ring out through the air as the black cloud turns partially red, the dying Vallakians staining the swarm’s fangs a bloody scarlet. Within seconds, nothing but bones and a few shreds of fabric lie upon the bloodstained earth</p>
+<p>The swarm descends upon [[Baron Vargas Vallakovich|the Baron]] and his remaining guards, the bats’ tiny claws and teeth biting, ripping, tearing. Terrified, agonized screams ring out through the air as the black cloud turns partially red, the dying Vallakians staining the swarm’s fangs a bloody scarlet. Within seconds, nothing but bones and a few shreds of fabric lie upon the bloodstained earth</p>
 </div>
 
-Alternatively, if the players successfully convinced Vargas and his guards to stand down, read:
+Alternatively, if the players successfully convinced [[Baron Vargas Vallakovich|Vargas]] and his guards to stand down, read:
 
 <div class="description">
-<p>The Baron shrieks in fear, stumbling back and falling onto his rear as the swarms descend to the muddy earth below. With heavy, labored breaths, he and his guards turn tail and run, scrambling for the treeline as fast as their legs can take them.</p>
+<p>[[Baron Vargas Vallakovich|The Baron]] shrieks in fear, stumbling back and falling onto his rear as the swarms descend to the muddy earth below. With heavy, labored breaths, he and his guards turn tail and run, scrambling for the treeline as fast as their legs can take them.</p>
 </div>
 
-Whether Vargas is present or not, and whether he dies or flees, continue:^[Dialogue and scene inspired by *Shadows of the Vampire #4* by Jim Zub, Nelson Daniel, Glauber Matos, Joana Lafuente, and Neil Uyetake (IDW Publishing, Aug. 2016).]
+Whether [[Baron Vargas Vallakovich|Vargas]] is present or not, and whether he dies or flees, continue:^[Dialogue and scene inspired by *Shadows of the Vampire #4* by Jim Zub, Nelson Daniel, Glauber Matos, Joana Lafuente, and Neil Uyetake (IDW Publishing, Aug. 2016).]
 
 <div class="description">
 <p>The black cloud churns and swirls, the swarm slowly coalescing until a single silhouette takes shape in its depths. Red eyes glint from the darkness, even as the shadows gather to form two gleaming pauldrons across the silhouette’s shoulders, clad with a thick fur mantle, a rich crimson tunic, and a midnight-blue cloak that whips wildly in the frenzied wind.</p>
-<p>"Clearly, Rahadin’s prowess was less than sufficient to deal with your insolence," the silhouette growls. "Thus, I shall no longer underestimate you."</p>
+<p>"Clearly, [[Rahadin]]’s prowess was less than sufficient to deal with your insolence," the silhouette growls. "Thus, I shall no longer underestimate you."</p>
 <p>He is tall and gaunt, with pale skin and a tall widow’s peak. A polished longsword rests ensheathed at his side, his long, elegant claws draped carefully across its hilt. His dark expression seems carved from stone itself, and as his crimson gaze falls across you, the temperature of the clearing seems to plummet to an icy chill.</p>
 <p>"When last we met, I informed you that I could be a gracious host—but a far less gracious enemy." His frown cuts the corners of his mouth like a knife, his dark brows furrowing his forehead into a deep, cold scowl. "It appears, however, that my words failed to take root. Allow me, then, to reintroduce myself.</p>
 <p>"I am Strahd—lord of Barovia, and master of Ravenloft." His claws tighten around the hilt of his sword, and his eyes burn like fiery coals. "You have stolen items that are <em>not</em> yours to possess. Though you shall wish otherwise, you now have my <em>full and complete attention.</em>"</p>
@@ -243,7 +243,7 @@ Strahd is willing to accept any of the following penalties, as well as any other
 
 * **Blood.** Using his longsword, Strahd executes a member of the party (excepting Ireena), an NPC who helped the players invade Ravenloft, or an NPC who directly benefited from the players’ invasion of Ravenloft. (Strahd won’t accept the sacrifice of any other character, or use any other means to carry out a chosen victim’s execution.) If the chosen sacrifice isn’t present at the crossroads, Strahd finds and executes them after departing.
 * **Gold.** Strahd takes a non-consumable magic item of Rare or greater value from the party, such as the *Holy Symbol of Ravenkind* or Vladimir Horngaard’s *+2 greatsword*. (If no member of the party is currently using or attuned to the item, they must succeed on a DC 19 Charisma (Deception) check to convince Strahd of its worth.)
-* **Fire.** Strahd destroys the Blue Water Inn, the Barovian burgomaster’s mansion, or any other place in Barovia the players call "home." (Strahd destroys the chosen location after departing the crossroads. Players who subsequently visit the chosen location find the aftermath of Strahd’s attack, which has destroyed any structures and wounded any inhabitants.)
+* **Fire.** Strahd destroys the [[Blue Water Inn]], the Barovian burgomaster’s mansion, or any other place in Barovia the players call "home." (Strahd destroys the chosen location after departing the crossroads. Players who subsequently visit the chosen location find the aftermath of Strahd’s attack, which has destroyed any structures and wounded any inhabitants.)
 
 If the players refuse to name a penalty, or if they fail to name penalties of sufficient severity, Strahd names his own penalties from the list above. 
 
@@ -295,7 +295,7 @@ The players can purchase cold-weather clothing from <span class="citation">N5. A
 > (For example, a barbarian with a low Wisdom score who both met Escher and shared significant personal information about themselves in [[Arc O - Dinner with the Devil]] would have a priority of 13 and a cumulative _scrying_ penalty of 7. By contrast, a cleric with a high Wisdom score who met Escher but shared little about themselves with Strahd would have a priority of 2 and a cumulative _scrying_ penalty of 2.)
 > 
 > If the scrying is successful, Strahd can immediately identify the following locations:
-> * ***Vallaki.*** The Blue Water Inn, St. Andral’s church, Wachterhaus, the Baron’s manor, and the Vistani and dusk elf encampment.
+> * ***Vallaki.*** The [[Blue Water Inn]], St. Andral’s church, Wachterhaus, [[Baron Vargas Vallakovich|the Baron]]’s manor, and the Vistani and dusk elf encampment.
 > * ***Krezk.*** The Baron’s cottage, the Shrine of the White Sun, and the Abbey of St. Markovia
 > * ***Barovia.*** The church and the Burgomaster’s manor
 > * ***Svalich Woods.*** Tser Falls, Old Bonegrinder, Lake Zarovich, Lake Baratok, Argynvostholt, the werewolf den, the Wizard of Wines, Yester Hill
@@ -323,8 +323,8 @@ Depending on the players’ resting place, Strahd uses a different strategy or s
 |-----------------|-------------------|
 | <span class="citation">E4. Burgomaster's Mansion (p. 44)</span> | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">E5. Church (p. 45)</span> | Strahd uses [[#The Bat]], followed by [[#The Swarm]], [[#The Visitor]], [[#The Command]], and [[#The Storm]]. |
-| <span class="citation">N1. St. Andral's Church (p. 97)</span> | Strahd uses [[#The Storm]]. |
-| <span class="citation">N2. Blue Water Inn (p. 98)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| <span class="citation">N1. [[St. Andral's Church]] (p. 97)</span> | Strahd uses [[#The Storm]]. |
+| <span class="citation">N2. [[Blue Water Inn]] (p. 98)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">N4. Wachterhaus (p. 110)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">[[Vistani Camp]] (p. 119)</span> | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
@@ -341,7 +341,7 @@ In this strategy, Strahd seeks to leverage the lives of NPCs the players have gr
 
 Strahd might kidnap the following groups of NPCs, or others that the players have grown attached to:
 
-* Milivoj and his two eldest younger siblings: Bogan (twelve years old) and Zondra (ten years old)
+* [[Milivoj]] and his two eldest younger siblings: Bogan (twelve years old) and Zondra (ten years old)
 * Anna, Ilya, and Kala Krezkova
 * Nikolai, Karl & Stella Wachter
 
@@ -613,7 +613,7 @@ At dawn on the first day after the players inform Kasimir that they are ready to
 Once he and the players have reached the Old Svalich Road, in addition to the information in [[#R1. Recruiting Kasimir]], Kasimir is willing to share the following information if the players swear themselves to secrecy and succeed on a DC 10 Charisma (Persuasion) check, succeeding automatically if the players have given him good reason to trust them (e.g., reuniting [[Arabelle]] with her family in [[Arc E - The Missing Vistana]]):
 
 * Four centuries ago, before King Barov II invaded the dusk elf principality of Othrondil, Kasimir was the scribe of Prince Erevan Löwenhart, their uncle, and Patrina his court mage. (Kasimir and Patrina were not direct blood relations of Erevan, who married their aunt, Lorelei.)
-* When King Barov II, aided by the treacherous Rahadin, Prince Erevan’s son, conquered Othrondil, killed Prince Erevan, and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage continued to simmer for decades. 
+* When King Barov II, aided by the treacherous [[Rahadin]], Prince Erevan’s son, conquered Othrondil, killed Prince Erevan, and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage continued to simmer for decades. 
 * When Barov died and was succeeded by his son, Strahd, Patrina joined the rebellion against him, determined to drive the invaders out of her homeland. Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the Vistani as described in <span class="citation">Kasimir Velikov (p. 232)</span>. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
 * For a time after they arrived in Barovia, Kasimir dared to believe Patrina may have made peace with their fate—but it wasn’t long before she began slipping away on odd, secretive errands, often for days at a time. Patrina refused to speak of where she went on these occasions, no matter how hard Kasimir pushed.
 * One night, less than a week after Strahd conquered Barovia, Patrina vanished from the dusk elf encampment. For the next year, Kasimir often sought to find her amidst the settlements and wild places of Barovia—but to no avail. He eventually came to accept that she had died, and joined his people in mourning her.
@@ -622,13 +622,13 @@ Once he and the players have reached the Old Svalich Road, in addition to the in
 * As he wandered amidst the trappings of black magic Patrina had left there, Kasimir began to suspect, with a dawning horror, just what had drawn her attention for the years she had been absent. But it was on the deepest floor of Patrina’s lair that Kasimir found the remnants of her most vile act: the corpses of seven kidnapped and tortured Vallakians, their disemboweled entrails stewing within a cauldron—and Patrina’s notes, written in a royal cipher that only the two of them remembered, that spoke of a potion that would allow its drinker to ascend to lichdom.
 * It was there that Kasimir found Patrina herself—evidently mere minutes away from imbibing the potion that would transform her. Horrified by what he had found, Kasimir demanded Patrina surrender herself and face justice. Patrina feigned contrition—but when she attacked Kasimir with dark magic, Kasimir struck back, weaving the same spells she had taught him long ago.
 * Patrina was by far the more powerful mage—but with much of her magic bound up in the potion of transformation, it was Kasimir who had the advantage. When the battle was done, Patrina’s laboratory lay in ruins—and Patrina herself lay dead on the floor. 
-* Kasimir collapsed Patrina’s laboratory and buried the Vallakians she had murdered. Determined to protect his sister’s once-sterling legacy, Kasimir told his people a half-truth: that she had become a consort of Strahd’s, and he had slain her to prevent her from becoming a vampire. When word of his lie reached Castle Ravenloft, however, Strahd dispatched Rahadin to punish him by killing every woman and girl that remained among the dusk elves.
+* Kasimir collapsed Patrina’s laboratory and buried the Vallakians she had murdered. Determined to protect his sister’s once-sterling legacy, Kasimir told his people a half-truth: that she had become a consort of Strahd’s, and he had slain her to prevent her from becoming a vampire. When word of his lie reached Castle Ravenloft, however, Strahd dispatched [[Rahadin]] to punish him by killing every woman and girl that remained among the dusk elves.
 
 Upon concluding his tale, Kasimir, his hands trembling, gently lowers his hood to reveal his mutilated ears. "He took everything from our people," he says, his voice cracking, "and left me these to remember them by. Now, I shall never forget the blood my lie cost my people—or the pain my pride brought to them."
 
 If the players have sworn themselves to secrecy, Kasimir can also share the following information:
 
-* Two months ago, shortly after Strahd awoke from his hibernation, Patrina sent Kasimir a cryptic dream: a vision of the Amber Temple, a promise of vengeance against Strahd, and a path to the amber sarcophagus where salvation purportedly lay. She whispered that she felt shame for her crimes, and that she wished merely to avenge the deaths of her sisters that had perished at Rahadin’s treacherous hands. 
+* Two months ago, shortly after Strahd awoke from his hibernation, Patrina sent Kasimir a cryptic dream: a vision of the Amber Temple, a promise of vengeance against Strahd, and a path to the amber sarcophagus where salvation purportedly lay. She whispered that she felt shame for her crimes, and that she wished merely to avenge the deaths of her sisters that had perished at [[Rahadin]]’s treacherous hands. 
 * As proof of her goodwill, Patrina told Kasimir of a map case, hidden away in the ruins of Argynvostholt, whose contents would lead him to the Temple’s long-lost location. Though Kasimir remained suspicious of Patrina’s motives, Strahd’s vengeance against the village of Barovia disturbed and alarmed him. With his sister’s dream weighing heavily on his mind, Kasimir journeyed to Argynvostholt, where he found the map Patrina had told him of. 
 * With Strahd’s darkness rapidly spreading once more across the valley, Kasimir set off for the slopes of Mt. Ghakis to reach Patrina’s promised vengeance. The journey, however, proved to be more than Kasimir could take. The first time, a wayward blizzard turned him back; the second, the demonic gargoyles that guarded the Tsolenka Pass gatehouse drove him to crash amidst a snow bluff in an icy chasm. Kasimir returned to his home in pain and shame, desperate to find a way to reach a goal that lay tantalizingly out of reach—and met the players soon thereafter.
 
@@ -797,7 +797,7 @@ The large hill is Yester Hill, and is recognizable to any player who succeeds on
 <p>You briefly see a flickering silhouette in the snow a hundred feet behind you—but a blink later, it’s gone.</p>
 </div>
 
-The silhouette behind the players is Rahadin, who hopes to follow the players to the Amber Temple in order to claim the power he needs to defeat them. If approached, Rahadin swiftly conceals himself amidst the cliffs overlooking the trail. (Due to the heavy snow, Rahadin can’t be found unless the players follow him off the road.)
+The silhouette behind the players is [[Rahadin]], who hopes to follow the players to the Amber Temple in order to claim the power he needs to defeat them. If approached, [[Rahadin]] swiftly conceals himself amidst the cliffs overlooking the trail. (Due to the heavy snow, [[Rahadin]] can’t be found unless the players follow him off the road.)
 
 The shadow ahead of the players is a broken monument to the roc of Mt. Ghakis, built by the First Folk long ago. If a player approaches the shadow or succeeds on a DC 15 Wisdom (Perception) check, read:
 
@@ -1219,12 +1219,12 @@ A player can make a DC 20 Wisdom (Perception) check to identify the shape. On a 
 <p>The shape is a black-cloaked rider on a charcoal-colored horse. As you watch, it crosses the halfway point of the bridge—then lifts its head slightly in your direction, as though it has noticed your gaze.</p>
 </div>
 
-The rider is Rahadin, though the cloak he wears hides his features from view. Regardless of the players’ response, the rider then returns its attention to the bridge before it, vanishing from sight behind a mountain cliff upon reaching <span class="citation">T9. Eastern Arch (p. 159)</span>.
+The rider is [[Rahadin]], though the cloak he wears hides his features from view. Regardless of the players’ response, the rider then returns its attention to the bridge before it, vanishing from sight behind a mountain cliff upon reaching <span class="citation">T9. Eastern Arch (p. 159)</span>.
 
-> [!abstract]+ **Ambushing Rahadin**
+> [!abstract]+ **Ambushing [[Rahadin]]**
 > If the players indicate an interest in lying in wait and ambushing the rider, Kasimir points out that the road here is far too narrow and bare to easily serve as a hiding place. "More significantly," he adds, "we appear to be on a timeline—should we fail to reach our destination, we may lose one of our number when Zarovich returns tonight." Although he notes his willingness to defer to the players’ decision, Kasimir warns them that further delays may jeopardize their mission.
 >
-> If the players nonetheless attempt to find a place to ambush the rider, all members of the ambush party must make a DC 24 group Dexterity (Stealth) check. On a failure, when he arrives fifty minutes later, Rahadin detects their presence and flees in the direction from whence he came before approaching within two hundred feet. Rahadin also flees if the players attack, fighting only if cornered.
+> If the players nonetheless attempt to find a place to ambush the rider, all members of the ambush party must make a DC 24 group Dexterity (Stealth) check. On a failure, when he arrives fifty minutes later, [[Rahadin]] detects their presence and flees in the direction from whence he came before approaching within two hundred feet. [[Rahadin]] also flees if the players attack, fighting only if cornered.
 ## R4h. The Mountain Crossroad
 As the players continue up the road, read:
 

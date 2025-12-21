@@ -2,8 +2,8 @@
 type: NPC
 name: NPC Name
 aliases:
-  - Alias One
-  - Alias Two
+  - Ismark
+  - Ismark the Lesser
 pronouns: he/him
 race: Human
 class: Wizard

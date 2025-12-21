@@ -16,4 +16,4 @@
 ***Relationships.*** Mother of [[Udo Lukovich]], the man imprisoned by [[Baron Vargas Vallakovich]].
 
 # #session_notes
-Ran to help Fig when they failed their stealth check on 1 Neyavr and acted like they'd gotten hurt. Guided party to St. Andral's Church.
+Ran to help Fig when they failed their stealth check on 1 Neyavr and acted like they'd gotten hurt. Guided party to [[St. Andral's Church]].

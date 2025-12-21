@@ -1,25 +1,25 @@
 ---
 type: NPC
-name: NPC Name
+name: Father Lucian Petrovich
 aliases:
-  - Alias One
-  - Alias Two
+  - Lucian
+  - Father Lucian
+  - Lucian Petrovich
+  - Father Petrovich
 pronouns: he/him
 race: Human
-class: Wizard
-age: 18
+class: Priest
+age:
 gender: male
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin: "[[Town of Vallaki|Vallaki]]"
+home_base: "[[St. Andral's Church]]"
+current_location: "[[St. Andral's Church]]"
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
+  - "[[Church of the Morninglord]]"
 arc:
-  - "[[Arc X - Title]]"
-  - "[[Arc Y - Other Arc]]"
-first_appearance_session: 7
+  - "[[Arc D - St. Andral's Feast]]"
+first_appearance_session: 9
 first_appearance_date: 3 Neyavr 735
 status: alive
 role_in_story: Major NPC
@@ -59,7 +59,7 @@ tags:
 
 ***Emotions.*** Father Petrovich’s most frequent emotions are thoughtfulness, hopefulness, concern, and compassion.
 
-***Motivations.*** Father Petrovich wants to keep Vallaki's spirits up, to keep the church a place of sanctuary and comfort, and to raise Yeska as best as he can.
+***Motivations.*** Father Petrovich wants to keep Vallaki's spirits up, to keep the church a place of sanctuary and comfort, and to raise [[Yeska]] as best as he can.
 
 ***Inspirations.*** When playing Father Petrovich, channel Uncle Iroh (*Avatar: The Last Airbender*), Michael Carpenter and Father Forthill (*The Dresden Files*), and Mr. Rogers (*Mr. Rogers' Neighborhood*).
 
@@ -68,7 +68,7 @@ tags:
 
 ***Morale.*** In a fight, Father Petrovich would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
 
-***Relationships.*** Father Petrovich is a mentor and father figure to the orphan and altar boy Yeska, the employer of the groundskeeper Milivoj, the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
+***Relationships.*** Father Petrovich is a mentor and father figure to the orphan and altar boy [[Yeska]], the employer of the groundskeeper [[Milivoj]], the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
 
 # #statblock 
 <div class="statblock">

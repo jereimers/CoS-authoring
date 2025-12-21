@@ -1,5 +1,86 @@
-# WotC source:
-[[Non-Player Characters]]
+---
+type: NPC
+name: Volenta Popofsky
+aliases:
+  - Volenta
+pronouns: he/him
+race: Undead
+class: Vampire Spawn
+age:
+gender: female
+creature_type: undead
+origin: "[[K. Castle Ravenloft]]"
+home_base: "[[K. Castle Ravenloft]]"
+current_location: "[[Where They Are Now]]"
+factions:
+  - "[[Strahd's Spies]]"
+arc(s):
+  - "[[Arc D - St. Andral's Feast]]"
+first_appearance_session:
+first_appearance_date:
+status: alive
+cr:
+resonance: |
+  One- or two-sentence reminder of how the NPC should feel to the players.
+emotions:
+motivations:
+  - Primary driving goal
+  - Secondary goal or fear
+inspirations:
+  - Name (Source)
+  - Name (Source)
+vocal_notes: |
+  Short description of voice, cadence, physical tics.
+signature_lines:
+  - Favorite line or catchphrase.
+  - Another line you might improv from.
+relationships:
+portrait: IMG-somefile.png
+portrait_credit: Artist name / source
+handouts:
+tags:
+  - npc
+  - cos
+CoS-R_ref:
+WotC_ref:
+---
+
+
+# Volenta Popofsky Profile
+
+## Portrait
+!undefined
+
+## Roleplaying Information
+
+### Resonance
+!undefined
+
+### Emotions
+
+### Motivations
+
+### Inspirations
+
+### Vocal Notes
+
+### Signature Lines
+
+## Character Information
+
+### Persona
+
+### Morale
+
+### Relationships
+
+### Knowledge
+
+# Statblock
+
+# Notes
+
+# Gallery
 # Volenta Popofsky
 **Roleplaying Information**
 ***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.

@@ -4,9 +4,9 @@ In this arc, while Strahd is away from the keep, the players must infiltrate Cas
 
 As they work to enter the castle, they’ll need to avoid the attentions of the **wights** patrolling the castle parapets. Through the main entrance, a team of **gargoyles** lies in wait as the vampire Ludmilla Vilisevic lurks nearby. In the servants’ wing, a pair of **vampire spawn** lurk amidst the darkness, with the castle’s ancient elevator trap not far away. In the king’s apartments above, the vampire Anastrasya Karelova keeps Gertruda under lock and key with the aid of four **wight** guards—and in the treasury nearby, an **invisible stalker** defends Strahd’s most precious riches.
 
-Far above the rest of the castle, Strahd’s **guardian portrait** watches over the silent landing outside the guest suite, while the witches’ coven prepares a noxious brew to create heralds of Strahd’s forthcoming zombie plague.  In the garrisons, an undead army quietly awaits its master’s orders. In the dungeons far below, the vampire **Volenta Popofsky** and her foul **zombies** guard Emil’s place in the castle’s black cells, while, in the catacombs, the *Icon of Dawn's Grace* and *spear of the Huntress* dwell in the crypts of Saint Markovia and King Dostron the Hellborn. 
+Far above the rest of the castle, Strahd’s **guardian portrait** watches over the silent landing outside the guest suite, while the witches’ coven prepares a noxious brew to create heralds of Strahd’s forthcoming zombie plague.  In the garrisons, an undead army quietly awaits its master’s orders. In the dungeons far below, the vampire **[[Volenta Popofsky]]** and her foul **zombies** guard Emil’s place in the castle’s black cells, while, in the catacombs, the *Icon of Dawn's Grace* and *spear of the Huntress* dwell in the crypts of Saint Markovia and King Dostron the Hellborn. 
 
-And in the shadows, Strahd’s chamberlain Rahadin sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
+And in the shadows, Strahd’s chamberlain [[Rahadin]] sits and meditates, preparing himself for his sacrifice on the day of the Grand Conjunction . . . 
 # P1. Preparing for the Heist
 Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner with the Devil]], the players can make any plans and preparations they would like in advance of the heist. As they do, if the players don’t suggest it first, Ezmerelda and [[Ireena]] might make any or all of the following suggestions:
 
@@ -34,7 +34,7 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > > <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. “I never saw what was in this tomb—there was a portcullis blocking the entrance. It was always well-lit, though."
 > > <span class="citation">K86. Strahd’s Tomb (p. 93)</span>. “This was *his* tomb. I still remember opening the coffin when we first marched on it—and finding it empty."
 > > <span class="citation">K87. Guardians (p. 94)</span>. “There was a strange magic curtain blocking the staircase down. I didn’t know if it was helpful or harmful, but I tried to steer clear nonetheless."
-> > <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. 94)</span>. “There was some kind of tomb down here, but I don’t know whose. Rahadin came here often."
+> > <span class="citation">K88. Tomb of King Barov and Queen Ravenovia (p. 94)</span>. “There was some kind of tomb down here, but I don’t know whose. [[Rahadin]] came here often."
 >
 > > [!info]+ **What Van Richten Knows**
 > > If asked, Van Richten can provide a rough boxes-and-lines map of the following areas, with additional commentary:
@@ -71,12 +71,12 @@ Upon returning to their chosen settlement at the conclusion of [[Arc O - Dinner 
 > **Ismark Kolyanovich (Barovia).** Ismark is honored by the players’ request and eager to assist, but reluctant to give Strahd any further reason to punish the villagers of Barovia. Players who inform Ismark that they bear the *Holy Symbol of Ravenkind*, or who provide a robust plan to disguise his movements and identity from Strahd’s spies, can successfully convince Ismark to join them for the heist by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if the players both inform Ismark of the *Holy Symbol of Ravenkind* and provide such a plan.
 > **Father Donavich (Barovia/Vallaki).** Father Donavich sadly informs the players that he “is no great fighter," but promises to help heal any wounds they might sustain in the castle following their return.
 > **Doru (Vallaki).** If the players inform Doru that Gertruda is a prisoner in Castle Ravenloft, Doru immediately agrees to help rescue her. Otherwise, Doru apologetically declines to join them due to his lingering trauma and fear of relapse if he returns to the keep.
-> **Father Lucian Petrovich (Vallaki).** Father Lucian is taken aback by the players' request, but honored by their confidence in him. Nonetheless, he declines to join them, noting that he has an obligation to the people of his congregation to remain in Vallaki for them.
+> **[[Father Lucian Petrovich]] (Vallaki).** [[Father Lucian Petrovich|Father Lucian]] is taken aback by the players' request, but honored by their confidence in him. Nonetheless, he declines to join them, noting that he has an obligation to the people of his congregation to remain in Vallaki for them.
 > **Victor Vallakovich (Vallaki).** Victor is surprised and grateful for the players’ faith in him, but sheepishly informs them that he would prefer to stay in Vallaki with Stella. “If something happens to you all, someone will need to still be here," he insists.
 > **Lady Fiona Wachter (Vallaki).** Lady Wachter is flattered by the players’ request, but informs them, in no unclear terms, that she must remain in Vallaki to care for her people and family. She also reminds them, somewhat sharply, that she has no intention of defying Strahd. “I am glad to assist you where I can," she chides them gently, “but you ask too much of me."
 > **Kasimir Velikov (Vallaki).** Kasimir is surprised by the players’ request, but apologetically informs them that he will not be able to assist them. (If pushed, he reminds them of Strahd’s genocide of his people, and notes quietly that he has no interest in incurring Strahd’s rage again.)
 > **Arrigal & Luvash (Vallaki).** Arrigal and Luvash are surprised by the players’ request, but swiftly decline it. Luvash informs the players that he has no interest in defying Strahd, instead preferring to remain with his daughter. Meanwhile, Arrigal warns the players that he has no intention of putting his life in the line. “I’ve done what I’ve done," he says sharply. “Whatever you do from here is not of my concern."
-> **[[Urwin Martikov]] (Vallaki).** Urwin won’t leave the Blue Water Inn or his family. However, he’s glad to relay a message to Muriel to meet the players at the castle with several **swarms of ravens** that can serve as a makeshift “airlift" into the keep.
+> **[[Urwin Martikov]] (Vallaki).** Urwin won’t leave the [[Blue Water Inn]] or his family. However, he’s glad to relay a message to Muriel to meet the players at the castle with several **swarms of ravens** that can serve as a makeshift “airlift" into the keep.
 > **Muriel Vinshaw (Any).** Muriel is reluctant to venture into Ravenloft due to Davian’s orders and her grief over Elric’s death, though she is more than happy to meet the players with several **swarms of ravens** to assist their efforts to enter the castle. However, a player who promises Muriel an opportunity to obtain justice for Elric and succeeds on a DC 20 Charisma (Persuasion) check can convince her to join the party in the castle as well.
 # P2. The Old Svalich Road
 ## P2a. Approaching the Crossroads
@@ -177,10 +177,10 @@ The players might use any of the following methods to distract the **wights** pa
 > * She isn’t invisible, and instead has the appearance of a **shadow** bearing the silhouette of a slender woman wearing a dress and apron. (Though she can’t speak with the players in this form, Varushka can communicate through simple nods and gestures.)
 > * She gains the following additional reaction: ***Poltergeist’s Shield.*** In response to Varushka or a creature within 5 feet of her being targeted with a melee attack, Varushka adds 2 to the target’s AC against the triggering attack.
 
-> [!abstract]+ **Rahadin's Challenge**
-> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
+> [!abstract]+ **[[Rahadin]]'s Challenge**
+> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, [[Rahadin]] obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
 > 
-> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
+> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, [[Rahadin]] doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, [[Rahadin]] appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
 > * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
 > * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
@@ -188,9 +188,9 @@ The players might use any of the following methods to distract the **wights** pa
 > * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
 > * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
 > 
-> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> If [[Rahadin]] confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing [[Rahadin]]'s ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from [[Rahadin]]'s belt by making an attack against [[Rahadin]]'s AC with disadvantage. On a hit, the pouch is severed if the string tying it to [[Rahadin]]'s belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. [[Rahadin]] also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
 >
-> See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
+> See [[#South Crypts, Third Row]] for more information about [[Rahadin]]'s statistics and appearance.
 
 > [!info]+ **Heist Milestones**
 > Stealing Argynvost's skull completes a story milestone. When the players depart Ravenloft, award each player 4,000 XP. If the players depart Castle Ravenloft after completing one or more of the following additional objectives, award each player:
@@ -296,7 +296,7 @@ Whether Ludmilla successfully steals the symbol or not, she then retreats up <sp
 > Because creatures can take opportunity attacks only against targets they can see, a character blinded by Ludmilla’s *darkness* can’t make opportunity attacks against her while she’s attempting to steal the *Holy Symbol of Ravenkind*.
 
 > [!abstract]+ **Keys to the Dungeons**
-> If the players killed Volenta in [[Arc D - St. Andral's Feast]], Ludmilla holds a ring of keys to all of the cells in the dungeons, as well as the key to Emil’s *silverthorn collar*.
+> If the players killed [[Volenta Popofsky|Volenta]] in [[Arc D - St. Andral's Feast]], Ludmilla holds a ring of keys to all of the cells in the dungeons, as well as the key to Emil’s *silverthorn collar*.
 
 <div class="statblock">
 <h2>Ludmilla Vilisevic, Elementalist</h2>
@@ -600,7 +600,7 @@ A player can find the secret door described in <span class="citation">K27. King�
 > [!info]+ **Shaft Door**
 > Players who find and enter the secret door behind the tapestry exit the castle commons and enter [[#P5. Servants’ Wing]] via [[#Second-Floor Elevator Access]].
 # P5. Servants’ Wing
-This area of the castle, including the servants’ entrance, the servants’ quarters on the first and second floor, the castle elevator shaft, and the servants’ hall, wine cellar, and kitchen in the basement, once served as the main hub of servant activity in the castle. From here, Rahadin or the castle butler oversaw castle operations or dispatched servants to the far corners of the keep, including the royal apartments, the guest suite, or the guards’ garrison.
+This area of the castle, including the servants’ entrance, the servants’ quarters on the first and second floor, the castle elevator shaft, and the servants’ hall, wine cellar, and kitchen in the basement, once served as the main hub of servant activity in the castle. From here, [[Rahadin]] or the castle butler oversaw castle operations or dispatched servants to the far corners of the keep, including the royal apartments, the guest suite, or the guards’ garrison.
 ## P5a. Servants’ Wing, First Floor
 ### Servants’ Entrance
 <span class="citation"><em>This scene takes place in Chapter 4, Area K23.</em></span>
@@ -850,7 +850,7 @@ If asked, Gertruda can share the following information:
 * Just over two weeks ago, she set off down the Old Svalich Road to obtain supplies for Barovia from Vallaki. Fearful that her mother would object, and unwilling to trouble [[Ireena]] and Ismark so soon after their father’s death, she did so alone, slipping out of the house when her mother, Mary, wasn’t looking.
 * Gertruda, however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, Gertruda politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild. 
 * Strahd appeared amused by Gertruda’s courage and invited her to Castle Ravenloft to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, Gertruda reluctantly agreed to accompany him.
-* Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. She’s had few visitors aside from Sasha, whose company she’s been grateful for, and Volenta, whose company she fears. (Although Strahd hasn’t allowed any of his spawn to feed from Gertruda yet, Volenta has taken a sadistic pleasure in chatting about when that day will inevitably arrive.)
+* Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. She’s had few visitors aside from Sasha, whose company she’s been grateful for, and [[Volenta Popofsky|Volenta]], whose company she fears. (Although Strahd hasn’t allowed any of his spawn to feed from Gertruda yet, [[Volenta Popofsky|Volenta]] has taken a sadistic pleasure in chatting about when that day will inevitably arrive.)
 
 Gertruda is surprised that the players met with no resistance from Anastrasya Karelova, the **vampire spawn** that Strahd has assigned to guard her chambers. She informs the players fearfully that she and they must flee “before Anastrasya finds you here."
 #### Anastrasya’s Confrontation
@@ -1145,12 +1145,12 @@ Players who invoke Escher’s former relationship to the village of Barovia and 
 > * **Gertruda.** “She’s in the royal suite, on the third floor. Just head down the south tower stairs—the same ones you came up. Don’t mention my name—Anastrasya is watching her."
 > * **Argynvost’s Skull.** “A dragon skull? I’ve seen one in the ossuary in the larders. The doors are right by the kitchens, down the south tower stairs."
 > * **Emil.** “I don’t know about anyone by that description. The dungeons are at the base of the south tower, though. They’re filthy and flooded, so I try to avoid them."
-> * **The Catacombs.** “The high tower stair used to lead straight down from the chapel, but the Master walled it off. I know Rahadin still goes down there sometimes, though, so there must be another way in."
+> * **The Catacombs.** “The high tower stair used to lead straight down from the chapel, but the Master walled it off. I know [[Rahadin]] still goes down there sometimes, though, so there must be another way in."
 > 
 > Escher can also provide the following information if directly requested:
 > 
 > * **The Witches’ Coven.** Ludmilla is the mistress of a coven of six **Barovian witches**, who perform fell rituals and concoct foul brews on the floor above the guest suite. They’ve recently begun experimenting with and creating strange forms of undead, which Escher has been studiously avoiding. (If asked, Escher can share only that these undead appear as normal zombies, but with smooth, white flesh with crimson veins, and that red mist continually spills from their mouths.)
-> * **Volenta Popofsky.** Volenta enjoys lurking in the torture chamber near the dungeons. (Escher has never seen it, and has no wish to.)
+> * **[[Volenta Popofsky]].** [[Volenta Popofsky|Volenta]] enjoys lurking in the torture chamber near the dungeons. (Escher has never seen it, and has no wish to.)
 > 
 > Escher has little other information to share. He has no knowledge of the castle treasury, the illusions in the [[#Main Entrance]], or the Heart of Sorrow. 
 >
@@ -1219,7 +1219,7 @@ The witches in [[#P9c. Cauldron Room]] emerge and join the fray if they hear the
 This area is largely as described in <span class="citation">K56. Cauldron (p. 72)</span>. However, replace the reference to “green-glowing wisps of steam" in this area’s description with “red-glowing wisps of steam."
 
 > [!lore]+ **The Cauldron**
-> The potion in the cauldron, when imbibed by a **zombie**, transforms it into a **zombie plague spreader**. Due to the enchantments layered into the potion by the witches, a **zombie plague spreader** created in this way is loyal first to Strahd, second to Rahadin, third to Strahd’s consorts, and last to the witches who created it. Unless ordered otherwise, the plague spreader attacks any non-undead on sight.
+> The potion in the cauldron, when imbibed by a **zombie**, transforms it into a **zombie plague spreader**. Due to the enchantments layered into the potion by the witches, a **zombie plague spreader** created in this way is loyal first to Strahd, second to [[Rahadin]], third to Strahd’s consorts, and last to the witches who created it. Unless ordered otherwise, the plague spreader attacks any non-undead on sight.
 
 In addition, replace the seven **Barovian witches** with two **Barovian hexwitches** wearing bone earrings, two **Barovian bogwitches** with brown paint smeared around their eyes, and three **Barovian stormwitches** wearing black leather gloves (see below). Each witch carries a _potion of healing_, a _potion of poison_, and a _potion of poison immunity_.
 
@@ -1267,7 +1267,7 @@ For the next 1 minute, an additional **skeleton** crawls from each non-destroyed
 
 > [!lore]+ The Hall of Bones
 > 
-> Over a century ago, Volenta transformed the mess hall into an elaborate ossuary as an art piece signifying her devotion to Strahd.
+> Over a century ago, [[Volenta Popofsky|Volenta]] transformed the mess hall into an elaborate ossuary as an art piece signifying her devotion to Strahd.
 
 > [!abstract]+ **Storing the Skull**
 > Should the players use it to do so, the extradimensional space within the _chest of holding_ obtained in [[Arc O - Dinner with the Devil#O3c. The Black Carriage|Arc O - Dinner with the Devil]] is large enough to store Argynvost's skull.
@@ -1318,9 +1318,9 @@ This area is largely as described in <span class="citation">K71. Kingsmen Quarte
 ### Chamberlain’s Office
 <span class="citation"><em>This scene takes place in Chapter 4, Area K72.</em></span>
 
-This area is largely as described in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>. However, remove Rahadin and the **shadow demon** from this room.
+This area is largely as described in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>. However, remove [[Rahadin]] and the **shadow demon** from this room.
 
-In addition, a player who investigates Rahadin’s desk finds an unsealed parchment letter sitting upon it. It reads:
+In addition, a player who investigates [[Rahadin]]’s desk finds an unsealed parchment letter sitting upon it. It reads:
 
 <div class="description">
 <p>To my esteemed lord and master,</p>
@@ -1330,7 +1330,7 @@ In addition, a player who investigates Rahadin’s desk finds an unsealed parchm
 <p>It is my one regret that this body is not as yours, and that when my heart shall cease to beat, so too shall my spirit depart my flesh. It is for this reason, however, that I am, and shall forever be, grateful for the opportunity you have granted me to serve you one final time. Though my eyes shall not see the glory of your rise from the ashes, I have seen it in my heart, and that is enough.</p>
 <p>May your reign be great and terrible, and may your throne never end.</p>
 <p>Your eternal and obedient servant,<br>
-Rahadin von Zarovich</p>
+[[Rahadin]] von Zarovich</p>
 </div>
 
 > [!info]+ **The Secret Door**
@@ -1550,13 +1550,13 @@ This area is largely as described in <span class="citation">K74. North Dungeon (
 In addition, modify the description of <span class="citation">K74h. Lost Sword (p. 81)</span> to refer to a glowing mace, rather than a glowing blade. The mace has the same properties as the shortsword, but is not sentient, requires no attunement, and allows its wielder to cast *aura of life* rather than *crusader’s mantle*.
 
 > [!info]+ **The Keys to the Cells**
-> The keys to the cells are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
+> The keys to the cells are carried on a ring held by [[Volenta Popofsky|Volenta]]. (If the players killed [[Volenta Popofsky|Volenta]] in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
 ## P11c. South Dungeon
 <span class="citation"><em>This scene takes place in Chapter 4, Area K75.</em></span>
 
 This area is largely as described in <span class="citation">K75. South Dungeon (p. 81)</span>. However, Emil doesn’t lie to players who tell him that Zuleika sent them, and is surprised, but grateful for their efforts to rescue him. No matter what, Emil doesn’t betray the players to Strahd or Strahd’s minions, and provides his best efforts to assist them in escaping the castle if rescued.
 
-Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by Volenta or, if Volenta has been killed in [[Arc D - St. Andral's Feast]], Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
+Emil, who has three levels of exhaustion, has been locked in his cell for weeks. He wears a *silverthorn collar* around his neck (see below). If asked, he can share that the key to his collar is held by [[Volenta Popofsky|Volenta]] or, if [[Volenta Popofsky|Volenta]] has been killed in [[Arc D - St. Andral's Feast]], Ludmilla. (Emil can share that Ludmilla dwells with her witches’ coven on the highest level of the South Tower, but isn’t sure how to get there from here.)
 
 <div class="statblock">
 <h2>Emil Toranescu</h2>
@@ -1617,13 +1617,13 @@ Emil, who has three levels of exhaustion, has been locked in his cell for weeks.
 > The spells *dispel magic* and *knock* have no effect on the collar.
 
 > [!info]+ **The Keys to the Cells**
-> The keys to the cells, as well as Emil’s collar, are carried on a ring held by Volenta. (If the players killed Volenta in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
+> The keys to the cells, as well as Emil’s collar, are carried on a ring held by [[Volenta Popofsky|Volenta]]. (If the players killed [[Volenta Popofsky|Volenta]] in [[Arc D - St. Andral's Feast]], the ring is instead held by Ludmilla.)
 
-> [!abstract]+ **Milivoj's Prison**
-> If Milivoj was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75c. Empty Cell (p. 81)</span>.
+> [!abstract]+ **[[Milivoj]]'s Prison**
+> If [[Milivoj]] was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75c. Empty Cell (p. 81)</span>.
 
-> [!abstract]+ **Henrik's Prison**
-> If Henrik was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75e. Empty Cell (p. 81)</span>.
+> [!abstract]+ **[[Henrik van der Voort|Henrik]]'s Prison**
+> If [[Henrik van der Voort|Henrik]] was imprisoned in Castle Ravenloft in [[Arc D - St. Andral's Feast]], he is locked in <span class="citation">K75e. Empty Cell (p. 81)</span>.
 ## P11d. Torture Chamber
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K76 & K77.</em></span>
 
@@ -1632,9 +1632,9 @@ This area is largely as described in <span class="citation">K76. Torture Chamber
 > [!info]+ **Climbing the Balcony**
 > A successful DC 10 Strength (Athletics) check is required to climb the edge of the observation balcony.
 
-If the players failed to placate Volenta during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of <span class="citation">K77. Observation Balcony (p. 82)</span>. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
+If the players failed to placate [[Volenta Popofsky|Volenta]] during [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]], the corpse of Anton Konstantinovich has been turned into an additional **zombie** and is seated in the right-side throne of <span class="citation">K77. Observation Balcony (p. 82)</span>. If combat breaks out, or if any non-undead creatures approach within 5 feet of its throne, this **zombie** attacks and pursues the nearest living creatures within the area.
 
-Otherwise, if the players successfully placated Volenta at dinner, Anton Konstaninovich is imprisoned within a rusted, metallic cage hanging above the southwest corner of the chamber. Though he can’t speak due to his missing tongue, Anton attempts to use gestures and grunts to warn the players of the zombies that dwell within the water, and is grateful to players who rescue him.
+Otherwise, if the players successfully placated [[Volenta Popofsky|Volenta]] at dinner, Anton Konstaninovich is imprisoned within a rusted, metallic cage hanging above the southwest corner of the chamber. Though he can’t speak due to his missing tongue, Anton attempts to use gestures and grunts to warn the players of the zombies that dwell within the water, and is grateful to players who rescue him.
 
 > [!info]+ **Torture Devices**
 > This room contains the following torture devices: an iron maiden, a rack, a brazen bull, a breaking wheel, and a scavenger’s daughter.
@@ -1676,15 +1676,15 @@ Otherwise, if the players successfully placated Volenta at dinner, Anton Konstan
 > If a player indicates an interest in breaking themselves free of the iron maiden while trapped inside, warn them that doing so will be highly difficult and will likely cause immense harm to their character whether they succeed or fail. (Players who think of suitably creative or magical ways to escape, of course, can conceivably escape the iron maiden without taking the damage.)
 
 > [!abstract]+ **Rescuing Anton**
-> If the players rescue and manage to communicate with Anton (e.g., via writing), he can share the following information about the stairways leading from [[#P11e. Brazier Room]], which he gleaned from Volenta’s taunts and boasts during his imprisonment:
+> If the players rescue and manage to communicate with Anton (e.g., via writing), he can share the following information about the stairways leading from [[#P11e. Brazier Room]], which he gleaned from [[Volenta Popofsky|Volenta]]’s taunts and boasts during his imprisonment:
 >
-> * The left staircase leads to the office of Rahadin, the castle chamberlain, as well as a “room full of bones" filled with human skeletons and a giant, reptilian skull. (Anton has visited this bone-filled room once before, when Volenta took him there to lovingly coo about her desire to add his skull to one of the piles.)
+> * The left staircase leads to the office of [[Rahadin]], the castle chamberlain, as well as a “room full of bones" filled with human skeletons and a giant, reptilian skull. (Anton has visited this bone-filled room once before, when [[Volenta Popofsky|Volenta]] took him there to lovingly coo about her desire to add his skull to one of the piles.)
 > * The right staircase leads to the king’s apartments, where Anton has heard a female prisoner is being kept.
 > * The central staircase leads to the catacombs and crypts. (Anton can share that bats and vampires dwell there.)
-### Meeting Volenta
-If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], Volenta Popofsky is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who Volenta fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
+### Meeting [[Volenta Popofsky|Volenta]]
+If she is still alive and the players haven’t encountered her yet in the other areas of [[#P11. Dungeons]], [[Volenta Popofsky]] is seated on the left throne on <span class="citation">K77. Observation Balcony (p. 82)</span>, playing with a human skull held in her hand. (The skull belongs to Dezdrelda Konstaninova, Anton’s wife, who [[Volenta Popofsky|Volenta]] fed to the ghouls after her corpse was drained for blood in [[Arc O - Dinner with the Devil]].)
 
-Volenta greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[Arc D - St. Andral's Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
+[[Volenta Popofsky|Volenta]] greets the players with mild surprise and congratulates them on surviving the traps and foes elsewhere in the castle. If the players defeated her or otherwise foiled her plot in [[Arc D - St. Andral's Feast]], she informs them that she’s been relishing the opportunity for a rematch, and directs the **zombies** beneath the water to arise and attack. 
   
 > [!combat]- **Balancing the Torturer** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **mild** combat encounters against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 11% of their total maximum hit points and the second of which will consume approximately 6% of their total maximum hit points (for a total of 17% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
@@ -1692,12 +1692,12 @@ Volenta greets the players with mild surprise and congratulates them on survivin
 > * **Four Players**. Reduce the number of zombies to one. 
 > * **Six Players**. Increase the number of zombies to five.
 
-Volenta joins the zombies in attacking the players on her first turn in combat. In addition, on initiative count 20 of the first round of combat, Volenta kicks over the amphora full of oil on the balcony, causing the oil to seep down to cover the surface of the five-foot-square section of water immediately below. 
+[[Volenta Popofsky|Volenta]] joins the zombies in attacking the players on her first turn in combat. In addition, on initiative count 20 of the first round of combat, [[Volenta Popofsky|Volenta]] kicks over the amphora full of oil on the balcony, causing the oil to seep down to cover the surface of the five-foot-square section of water immediately below. 
 
 On initiative count 20 of each subsequent round, the oil spreads an additional five feet in every direction. If fire damage is dealt to any creature in a section covered with oil, or if any section of oil is otherwise ignited, the entire oil slick ignites, continuing to burn for the next 2 rounds. A creature that starts its turn in the burning oil takes 5 fire damage.
 
 <div class="statblock">
-<h2>Volenta, Alchemical Savant</h2>
+<h2>[[[[Volenta Popofsky]]|Volenta]], Alchemical Savant</h2>
 <em>Medium undead, chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)
@@ -1737,29 +1737,29 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
 <strong>Challenge</strong> 5 (1,800 XP)<br>
 <strong>Proficiency Bonus</strong> +3<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<strong><em>Bloodlust Frenzy.</em></strong> When Volenta is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her Frenzied Spawn form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.
+<p><strong><em>Close Quarters Fighter.</em></strong> [[Volenta Popofsky|Volenta]] doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Regeneration.</em></strong> [[[[Volenta Popofsky|Volenta]] Popofsky|Volenta]] regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If [[Volenta Popofsky|Volenta]] takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong><em>Spider Climb.</em></strong> [[Volenta Popofsky|Volenta]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, [[Volenta Popofsky|Volenta]] takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<strong><em>Bloodlust Frenzy.</em></strong> When [[Volenta Popofsky|Volenta]] is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her Frenzied Spawn form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>thunderstone</em></strong> or <strong><em>froststar</em></strong>.</p>
+<p><strong><em>Multiattack.</em></strong> [[Volenta Popofsky|Volenta]] uses <strong><em>hail of daggers</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>thunderstone</em></strong> or <strong><em>froststar</em></strong>.</p>
 <p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage plus 7 (2d6) poison damage.</p>
-<p><strong><em>Thunderstone (2/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta's next turn.</p>
-<p><strong><em>Froststar (3/day).</em></strong> Volenta throws a crystalline shard at a point she can see within 30 feet. The shard explodes on impact, covering the area with thick, icy frost. Each creature within 5 feet of the point of impact must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, a creature takes 2d6 cold damage and is restrained by ice until the start of Volenta's next turn. On a successful save, a creature takes half the damage and isn't restrained. A restrained creature can use its action to make a <span class="highlight">DC 14 Strength check</span> to break free. A 5-foot-square section of ice has AC 10, 15 hit points, vulnerability to bludgeoning and fire damage, and immunity to cold, poison, and psychic damage.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a <span class="highlight">DC 14 Dexterity saving throw</span> or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
+<p><strong><em>Thunderstone (2/day).</em></strong> [[Volenta Popofsky|Volenta]] hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a <span class="highlight">DC 14 Constitution saving throw</span> or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of [[Volenta Popofsky|Volenta]]'s next turn.</p>
+<p><strong><em>Froststar (3/day).</em></strong> [[Volenta Popofsky|Volenta]] throws a crystalline shard at a point she can see within 30 feet. The shard explodes on impact, covering the area with thick, icy frost. Each creature within 5 feet of the point of impact must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, a creature takes 2d6 cold damage and is restrained by ice until the start of [[Volenta Popofsky|Volenta]]'s next turn. On a successful save, a creature takes half the damage and isn't restrained. A restrained creature can use its action to make a <span class="highlight">DC 14 Strength check</span> to break free. A 5-foot-square section of ice has AC 10, 15 hit points, vulnerability to bludgeoning and fire damage, and immunity to cold, poison, and psychic damage.</p>
+<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> [[Volenta Popofsky|Volenta]] hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a <span class="highlight">DC 14 Dexterity saving throw</span> or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Nimble Escape.</em></strong> Volenta takes the Disengage or Hide action.</p>
+<p><strong><em>Nimble Escape.</em></strong> [[Volenta Popofsky|Volenta]] takes the Disengage or Hide action.</p>
 <h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Final Conflagration.</em></strong> When Volenta is reduced to 0 hit points, she can use her alchemist's firebomb if available, centered on herself. (Any damage taken doesn’t carry over to her second form.)</p>
-<p><strong><em>Acrobatic Escape.</em></strong> When an attack misses Volenta, she can use her reaction to move up to half her speed without provoking opportunity attacks.</p>
-<p><strong><em>Caustic Splash (1/day).</em></strong> When Volenta takes damage from a creature within 5 feet of her, she can use her reaction to splash that creature with caustic chemicals. The creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the creature takes <span class="highlight">14 (4d6) acid damage</span> and is blinded until the end of Volenta's next turn. On a successful save, the creature takes half damage and isn't blinded.</p>
+<p>[[Volenta Popofsky|Volenta]] can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
+<p><strong><em>Final Conflagration.</em></strong> When [[Volenta Popofsky|Volenta]] is reduced to 0 hit points, she can use her alchemist's firebomb if available, centered on herself. (Any damage taken doesn’t carry over to her second form.)</p>
+<p><strong><em>Acrobatic Escape.</em></strong> When an attack misses [[Volenta Popofsky|Volenta]], she can use her reaction to move up to half her speed without provoking opportunity attacks.</p>
+<p><strong><em>Caustic Splash (1/day).</em></strong> When [[Volenta Popofsky|Volenta]] takes damage from a creature within 5 feet of her, she can use her reaction to splash that creature with caustic chemicals. The creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the creature takes <span class="highlight">14 (4d6) acid damage</span> and is blinded until the end of [[Volenta Popofsky|Volenta]]'s next turn. On a successful save, the creature takes half damage and isn't blinded.</p>
 </div>
 <br>
 
 <div class="statblock">
-<h2>Volenta, Frenzied Spawn</h2>
+<h2>[[Volenta Popofsky|Volenta]], Frenzied Spawn</h2>
 <em>Medium undead, chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)
@@ -1798,22 +1798,22 @@ On initiative count 20 of each subsequent round, the oil spreads an additional f
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 6 (2,300 XP)<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
+<p><strong><em>Regeneration.</em></strong> [[Volenta Popofsky|Volenta]] regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If [[Volenta Popofsky|Volenta]] takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
+<p><strong><em>Spider Climb.</em></strong> [[Volenta Popofsky|Volenta]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, [[Volenta Popofsky|Volenta]] takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Blood Frenzy.</em></strong> [[Volenta Popofsky|Volenta]] has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack. If both attacks hit, she can immediately make one additional attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
+<p><strong><em>Multiattack.</em></strong> [[Volenta Popofsky|Volenta]] makes two attacks, only one of which can be a bite attack. If both attacks hit, she can immediately make one additional attack.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by [[Volenta Popofsky|Volenta]], incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and [[Volenta Popofsky|Volenta]] regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, [[Volenta Popofsky|Volenta]] can grapple the target (escape DC 13).</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
-<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.</p>
+<p><strong><em>Leap.</em></strong> [[Volenta Popofsky|Volenta]] moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
+<p><strong><em>Dislocate.</em></strong> [[Volenta Popofsky|Volenta]] dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.</p>
 <h3>Reactions</h3>
-<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature's eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
-<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
-<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.</p>
+<p>[[Volenta Popofsky|Volenta]] can take up to three reactions per round, but only one per turn. If [[Volenta Popofsky|Volenta]] would lose her reactions, she loses one reaction instead.</p>
+<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, [[Volenta Popofsky|Volenta]] spits a wad of blood at the attacking creature's eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
+<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, [[Volenta Popofsky|Volenta]] moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
+<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, [[Volenta Popofsky|Volenta]] uses her <strong><em>leap</em></strong> feature.</p>
 </div>
 
 ## P11e. Brazier Room
@@ -1851,10 +1851,10 @@ Players who investigate the exits from this room can observe the following point
 * A player who investigates <span class="citation">K83. Spiral Stair (p. 85)</span> (leading to <span class="citation">K37. Study (p. 66)</span>) observes a woman’s slipper lying discarded on one of the upper stairs, just before the spiral staircase curves out of sight. A DC 12 Intelligence (Investigation) check suggests that the slipper’s owner was traveling up the staircase, rather than down. (The slipper is Gertruda’s, and was left here by Strahd to lure the players toward her bedchamber.)
 * A player who investigates the door leading toward <span class="citation">K77. Observation Balcony (p. 82)</span> finds a pale, white mask hanging from the handle. Players who previously encountered Anton Konstantinovich in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]] recognize the mask as his.
 
-> [!abstract]+ **Rahadin's Challenge**
-> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
+> [!abstract]+ **[[Rahadin]]'s Challenge**
+> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, [[Rahadin]] obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
 > 
-> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
+> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, [[Rahadin]] doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, [[Rahadin]] appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
 > * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
 > * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
@@ -1862,15 +1862,15 @@ Players who investigate the exits from this room can observe the following point
 > * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
 > * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
 > 
-> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> If [[Rahadin]] confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing [[Rahadin]]'s ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from [[Rahadin]]'s belt by making an attack against [[Rahadin]]'s AC with disadvantage. On a hit, the pouch is severed if the string tying it to [[Rahadin]]'s belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. [[Rahadin]] also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
 >
-> See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
+> See [[#South Crypts, Third Row]] for more information about [[Rahadin]]'s statistics and appearance.
 ## P11f. Western Stair
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K79.</em></span>
 
 This area is largely as described in <span class="citation">K79. Western Stair (p. 84)</span>. However, remove the *glyph of warding*. Instead, a curious, yet fearful **shadow** lurks here.
 
-If the players approach the staircase from <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow flees upward, squeezing through the secret door to <span class="citation">K72. Chamberlain’s Office (p. 79)</span> and concealing itself within one of the drawers of Rahadin’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
+If the players approach the staircase from <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow flees upward, squeezing through the secret door to <span class="citation">K72. Chamberlain’s Office (p. 79)</span> and concealing itself within one of the drawers of [[Rahadin]]’s desk. (The shadow isn’t very good at hiding, allowing part of its ephemeral, shroud-like body to extrude through the drawer’s keyhole.)
 
 If the players enter the staircase via the secret door in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>, the shadow flees downward, concealing itself behind the western **iron golem** in <span class="citation">K78. Brazier Room (p. 82)</span>. While the players remain in <span class="citation">K78. Brazier Room (p. 82)</span>, the shadow amuses itself by pretending to be a player’s shadow. A player with a passive Wisdom (Perception) score of 14 or greater notices that the chosen player has an extra shadow.
 
@@ -1893,10 +1893,10 @@ This area is as described in <span class="citation">K81. Tunnel (p. 84)</span> a
 
 This area is largely as described in <span class="citation">K84. Catacombs (p. 85)</span>, except where denoted otherwise below.
 
-> [!abstract]+ **Rahadin's Challenge**
-> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, Rahadin obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
+> [!abstract]+ **[[Rahadin]]'s Challenge**
+> This arc assumes the players visit the catacombs after completing all other major objectives (i.e., rescuing Gertruda, freeing Emil, and obtaining Argynvost's skull). When they do, [[Rahadin]] obstructs their departure from the catacombs after they visit St. Markovia's crypt, as described in [[#South Crypts, Third Row]].
 > 
-> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, Rahadin doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, Rahadin appears to obstruct their departure the next time they pass through one of the following areas: 
+> Should the players instead visit St. Markovia's crypt before completing one of their other three major objectives, [[Rahadin]] doesn't appear in the catacombs. Instead, once the players move to depart Castle Ravenloft, [[Rahadin]] appears to obstruct their departure the next time they pass through one of the following areas: 
 > 
 > * <span class="citation">K8. Great Entry (p. 55)</span>, if the players are attempting to leave via <span class="citation">K7. Entry (p. 54)</span>,
 > * <span class="citation">K78. Brazier Room (p. 82)</span>, if the players are attempting to leave via the teleportation brazier there,
@@ -1904,9 +1904,9 @@ This area is largely as described in <span class="citation">K84. Catacombs (p. 8
 > * <span class="citation">K46. Parapets (p. 68)</span>, if the players are attempting to leave by that route, and
 > * <span class="citation">K20. Heart of Sorrow (p. 59)</span> otherwise.
 > 
-> If Rahadin confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing Rahadin's ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from Rahadin's belt by making an attack against Rahadin's AC with disadvantage. On a hit, the pouch is severed if the string tying it to Rahadin's belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. Rahadin also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
+> If [[Rahadin]] confronts the players in <span class="citation">K78. Brazier Room (p. 82)</span>, he removes the seven stones set into the brazier's rim and places them into a small leather pouch before they enter the room. He then ties the leather pouch to his belt. If the players notice the stones' disappearance before noticing [[Rahadin]]'s ***screams of the dead***, he emerges from his hiding place behind one of the iron golems and asks, "Looking for these?" A player can attempt to sever the pouch from [[Rahadin]]'s belt by making an attack against [[Rahadin]]'s AC with disadvantage. On a hit, the pouch is severed if the string tying it to [[Rahadin]]'s belt takes at least 1 point of piercing, slashing, fire, acid, necrotic, radiant, or force damage. [[Rahadin]] also automatically drops the pouch if he uses the *amulet of Ravenloft* to pass through a wall, ceiling, or floor of the castle.
 >
-> See [[#South Crypts, Third Row]] for more information about Rahadin's statistics and appearance.
+> See [[#South Crypts, Third Row]] for more information about [[Rahadin]]'s statistics and appearance.
 ## P12a. North Catacombs
 ### North Crypts
 #### North Crypts, First Row
@@ -1914,7 +1914,7 @@ This row of crypts is largely as described in <span class="citation">Crypt 1 (p.
 
 Players who exit <span class="citation">K81. Tunnel (p. 84)</span> via Crypt 1, or who approach the intersection between Crypts 2, 7, and 8 observe a human corpse lying on the stone floor just south of <span class="citation">Crypt 2 (p. 87)</span>. (The corpse is a **zombie. See below for more information.**)
 #### North Crypts, Second Row
-This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> is not present; instead, it is currently worn by Father Lucian in Vallaki.
+This row of crypts is largely as described in <span class="citation">Crypt 7 (p. 87)</span>, <span class="citation">Crypt 8 (p. 87)</span>, <span class="citation">Crypt 9 (p. 87)</span>, <span class="citation">Crypt 10 (p. 87)</span>, and <span class="citation">Crypt 11 (p. 87)</span>. However, Tasha Petrovna’s holy symbol in <span class="citation">Crypt 11 (p. 87)</span> is not present; instead, it is currently worn by [[Father Lucian Petrovich|Father Lucian]] in Vallaki.
 
 In addition, a human corpse lies sprawled across the floor immediately south of <span class="citation">Crypt 2 (p. 87)</span>. If approached, the corpse rises as a **zombie** and attacks.
 
@@ -2019,28 +2019,28 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 >
 > If provided the Abbot’s description, the icon recognizes his appearance as one of the guises Ithuriel once used to walk among mortals on the Material Plane. If informed of the Abbot’s corruption and fall from grace, the icon urges the players to bring it to the Abbey and present it to the Abbot, so that the Abbot can reunite with its untainted divinity and cleanse the corruption that lies upon his spirit.
 
-> [!abstract]+ **Rahadin Attacks**
-> Immediately after the players exit Saint Markovia’s crypt with the *Icon of Dawn’s Grace*, they hear the familiar sound of Rahadin’s ***deathly choir.*** Read:
+> [!abstract]+ **[[Rahadin]] Attacks**
+> Immediately after the players exit Saint Markovia’s crypt with the *Icon of Dawn’s Grace*, they hear the familiar sound of [[Rahadin]]’s ***deathly choir.*** Read:
 >
 > <hr><br>
 > <em>Your ears fill with a hauntingly familiar sound: a cacophony of a thousand voices pleading, suffering, dying, as they swell into a torrential chorus of screams.</em>
 > <br><br><hr>
 > 
-> If the players make no response, Rahadin waits for them to approach the [[#Central Crypts]], then makes his attack at the most advantageous moment. Otherwise, if the players demand for Rahadin to reveal himself, or otherwise visibly prepare for hostilities, Rahadin steps forth from the shadows and bemusedly asks “what gave him away." If informed that his ***deathly chorus*** revealed his location, Rahadin nods thoughtfully, sharing that he’s “never been able to hear the voices himself."
+> If the players make no response, [[Rahadin]] waits for them to approach the [[#Central Crypts]], then makes his attack at the most advantageous moment. Otherwise, if the players demand for [[Rahadin]] to reveal himself, or otherwise visibly prepare for hostilities, [[Rahadin]] steps forth from the shadows and bemusedly asks “what gave him away." If informed that his ***deathly chorus*** revealed his location, [[Rahadin]] nods thoughtfully, sharing that he’s “never been able to hear the voices himself."
 >
-> Rahadin then warns the players that they carry “things that are not theirs to possess," and offers them an opportunity to drop their weapons and surrender, so that they may be imprisoned in the castle dungeons until “the lord of the keep returns." Rahadin coldly adds that defiance or resistance shall result in worse fates than swift acquiescence.
+> [[Rahadin]] then warns the players that they carry “things that are not theirs to possess," and offers them an opportunity to drop their weapons and surrender, so that they may be imprisoned in the castle dungeons until “the lord of the keep returns." [[Rahadin]] coldly adds that defiance or resistance shall result in worse fates than swift acquiescence.
 >
-> If the players refuse to lay down their arms, Rahadin intones, “So be it," and attacks.
+> If the players refuse to lay down their arms, [[Rahadin]] intones, “So be it," and attacks.
 >
-> In his first phase, Rahadin uses guerilla hit-and-run tactics, leveraging his high mobility to attack the players from multiple directions before concealing himself and repeating the process. In his second phase, Rahadin fights with bloodthirsty abandon, but saves a reaction to activate the *amulet of Ravenloft* when reduced to 0 hit points or fewer (see below). When he does so, Rahadin uses the reaction's extra movement to retreat from battle by passing through a nearby wall or floor. (Determined to warn Strahd of the players' exploits, Rahadin isn't willing to die here.)
+> In his first phase, [[Rahadin]] uses guerilla hit-and-run tactics, leveraging his high mobility to attack the players from multiple directions before concealing himself and repeating the process. In his second phase, [[Rahadin]] fights with bloodthirsty abandon, but saves a reaction to activate the *amulet of Ravenloft* when reduced to 0 hit points or fewer (see below). When he does so, [[Rahadin]] uses the reaction's extra movement to retreat from battle by passing through a nearby wall or floor. (Determined to warn Strahd of the players' exploits, [[Rahadin]] isn't willing to die here.)
   
 > [!combat]- **Balancing the Chamberlain** 
 > Due to the phase mechanic, this combat encounter is a series of two consecutive **bloody** combat encounters against a party of five 7th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), the first of which will consume approximately 37% of their total maximum hit points and the second of which will consume approximately 42% of their total maximum hit points (for a total of 79% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * Three Players. Reduce Rahadin’s hit points in each phase to 127. Reduce his first phase’s ***multiattack*** to only one attack, but increase his ***wind strike*** and ***whirling blades*** reactions to 10 (3d6) damage each. Limit his ***punishing strike*** reaction to 2/round, and decrease the damage of his ***psychic scream*** to 7 (2d6) damage. Reduce his second phase’s ***multiattack*** to two attacks and limit ***riposte*** to 2/round. Finally, reduce his ***deathly choir***’s damage to 7 (2d6). 
-> * Four Players. Reduce Rahadin’s hit points in each phase to 154. Limit his first phase’s ***punishing strike*** to 2/round, but increase the damage of his bonus actions to 9 (2d8). Reduce his ***multiattack*** in his second phase to two attacks. 
-> * Six Players. Increase Rahadin’s hit points to 206 in each phase. Increase his ***multiattack*** in his first phase to three attacks, but reduce the damage of his bonus actions to 5 (2d4). Increase his ***multiattack*** in his second phase to four attacks.
+> * Three Players. Reduce [[Rahadin]]’s hit points in each phase to 127. Reduce his first phase’s ***multiattack*** to only one attack, but increase his ***wind strike*** and ***whirling blades*** reactions to 10 (3d6) damage each. Limit his ***punishing strike*** reaction to 2/round, and decrease the damage of his ***psychic scream*** to 7 (2d6) damage. Reduce his second phase’s ***multiattack*** to two attacks and limit ***riposte*** to 2/round. Finally, reduce his ***deathly choir***’s damage to 7 (2d6). 
+> * Four Players. Reduce [[Rahadin]]’s hit points in each phase to 154. Limit his first phase’s ***punishing strike*** to 2/round, but increase the damage of his bonus actions to 9 (2d8). Reduce his ***multiattack*** in his second phase to two attacks. 
+> * Six Players. Increase [[Rahadin]]’s hit points to 206 in each phase. Increase his ***multiattack*** in his first phase to three attacks, but reduce the damage of his bonus actions to 5 (2d4). Increase his ***multiattack*** in his second phase to four attacks.
 <div class="statblock">
-<h2>Rahadin, Castle Chamberlain</h2>
+<h2>[[Rahadin]], Castle Chamberlain</h2>
 <em>Medium humanoid (elf), lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
@@ -2079,37 +2079,37 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <strong>Challenge</strong> 14<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> Rahadin doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Innate Spellcasting.</em></strong> Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
+<p><strong><em>Close Quarters Fighter.</em></strong> [[Rahadin]] doesn't have disadvantage on his ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of [[Rahadin]] that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people [[Rahadin]] has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> [[Rahadin]] has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Innate Spellcasting.</em></strong> [[Rahadin]]'s innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:<br>
 - 3/day: phantom steed<br>
 - 1/day: nondetection</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Murderous Instinct.</em></strong> When Rahadin drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
+<p><strong><em>Mask of the Wild.</em></strong> [[Rahadin]] can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Murderous Instinct.</em></strong> When [[Rahadin]] drops to 0 hit points, he stows his saber and draws his twin scimitars, <em>Thorn</em> and <em>Chain</em>. His statistics are then instantly replaced by the statistics of his second form. His initiative count doesn't change. Excess damage doesn't carry over to his new form, and he doesn’t retain any conditions he had in his previous form.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes two attacks.</p>
-<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and Rahadin can push the target up to 5 feet away. Instead of pushing the target, Rahadin can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of Rahadin's next turn.</p>
+<p><strong><em>Multiattack.</em></strong> [[Rahadin]] makes two attacks.</p>
+<p><strong><em>Saber.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 11 (1d8 + 6) slashing damage, and [[Rahadin]] can push the target up to 5 feet away. Instead of pushing the target, [[Rahadin]] can force it to succeed on a DC 15 Strength saving throw or be knocked prone.</p>
+<p><strong><em>Poisoned Dart.</em></strong> <em>Ranged Weapon Attack:</em> +11 to hit, range 20/60 ft., one target. <em>Hit:</em> 14 (1d4 + 6 plus 2d4) piercing and poison damage, and the target must succeed on a DC 15 Constitution saving throw or be poisoned until the start of [[Rahadin]]'s next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Wind Strike.</em></strong> Rahadin moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
-<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of Rahadin must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Wind Strike.</em></strong> [[Rahadin]] moves up to his speed in a straight line toward an unoccupied space he can see, including through enemy spaces, without provoking opportunity attacks. Each creature within 5 feet of a space he passes through must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
+<p><strong><em>Whirling Blades.</em></strong> Each creature within 10 feet of [[Rahadin]] must make a DC 19 Dexterity saving throw, taking 7 (2d6) slashing damage on a failed save, or half as much damage on a successful one.</p>
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Punishing Strike.</em></strong> When Rahadin is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
-<p><strong><em>Disarm.</em></strong> When an enemy misses Rahadin with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
-<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses Rahadin with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. Rahadin doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
-<p><strong><em>Psychic Scream (1/day).</em></strong> When Rahadin is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of Rahadin must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of Rahadin's next turn.</p>
+<p>[[Rahadin]] can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> [[Rahadin]] can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Punishing Strike.</em></strong> When [[Rahadin]] is hit by a melee or ranged attack, he can use his reaction to move up to his speed toward the attacker and make an attack with his saber. This movement doesn't trigger opportunity attacks.</p>
+<p><strong><em>Disarm.</em></strong> When an enemy misses [[Rahadin]] with a melee attack while wielding a weapon, he can use his reaction to force that enemy to make a DC 19 Strength saving throw, with advantage if the enemy is holding the weapon with two hands. On a failure, the enemy drops the item, which is knocked 10 feet away.</p>
+<p><strong><em>Misty Step (1/round).</em></strong> When an enemy misses [[Rahadin]] with an attack or deals damage to him, he can use his reaction to cast <em>misty step</em>. He can then immediately take the Hide action. [[Rahadin]] doesn't need to see his destination when casting <em>misty step</em> in this way.</p>
+<p><strong><em>Psychic Scream (1/day).</em></strong> When [[Rahadin]] is reduced to 0 hit points, he can use his reaction to cause his deathly choir to release a terrible scream. Each creature within 60 feet of [[Rahadin]] must make a DC 17 Wisdom saving throw, taking 11 (2d10) psychic damage on a failed save or half as much on a success. If a creature fails the saving throw by 5 or more, it is also stunned until the start of [[Rahadin]]'s next turn.</p>
 </div>
 
-> [!info]+ **Rahadin's _Misty Step_**
-> As noted in <span class="citation">Hiding (<em>Player's Handbook</em>, p. 177)</span>, Rahadin cannot hide from a creature unless he is heavily obscured, behind full cover, or lightly obscured by natural phenomena described in his ***mask of the wild*** feature. (Rahadin's ***mask of the wild*** doesn't extend to ordinary shadows or dim lighting.)
+> [!info]+ **[[Rahadin]]'s _Misty Step_**
+> As noted in <span class="citation">Hiding (<em>Player's Handbook</em>, p. 177)</span>, [[Rahadin]] cannot hide from a creature unless he is heavily obscured, behind full cover, or lightly obscured by natural phenomena described in his ***mask of the wild*** feature. ([[Rahadin]]'s ***mask of the wild*** doesn't extend to ordinary shadows or dim lighting.)
 > 
-> If Rahadin successfully hides, but subsequently loses the conditions that made it possible for him to hide (e.g., heavy obscurement or full cover), he is no longer hidden. (For example, if Rahadin uses his *misty step* to teleport around a corner and successfully hides there, but a player then walks around the corner, Rahadin is no longer hidden.)
+> If [[Rahadin]] successfully hides, but subsequently loses the conditions that made it possible for him to hide (e.g., heavy obscurement or full cover), he is no longer hidden. (For example, if [[Rahadin]] uses his *misty step* to teleport around a corner and successfully hides there, but a player then walks around the corner, [[Rahadin]] is no longer hidden.)
 
 <div class="statblock">
-<h2>Rahadin, Kinslayer</h2>
+<h2>[[Rahadin]], Kinslayer</h2>
 <em>Medium humanoid (elf), lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
@@ -2148,23 +2148,23 @@ This row of crypts is largely as described in <span class="citation">Crypt 35 (p
 <strong>Challenge</strong> 15<br>
 <strong>Proficiency Bonus</strong> +5<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 10 feet of [[Rahadin]] that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people [[Rahadin]] has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> [[Rahadin]] has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Mask of the Wild.</em></strong> [[Rahadin]] can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<p><strong><em>Multiattack.</em></strong> [[Rahadin]] makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and [[Rahadin]] can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +11 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage, and [[Rahadin]] can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> [[Rahadin]] forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 7 (2d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.
+<p><strong><em>Deathly Choir.</em></strong> Each creature within 10 feet of [[Rahadin]] that isn't protected by a <em>mind blank</em> spell must succeed on a DC 17 Wisdom saving throw, taking 9 (2d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of [[Rahadin]]'s next turn.</p>
+<p><strong><em>Swift Step.</em></strong> [[Rahadin]] takes the Dash or Disengage action.
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> Rahadin adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> When an enemy misses Rahadin with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
-<p><strong><em>Amulet of Ravenloft (1/day).</em></strong> When Rahadin is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
+<p>[[Rahadin]] can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> [[Rahadin]] can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Parry.</em></strong> [[Rahadin]] adds +5 to his Armor Class against one melee or ranged attack that would hit him or to the result of a failed Dexterity saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
+<p><strong><em>Riposte.</em></strong> When an enemy misses [[Rahadin]] with a melee attack, he can use his reaction to move up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p><strong><em>Amulet of Ravenloft (1/day).</em></strong> When [[Rahadin]] is reduced to 50 hit points or fewer, he can use his reaction to end all effects currently affecting him, and use the <em>Amulet of Ravenloft</em> (see below). If he was reduced to 0 hit points, he drops to 1 hit point instead and suffers an internal injury as described in <span class="citation">Lingering Injuries (Dungeon Master's Guide, p. 272)</span>. He can then move up to his speed without triggering opportunity attacks.</p>
 </div>
 
 > [!item]+ **Amulet of Ravenloft**

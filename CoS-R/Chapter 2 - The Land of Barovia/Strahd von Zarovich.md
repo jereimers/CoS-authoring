@@ -35,7 +35,7 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Old Bonegrinder.*** Strahd is aware of the **night hag** coven’s presence, but has little interest in their affairs.
 
-***Town of Vallaki.*** Strahd has no interest in [[Baron Vargas Vallakovich]], but, through his spies, believes him to be a bumbling fool. He finds Lady Fiona Wachter to be a useful agent and favors her for her family’s history of loyalty, but cares little for her obsession with Vallakian politics. He is aware of the existence of the Keepers of the Feather (though not that the Blue Water Inn serves as their meeting-place), but does not view them as a significant threat. 
+***Town of Vallaki.*** Strahd has no interest in [[Baron Vargas Vallakovich]], but, through his spies, believes him to be a bumbling fool. He finds Lady Fiona Wachter to be a useful agent and favors her for her family’s history of loyalty, but cares little for her obsession with Vallakian politics. He is aware of the existence of the Keepers of the Feather (though not that the [[Blue Water Inn]] serves as their meeting-place), but does not view them as a significant threat. 
 
 ***Vistani Encampment.*** Strahd holds Arrigal as one of his favored spies. However, he pays little mind to the dusk elves—Kasimir especially—and has little interest in their affairs.
 
@@ -53,7 +53,7 @@ Strahd has a complex web of relationships with the denizens of Barovia, many of 
 
 ***Amber Temple.*** Strahd respects Neferon’s dedication to protecting the temple and finds him to be a worthy guardian of the treasures contained within. He has historically had a collegial respect for Exethanter, but, after awakening from his own hibernation, was disappointed by Exethanter’s loss of memory—something Strahd has little interest in restoring.
 
-***Castle Ravenloft.*** Strahd is amused by the efforts of his brides—Ludmilla Vilisevic, Anastrasya Karelova, and Volenta Popfsky—to placate and impress him. He is momentarily entertained by his newest consort, Escher, but has been distracted lately by other, grander designs. He views Rahadin as his most loyal, trusted, and favored servant, but spares little mind to the other staff and occupants of the castle, including Cyrus Belview, Lief Lipsiege, the coven of witches, and his own vampire spawn. By contrast, Beucephalus is his favored “pet” and most valued tool.
+***Castle Ravenloft.*** Strahd is amused by the efforts of his brides—Ludmilla Vilisevic, Anastrasya Karelova, and [[Volenta Popofsky|Volenta]] Popfsky—to placate and impress him. He is momentarily entertained by his newest consort, Escher, but has been distracted lately by other, grander designs. He views [[Rahadin]] as his most loyal, trusted, and favored servant, but spares little mind to the other staff and occupants of the castle, including Cyrus Belview, Lief Lipsiege, the coven of witches, and his own vampire spawn. By contrast, Beucephalus is his favored “pet” and most valued tool.
 # Strahd’s Goals
 Strahd’s primary goal is simple: to free himself and Barovia from the Mists.
 
@@ -69,7 +69,7 @@ The people of Barovia had forgotten why they feared him, and their burgomasters 
 
 That, he knew, must be addressed.
 
-He moved quickly to reclaim the Forest Fane as his own, restoring its bond to the Heart of Sorrow once more. He bade Rahadin to find staff and attendants for Castle Ravenloft, and to ensure that each of the keep’s occupants served their master’s will. And he summoned his brides and spawn to Castle Ravenloft, commanding them to spread his shadow across the valley once more.
+He moved quickly to reclaim the Forest Fane as his own, restoring its bond to the Heart of Sorrow once more. He bade [[Rahadin]] to find staff and attendants for Castle Ravenloft, and to ensure that each of the keep’s occupants served their master’s will. And he summoned his brides and spawn to Castle Ravenloft, commanding them to spread his shadow across the valley once more.
 
 Since then, Strahd has broken the village of Barovia and brought the werewolf pack to heel. He seeks next to break the town of Vallaki and the village of Krezk, to discipline the so-called “Keepers of the Feather,” and to capture the vampire hunter Dr. Rudolph van Richten. 
 
@@ -104,7 +104,7 @@ By consuming the Barovians’ souls, Strahd can also use the energies of his esc
 
 ***The Sacrifice.*** The schemes of the Dark Powers command that a Darklord must always sit upon the throne of Castle Ravenloft. To escape their clutches, Strahd must find a suitable replacement—an individual whose soul is stained with evil—and sacrifice them as his scapegoat, their soul offered to the Dark Powers as Strahd makes his escape. 
 
-Strahd's chamberlain and adoptive brother, Rahadin, has willingly offered himself as a worthy replacement. However, should Strahd find another suitable candidate, he would leap at the opportunity to retain Rahadin's services as a general for his armies.
+Strahd's chamberlain and adoptive brother, [[Rahadin]], has willingly offered himself as a worthy replacement. However, should Strahd find another suitable candidate, he would leap at the opportunity to retain [[Rahadin]]'s services as a general for his armies.
 
 ***Plans Within Plans.*** If the players reconsecrate the Fanes, Strahd quickly devises a backup plan. By becoming the champions of the Fanes, the players will unknowingly have made themselves into conduits for their power, allowing Strahd to access the Fanes’ energies if he can lure the players to Castle Ravenloft. 
 
@@ -112,9 +112,9 @@ He can do this by using the power stored in the Heart of Sorrow to plunge Barovi
 # Strahd’s Allies
 Strahd commands a vast host of beasts, undead, and other minions, which he can direct in a host of plots or schemes. They include:
 
-* ***Rahadin,*** Strahd’s dusk elf chamberlain
+* ***[[Rahadin]],*** Strahd’s dusk elf chamberlain
 * ***Beucephalus,*** Strahd’s **nightmare** steed
-* ***Strahd’s vampiric brides,*** Ludmilla, Anastrasya, and Volenta
+* ***Strahd’s vampiric brides,*** Ludmilla, Anastrasya, and [[Volenta Popofsky|Volenta]]
 * ***Strahd’s vampire spawn,*** including his consort, Escher
 * ***Undead servants,*** including **zombies**, **Strahd zombies**, and **wights**
 * ***Loyal beasts,*** including Barovian bats, rats, wolves, and **dire wolves**

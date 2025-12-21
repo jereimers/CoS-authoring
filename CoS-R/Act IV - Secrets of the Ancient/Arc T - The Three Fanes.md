@@ -210,13 +210,13 @@ The roc is willing to fly the players to any single location in Barovia except C
 >
 > ---
 >
-> Emergency—please come to Blue Water Inn. —Urwin
+> Emergency—please come to [[Blue Water Inn]]. —Urwin
 >
 > ---
 >
 > Once the players have received its message, a raven flies away to alert the other ravens, as well as Urwin, that its message has been delivered.
 > 
-> If spoken to using a *speak with animals* spell, a raven shares that the winery was attacked by a “great evil," and that its flock speaks of a lone survivor who fled to the “home of blue water." (The raven, which didn’t witness the attack personally, is referring to Baba Lysaga and the Blue Water Inn, respectively.)
+> If spoken to using a *speak with animals* spell, a raven shares that the winery was attacked by a “great evil," and that its flock speaks of a lone survivor who fled to the “home of blue water." (The raven, which didn’t witness the attack personally, is referring to Baba Lysaga and the [[Blue Water Inn]], respectively.)
 
 > [!info]+ **Victor’s Plea**
 > Shortly after the players descend the mountain (e.g., as they conclude their investigation of the Wizard of Wines), if the players befriended or assisted him in [[Arc H - The Lost Soul]], one of them receives the following *sending* from [[Victor Vallakovich]]: *I need your help. Lady Wachter has betrayed us, the town has gone mad, and I can’t reach Stella. When will you return?*
@@ -232,7 +232,7 @@ If the players return to <span class="citation">Chapter 12: The Wizard of Wines 
 > [!lore]+ **Baba Lysaga’s Revenge**
 > After learning of the players’ victory in [[Arc J - The Stolen Gem]], the swamp witch Baba Lysaga resolved to punish them for their defiance, and began crafting more **scarecrows** and **strix** to aid in her endeavor. After hearing of the players’ exploits in [[Arc P - Ravenloft Heist]] and observing Argynvost’s beacon following the events of [[Arc Q - A Shining Beacon]], Lysaga put her foul plan into motion.
 >
-> While the players lingered upon Mt. Ghakis, Baba Lysaga rode her creeping hut down the Luna River, to Luna Lake, then rampaged through the Svalich Woods until she reached the Wizard of Wines vineyard. She, along with her freshly crafted scarecrows and strix, assaulted the winery in the dead of night, first plucking Martin and Viggo from their beds, then imprisoning the other Martikovs in silver cages as they fought in vain to rescue the children. Only the teenage Claudiu escaped, carrying the Winery’s sole remaining enchanted gem and fleeing alone through the night sky to Vallaki, where he sought refuge at the Blue Water Inn.
+> While the players lingered upon Mt. Ghakis, Baba Lysaga rode her creeping hut down the Luna River, to Luna Lake, then rampaged through the Svalich Woods until she reached the Wizard of Wines vineyard. She, along with her freshly crafted scarecrows and strix, assaulted the winery in the dead of night, first plucking Martin and Viggo from their beds, then imprisoning the other Martikovs in silver cages as they fought in vain to rescue the children. Only the teenage Claudiu escaped, carrying the Winery’s sole remaining enchanted gem and fleeing alone through the night sky to Vallaki, where he sought refuge at the [[Blue Water Inn]].
 >
 > Now, Baba Lysaga lurks in the depths of Berez, waiting for the players to come rescue their beloved feathered friends—and finally die at her hands.
 
@@ -261,7 +261,7 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 > Vallaki’s guard patrols are largely as described in <span class="citation">Town Gates (p. 95)</span>. However, an additional six **cultists** loyal to Lady Wachter patrol the walls alongside the **guards**.
 
 > [!lore]+ **The Long Arm of Castle Ravenloft**
-> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If Volenta Popofsky, Ludmilla Vilisevic, or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither Volenta, Ludmilla, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
+> Following the players’ exploits in [[Arc Q - A Shining Beacon]], and upon learning of the players’ close relationship to Lady Fiona Wachter following [[Arc F - Lady Wachter's Wish]] and [[Arc H - The Lost Soul]], Strahd sent an emissary from Castle Ravenloft to bring Lady Wachter—and Vallaki—to heel. Hoping to spread fear and despair in advance of the Grand Conjunction, Strahd commanded his emissary to “break the town’s spirit"—by any means necessary. (If [[Volenta Popofsky]], Ludmilla Vilisevic, or Anastrasya Karelova are still alive, Strahd designated one of them as his emissary. Otherwise, he turned his fanatical Vistani **spy** Eliza into a **vampire spawn** and designated her as his emissary instead. If neither [[Volenta Popofsky|Volenta]], Ludmilla, Anastrasya, nor Eliza survive, Strahd instead chose the **vampire spawn** Helga, who is as described in <span class="citation">K32. Maid in Hell (p. 64)</span>.
 >
 > Upon arriving at Wachterhaus, Strahd’s emissary presented Lady Wachter with a signed and sealed proclamation from Castle Ravenloft designating the emissary as Strahd’s official “voice" in Vallaki. A reluctant Lady Wachter invited the emissary into her home and allowed the emissary to place a coffin in <span class="citation">N4q. Storage Room (p. 114)</span>. 
 >
@@ -269,7 +269,7 @@ If the players kill any guards or cultists, the guards and cultists fight to the
 >
 > The following morning, the emissary presented Lady Wachter with a list of edits to issue—and warned her that, although her children were “in a safe place," they would remain so only during Lady Wachter’s “good behavior." Recognizing that the emissary intended her children to serve as hostages, Lady Wachter has obediently followed the emissary’s commands ever since. 
 >
-> Thus far, Lady Wachter has ordered that the players be barred from Vallaki and that posters be placed across town naming them enemies of Vallaki. She has also restricted Vallakians from leaving town, ordered that Father Lucian Petrovich be arrested for “treason," and commanded that the Blue Water Inn be closed for “harboring enemies of Vallaki." If the players befriended him, when the toymaker Gadof Blinsky began selling dolls shaped like the players, Lady Wachter also had Blinsky thrown in the stocks.
+> Thus far, Lady Wachter has ordered that the players be barred from Vallaki and that posters be placed across town naming them enemies of Vallaki. She has also restricted Vallakians from leaving town, ordered that [[Father Lucian Petrovich]] be arrested for “treason," and commanded that the [[Blue Water Inn]] be closed for “harboring enemies of Vallaki." If the players befriended him, when the toymaker Gadof Blinsky began selling dolls shaped like the players, Lady Wachter also had Blinsky thrown in the stocks.
 >
 > Rumors speak of a group of Vallakian guards who visited Wachterhaus to speak out against Lady Wachter’s new edicts—and who vanished, presumed to be dead or spirited away to Castle Ravenloft. It’s also common knowledge that swarms of bats now sleep somewhere in Vallaki, flying out into the streets to spy for the Burgomistress each night. As such, although some Vallakians chafe under the new regime, none dare stand up to it.
 
@@ -298,37 +298,37 @@ If the players previously encountered her in [[Arc H - The Lost Soul]], they rec
 > [!abstract]+ **Ruxandra’s Sermon**
 > If the players continue to listen to her sermon, Ruxandra preaches to the crowd that, “as Ezra teaches us, to want is to wound ourselves. When we struggle, we harm only ourselves and those we love. To find peace, we must surrender, opening ourselves to what *is*, rather than what *cannot be*. In dreams, we shall find only bitterness; only through acceptance may we find solace and comfort."
 
-If Milivoj is alive and in Vallaki, add:
+If [[Milivoj]] is alive and in Vallaki, add:
 
 <div class="description">
-<p>A dozen yards away, Milivoj kneels amidst the churchyard, a small pile of weeds beneath his muddy gloves and a brown cloak draped across his shoulders. He glares silently at the woman from afar.</p>
+<p>A dozen yards away, [[Milivoj]] kneels amidst the churchyard, a small pile of weeds beneath his muddy gloves and a brown cloak draped across his shoulders. He glares silently at the woman from afar.</p>
 </div>
 
-If the players make themselves known to him, Milivoj greets them with anxious gratitude. He can share the following information:
+If the players make themselves known to him, [[Milivoj]] greets them with anxious gratitude. He can share the following information:
 
 * Three days ago, Lady Wachter began issuing new edicts, which she claims “bear the authority of Castle Ravenloft."
-* Her first edict was to imprison Father Lucian for “treason" against Vallaki and Castle Ravenloft. (Milivoj doesn’t know where Lucian is being imprisoned.)
-* With Father Lucian imprisoned, the church has closed down, though Milivoj has done his best to maintain the grounds and interior. He’s also invited Yeska to live with his family.
-* Since the church’s closure, a small group of Vallakians have begun using the church’s front steps to preach the religion of Ezra, the Goddess of the Mists. (Milivoj’s mouth twists in distaste at the name. “Father Lucian’s sermons always encouraged us to dream of a brighter future," he spits. “But this ‘Ezra’ seems to just want everyone to sit down and shut up.")
-* Lady Wachter has also issued other edicts. She’s shut down the Blue Water Inn, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Gadof Blinsky) thrown the local toymaker into the stocks. (Milivoj, who has always found Blinsky Toys to be fairly creepy, isn’t sure how he feels about the latter.) Lady Wachter has also put up posters warning of the players and asking that any sightings be reported to Wachterhaus.
+* Her first edict was to imprison [[Father Lucian Petrovich|Father Lucian]] for “treason" against Vallaki and Castle Ravenloft. ([[Milivoj]] doesn’t know where [[Father Lucian Petrovich|Lucian]] is being imprisoned.)
+* With [[Father Lucian Petrovich|Father Lucian]] imprisoned, the church has closed down, though [[Milivoj]] has done his best to maintain the grounds and interior. He’s also invited [[Yeska]] to live with his family.
+* Since the church’s closure, a small group of Vallakians have begun using the church’s front steps to preach the religion of Ezra, the Goddess of the Mists. ([[Milivoj]]’s mouth twists in distaste at the name. “[[Father Lucian Petrovich|Father Lucian]]’s sermons always encouraged us to dream of a brighter future," he spits. “But this ‘Ezra’ seems to just want everyone to sit down and shut up.")
+* Lady Wachter has also issued other edicts. She’s shut down the [[Blue Water Inn]], forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Gadof Blinsky) thrown the local toymaker into the stocks. ([[Milivoj]], who has always found Blinsky Toys to be fairly creepy, isn’t sure how he feels about the latter.) Lady Wachter has also put up posters warning of the players and asking that any sightings be reported to Wachterhaus.
 * Rumor has it that a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts, and that all of them were either killed or sent to Castle Ravenloft. 
 * Every night, bats fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. Nobody knows where they sleep during the day.
 
-Milivoj asks the players to convince Lady Wachter to free Father Lucian from imprisonment—and, he adds darkly, to free him themselves if she refuses. He is grateful for any aid the players are able to promise or offer.
-### The Blue Water Inn
-If the players pass or approach <span class="citation">N2. Blue Water Inn (p. 98)</span>, they find the tavern evidently deserted. A large sign has been hammered into the front door, and reads: “CLOSED BY ORDER OF THE BURGOMISTRESS." (The door is unlocked.)
+[[Milivoj]] asks the players to convince Lady Wachter to free [[Father Lucian Petrovich|Father Lucian]] from imprisonment—and, he adds darkly, to free him themselves if she refuses. He is grateful for any aid the players are able to promise or offer.
+### The [[Blue Water Inn]]
+If the players pass or approach <span class="citation">N2. [[Blue Water Inn]] (p. 98)</span>, they find the tavern evidently deserted. A large sign has been hammered into the front door, and reads: “CLOSED BY ORDER OF THE BURGOMISTRESS." (The door is unlocked.)
 
 If the players enter the inn during the day, they find <span class="citation">N2c. Taproom (p. 100)</span> and <span class="citation">N2e. Kitchen (p. 101)</span> empty, but hear Danika’s voice drifting across <span class="citation">N2j. Great Balcony (p. 102)</span>, originating from <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
 
 A player who succeeds on a DC 10 Wisdom (Perception) check overhears Danika saying: “—know you want to go outside, but I need you to stay out of trouble right now, and that means staying inside. Okay?" A moment later, Brom and Bray’s voices murmur something unintelligible, and Danika replies: “I knew I could count on you to understand. Now play quietly, okay?" She then exits <span class="citation">N2o. Boys’ Bedroom (p. 102)</span>.
 
-> [!info]+ **Yeska’s Second Home**
-> If Milivoj is dead or imprisoned in Castle Ravenloft, Yeska is a guest at the Blue Water Inn, and has received a cot in <span class="citation">N2o. Boys’ Bedroom (p. 102)</span> while he waits and hopes for Father Lucian to be set free. If the players speak with him, he asks that they “bring Father Lucian back" while fighting back tears.
+> [!info]+ **[[Yeska]]’s Second Home**
+> If [[Milivoj]] is dead or imprisoned in Castle Ravenloft, [[Yeska]] is a guest at the [[Blue Water Inn]], and has received a cot in <span class="citation">N2o. Boys’ Bedroom (p. 102)</span> while he waits and hopes for [[Father Lucian Petrovich|Father Lucian]] to be set free. If the players speak with him, he asks that they “bring [[Father Lucian Petrovich|Father Lucian]] back" while fighting back tears.
 
 ***Speaking to Danika.*** Danika is grateful to see the players, and insists on preparing them hot tea and reheated potato soup in the kitchen. Though she hopes to learn of the players’ recent exploits, she can also share the following information if asked:
 
 * Urwin is currently away from the inn, gathering information from a flock of ravens passing through the eastern woods. He should return within the hour. 
-* The Blue Water Inn is currently closed, by order of Lady Wachter for “harboring traitors against Vallaki and Castle Ravenloft." It hasn’t had any customers for two days.
+* The [[Blue Water Inn]] is currently closed, by order of Lady Wachter for “harboring traitors against Vallaki and Castle Ravenloft." It hasn’t had any customers for two days.
 * Three days ago, Lady Wachter began issuing new edicts, which she claims “bear the authority of Castle Ravenloft." In addition to closing the inn, she’s imprisoned the priest of St. Andral’s Church, forbidden most Vallakians from leaving the walls, and (if the players have previously befriended Blinsky) thrown the local toymaker, Gadof Blinsky into the stocks.
 * Two nights ago, a group of Vallakian guards went to Wachterhaus to protest Lady Wachter’s edicts. None returned.
 * Dozens of swarms of bats have taken up residence in Wachterhaus’s basement, swarming out every night to fill the streets of Vallaki, with many hanging from roofs or eavesdropping through windows. The bats are hostile to ravens, forcing Urwin’s raven spies to skirt the town’s walls instead of passing through.
@@ -339,7 +339,7 @@ Danika can also share concerning news regarding the Wizard of Wines winery:
 * Claudiu, Stefenia and Dag’s eldest teenage son, escaped alone, and is staying in <span class="citation">N2n. Private Guest Room (p. 102)</span>. The rest of the Martikov clan was captured and spirited away—presumably to Berez.
 * Claudiu brought with him the Winery’s final enchanted gem, which Urwin and Danika took for safekeeping. (The gem is hidden in the locked chest in <span class="citation">N2h. Ravens’ Loft (p. 101)</span>. If [[Izek Strazni]] previously found the chest in [[Arc G - The Strazni Siblings]], the Martikovs have relocated it to <span class="citation">N2q. Secret Attic (p. 103)</span>.)
 * Urwin’s raven spies have been working to track the Martikovs into Berez. Urwin hopes to have more information when he returns in an hour.
-* Last night, Claudiu tried to sneak out of the Blue Water Inn to fly to Berez. Urwin stopped him, and brought him back to the inn. (Danika and Urwin agree that fifteen-year-old Claudiu is too young and inexperienced to be allowed to take field missions for the Keepers of the Feather, and that Baba Lysaga would surely capture or slaughter him if she found him there.)
+* Last night, Claudiu tried to sneak out of the [[Blue Water Inn]] to fly to Berez. Urwin stopped him, and brought him back to the inn. (Danika and Urwin agree that fifteen-year-old Claudiu is too young and inexperienced to be allowed to take field missions for the Keepers of the Feather, and that Baba Lysaga would surely capture or slaughter him if she found him there.)
 
 > [!abstract]+ **Where’s Muriel?**
 > If the players ask for the location of Muriel Vinshaw, Danika can share that Muriel has been dispatched to the eastern Svalich Wood on an assignment to recruit flocks of ravens to aid the Keepers of the Feather. “Urwin thinks a storm is coming," Danika says softly. “I don’t doubt that he’s right."
@@ -351,7 +351,7 @@ Danika can also share concerning news regarding the Wizard of Wines winery:
 * The roots belonged to an enormous living tree stump, upon which sat a run-down hut. The hut, the birds, and the scarecrows were commanded by a cackling old woman—the witch Baba Lysaga—who oversaw the fight from a flying giant’s skull that she rode through the air.
 * During the attack, Claudiu saw a familiar green light seeping from the hut’s doorway—a light he recognized as belonging to one of the Winery’s stolen enchanted gems. (If asked, Claudiu shares his belief that the stolen gem is hidden somewhere within the hut.)
 * Claudiu escaped with the Winery’s final enchanted gem in the chaos, but all of his family members were captured. “I ran away," he growls, stifling a hiccuping sob as his hands curl into trembling fists. “They were in trouble, and all I could think of was *running away*." (Claudiu doesn’t know where his family was taken, but believes them to be in Berez.)
-* Claudiu has begged Danika and Urwin to allow him to travel to Berez to rescue his family. However, when he attempted to leave in secret last night, Urwin and a **swarm of ravens** met him in the southern Svalich Wood and ordered him to return to the Blue Water Inn. (Frustrated, and loathing himself for his cowardice and passivity, Claudiu obeyed.)
+* Claudiu has begged Danika and Urwin to allow him to travel to Berez to rescue his family. However, when he attempted to leave in secret last night, Urwin and a **swarm of ravens** met him in the southern Svalich Wood and ordered him to return to the [[Blue Water Inn]]. (Frustrated, and loathing himself for his cowardice and passivity, Claudiu obeyed.)
 
 Claudiu demands that the players rescue his family—and, more quietly, asks that they take him with them when they do. “I ran away once," he says fiercely. “I can’t run away again." (If pressed, Claudiu reluctantly admits that he hasn’t been officially inducted into the Keepers of the Feather, that he’s only fifteen years old, and that although his father Dag has been training him in the use of a shortsword and crossbow, he’s yet to master either.)
 
@@ -426,12 +426,12 @@ Urwin is surprised if the players invite him to travel to Berez with them, and a
 >
 > Urwin pleads with the players to share the gem’s location—and thief, if they know its identity. He is shocked to learn that the gem was hidden at the peak of Mt. Ghakis—but begins laughing with a deep, disbelieving chuckle upon learning that it was taken by the roc of Mt. Ghakis. “Madness," he croaks in bewildered delight, wiping a tear from his eye. “Everything else in the world has gone insane. Why not this?"
 ### Vallakovich Manor
-If the players visit <span class="citation">N3. Burgomaster’s Mansion (p. 103)</span>, [[Victor Vallakovich]] greets them at the door and ushers them to <span class="citation">N3t. Victor’s Workroom (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation">N3l. Library (p. 107)</span>, which he has adopted as his own study since his father’s death.)
+If the players visit <span class="citation">N3. Burgomaster’s Mansion (p. 103)</span>, [[Victor Vallakovich]] greets them at the door and ushers them to <span class="citation">N3t. Victor’s Workroom (p. 109)</span> to “talk in private," hissing that “*her* spies could be listening" (referring to Lady Wachter). (If [[Baron Vargas Vallakovich|Vargas Vallakovich]] died in [[Arc R - Trials of the Mountain]], Victor leads the players to <span class="citation">N3l. Library (p. 107)</span>, which he has adopted as his own study since his father’s death.)
 
-> [!abstract]+ **Vargas’s Death**
-> If Vargas Vallakovich died in [[Arc R - Trials of the Mountain]], both Victor and Vargas’s wife, Lydia Petrovna, have struggled to adapt to his death. Although Victor stands to inherit Vargas’s lands and titles when he comes of age—thereby preserving the family’s wealth and status—both Victor and his mother have found it difficult to accustom themselves to a world without Vargas in it. 
+> [!abstract]+ **[[Baron Vargas Vallakovich|Vargas]]’s Death**
+> If [[Baron Vargas Vallakovich|Vargas Vallakovich]] died in [[Arc R - Trials of the Mountain]], both Victor and [[Baron Vargas Vallakovich|Vargas]]’s wife, Lydia Petrovna, have struggled to adapt to his death. Although Victor stands to inherit [[Baron Vargas Vallakovich|Vargas]]’s lands and titles when he comes of age—thereby preserving the family’s wealth and status—both Victor and his mother have found it difficult to accustom themselves to a world without [[Baron Vargas Vallakovich|Vargas]] in it. 
 >
-> Though Victor bore no great love for his father, and despised him in many respects, Vargas was a constant in his life; “without Father," he can share quietly, “this place feels . . . empty." Meanwhile, Lydia—who once loved Vargas, and did her best to love him as he grew ever-more despotic and permissive of Izek’s cruelty—has largely withdrawn to <span class="citation">N3p. Bridal Gown (p. 108)</span>, reflecting upon the man she married and the monster he became.
+> Though Victor bore no great love for his father, and despised him in many respects, [[Baron Vargas Vallakovich|Vargas]] was a constant in his life; “without Father," he can share quietly, “this place feels . . . empty." Meanwhile, Lydia—who once loved [[Baron Vargas Vallakovich|Vargas]], and did her best to love him as he grew ever-more despotic and permissive of Izek’s cruelty—has largely withdrawn to <span class="citation">N3p. Bridal Gown (p. 108)</span>, reflecting upon the man she married and the monster he became.
 
 Victor can share the following information with the players:
 
@@ -1288,7 +1288,7 @@ If rescued, the captured Martikovs, though traumatized and shaken by their impri
 
 If told of the players’ visions in [[#T1c. The Cavern of Lights]], or if the players otherwise share that the three gems must be buried to reconsecrate the Fanes, Davian solemnly shares that the Martikovs’ ancestors—servants of one of the valley’s “old gods"—hid the gems away to “keep them safe." “We knew that one day, we’d be called upon to return them," he adds gruffly. “Didn’t expect it to happen in my lifetime, but a man doesn’t choose when the gods call his name." (Davian knows that, without the gems, the Wizard of Wines can’t keep growing grapes like it currently does. “Still," he adds, if the subject is mentioned, “we always knew this day might come—and we’re more than capable of working the land ourselves, with or without magic.")
 
-Davian and Urwin (if present, or if summoned from or met at the Blue Water Inn) are individually honored to help the players reconsecrate the Swamp Fane by burying the Weaver’s viridian gem at its center. However, both men grow unhappy if told that they must bury the gem together. (If the players share their visions from [[#T1c. The Cavern of Lights]], Davian and Urwin insist that they must have misinterpreted what they saw.)
+Davian and Urwin (if present, or if summoned from or met at the [[Blue Water Inn]]) are individually honored to help the players reconsecrate the Swamp Fane by burying the Weaver’s viridian gem at its center. However, both men grow unhappy if told that they must bury the gem together. (If the players share their visions from [[#T1c. The Cavern of Lights]], Davian and Urwin insist that they must have misinterpreted what they saw.)
 
 > [!abstract]+ **The Bitter Feud**
 Even if the players haven’t yet helped them reconcile, Davian and Urwin won’t refuse to bury the gem at the Swamp Fane if pressed. However, both men continue to snark, grump, and insult each other as they do, and burying the gem has no real or apparent impact while their feud remains. In such a case, once the gem is buried, Davian snorts at the players, loudly and obnoxiously insisting that they misinterpreted the prophecy. (Although Urwin tries to avoid offending the players, he also shares that, “to his irritation," he agrees with his father.)
@@ -1893,8 +1893,8 @@ A player can claim their *boon of the Huntress* by grasping or touching it. If t
 
 ***Milestone.*** Reconsecrating the Forest Fane completes a story milestone. When the players claim the *boon of the Huntress*, award each player 5,500 XP.
 # T5. A Light in the Dark
-> [!info]+ **Where’s Lucian?**
-> After arresting Father Lucian at the command of Strahd’s emissary, Lady Wachter shackled and imprisoned him in <span class="citation">N4t. Cult Headquarters (p. 114)</span>, which is as described in [[Arc H - The Lost Soul#H8. The Ritual]]. (Although Strahd’s emissary would prefer to drink his blood, Lady Wachter has done her best to keep Lucian alive, insisting that she may need to show him in public to “pacify the faithful" and forestall thoughts of revolt.)
+> [!info]+ **Where’s [[Father Lucian Petrovich|Lucian]]?**
+> After arresting [[Father Lucian Petrovich|Father Lucian]] at the command of Strahd’s emissary, Lady Wachter shackled and imprisoned him in <span class="citation">N4t. Cult Headquarters (p. 114)</span>, which is as described in [[Arc H - The Lost Soul#H8. The Ritual]]. (Although Strahd’s emissary would prefer to drink his blood, Lady Wachter has done her best to keep [[Father Lucian Petrovich|Lucian]] alive, insisting that she may need to show him in public to “pacify the faithful" and forestall thoughts of revolt.)
 
 > [!info]+ **The Bats**
 > Strahd sent six **swarms of bats** to Wachterhaus to help his emissary corral Lady Wachter and instill fear into Vallaki’s people. Those bats sleep on the ceiling of the warehouse of <span class="citation">N5. Arasek Stockyard (p. 115)</span> during the day, and fill the skies over Vallaki at night.
@@ -1969,7 +1969,7 @@ The first time Lady Wachter sees the *Sunsword*, read:
 > [!abstract]+ **Lady Wachter’s Faith**
 > The players can convince Lady Wachter that “Ezra" is the Dark Powers or some other malevolent entity by succeeding on a DC 20 Charisma (Persuasion) check, made with advantage if they share a tale of Varushka, the Abbot, Sergei, or Burgomaster Lazlo Ulrich, and succeeding automatically if they share tales of three or more. 
 >
-> If she loses her faith in Ezra, Lady Wachter laughs bitterly and asks “what god she can place her faith in, if not the only one she has ever known." If the players encourage her to follow the Morninglord, Lady Wachter seeks Father Lucian’s counsel after freeing him and seeking his forgiveness, and adopts the faith of the Morninglord thereafter. If the players encourage her to follow the Ladies Three, or if they make no suggestion, Lady Wachter retrieves the *stone crest* of the Ladies Three described in [[Arc P - Ravenloft Heist#P2a. Approaching the Crossroads]], seeking faith in the “old gods" that the Vistana Stanimir spoke of.
+> If she loses her faith in Ezra, Lady Wachter laughs bitterly and asks “what god she can place her faith in, if not the only one she has ever known." If the players encourage her to follow the Morninglord, Lady Wachter seeks [[Father Lucian Petrovich|Father Lucian]]’s counsel after freeing him and seeking his forgiveness, and adopts the faith of the Morninglord thereafter. If the players encourage her to follow the Ladies Three, or if they make no suggestion, Lady Wachter retrieves the *stone crest* of the Ladies Three described in [[Arc P - Ravenloft Heist#P2a. Approaching the Crossroads]], seeking faith in the “old gods" that the Vistana Stanimir spoke of.
 >
 > Lady Wachter’s *spirit guardians* spell subsequently takes the following forms, depending on which faith she adopts:
 >
@@ -2029,31 +2029,31 @@ The area within the cloud of fog is heavily obscured. If the players enter the f
 
 > [!info]+ **Fear of Sunlight**
 > The **vampiric mists** that haunt the Mountain Fane fear sunlight, and flee permanently into the Ethereal Plane if they fall into the *Sunsword*’s light.
-### Rahadin’s Vengeance
-When the players enter the center of the circle, if Rahadin is still alive, read:
+### [[Rahadin]]’s Vengeance
+When the players enter the center of the circle, if [[Rahadin]] is still alive, read:
 
 <div class="description">
 <p>A cloaked man sits cross-legged at the circle’s center—but his body is twisted and warped, his ashen skin seeming more shadow than flesh. A line of jagged black spikes grows along his spine, and two skeletal wings of pale, white bone sprout from his shoulder blades. As his eyes slowly open, they glow a bright, sickly yellow that illuminates the fog around him. Above them, three shards of amber stone sit embedded in the flesh of his forehead, glinting eerily in the dim light.</p>
 </div>
 
-After a moment, the players recognize the man as Rahadin, Strahd’s chamberlain.
+After a moment, the players recognize the man as [[Rahadin]], Strahd’s chamberlain.
 
-If the players approach him or otherwise make themselves known, Rahadin stands and greets them coldly, noting that he “expected them to come here, sooner or later." He can share the following information if asked:
+If the players approach him or otherwise make themselves known, [[Rahadin]] stands and greets them coldly, noting that he “expected them to come here, sooner or later." He can share the following information if asked:
 
 * Following his “disgrace" in [[Arc P - Ravenloft Heist]] (i.e., his failure to capture or defeat the players), his “master" was “gracious enough" to permit him a second chance to prove himself.
-* Rahadin realized that, unlike his “lord," Strahd, his flesh was weak—even as an elf, he had _aged_ across the past four centuries, growing old and feeble. He resolved to address his “weakness"—and did so by visiting the Amber Temple, where he claimed the vestiges’ gifts for his own.
+* [[Rahadin]] realized that, unlike his “lord," Strahd, his flesh was weak—even as an elf, he had _aged_ across the past four centuries, growing old and feeble. He resolved to address his “weakness"—and did so by visiting the Amber Temple, where he claimed the vestiges’ gifts for his own.
 
-Rahadin has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
+[[Rahadin]] has little interest in conversation, and attacks the players in self-defense, if the players reveal the sage-green gem of the Seeker, or at another time of his choosing. If he recognizes Lady Wachter, he promises to make her watch the players’ “slow and painful deaths" before executing her as a traitor himself.
 
-> [!combat]+ **Balancing Rahadin's Vengeance** 
+> [!combat]+ **Balancing [[Rahadin]]'s Vengeance** 
 > Due to the phase mechanic, this is a series of consecutive **bloody** combat encounters against a party of five 9th-level players, a CR 2 ally ([[Ireena Kolyana]]), and a CR 4 ally (Ezmerelda d’Avenir), each consuming approximately 51% of their total maximum hit points (for a total of 102% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
-> - _**Three Players.**_ Reduce **Rahadin's** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3.
-> - _**Four Players.**_ Reduce **Rahadin's** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack.
-> - _**Six Players.**_ Increase **Rahadin's** hit points in his first phase to 202 and in his second phase to 264. Increase his ***deathly choir*** in his first phase to 6d6 damage. In his second phase, increase his ***multiattack*** to have two ***tail*** attacks.
+> - _**Three Players.**_ Reduce **[[Rahadin]]'s** hit points in his first phase to 136 and in his second phase to 170. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to only have one ***claw*** attack, and reduce his number of reactions to 3.
+> - _**Four Players.**_ Reduce **[[Rahadin]]'s** hit points in his first phase to 158 and in his second phase to 198. Reduce his ***multiattack*** in his first phase to two attacks. In his second phase, reduce his ***multiattack*** to have no ***tail*** attack.
+> - _**Six Players.**_ Increase **[[Rahadin]]'s** hit points in his first phase to 202 and in his second phase to 264. Increase his ***deathly choir*** in his first phase to 6d6 damage. In his second phase, increase his ***multiattack*** to have two ***tail*** attacks.
 
 <div class="statblock">
-<h2>Rahadin, Amber-Touched</h2>
+<h2>[[Rahadin]], Amber-Touched</h2>
 <em>Medium humanoid (elf), lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
@@ -2093,27 +2093,27 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <strong>Challenge</strong> 19<br>
 <strong>Proficiency Bonus</strong> +6<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Mask of the Wild.</em></strong> Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
-<p><strong><em>Amber Corruption.</em></strong> When Rahadin is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of [[Rahadin]] that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people [[Rahadin]] has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> [[Rahadin]] has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Mask of the Wild.</em></strong> [[Rahadin]] can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+<p><strong><em>Amber Corruption.</em></strong> When [[Rahadin]] is reduced to 0 hit points, his spine sprouts a long, bony tail tipped with a stinger; his fingers grow long, bony claws; his wings double in size; his mouth becomes a fanged maw; and his flesh becomes translucent and clouded with shadow. His statistics are then instantly replaced by those of his second form. His initiative count doesn’t change, excess damage doesn’t carry over, and he retains none of the conditions he had in his previous form.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
-<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
-<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and Rahadin can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
-<p><strong><em>Haunt.</em></strong> Rahadin forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
+<p><strong><em>Multiattack.</em></strong> [[Rahadin]] makes three attacks with his scimitars <strong><em>Thorn</em></strong> and/or <strong><em>Chain</em></strong>. He can replace one attack with his <strong><em>haunt</em></strong> feature.
+<p><strong><em>Thorn.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and [[Rahadin]] can force the target to make a DC 19 Constitution saving throw or bleed for the next 1 minute. (A bleeding target must succeed on a DC 19 Constitution saving throw at the start of each of its turns or take an additional 1d6 slashing damage. On a success or upon receiving magical healing, the target is no longer bleeding.)
+<p><strong><em>Chain.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one target. <em>Hit:</em> 9 (1d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and [[Rahadin]] can force the target to make a DC 19 Constitution saving throw or have its speed reduced to 0 until the end of its next turn. If the target fails by 5 or more, it also falls prone.
+<p><strong><em>Haunt.</em></strong> [[Rahadin]] forces a creature he can see within 30 feet to succeed on a DC 17 Wisdom saving throw or take 14 (4d6) psychic damage and be frightened and deafened by shrieking souls until the start of his next turn.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Deathly Choir.</em></strong> Each creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell must succeed on a DC 18 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of Rahadin's next turn.</p>
-<p><strong><em>Swift Step.</em></strong> Rahadin takes the Dash or Disengage action.</p>
+<p><strong><em>Deathly Choir.</em></strong> Each creature within 20 feet of [[Rahadin]] that isn't protected by a <em>mind blank</em> spell must succeed on a DC 18 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save or half as much damage on a successful one. If a creature fails the saving throw by 5 or more, it is also frightened until the start of [[Rahadin]]'s next turn.</p>
+<p><strong><em>Swift Step.</em></strong> [[Rahadin]] takes the Dash or Disengage action.</p>
 <h3>Reactions</h3>
-<p>Rahadin can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> Rahadin is hit by a melee or ranged attack, fails a Dexterity saving throw, or takes damage from <em>magic missile</em>. <strong>Effect:</strong> Rahadin adds +6 to his Armor Class against that attack or to the result of his saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
-<p><strong><em>Riposte.</em></strong> <strong>Trigger:</strong> An enemy misses Rahadin with a melee attack. <strong>Effect:</strong> Rahadin moves up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
+<p>[[Rahadin]] can take up to three reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> [[Rahadin]] can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Parry.</em></strong> <strong>Trigger:</strong> [[Rahadin]] is hit by a melee or ranged attack, fails a Dexterity saving throw, or takes damage from <em>magic missile</em>. <strong>Effect:</strong> [[Rahadin]] adds +6 to his Armor Class against that attack or to the result of his saving throw, or takes no damage from <em>magic missile</em> this turn. If he causes a melee attack to miss in this way, he can then immediately use an additional reaction, if available, to use his Riposte against the attacker.</p>
+<p><strong><em>Riposte.</em></strong> <strong>Trigger:</strong> An enemy misses [[Rahadin]] with a melee attack. <strong>Effect:</strong> [[Rahadin]] moves up to his speed to an unoccupied space within 5 feet of that enemy without triggering opportunity attacks. He can then immediately make an attack with <strong><em>Thorn</em></strong> or <strong><em>Chain</em></strong> attack against that enemy with advantage.</p>
 </div>
 
 <div class="statblock">
-<h2>Rahadin, the Corrupted</h2>
+<h2>[[Rahadin]], the Corrupted</h2>
 <em>Medium humanoid (elf), lawful evil</em>
 <hr>
 <strong>Armor Class</strong> 18 (studded leather)
@@ -2154,24 +2154,24 @@ Rahadin has little interest in conversation, and attacks the players in self-def
 <strong>Challenge</strong> 19<br>
 <strong>Proficiency Bonus</strong> +6<br>
 <hr>
-<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of Rahadin that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people Rahadin has killed.</p>
-<p><strong><em>Fey Ancestry.</em></strong> Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
-<p><strong><em>Magic Resistance.</em></strong> Rahadin has advantage on saving throws against spells and other magical effects.</p>
-<p><strong><em>Devil’s Sight.</em></strong> Magical darkness doesn’t impede Rahadin’s darkvision.</p>
+<p><strong><em>Screams of the Dead.</em></strong> Any creature within 20 feet of [[Rahadin]] that isn't protected by a <em>mind blank</em> spell hears in its mind the screams of the thousands of people [[Rahadin]] has killed.</p>
+<p><strong><em>Fey Ancestry.</em></strong> [[Rahadin]] has advantage on saving throws against being charmed, and magic can't put him to sleep.</p>
+<p><strong><em>Magic Resistance.</em></strong> [[Rahadin]] has advantage on saving throws against spells and other magical effects.</p>
+<p><strong><em>Devil’s Sight.</em></strong> Magical darkness doesn’t impede [[Rahadin]]’s darkvision.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> Rahadin makes one attack with his tail stinger, one attack with his necrotic slam, and two attacks with his claws.</p>
-<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned until the start of Rahadin’s next turn. While poisoned, the target can’t regain hit points.</p>
+<p><strong><em>Multiattack.</em></strong> [[Rahadin]] makes one attack with his tail stinger, one attack with his necrotic slam, and two attacks with his claws.</p>
+<p><strong><em>Tail Stinger.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 15 (2d8 + 6) piercing damage plus 4 (1d8) poison damage, and the target must succeed on a DC 17 Constitution saving throw or become poisoned until the start of [[Rahadin]]’s next turn. While poisoned, the target can’t regain hit points.</p>
 <p><strong><em>Necrotic Slam.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) bludgeoning damage plus 9 (2d8) necrotic damage. If the target is a creature, its hit point maximum decreases by an amount equal to the necrotic damage taken. The reduction lasts until the target finishes a long rest.</p>
 <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +12 to hit, reach 5 ft., one creature. <em>Hit:</em> 13 (2d8 + 4) slashing damage.</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Shrieking Resonance.</em></strong> Rahadin’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of Rahadin’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of Rahadin’s next turn instead.</p>
-<p><strong><em>Corrupted Command.</em></strong> Each creature Rahadin has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of Rahadin’s next turn. While a creature is charmed in this way, Rahadin can cause it to move up to half its speed before attacking.</p>
-<p><strong><em>Finger of Death (1/day)</em></strong> Rahadin casts <em>finger of death</em>.
+<p><strong><em>Shrieking Resonance.</em></strong> [[Rahadin]]’s screams of the dead release a shriek that resonates with all <em>amber shards</em> in a sixty-foot radius. Each creature in that area carrying an <em>amber shard</em> must succeed on a DC 18 Constitution saving throw or be dazed until the start of [[Rahadin]]’s next turn. If a creature’s saving throw fails by 10 or more, it’s stunned until the start of [[Rahadin]]’s next turn instead.</p>
+<p><strong><em>Corrupted Command.</em></strong> Each creature [[Rahadin]] has damaged this turn must succeed on a DC 18 Charisma saving throw or suffer the effects of a <em>crown of madness</em> spell until the start of [[Rahadin]]’s next turn. While a creature is charmed in this way, [[Rahadin]] can cause it to move up to half its speed before attacking.</p>
+<p><strong><em>Finger of Death (1/day)</em></strong> [[Rahadin]] casts <em>finger of death</em>.
 <h3>Reactions</h3>
-<p>Rahadin can take up to five reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
-<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Rahadin can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
-<p><strong><em>Claws.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 5 feet of Rahadin. <strong>Effect:</strong> Rahadin attacks that creature with his claws.</p>
-<p><strong><em>Rampage.</em></strong> <strong>Trigger:</strong> Rahadin reduces a creature to 0 hit points with a melee attack. <strong>Effect:</strong> Rahadin can move up to half his speed and make one attack.</p></strong>
+<p>[[Rahadin]] can take up to five reactions per round, though no more than one per turn. If an effect or condition would prevent him from taking reactions, he loses one reaction instead.</p>
+<p><strong><em>Indomitable.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> [[Rahadin]] can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.)</p>
+<p><strong><em>Claws.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn within 5 feet of [[Rahadin]]. <strong>Effect:</strong> [[Rahadin]] attacks that creature with his claws.</p>
+<p><strong><em>Rampage.</em></strong> <strong>Trigger:</strong> [[Rahadin]] reduces a creature to 0 hit points with a melee attack. <strong>Effect:</strong> [[Rahadin]] can move up to half his speed and make one attack.</p></strong>
 
 ### Reconsecrating the Fane
 If Lady Wachter buries the Seeker’s sage-green gem within the circle after defying Strahd’s emissary, read:
@@ -2187,7 +2187,7 @@ If Lady Wachter buries the Seeker’s sage-green gem within the circle after def
 <p>You hear the sound of a distant cackle—an old woman’s voice, gleeful and joyous—and several spheres of glittering pale-green light rise from the earth, then hang patiently in the air before you—as if waiting to be claimed.</p>
 </div>
 
-Each sphere of light is a *boon of the Seeker.* There are enough boons for each character that helped defeat Rahadin, including the players and their companions.
+Each sphere of light is a *boon of the Seeker.* There are enough boons for each character that helped defeat [[Rahadin]], including the players and their companions.
 
 A player can claim their *boon of the Seeker* by grasping or touching it. If they do, read:
 

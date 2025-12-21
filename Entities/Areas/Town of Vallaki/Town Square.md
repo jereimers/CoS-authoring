@@ -59,7 +59,7 @@ The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading
 Three men, two women, and two boys are trapped in the stocks-all of them tired, wet, and famished. The five adults have the statistics of human commoners, and the children are noncombatants. The plaster donkey heads they wear are meant to encourage ridicule.
 
 %% --- Page 162 --- %%
-Freeing one or more prisoners without the baron's consent is a crime. If the characters are witnessed doing so, lzek rallies the town guards (twenty-four in all) and orders the characters to leave town at once or suffer the consequences. If the characters stand their ground, lzek orders the guards to beat them into submission, seize their weapons, and cast them out of Vallaki to be "food for the wolves."
+Freeing one or more prisoners without [[Baron Vargas Vallakovich|the baron]]'s consent is a crime. If the characters are witnessed doing so, lzek rallies the town guards (twenty-four in all) and orders the characters to leave town at once or suffer the consequences. If the characters stand their ground, lzek orders the guards to beat them into submission, seize their weapons, and cast them out of Vallaki to be "food for the wolves."
 
 If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see area N2) snatch the party's belongings from under lzek's nose and see them safely returned to the characters.
 

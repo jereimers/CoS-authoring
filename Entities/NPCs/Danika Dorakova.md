@@ -69,6 +69,6 @@ tags:
 
 ***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
 
-***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of [[Urwin Martikov]]. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the Keepers of the Feather.
+***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of [[Urwin Martikov]]. In addition to co-owning the [[Blue Water Inn]], Danika is a high-ranking member of the Keepers of the Feather.
 
 # sources

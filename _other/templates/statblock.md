@@ -1,5 +1,5 @@
 <div class="statblock">
-<h2>Volenta, First Form</h2>
+<h2>[[Volenta Popofsky|Volenta]], First Form</h2>
 <em>Medium undead, chaotic evil</em>
 <hr>
 <strong>Armor Class</strong> 15 (natural armor)

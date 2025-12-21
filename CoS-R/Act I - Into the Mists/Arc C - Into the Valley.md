@@ -10,9 +10,9 @@ Soon afterward, the players finally arrive at the Vistani encampment at Tser Poo
 
 While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the *Holy Symbol of Ravenkind*, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, [[Arabelle]].
 
-If the players are tasked with escorting [[Ireena]] to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
+If the players are tasked with escorting [[Ireena]] to [[St. Andral's Church]] in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
 
-Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster [[Rictavio]] and the [[The Brothers Wachter|sons of Lady Fiona Wachter]]. When morning comes, the players can also have a fateful encounter with [[Baron Vargas Vallakovich]] and his brutish enforcer, [[Izek Strazni]]...
+Upon arriving in Vallaki, the players can find lodgings at the [[Blue Water Inn]]. There, they can meet a host of colorful characters, including the ringmaster [[Rictavio]] and the [[The Brothers Wachter|sons of Lady Fiona Wachter]]. When morning comes, the players can also have a fateful encounter with [[Baron Vargas Vallakovich]] and his brutish enforcer, [[Izek Strazni]]...
 
 > [!warning]+ **The Road From Tser Pool**
 >
@@ -314,7 +314,7 @@ If rescued, Muriel remains with the players until she can discern their intent. 
 <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
 </div>
 
-If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to [[[[Urwin]] Martikov]] at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
+If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to [[[[Urwin]] Martikov]] at the [[Blue Water Inn]]. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
 
 > [!info]+ **Muriel Incognito**
 > While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the *speak with animals* spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators. If asked for her name, she excitedly introduces herself as "Blue," and grows increasingly stubborn if questioned.
@@ -1017,9 +1017,9 @@ Any players who failed their saving throw against the curse of lycanthropy soon 
 > Finally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. **The first full moon that the players experience takes place on Neyavr 8th—the sixth night after they first arrive in Vallaki.**
 
 > [!abstract]+ **Curing Player Lycanthropy**
-> The players can learn from the Martikovs of the Blue Water Inn, Dr. Rudolph van Richten, or Kasimir Velikov of the Vallakian Vistani encampment that the next full moon will take place on their sixth night after first entering Vallaki. As the night of the full moon approaches, players infected with lycanthropy experience nightmares of increasing severity, as well as an increasing appetite for raw meat.
+> The players can learn from the Martikovs of the [[Blue Water Inn]], Dr. Rudolph van Richten, or Kasimir Velikov of the Vallakian Vistani encampment that the next full moon will take place on their sixth night after first entering Vallaki. As the night of the full moon approaches, players infected with lycanthropy experience nightmares of increasing severity, as well as an increasing appetite for raw meat.
 > 
-> Players infected with **werewolf** lycanthropy will be able to search for a cure in [[Arc I - The Walls of Krezk]] after meeting Dr. Rudolph van Richten in [[Arc E - The Missing Vistana]]. Players of an appropriate class can also cure themselves and others of lycanthropy by casting *remove curse* upon reaching 5th level. (Father Lucian of St. Andral's Church in Vallaki cannot cast the spell and therefore cannot cure lycanthropy.)
+> Players infected with **werewolf** lycanthropy will be able to search for a cure in [[Arc I - The Walls of Krezk]] after meeting Dr. Rudolph van Richten in [[Arc E - The Missing Vistana]]. Players of an appropriate class can also cure themselves and others of lycanthropy by casting *remove curse* upon reaching 5th level. ([[Father Lucian Petrovich|Father Lucian]] of [[St. Andral's Church]] in Vallaki cannot cast the spell and therefore cannot cure lycanthropy.)
 
 > [!warning]+ **Embracing Werewolf Lycanthropy**
 > As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
@@ -1043,12 +1043,12 @@ The members of the refugee camp, which include [[Emeric]], a melancholy older ma
 * The Barovian refugees arrived at Vallaki's gates a few weeks ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
 * Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
 * Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
+* Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until [[Baron Vargas Vallakovich|the Baron]] sees reason and allows them to enter the walls.
 * Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in [[03 - Village of Barovia - Dream Pastries]] (p. 125).
 
 The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that [[Ireena]] herself has brought a curse upon their people. Few have any wish to deal with her further.
 
-Following her interaction with the refugees, [[Ireena]] is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
+Following her interaction with the refugees, [[Ireena]] is enraged by [[Baron Vargas Vallakovich|the Baron]]'s callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki. 
 #### Parriwimple's Mini-Arc
 
 He sees the refugees, is horrified, confused, and instantly sympathetic.  
@@ -1101,15 +1101,15 @@ And the party can visit him at any time.
 ### The Guards at the Gates
 The guards at the gates largely act as described in [[WotC - 05 - Vallaki - Town Gates]]. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
 
-The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). (The Baron has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
+The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). ([[Baron Vargas Vallakovich|The Baron]] has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
 
-The guards then demand each player pay 1 gold piece as a toll in order to enter the village. The guards refuse to accept payment on behalf of the refugees, whom the Baron has specifically barred from entering, claiming concerns of "sickness, unruliness, and malicious unhappiness."
+The guards then demand each player pay 1 gold piece as a toll in order to enter the village. The guards refuse to accept payment on behalf of the refugees, whom [[Baron Vargas Vallakovich|the Baron]] has specifically barred from entering, claiming concerns of "sickness, unruliness, and malicious unhappiness."
 
 If the players pay the toll, the guards also insist that each entrant opens their purse (or equivalent) and surrender any silver pieces in their possession. (If the players complain, the guards assure them that the silver is needed to produce the silvered weapons necessary to defend the town from werewolves.) In exchange for any silver coins that they give up, the players receive an amount of copper coins of equal value—minus a ten percent tax.
 
-If asked about lodging, the guards can share information about the Blue Water Inn, as described in [[Vallaki Lore]]. The guards are also willing to provide additional directions to other landmarks in the town in exchange for a bribe of 1 gold piece.
+If asked about lodging, the guards can share information about the [[Blue Water Inn]], as described in [[Vallaki Lore]]. The guards are also willing to provide additional directions to other landmarks in the town in exchange for a bribe of 1 gold piece.
 
-Each time the players pass through the gates, including the first, the guards nod at them and intone the Baron's favored phrase: "All will be well."
+Each time the players pass through the gates, including the first, the guards nod at them and intone [[Baron Vargas Vallakovich|the Baron]]'s favored phrase: "All will be well."
 
 > [!abstract]+ **Gertruda's Fate**
 > If the players inquire about Gertruda's fate and provide a description, the guards truthfully share that they haven't seen anyone resembling her.
@@ -1124,7 +1124,7 @@ As the players pass down Vallaki's main avenue, read:
 The cloaked figure is [[Willemina Rikalova]], as described in [[St. Andral's Church]]. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
 
 As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in [[05 - Vallaki - Lady Wachter's Wish]]. (Ernst does not yet deliver an invitation to dine with [[Lady Fiona Wachter|Lady Wachter]], though he does return to [[Wachterhaus]] to report back to [[Lady Fiona Wachter|Lady Wachter]] when the players leave his sight.)
-## C12b. The Blue Water Inn
+## C12b. The [[Blue Water Inn]]
 
 This area is largely as described in [[Blue Water Inn]]. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
 
@@ -1155,7 +1155,7 @@ When the players first arrive, the inn contains the following notable NPCs:
 >
 > ***Morale.*** In a fight, [[Urwin]] would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
 >
-> ***Relationships.*** [[Urwin]] is the father of Brom and Bray Martikov and the husband of [[Danika Dorakova]]. He is also the exiled son of [[Davian Martikov]], and the beloved older brother of Adrian, Elvir, and [[Stefania Martikov]]. In addition to co-owning the Blue Water Inn, [[Urwin]] is the spymaster of the [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
+> ***Relationships.*** [[Urwin]] is the father of Brom and Bray Martikov and the husband of [[Danika Dorakova]]. He is also the exiled son of [[Davian Martikov]], and the beloved older brother of Adrian, Elvir, and [[Stefania Martikov]]. In addition to co-owning the [[Blue Water Inn]], [[Urwin]] is the spymaster of the [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
 
 > [!profile]+ **Profile: [[Danika Dorakova]]**
 >
@@ -1173,7 +1173,7 @@ When the players first arrive, the inn contains the following notable NPCs:
 >
 > ***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
 >
-> ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of [[[[Urwin]] Martikov]]. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
+> ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of [[[[Urwin]] Martikov]]. In addition to co-owning the [[Blue Water Inn]], Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
 ### Entering the Inn
 The taproom is as described in [[Blue Water Inn#N2c. Taproom]]. However, add the following text to the end of this area's description:
 
@@ -1189,7 +1189,7 @@ When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Da
 
 If the characters approach the bar, [[[[Urwin]] Martikov]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] are also seated at the bar, and are as described in [[Blue Water Inn#N2c. Taproom|N2c]].
 
-[[[[Urwin]] Martikov|[[Urwin]]]] greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
+[[[[Urwin]] Martikov|[[Urwin]]]] greets the players warmly and welcomes them to the [[Blue Water Inn]]. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
 
 Before [[[[Urwin]] Martikov|[[Urwin]]]] can reply to the players, [[Danika Dorakova|Danika]] returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
 
@@ -1254,7 +1254,7 @@ After clearing his throat, [[Rictavio]] shares the following #story:
 If spoken with, [[Rictavio]] is willing to share the following information over drinks:
 
 * He is [[Rictavio]], a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 16 Wisdom (Insight) check reveals that [[Rictavio]]'s words sound a bit too smooth and practiced.)
-* He recently arrived that morning, and took up residence in the Blue Water Inn's private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
+* He recently arrived that morning, and took up residence in the [[Blue Water Inn]]'s private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
 
 During the conversation, [[Rictavio]] subtly attempts to learn more information than he reveals, hoping to glean the players' identities, capabilities, relationships, and histories in and beyond Barovia. If asked why he seems to be so curious, he bombastically insists that he's always in search of new tales to add to his repertoire.
 
@@ -1273,7 +1273,7 @@ If the players linger at [[Rictavio]]'s table, the Wachter brothers are happy (i
 
 - the Festival of the Blazing Sun,
 - Vallaki's recent history of festivals,
-- the Baron's response to those who speak ill of the festivals, and
+- [[Baron Vargas Vallakovich|the Baron]]'s response to those who speak ill of the festivals, and
 - the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
 
 (See [[Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)]].
@@ -1309,7 +1309,7 @@ The taproom slowly clears out over the following two hours. Nikolai and Karl Wac
 
 If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See [[Blue Water Inn#N2I. Guest Rooms|N2l. Guest Rooms]] and [[Blue Water Inn#N2m. Guest Room|N2m. Guest Room]] (p. 102)). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
 
-***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted [[Ireena]] to Vallaki, they earn an additional 250 XP. (The players don't need to bring [[Ireena]] to St. Andral's church to receive this XP.)
+***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted [[Ireena]] to Vallaki, they earn an additional 250 XP. (The players don't need to bring [[Ireena]] to [[St. Andral's church]] to receive this XP.)
 ## C12c. Morning in Vallaki
 ### [[Urwin]]'s Advice
 When the players first emerge from their rooms onto [[Blue Water Inn#N2k. Guest Balcony|the balcony]] the following morning, [[Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
@@ -1318,19 +1318,19 @@ Lowering his voice, [[Urwin]] warns the players that they must be cautious in Va
 
 * The date of the Festival of the Blazing Sun, which will take place from dawn to noon of the players' fifth full day in Vallaki,
 * Vallaki's recent history of festivals,
-* The Baron's strict rules regarding his festivals—and the fates of those who speak ill of them,
-* The brutish nature and terrible strength of [[Izek Strazni]], the baron's henchman. ("Many have tried to test his strength," [[Urwin]] notes grimly. "All have failed.")
+* [[Baron Vargas Vallakovich|The Baron]]'s strict rules regarding his festivals—and the fates of those who speak ill of them,
+* The brutish nature and terrible strength of [[Izek Strazni]], [[Baron Vargas Vallakovich|the baron]]'s henchman. ("Many have tried to test his strength," [[Urwin]] notes grimly. "All have failed.")
 
-[[Urwin]] quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
+[[Urwin]] quietly notes, however, that [[Baron Vargas Vallakovich|the Baron]] is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
 
-If the players ask whether the Baron has any enemies in Vallaki, [[Urwin]] can also share the information about [[Lady Fiona Wachter]] described in [[Vallaki Lore]] (p. 96). However, instead of describing [[Lady Fiona Wachter|Lady Wachter]]'s "mad daughter," [[Urwin]] shares only that [[Lady Fiona Wachter|Lady Fiona]] has a daughter, [[Stella Wachter]], who [[Lady Fiona Wachter|Lady Wachter]] has recently kept cloistered on the grounds of [[Wachterhaus]] for unknown reasons.
+If the players ask whether [[Baron Vargas Vallakovich|the Baron]] has any enemies in Vallaki, [[Urwin]] can also share the information about [[Lady Fiona Wachter]] described in [[Vallaki Lore]] (p. 96). However, instead of describing [[Lady Fiona Wachter|Lady Wachter]]'s "mad daughter," [[Urwin]] shares only that [[Lady Fiona Wachter|Lady Fiona]] has a daughter, [[Stella Wachter]], who [[Lady Fiona Wachter|Lady Wachter]] has recently kept cloistered on the grounds of [[Wachterhaus]] for unknown reasons.
 
 As [[Urwin]]'s conversation draws to a close, [[Rictavio]] descends the stairs from [[Blue Water Inn#N2n. Private Guest Room|his private room]] and approaches the bar, greeting the players with a nod. [[Urwin]] bids him good morning and removes a small parcel from beneath the counter, which [[Rictavio]] accepts and tucks into his cloak.
 
 > [!abstract]+ **What's In the Parcel?**
 > If asked, [[Urwin]] can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
 ### Following the Ringmaster
-If one or more players follow [[Rictavio]] out of the Blue Water Inn, they can follow him to [[Blue Water Inn#N2f. Stable|N2f. Stable]] (p. 101) without difficulty.
+If one or more players follow [[Rictavio]] out of the [[Blue Water Inn]], they can follow him to [[Blue Water Inn#N2f. Stable|N2f. Stable]] (p. 101) without difficulty.
 
 Once inside, [[Rictavio]] removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, [[Rictavio]] checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
 
@@ -1360,36 +1360,36 @@ These are lies. A DC 18 Wisdom (Insight) check indicates that [[Rictavio]]'s eye
 If he fails to detect the players, [[Rictavio]] uses his *hat of disguise* to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd. 
 
 > [!abstract]+ **Following [[Rictavio]]**
-> Once he departs the Blue Water Inn's stable, [[Rictavio]] proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides [[Arabelle]] a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
+> Once he departs the [[Blue Water Inn]]'s stable, [[Rictavio]] proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides [[Arabelle]] a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
 ### Exiting the Inn
-As the players depart the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
+As the players depart the [[Blue Water Inn]] on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
 
-* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family|Roleplaying the Vallakovich Family]], p. 105) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. [[Izek Strazni]] leads the procession. 
+* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: [[Baron Vargas Vallakovich]] (as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family|Roleplaying the Vallakovich Family]], p. 105) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. [[Izek Strazni]] leads the procession. 
 * The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is [[Willemina Rikalova]], the mother of the imprisoned shoemaker [[Udo Lukovich]].)
-* The Baron angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with the Baron to release her son, Udo, claiming that he meant no harm with his “foolish joke.” 
-* The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
+* [[Baron Vargas Vallakovich|The Baron]] angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with [[Baron Vargas Vallakovich|the Baron]] to release her son, Udo, claiming that he meant no harm with his “foolish joke.” 
+* [[Baron Vargas Vallakovich|The Baron]] insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
 * Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
-* As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
+* As the old woman is hauled away, [[Baron Vargas Vallakovich|the Baron]] turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
 ![[IMG-20251205143159947.png]]
 <span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Baron Vargas Vallakovich**
+> [!profile]+ **Profile: [[Baron Vargas Vallakovich]]**
 >
 > **Roleplaying Information**
-> ***Resonance.*** Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
+> ***Resonance.*** [[Baron Vargas Vallakovich|Vargas]] should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
 >
-> ***Emotions.*** Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
+> ***Emotions.*** [[Baron Vargas Vallakovich|Vargas]] most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
 >
-> ***Motivations.*** Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
+> ***Motivations.*** [[Baron Vargas Vallakovich|Vargas]] wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
 >
-> ***Inspirations.*** When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
+> ***Inspirations.*** When playing [[Baron Vargas Vallakovich|Vargas]], channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
 >
 > **Character Information**
-> ***Persona.*** To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
+> ***Persona.*** To the world, [[Baron Vargas Vallakovich|Vargas]] is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
 >
-> ***Morale.*** In a fight, Vargas would command his dogs, Claw and Fang, as well as [[Izek Strazni]] and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
+> ***Morale.*** In a fight, [[Baron Vargas Vallakovich|Vargas]] would command his dogs, Claw and Fang, as well as [[Izek Strazni]] and any present guards to seize any who oppose him. If deprived of his defenders, [[Baron Vargas Vallakovich|Vargas]] would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
 >
-> ***Relationships.*** Vargas, the burgomaster of Vallaki, is the father of [[Victor Vallakovich]], the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of [[Izek Strazni]], his captain of the guard and chief enforcer.
+> ***Relationships.*** [[Baron Vargas Vallakovich|Vargas]], the burgomaster of Vallaki, is the father of [[Victor Vallakovich]], the husband of Baroness Lydia Petrovna, the brother-in-law of [[Father Lucian Petrovich]], and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of [[Izek Strazni]], his captain of the guard and chief enforcer.
 
 > [!profile]+ **Profile: [[Izek Strazni]]**
 >
@@ -1398,7 +1398,7 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 >
 > ***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
 >
-> ***Motivations.*** Izek wants to serve the Baron faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
+> ***Motivations.*** Izek wants to serve [[Baron Vargas Vallakovich|the Baron]] faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
 >
 > ***Inspirations.*** When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
 >
@@ -1407,36 +1407,36 @@ As the players depart the Blue Water Inn on their first morning in Vallaki, they
 >
 > ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
 >
-> ***Relationships.*** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
+> ***Relationships.*** Izek is the adoptive "son" of [[Baron Vargas Vallakovich]], the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
 
-If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
+If the players interrupt Willemina’s arrest, [[Baron Vargas Vallakovich|the Baron]] greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
 
-***Diplomacy.*** If the players make a successful DC 10 Charisma (Persuasion) check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
+***Diplomacy.*** If the players make a successful DC 10 Charisma (Persuasion) check or make an argument that sufficiently flatters [[Baron Vargas Vallakovich|the Baron]]’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions. 
 
-***Hostility.*** If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe. 
+***Hostility.*** If the players indicate a willingness to start a fight, [[Baron Vargas Vallakovich|the Baron]]’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe. 
 
-The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
+[[Baron Vargas Vallakovich|The Baron]] first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway [[Baron Vargas Vallakovich|the Baron]] are made with disadvantage.
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in [[St. Andral's Church]], p. 97) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in [[St. Andral's Church]], p. 97) steps forth from the crowd and urges peace. [[Baron Vargas Vallakovich|The Baron]] greets him warmly by name, and [[Father Lucian Petrovich|Father Petrovich]] apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that [[Baron Vargas Vallakovich|the Baron]] reluctantly accepts.
 
-> [!lore]+ **What's Lucian Doing Here?**
-> After discovering [[Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
+> [!lore]+ **What's [[Father Lucian Petrovich|Lucian]] Doing Here?**
+> After discovering [[Arc C - Into the Valley|St. Andral's missing bones]] and sending [[Yeska]] to recruit Henrik to leave materials to repair the crypt, [[Father Lucian Petrovich|Father Petrovich]] sought out [[Baron Vargas Vallakovich|Baron Vallakovich]] in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing [[Baron Vargas Vallakovich|the Baron]]'s mood and behavior in the streets. ([[Father Lucian Petrovich|Lucian]] doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask [[Baron Vargas Vallakovich|the Baron]] about something, but decided against it after seeing the man's current mood.)
 
-The Baron also wonders aloud whether he should punish the players for their insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
+[[Baron Vargas Vallakovich|The Baron]] also wonders aloud whether he should punish the players for their insolence. [[Father Lucian Petrovich|Father Petrovich]] assures [[Baron Vargas Vallakovich|the Baron]] that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
 
-The Baron imperiously orders that he see to it, then informs the players that they have caught him “in a good mood,” and that they should be grateful for “the Morninglord’s mercy.” He warns them, however, that future lawbreaking shall be met with harsh punishments.
+[[Baron Vargas Vallakovich|The Baron]] imperiously orders that he see to it, then informs the players that they have caught him “in a good mood,” and that they should be grateful for “the Morninglord’s mercy.” He warns them, however, that future lawbreaking shall be met with harsh punishments.
 
-***Departure.*** As the Baron departs the scene, he announces to the crowd: “I shall expect to see you all at the Festival of the Blazing Sun four days hence. All will be well!”
+***Departure.*** As [[Baron Vargas Vallakovich|the Baron]] departs the scene, he announces to the crowd: “I shall expect to see you all at the Festival of the Blazing Sun four days hence. All will be well!”
 
-The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” The Baron nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
+The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” [[Baron Vargas Vallakovich|The Baron]] nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
 
 If [[Ireena]] is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches [[Ireena]]’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving [[Ireena]] feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
 
 If asked, [[Ireena]] notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
 
-If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to [[Lady Fiona Wachter]] at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
+If the players defied [[Baron Vargas Vallakovich|Vargas]] or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to [[Lady Fiona Wachter]] at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
 
-***End of an Act.*** When the players set off from the Blue Water Inn for their first full day in Vallaki, **Act I** ends and **Act II** begins.
+***End of an Act.*** When the players set off from the [[Blue Water Inn]] for their first full day in Vallaki, **Act I** ends and **Act II** begins.
 # Design Notes: Into the Valley
 ## Journey to Vallaki
 ***The Lansten Family.*** The encounters with the Barovian scouts and the undead Lansten family have been added to underscore the tragedy of Strahd's siege on the village of Barovia, to introduce Strahd's undead forces, and to foreshadow Strahd's ultimate plan to turn the Barovians into undead to forge his new army upon escaping the Mists.
@@ -1477,10 +1477,10 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 
 ***The Werewolf's Hunt.*** This brief combat encounter introduces werewolves and provides the swarms of ravens (and Muriel) with an opportunity to assist and defend the players. The wolves' ***Maul*** action option has been added to create a more tense and dynamic combat scenario.
 ## Welcome to Vallaki
-***The Refugee Camp.*** The Barovian refugee camp has been placed here to provide the players with an additional reason to hate Baron Vallakovich and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting [[Ireena]]'s efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
+***The Refugee Camp.*** The Barovian refugee camp has been placed here to provide the players with an additional reason to hate [[Baron Vargas Vallakovich|Baron Vallakovich]] and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting [[Ireena]]'s efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
 
-***The Tax.*** The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
+***The Tax.*** The guards' tax gives the players an additional reason to hate [[Baron Vargas Vallakovich|Baron Vallakovich]]. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that [[Baron Vargas Vallakovich|the Baron]] has hoarded.
 
-***The Blue Water Inn.*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster [[Rictavio]]. [[Rictavio]]'s tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
+***The [[Blue Water Inn]].*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster [[Rictavio]]. [[Rictavio]]'s tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
 
-***Exiting the Inn.*** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of [[Ireena]], and to provide [[Lady Fiona Wachter]] with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**
+***Exiting the Inn.*** The players' encounter with [[Baron Vargas Vallakovich|Baron Vallakovich]] and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to [[Father Lucian Petrovich]], to set up the core dramatic tension of [[Baron Vargas Vallakovich|the Baron]]'s tyrannical rule over Vallaki, to kick off Izek's pursuit of [[Ireena]], and to provide [[Lady Fiona Wachter]] with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**

@@ -34,7 +34,7 @@ This mansion has walls of plastered stone that display many scars where the plas
 
 People come and go from the mansion at all hours during the day. Guards bring criminals cited for "malicious unhappiness." Men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer (area N3a) until the construction of the wicker sun for the Festival of the Blazing Sun gets under way.
 
-If the characters knock on the front doors, a maid (LG female human commoner) lets them in, escorts them to the den (area N3e), and leaves to fetch the baron.
+If the characters knock on the front doors, a maid (LG female human commoner) lets them in, escorts them to the den (area N3e), and leaves to fetch [[Baron Vargas Vallakovich|the baron]].
 
 %% --- Page 142 --- %%
 ![[map-05.03-burgomasters-mansion.jpg]]
@@ -44,12 +44,12 @@ MAP 5.3: BURGOMASTER'S MANSION (AREA N3)
 ## Roleplaying the Vallakovich Family
 
 Use the following information to roleplay the burgomaster and his family.
-### The Baron. 
-The burgomaster, Baron Vargas Vallakovich (NE male human noble), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp.
+### [[Baron Vargas Vallakovich|The Baron]]. 
+The burgomaster, [[Baron Vargas Vallakovich]] (NE male human noble), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. [[Baron Vargas Vallakovich|Baron Vallakovich]] has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp.
 
-The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named Izek Strazni (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8).
+[[Baron Vargas Vallakovich|The baron]] has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named Izek Strazni (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8).
 
-If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and sends twelve guards to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty commoners to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
+If the characters get on his bad side, [[Baron Vargas Vallakovich|the baron]] accuses them of being "spies of the devil Strahd" and sends twelve guards to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, [[Baron Vargas Vallakovich|the baron]] sends Izek to rally a mob of thirty commoners to lynch the party. If the commoners also fail, [[Baron Vargas Vallakovich|the baron]] summons the twelve remaining guards to defend his mansion, giving characters the run of the town.
 
 If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
 
@@ -57,13 +57,13 @@ If the characters get on his good side, he insists that they join him in the nex
 ![[05-006.baroness-baron.png]]
 
 THE BARONESS AND BARON
-Two members of the baron's household staff have vanished in the past week: the butler and the baroness's lady-in-waiting. The baron has charged lzek with finding out what happened to them, but investigation isn't lzek's forte. Searches have been organized, to no avail.
+Two members of [[Baron Vargas Vallakovich|the baron]]'s household staff have vanished in the past week: the butler and the baroness's lady-in-waiting. [[Baron Vargas Vallakovich|The baron]] has charged lzek with finding out what happened to them, but investigation isn't lzek's forte. Searches have been organized, to no avail.
 
 ### The Baroness. 
-At the risk of sacrificing her sanity, the baron's wife, Lydia Petrovna (LG female human commoner), has embraced her husband's philosophy of happiness. She laughs at the baron's every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-and-sandwich parties in the parlor for her "dearest friends," many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the town priest, Father Lucian Petrovich. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft (chapter 4, area K84, crypt 11).
+At the risk of sacrificing her sanity, [[Baron Vargas Vallakovich|the baron]]'s wife, Lydia Petrovna (LG female human commoner), has embraced her husband's philosophy of happiness. She laughs at [[Baron Vargas Vallakovich|the baron]]'s every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-and-sandwich parties in the parlor for her "dearest friends," many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the town priest, [[Father Lucian Petrovich]]. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft (chapter 4, area K84, crypt 11).
 
 ### The Baronet. 
-The baron's miserable son, [[Victor Vallakovich]] (NE male human mage), has confined himself to the attic (area N3t), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a teleportation circle in the hope of escaping Barovia and leaving his parents to their doom.
+[[Baron Vargas Vallakovich|The baron]]'s miserable son, [[Victor Vallakovich]] (NE male human mage), has confined himself to the attic (area N3t), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a teleportation circle in the hope of escaping Barovia and leaving his parents to their doom.
 
 ## N3a. Entrance Hall and Vestibule 
 
@@ -73,7 +73,7 @@ The twigs are being stored here until they can be fashioned into a wooden effigy
 
 The stairs climb to the upstairs gallery (area N3i).
 
-The portraits depict the baron, his family, and their ancestors. Close inspection reveals that some of the people portrayed look very much alike.
+The portraits depict [[Baron Vargas Vallakovich|the baron]], his family, and their ancestors. Close inspection reveals that some of the people portrayed look very much alike.
 
 Tucked in the northeast corner of the foyer is a vestibule packed with fine cloaks, coats, and boots.
 
@@ -92,7 +92,7 @@ A chandelier of wrought iron fitted with wax candles hangs above a polished wood
 
 The women seated at the table are eight Vallakian peasants (female commoners) invited to spend time with the baroness, Lydia Petrovna, who is bribing them with tea and cake. Lydia has assigned these women the task of stitching children's costumes and weaving together a wicker sun for the Festival of the Blazing Sun.
 
-Lydia assumes that the characters are here at the invitation of her husband, the burgomaster. She calls for the maid to take them to the den (area N3e) and then to inform Baron Vallakovich (see area N2I) that his guests have arrived.
+Lydia assumes that the characters are here at the invitation of her husband, the burgomaster. She calls for the maid to take them to the den (area N3e) and then to inform [[Baron Vargas Vallakovich|Baron Vallakovich]] (see area N2I) that his guests have arrived.
 
 A serving table stands in one corner of the dining hall.
 
@@ -169,26 +169,26 @@ If the burgomaster has not been drawn elsewhere, he is here. Add:
 
 Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
 
-Baron Vargas Vallakovich never goes anywhere without his two mastiffs. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
+[[Baron Vargas Vallakovich]] never goes anywhere without his two mastiffs. A paranoid man, he wears his breastplate and rapier even while relaxing in his library. Two of his servants, the butler and his wife's lady-in-waiting, have vanished without a trace in the past week, so he has good cause to be worried.
 
-The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won't pick a fight with well-armed strangers, however. If he can't make the characters yield to his authority, he swallows his pride until he can circle around with Izek Strazni and assemble his guards to run them out of town.
+[[Baron Vargas Vallakovich|The baron]] believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled. He won't pick a fight with well-armed strangers, however. If he can't make the characters yield to his authority, he swallows his pride until he can circle around with Izek Strazni and assemble his guards to run them out of town.
 
-The baron's desk contains three drawers stuffed with blank sheets of parchment, jars of ink, and writing quills. It also holds thick books of tax records dating back to the times of the baron's father, grandfather, and great-grandfather.
+[[Baron Vargas Vallakovich|The baron]]'s desk contains three drawers stuffed with blank sheets of parchment, jars of ink, and writing quills. It also holds thick books of tax records dating back to the times of [[Baron Vargas Vallakovich|the baron]]'s father, grandfather, and great-grandfather.
 
-The baron wears a signet ring and carries three keys: one that unlocks the outside door in area N3g, and two keys for the door and the manacles in area N3m.
+[[Baron Vargas Vallakovich|The baron]] wears a signet ring and carries three keys: one that unlocks the outside door in area N3g, and two keys for the door and the manacles in area N3m.
 
 Treasure. The Vallakovich book collection contains old, leather-bound tomes on virtually every subject. Use the Random Books table (see chapter 4, area K37) to determine the subject matter of a particular book.
 
 ## N3m. Locked Closet 
 
-The door to this room is locked. The baron carries the key.
+The door to this room is locked. [[Baron Vargas Vallakovich|The baron]] carries the key.
 
 Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
 
-The man is a Vallakian shoemaker named Udo Lukovich (LN male human commoner). He was arrested during the Wolf's Head Jamboree for carrying a sign that suggested that Vallakians should feed the baron to the wolves.
+The man is a Vallakian shoemaker named Udo Lukovich (LN male human commoner). He was arrested during the Wolf's Head Jamboree for carrying a sign that suggested that Vallakians should feed [[Baron Vargas Vallakovich|the baron]] to the wolves.
 
-Baron Vallakovich has the key to Udo's manacles. The manacles break if they take 10 damage or more from a single weapon attack.
-If the characters release Udo, his first desire is to return to his home. Later, he plans to tell Father Lucian (see area N1) of his ill treatment in the burgomaster's estate. If the baron discovers that Udo has escaped or been set free, he sends Izek to find the shoemaker and bring him back for further questioning. Under great duress, Udo provides the names or descriptions of those who liberated him, turning the burgomaster against the characters.
+[[Baron Vargas Vallakovich|Baron Vallakovich]] has the key to Udo's manacles. The manacles break if they take 10 damage or more from a single weapon attack.
+If the characters release Udo, his first desire is to return to his home. Later, he plans to tell [[Father Lucian Petrovich|Father Lucian]] (see area N1) of his ill treatment in the burgomaster's estate. If [[Baron Vargas Vallakovich|the baron]] discovers that Udo has escaped or been set free, he sends Izek to find the shoemaker and bring him back for further questioning. Under great duress, Udo provides the names or descriptions of those who liberated him, turning the burgomaster against the characters.
 
 ## N3n. Master Bedroom Closet
 
@@ -199,7 +199,7 @@ Cloaks, coats, gowns, and other fancy apparel hang from hooks in this closet. Ar
 Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in
 
 %% --- Page 147 --- %%
-The baron and the baroness sleep in one bed at night. Nothing of value is kept here.
+[[Baron Vargas Vallakovich|The baron]] and the baroness sleep in one bed at night. Nothing of value is kept here.
 The trapdoor in the ceiling can be pulled down to reveal an attic room (area N3r). An unfolding wooden ladder allows easy access.
 
 ## N3p. Bridal Gown and Spirit Mirror 
