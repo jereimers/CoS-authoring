@@ -5,8 +5,6 @@ aliases:
 WotC_ref:
 CoS-R_ref:
 home_base:
-acts:
-  - 
 arcs:
   - 
 connected_locations:
@@ -19,4 +17,5 @@ first_appearance_session:
 tags:
   - cos
   - faction
+  - needs_filling
 ---

@@ -5,8 +5,6 @@ aliases:
 WotC_ref:
 CoS-R_ref:
 parent_region:
-acts:
-  - 
 arcs:
 connected_locations:
   - 
@@ -17,6 +15,7 @@ first_appearance_date:
 tags:
   - area
   - cos
+  - needs_filling
 key_factions:
 area_code:
 area_type:

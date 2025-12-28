@@ -1,3 +1,13 @@
+# Who they are
+
+# What the party knows
+
+# Personality
+
+# Where we've seen them
+
+
+<!-- DM ONLY -->
 # <% tp.file.title %> Profile
 
 ## Portrait
@@ -33,3 +43,5 @@
 # Notes
 
 # Gallery
+
+<!-- /DM ONLY -->
