@@ -1,0 +1,35 @@
+---
+name: Githyanki
+source: MPMM
+source_full: "Mordenkainen Presents: Monsters of the Multiverse"
+aliases: [Githyanki (MPMM)]
+tags: [ai_generated, 5etools, race]
+type: race
+size: Medium
+speed: 30
+---
+
+# Githyanki
+
+**Size:** Medium  
+**Speed:** 30  
+
+## Astral Knowledge
+
+You can mystically access a reservoir of experiences of entities connected to the Astral Plane. Whenever you finish a long rest, you gain proficiency in one skill of your choice and with one weapon or tool of your choice, selected from the Player's Handbook, as you momentarily project your consciousness into the Astral Plane. These proficiencies last until the end of your next long rest.
+
+## Githyanki Psionics
+
+You know the [[mage hand]] cantrip, and the hand is [[invisible]] when you cast the cantrip with this trait.
+
+Starting at 3rd level, you can cast the [[jump]] spell with this trait. Starting at 5th level, you can also cast [[misty step]] with it. Once you cast [[jump]] or [[misty step]] with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+
+Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
+
+## Psychic Resilience
+
+You have resistance to psychic damage.
+
+---
+
+**Source:** Mordenkainen Presents: Monsters of the Multiverse, p. 18

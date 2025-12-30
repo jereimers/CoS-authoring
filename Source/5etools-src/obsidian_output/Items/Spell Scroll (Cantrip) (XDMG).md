@@ -1,0 +1,25 @@
+---
+name: Spell Scroll (Cantrip)
+source: XDMG
+source_full: "2024 Dungeon Master's Guide"
+aliases: [Spell Scroll (Cantrip) (XDMG)]
+tags: [ai_generated, 5etools, item, common]
+type: item
+rarity: Common
+requires_attunement: false
+wondrous: false
+---
+
+# Spell Scroll (Cantrip)
+
+*Item, Common*
+
+A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost.
+
+If the spell is on your spell list but of a higher level than you can normally cast, you make a DC 10 ability check using your spellcasting ability to determine whether you cast the spell. On a failed check, the spell disappears from the scroll with no other effect.
+
+If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5.
+
+---
+
+**Source:** 2024 Dungeon Master's Guide, p. 305

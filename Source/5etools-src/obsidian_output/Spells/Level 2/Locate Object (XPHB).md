@@ -1,0 +1,40 @@
+---
+name: Locate Object
+source: XPHB
+source_full: "2024 Player's Handbook"
+aliases: [Locate Object (XPHB)]
+tags: [ai_generated, 5etools, spell, divination, level-2]
+type: spell
+level: 2
+school: Divination
+casting_time: 1 action
+range: Self
+duration: Concentration, up to 10 minutes
+concentration: true
+ritual: false
+---
+
+# Locate Object
+
+*2nd-level divination*
+
+---
+
+**Casting Time:** 1 action  
+**Range:** Self  
+**Components:** V, S, M (a forked twig)  
+**Duration:** Concentration, up to 10 minutes
+
+---
+
+Describe or name an object that is familiar to you. You sense the direction to the object's location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
+
+The spell can locate a specific object known to you if you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
+
+This spell can't locate an object if any thickness of lead blocks a direct path between you and the object.
+
+
+
+---
+
+**Source:** 2024 Player's Handbook, p. 293

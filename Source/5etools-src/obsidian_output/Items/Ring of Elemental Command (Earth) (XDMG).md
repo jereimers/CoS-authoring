@@ -1,0 +1,34 @@
+---
+name: Ring of Elemental Command (Earth)
+source: XDMG
+source_full: "2024 Dungeon Master's Guide"
+aliases: [Ring of Elemental Command (Earth) (XDMG)]
+tags: [ai_generated, 5etools, item, legendary]
+type: item
+rarity: Legendary
+requires_attunement: true
+wondrous: false
+---
+
+# Ring of Elemental Command (Earth)
+
+*Item, Legendary* *(requires attunement)*
+
+The Ring of Elemental Command (earth) is linked to the Elemental Plane of Earth. Every Ring of Elemental Command has the following two properties:
+
+- **Elemental Bane:** While wearing the ring, you have [[Advantage|XPHB]] on attack rolls against Elementals and they have [[Disadvantage|XPHB]] on attack rolls against you.
+- **Elemental Compulsion:** While wearing the ring, you can take a [[Magic|XPHB]] action to try to compel an Elemental you see within 60 feet of yourself. The Elemental makes a DC 18 Wisdom saving throw. On a failed save, the Elemental has the [[Charmed|XPHB]] condition until the start your next turn, and you determine what it does with its move and action on its next turn.
+
+## Elemental Focus
+
+While wearing the ring, you benefit from additional properties corresponding to the ring's linked Elemental Plane:
+
+- **Earth:** You know Terran, and you have [[Resistance|XPHB]] to Acid damage. Terrain composed of rubble, rocks, or dirt isn't [[Difficult Terrain|XPHB]] for you. In addition, you can move through solid earth or rock as if those areas were [[Difficult Terrain|XPHB]] without disturbing the matter through which you pass. If you end your turn in solid earth or rock, you are shunted out to the nearest unoccupied space you last occupied.
+
+## Spellcasting
+
+The ring has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the ring, you can cast a spell from it. A spell cast from the ring has a save DC of 18. Choose the spell from the following list: [[Earthquake|XPHB]] (5 charges), [[Stone Shape|XPHB]] (2 charges), [[Stoneskin|XPHB]] (3 charges), [[Wall of Stone|XPHB]] (3 charges)
+
+---
+
+**Source:** 2024 Dungeon Master's Guide, p. 292
