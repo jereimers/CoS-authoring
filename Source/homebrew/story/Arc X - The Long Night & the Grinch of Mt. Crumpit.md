@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Surprise Round
 source: homebrew
 tags:
   - homebrew
@@ -109,6 +110,7 @@ The players learn of the theft through one of the following means:
 - **Direct Observation:** If the players visit Blinsky Toys the morning after the theft, they find Blinsky distressed, surrounded by scattered tools and empty shelves.
 - **Rumor:** Townspeople gossip about the incident in the Blue Water Inn (N2. Blue Water Inn, p. 98) or the town square.
 - **Request:** Blinsky seeks out the players directly, having heard they are "adventurers," and begs for their help recovering his stolen goods.
+- Blinsky seeks out Rictavio, who is dining in the taproom of The Blue Water Inn in the morning after the theft occurs. 
 - **Baron's Complaint:** The Baron summons the players to his mansion, raging about missing festival decorations that Blinsky was supposed to deliver. (The decorations were among the stolen items.)
 
 When the players first see Blinsky after the theft, read:

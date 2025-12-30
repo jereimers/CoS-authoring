@@ -1318,21 +1318,21 @@ If the players rented rooms for the night, [[Non-Player Characters#Danika Dorako
 
 ***Milestone.*** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted [[Ireena]] to Vallaki, they earn an additional 250 XP. (The players don't need to bring [[Ireena]] to [[St. Andral's Church]] to receive this XP.)
 ## C12c. Morning in Vallaki
-### [[Urwin]]'s Advice
-When the players first emerge from their rooms onto [[Blue Water Inn#N2k. Guest Balcony|the balcony]] the following morning, [[Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
+### [[Urwin Martikov|Urwin]]'s Advice
+When the players first emerge from their rooms onto [[Blue Water Inn#N2k. Guest Balcony|the balcony]] the following morning, [[Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
 
-Lowering his voice, [[Urwin]] warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. [[Urwin]] can share the following additional information, as described in [[Vallaki Lore]] (p. 96):
+Lowering his voice, [[Urwin Martikov|Urwin]] warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. [[Urwin Martikov|Urwin]] can share the following additional information, as described in [[Vallaki Lore]] (p. 96):
 
 * The date of the Festival of the Blazing Sun, which will take place from dawn to noon of the players' fifth full day in Vallaki,
 * Vallaki's recent history of festivals,
 * [[Baron Vargas Vallakovich|The Baron]]'s strict rules regarding his festivals—and the fates of those who speak ill of them,
-* The brutish nature and terrible strength of [[Izek Strazni]], [[Baron Vargas Vallakovich|the baron]]'s henchman. ("Many have tried to test his strength," [[Urwin]] notes grimly. "All have failed.")
+* The brutish nature and terrible strength of [[Izek Strazni]], [[Baron Vargas Vallakovich|the baron]]'s henchman. ("Many have tried to test his strength," [[Urwin Martikov|Urwin]] notes grimly. "All have failed.")
 
-[[Urwin]] quietly notes, however, that [[Baron Vargas Vallakovich|the Baron]] is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
+[[Urwin Martikov|Urwin]] quietly notes, however, that [[Baron Vargas Vallakovich|the Baron]] is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
 
-If the players ask whether [[Baron Vargas Vallakovich|the Baron]] has any enemies in Vallaki, [[Urwin]] can also share the information about [[Lady Fiona Wachter]] described in [[Vallaki Lore]] (p. 96). However, instead of describing [[Lady Fiona Wachter|Lady Wachter]]'s "mad daughter," [[Urwin]] shares only that [[Lady Fiona Wachter|Lady Fiona]] has a daughter, [[Stella Wachter]], who [[Lady Fiona Wachter|Lady Wachter]] has recently kept cloistered on the grounds of [[Wachterhaus]] for unknown reasons.
+If the players ask whether [[Baron Vargas Vallakovich|the Baron]] has any enemies in Vallaki, [[Urwin Martikov|Urwin]] can also share the information about [[Lady Fiona Wachter]] described in [[Vallaki Lore]] (p. 96). However, instead of describing [[Lady Fiona Wachter|Lady Wachter]]'s "mad daughter," [[Urwin Martikov|Urwin]] shares only that [[Lady Fiona Wachter|Lady Fiona]] has a daughter, [[Stella Wachter]], who [[Lady Fiona Wachter|Lady Wachter]] has recently kept cloistered on the grounds of [[Wachterhaus]] for unknown reasons.
 
-As [[Urwin]]'s conversation draws to a close, [[Rictavio]] descends the stairs from [[Blue Water Inn#N2n. Private Guest Room|his private room]] and approaches the bar, greeting the players with a nod. [[Urwin]] bids him good morning and removes a small parcel from beneath the counter, which [[Rictavio]] accepts and tucks into his cloak.
+As [[Urwin Martikov|Urwin]]'s conversation draws to a close, [[Rictavio]] descends the stairs from [[Blue Water Inn#N2n. Private Guest Room|his private room]] and approaches the bar, greeting the players with a nod. [[Urwin Martikov|Urwin]] bids him good morning and removes a small parcel from beneath the counter, which [[Rictavio]] accepts and tucks into his cloak.
 
 > [!abstract]+ **What's In the Parcel?**
 > If asked, [[Urwin]] can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.

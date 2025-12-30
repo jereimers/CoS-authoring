@@ -3,20 +3,23 @@ aliases:
   - Winter Solstice
   - Midwinter Festival
   - The Longest Night
+  - Festival of the Enduring Light
 tags:
   - cos
   - event
   - ai_generated
   - vallaki
+  - homebrew
 type: Special Event
 barovian_date(s): Winter Solstice (varies by calendar)
 location(s):
-  - "[[Vallaki]]"
   - "[[Village of Barovia]]"
-  - "[[Krezk]]"
-WotC_ref:
-CoS-R_ref:
+  - "[[Town of Vallaki|Vallaki]]"
+  - "[[DM Wiki/Entities/Areas/Village of Krezk|Krezk]]"
+WotC_ref: N/A
+CoS-R_ref: N/A
 arcs:
+  - "[[Arc X - The Long Night & the Grinch of Mt. Crumpit]]"
 notable_npcs:
   - "[[Baron Vargas Vallakovich]]"
   - "[[Gadof Blinsky]]"
