@@ -10,4 +10,5 @@ has_vignette: false
 tags:
   - cos
   - needs_filling
+  - scene
 ---

@@ -5,6 +5,7 @@ party_presence:
 tags:
   - encounter
   - cos
+  - needs_filling
 loot:
 location(s):
 arc(s):
