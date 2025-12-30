@@ -1,0 +1,27 @@
+---
+alwaysApply: true
+---
+
+rule("template_usage") {
+  description: "AI Agents must use an existing template from the _other/templates folder when creating a new Obsidian page. The Templater plugin documentation is indexed and available for guidance. When generating a page, Agents must apply an appropriate template and add 'ai_generated' to the page's tags property."
+  appliesTo: ["agent", "page_creation"]
+  requirements: [
+    "Use a template file from the _other/templates folder for all new page creations.",
+    "Consult Templater plugin documentation for correct template usage.",
+    "Modify or augment the page's metadata so that the tags property includes 'ai_generated'.",
+    "Do not create pages without a template or without the 'ai_generated' tag in the tags property."
+  ]
+  examples: [
+    {
+      scenario: "Agent creates a new Knowledge Note.",
+      action: "Selects the appropriate template from _other/templates, applies it, and adds 'ai_generated' to tags.",
+      result: "New note is formatted according to the template and tagged correctly."
+    },
+    {
+      scenario: "Agent creates a new Meeting Record.",
+      action: "Uses the 'meeting.md' template from _other/templates and ensures 'ai_generated' is present in tags.",
+      result: "Meeting record page is templated as expected and tagged 'ai_generated'."
+    }
+  ]
+}
+

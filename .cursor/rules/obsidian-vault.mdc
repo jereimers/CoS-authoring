@@ -1,0 +1,26 @@
+---
+alwaysApply: true
+---
+
+rule("obsidian_vault_usage") {
+  description: "This directory constitutes an Obsidian vault (@Obsidian), used to author and organize campaign material. From this vault, a static site Wiki is generated for players using Quartz 4 (@Quartz), specifically for the Curse of Strahd Reloaded D&D 5e adventure published by DragnaCarta (@Strahd Reloaded)."
+  appliesTo: ["vault", "page_authoring", "page_publishing"]
+  requirements: [
+    "All source material must be maintained within the Obsidian vault format.",
+    "Static site generation for players uses Quartz 4, which consumes Markdown from this vault.",
+    "Material authored here is in support of the Curse of Strahd Reloaded campaign.",
+    "When creating new pages, include 'DM-Only' redaction flags using HTML comments (e.g., <!-- DM-Only Start --> and <!-- DM-Only End -->) around any content not suitable for players to prevent spoiler publication.",
+    "Obsidian, Quartz, and Strahd Reloaded documentation are available for reference."
+  ]
+  examples: [
+    {
+      scenario: "A DM creates a lore note containing secret plot points.",
+      action: "Wraps the spoiler content in <!-- DM-Only Start -->...<!-- DM-Only End -->, ensuring it is excluded from the published player Wiki."
+    },
+    {
+      scenario: "A new NPC entry is added.",
+      action: "If the entry contains DM-only information, that section is delimited with the appropriate redaction flags."
+    }
+  ]
+}
+
