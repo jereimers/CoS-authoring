@@ -3,3 +3,13 @@
 .idea/
 .venv/
 .obsidian/plugins/
+
+# 5e Database
+!Source/5e-database/obsidian_output/**
+!Source/5e-database/convert_to_obsidian.py
+Source/5e-database/**
+
+# 5etools
+!Source/5etools-src/obsidian_output/**
+!Source/5etools-src/convert_to_obsidian.py
+Source/5etools-src/**
