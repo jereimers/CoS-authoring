@@ -79,6 +79,7 @@ After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase
 > ***Morale.*** In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
 >
 > ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling [[Ireena Kolyana]] for [[Izek Strazni]], and receives a humble stipend to craft decorations for [[Baron Vargas Vallakovich|Baron Vallakovich]]’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
+> ^Profile-Gadof-Blinsky
 
 Blinsky Toys is as described in [[Blinsky Toys]] (p. 118). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
@@ -133,6 +134,7 @@ If the players do not respond first, Luvash hails them warily and—leaning back
 > ***Morale.*** In a fight, Luvash would draw his blade to protect his people without a moment’s hesitation, but would swiftly sheathe it if necessary to keep [[Arabelle]] safe.
 >
 > ***Relationships.*** Luvash is the elder brother of [[Arrigal]], one of Strahd’s spies. (Luvash doesn’t know that [[Arrigal]] is a spy for Strahd.) Luvash is also the father of [[Arabelle]], whose mother was one of Madam Eva’s descendants, and—along with [[Arrigal]]—one of the two leaders of the Vistani camp outside of Vallaki.
+> ^Profile-Luvash
 
 > [!profile]+ **Profile: [[Arrigal]]**
 >
@@ -151,6 +153,7 @@ If the players do not respond first, Luvash hails them warily and—leaning back
 > ***Morale.*** In a fight, [[Arrigal]] would act with ruthless cunning, retreating as necessary before striking from the shadows, using deceit, manipulation, or dirty tricks to ensure an advantage.
 >
 > ***Relationships.*** [[Arrigal]] is Luvash’s younger brother and [[Arabelle]]’s uncle. He is also a spy for Strahd and makes regular reports to Anastrasya, one of Strahd’s vampiric brides.
+> ^Profile-Arrigal
 
 Luvash can share the following information with the players:
 
@@ -212,6 +215,7 @@ The players can find Kasimir sitting on the green rug facing the fire, meditatin
 > ***Morale.*** In a fight, Kasimir would attempt to negotiate a peace, but would not hesitate to unleash his most powerful spells—or use his magic to escape—if a diplomatic solution proved untenable.
 >
 > ***Relationships.*** Kasimir is the leader of the dusk elf encampment and the younger brother of the late Patrina Velikovna, a **banshee** who resides in the catacombs of Castle Ravenloft. Kasimir is also the cousin of [[Rahadin]], Strahd’s chamberlain, and the nephew of the late dusk elf prince, Erevan Löwenhart. (Kasimir is not a direct blood relation of Erevan, who married Kasimir’s aunt, Lorelei.)
+> ^Profile-Kasimir-Velikov
 
 > [!info]+ **What Kasimir Knows**
 > If asked about the different factions and locations throughout Barovia, Kasimir can provide the following information:
@@ -219,6 +223,7 @@ The players can find Kasimir sitting on the green rug facing the fire, meditatin
 > * ***Argynvostholt.*** Kasimir shares the information in [[Vallaki Lore]] (p. 96).
 > * ***The Amber Temple.*** Kasimir pauses thoughtfully, then shares that the Order of the Silver Dragon was once rumored to guard "secrets hidden in amber," and that their revenants and spirits yet haunt Argynvostholt to this day.
 > * ***The Werewolf Den.*** Kasimir shares that the werewolf pack has historically been bloodthirsty and brutal, but become far more reserved—even peaceful—a decade after Strahd entered hibernation. "I presume it was a change of leadership," he notes, "following the absence of pressure from the castle. With Strahd awoken, however, their aggression has reemerged." (Kasimir doesn't know where their den is, but knows that their activities have historically been focused on the western half of the valley.)
+> ^Info-What-Kasimir-Knows
 
 His right hand and forearm are a pale bluish-white, with much of the skin puffy and blistered. (A successful DC 12 Wisdom (Medicine) check identifies the symptoms of frostbite.)
 
@@ -325,6 +330,7 @@ Shortly after the players discover these records, however, they are interrupted 
 > ***Morale.*** In a fight, Victor would attempt to flee, but would resort to his most dangerous spells with wanton and amateurish abandon if cornered or if defending his friends or family from death. (Although often irritable, Victor won't lash out magically if offended or insulted.)
 >
 > ***Relationships.*** Victor is the only child of [[Baron Vargas Vallakovich]] (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears [[Izek Strazni]], who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
+> ^Profile-Victor-Vallakovich
 
 Victor, who is largely as described in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
@@ -796,6 +802,7 @@ As the players return to Vallaki’s Sunset gate, a player with a passive Wisdom
 > ***Morale.*** In a fight, Van Richten would attempt to outwit or outmaneuver his foe, retreating as necessary in order to secure the most advantageous terrain.
 > 
 > ***Relationships.*** Van Richten is the mentor of the Vistana monster hunter Ezmerelda d'Avenir, the father of the late and Ethereal Plane-bound Erasmus van Richten (whom he can neither communicate with nor perceive), the former owner of the monkey Piccolo now owned by the Vallakian toymaker Gadof Blinsky, the killer of the family of Arturi Radanavich, and the former ally of Doru's rebellion against Castle Ravenloft.
+> ^Profile-Dr-Rudolph-van-Richten
 ## E8a. Confronting [[Rictavio]]
 <em>This scene takes place in Chapter 5: Area N2.</em>
 

@@ -117,6 +117,7 @@ The man is Ismark Kolyanovich, who is largely as described in <span class="citat
 > ***Morale.*** In a fight, Ismark would first seek to mediate the parties' conflict, but would gladly draw his sword—and even fight to the death—if he believed that he was fighting for something or someone worth protecting.
 >
 > ***Relationships.*** Ismark is the adoptive brother of [[Ireena Kolyana]], and the great-grandson of Ismark the Great.
+> ^Profile-Ismark-Kolyanovich
 
 As the players approach, Kereza challenges them. Read:
 
@@ -271,6 +272,7 @@ The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commone
 > ***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
 >
 > ***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of [[Izek Strazni]], and the second (unknowing) reincarnation of Tatyana Federovna.
+> ^Profile-Ireena-Kolyana
 
 > [!profile]+ **Profile: Burgomaster Kolyan Indirovich**
 > **Roleplaying Information**
@@ -288,6 +290,7 @@ The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commone
 > ***Morale.*** In a fight, Kolyan would attempt to negotiate a peace—but keep one hand on his blade if necessary to defend himself or his neighbors.
 >
 > ***Relationships.*** Kolyan is the burgomaster of the village of Barovia, the biological father of Ismark Kolyanovich, the adoptive father of [[Ireena Kolyana]], and the grandson of Ismark the Great.
+> ^Profile-Kolyan-Indirovich
 
 > [!lore]+ **Alenka’s Grief**
 > Alenka is the sister of Anton Konstantinovich, a Barovian man married to Dezdrelda Konstaninova. Two nights ago, Anton and Dezdrelda mysteriously vanished in the middle of the night during the siege; their bodies were never found. Their loss has driven Alenka to grief and paranoia, and given her a desperate need to seek an end to the siege by any means possible.
@@ -443,6 +446,7 @@ Bildrath greets the players warmly or coldly, depending on their interaction at 
 > ***Morale.*** In a fight, Parriwimple would hold up his hands and plead for peace. If ignored, however, he would swiftly use his strength to restrain any combatants—with righteous fury if defending his uncle Bildrath.
 >
 > ***Relationships.*** Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cantemir.
+> ^Profile-Parriwimple
 
 Bildrath is pleased to see the players’ delivery of *fire bottles*. He can inform the players that they have been assigned to defend the eastern barricade from any smaller bands of undead that might drift around the edges of the village rather than attacking from the north, south, or west.
 
@@ -859,6 +863,7 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 > ***Morale.*** In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
 >
 > ***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
+> ^Profile-Father-Donavich
 
 If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
 
@@ -921,6 +926,7 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 > ***Morale.*** In a fight, Doru would seek to flee to avoid hurting anyone—but if his father or Gertruda were endangered, he would fight savagely to protect them.
 >
 > ***Relationships.*** Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
+> ^Profile-Doru
 
 > [!info]+ **Doru Will Remember That**
 >
@@ -929,6 +935,7 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 > If the players agree to perform Doru’s experiment, roll a second six-sided die when the experiment begins. If the result on the second die is equal to or greater than the number on the first, Doru resists his vampiric addiction and the test ends successfully. If the result on the second die is less than the number on the first, however, Doru succumbs to his bloodlust and attacks the source of the blood.
 >
 > For example, if the players antagonize Doru twice and offer no kindness or encouragement, the first die should show a three. If the second die rolls a one or a two, Doru attacks.
+> ^Info-Doru-Will-Remember-That
 
 Doru’s request is simple: to prove to himself that he can control his vampiric urges, he wants the players to expose him to the scent of fresh blood. If he can refrain from attacking for a full minute, he wants the players to tell Father Donavich that his son is still alive. If he can’t, he wants the players to kill him. In either case, he won’t stop the players from taking the holy symbol once the experiment is complete.
 

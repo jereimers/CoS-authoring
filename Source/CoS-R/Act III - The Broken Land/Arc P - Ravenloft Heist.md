@@ -658,20 +658,7 @@ This area is largely as described in <span class="citation">K62. (p. 76)</span>.
 
 The figure is Cyrus, as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, Cyrus does not try to escort the players to the guest suite, nor does he know of the elevator trap. 
 
-> [!profile]+ **Profile: Cyrus Belview**
-> **Roleplaying Information**
-> ***Resonance.*** Cyrus should inspire endearment for his sincere efforts to make himself useful despite his physical handicaps and poor memory, amusement for his grumpiness and bizarrely opinionated (and occasionally conspiratorial) rants, and discomfort with his inability to appreciate the boundaries of personal space.
->
-> ***Emotions.*** Cyrus most often feels curious, intrigued, determined, agitated, impatient, or skeptical.
->
-> ***Inspirations.*** When playing Cyrus, channel Ebenezar Scrooge (*A Christmas Carol*), Grandpa Simpson (*The Simpsons*), and Grand Maester Pycelle (*Game of Thrones*).
->
-> **Character Information**
-> ***Persona.*** To the world, Cyrus is a doddering old butler with an affinity for conspiratorial rants. To those he trusts—and in his moments of lucidity—Cyrus is a sad old man who has long since resigned himself to the belief that his family is forever damned for their ancestors’ sins.
->
-> ***Morale.*** In a fight, Cyrus would cower in a corner, brandishing any nearby object as an impromptu weapon but immediately surrendering if actually wounded.
->
-> ***Relationships.*** Cyrus is the former patriarch of the Belview family and the butler of Castle Ravenloft.
+![[Arc O - Dinner with the Devil#^Profile-Cyrus-Belview]]
 #### A Favor for Cyrus
 If Cyrus already encountered any players the [[Arc O - Dinner with the Devil]], he greets them with a wary familiarity and murmurs that “the Master will not be pleased if he finds uninvited guests mucking about, oh no." If he has not, he shrieks, falls to his knees, and pleads for the “nice, kind burglars to spare old Cyrus." 
 
@@ -830,6 +817,7 @@ This area is largely as described in <span class="citation">K42. King’s Bedcha
 > ***Morale.*** If attacked, or if Doru were threatened, Gertruda would immediately grab the nearest weapon and attempt to defend herself and her loved ones.
 >
 > ***Relationships.*** Gertruda is the daughter of Mad Mary, the betrothed of Doru, and a childhood friend of [[Ireena Kolyana]].
+> ^Profile-Gertruda
 #### Meeting Gertruda
 Gertruda is surprised to see the players, and fearful that they’re “another one of the Devil’s tricks." Players who mention Sasha or Doru, or who succeed on a DC 10 Charisma (Persuasion) check can reassure Gertruda that they’re real, and no servants of Strahd.
 

@@ -42,6 +42,7 @@ The church's occupants follow the following schedule unless interrupted:
 > ***Morale.*** In a fight, [[Father Lucian Petrovich|Father Lucian]] would prefer to dissuade his attackers, surrendering peacefully if necessary to avoid unnecessary bloodshed. However, if an innocent life or the members of his congregation were threatened, he would fight to the death with a prayer on his lips and peace in his heart.
 >
 > ***Relationships.*** [[Father Lucian Petrovich|Father Lucian]] is a mentor and father figure to the orphan and altar boy [[Yeska]], the employer of the groundskeeper [[Milivoj]], the brother of Baroness Lydia Petrovna, and the distant descendant of Tasha Petrovna, an ancient cleric of the Morninglord whose remains are kept in the catacombs of Castle Ravenloft.
+> ^Profile-Father-Lucian-Petrovich
 
 > [!lore]+ **The Stolen Bones**
 > Though he helped House Von Zarovich ascend to power, St. Andral ironically remained a fierce and powerful foe of the undead for all his life. As Most High Priest of the Morninglord's church, Andral directed fierce crusades against undead that lurked in the dark places of King Barov's kingdom, rooting them out wherever they could be found.
@@ -212,6 +213,7 @@ A few moments later, the nineteen-year-old [[Non-Player Characters#Milivoj|Miliv
 > ***Morale.*** In a fight, [[Milivoj]] would brandish his shovel in an attempt to get his attacker to back down, but would quickly surrender if seriously wounded. (If defending his siblings, however, [[Milivoj]] would fiercely and gladly fight to the death.)
 >
 > ***Relationships.*** [[Milivoj]] is employed by [[Father Lucian Petrovich]], secretly works for the coffin maker [[Henrik van der Voort]], and is the eldest of nine children belonging to Oleg and Jarzinka, two dream pastry-addicted Vallakians.
+> ^Profile-Milivoj
 ## D2a. Confronting [[Milivoj]]
 Upon spotting the players, [[Milivoj]]’s face visibly falls, and he gently shakes Victoria and Vasha from his arms and sets Jirko down in Bogan’s lap. A successful DC 10 Wisdom (Insight) check reveals his body language has grown tense, and that he is shifting uncomfortably. 
 
@@ -323,6 +325,7 @@ If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta
 > ***Morale.*** In a fight, [[Volenta Popofsky|Volenta]] would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
 >
 > ***Relationships.*** [[Volenta Popofsky|Volenta]] is fanatically loyal to Strahd von Zarovich, and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+> ^Profile-Volenta-Popofsky
 
 [[Volenta Popofsky|Volenta]] uses the two vampire spawn with her as cover, placing them between her and the players. She then greets them as follows, providing them with an opportunity to respond each time:
 

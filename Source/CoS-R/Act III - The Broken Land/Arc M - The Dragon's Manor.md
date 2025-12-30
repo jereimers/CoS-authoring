@@ -256,6 +256,7 @@ The woman is Wensencia, a student of Baba Lysaga. (Players who previously encoun
 
 > [!profile]+ **Wensencia, Swamp Witch**
 > Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
+> ^Profile-Wensencia-Swamp-Witch
 
 If the players previously encountered her in [[Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
 
@@ -761,6 +762,7 @@ If the players read aloud a prayer from [[#M4c. Spiders’ Ballroom|The Oath Cel
 
 > [!profile]+ **Brother Marek**
 > In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial cheer has wizened to a dry, sarcastic cynicism, and he views the Order’s fates as damnation for their failures. However, he is not without compassion, and truly wishes the players nothing but the best—so long as they abandon their foolish efforts to stir up the spirits of Argynvostholt. Brother Marek’s spirit should make the players feel irritated, insulted, and sympathetic, and most often feels melancholy, annoyed, skeptical, bitter, resigned, bemused, or disapproving.
+> ^Profile-Brother-Marek
 
 The stained-glass man can identify himself as the spirit of Brother Marek. He can share the following information if asked:
 
@@ -867,6 +869,7 @@ The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the stai
 > ***Morale.*** In a fight, Vladimir would gladly take up arms against any person that insulted, disobeyed, or threatened him.
 > 
 > ***Relationships.*** Vladimir is the commander of the Order of the Silver Dragon, the source of the other revenants' undeath (through the oath they swore him), and the husband of Sir Godfrey Gwilym (whose relationship to him Vladimir has forgotten).
+> ^Profile-Vladimir-Horngaard
 
 Vladimir aims to interrogate the players sufficiently to confirm their purpose and uncover any inconsistencies or holes in their story. Ultimately, the players can convince Vladimir that they are neither thieves nor assassins with a successful DC 10 Charisma (Persuasion) check or DC 14 Charisma (Deception) check, automatically succeeding on a Charisma (Persuasion) check if they truthfully inform Vladimir that they are investigating the stirrings of Argynvost’s spirit. On a failure, Vladimir warns them that they have one opportunity to flee the mansion before he slays them. If the players fail to plead their case or depart, Vladimir attacks.
 

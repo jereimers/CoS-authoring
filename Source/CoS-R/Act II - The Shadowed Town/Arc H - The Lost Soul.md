@@ -902,6 +902,7 @@ The voice belongs to the **specter** of the sixteen-year-old Stella Wachter, who
 > ***Morale.*** In a fight, Stella would plead for peace, then attempt to flee.
 > 
 > ***Relationships.*** Stella is Lady Fiona Wachter's daughter and youngest child, the best (and only) friend of [[Victor Vallakovich]], and a friend of the ghost Erasmus van Richten.
+> ^Profile-Stella-Wachter
 
 The following sequence then unfolds, unless the players intervene:
 

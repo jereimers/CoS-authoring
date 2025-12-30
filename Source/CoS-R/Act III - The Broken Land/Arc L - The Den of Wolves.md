@@ -97,6 +97,7 @@ Whether the players interrupt her or allow her to finish, Bianca greets them wit
 > ***Morale.*** In a fight, Bianca would attempt to negotiate or flee, but fight savagely if cornered.
 > 
 > ***Relationships.*** Bianca is Kiril's mate and wife, and the disinherited daughter of a noble family outside of Barovia.
+> ^Profile-Bianca-Stoyanovich
 
 If the players identify themselves or Ezmerelda as the owner of the wagon, Bianca apologizes profusely for stealing from it. "I didn't mean to be a thief," she says, looking abashed. "I was just curious."
 

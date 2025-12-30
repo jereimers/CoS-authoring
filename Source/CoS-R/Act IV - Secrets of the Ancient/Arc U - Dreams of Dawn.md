@@ -133,6 +133,7 @@ Although the players might recognize them, the characters in the dream don’t r
 > ***[[Victor Vallakovich]].*** After he and Stella ended their friendship—and burgeoning relationship—Victor briefly lost himself to isolation and drink. Eventually, after a magical accident that nearly killed him, he forswore alcohol and returned to sobriety. However, Victor hasn’t returned to Vallakian society since, too wounded from Stella and the players’ “abandonment" of him to consider departing his family’s mansion once more. He has come to the Festival of Peace to pay his respects to Ireena, but has no intention of speaking with (or being noticed by) any member of the Wachter family today.
 > 
 > ***Millivoj.*** [[Milivoj]] has intentionally skipped the Festival of Peace. Embittered by the players’ “betrayal" of Barovia, he has largely withdrawn from Vallakian society, preferring instead to dedicate all of his waking hours toward caring and providing for his siblings and his own young children.
+> ^Profile-The-People-in-the-Square
 ### The Festival of Peace
 Shortly after the players arrive in the dream—preferably after they have had an opportunity to interact with their friends, realize that their friends don’t recognize them, and gain basic information about this “future"—the three Burgomasters ascend the wooden platform and begin the festival’s remembrance ceremony. Read the following, pausing occasionally to allow the players an opportunity to interject or speak amongst themselves:
 
@@ -180,6 +181,7 @@ If the players accept their mission, the burgomasters and their guards depart fr
 > ***Burgomaster Ismark Kolyanovich.*** The thirty-five-year-old Ismark has never finished mourning Ireena’s loss, but he has made his peace with it, grown past it, and set his sights on the future, rather than the past. While his efforts to rebuild the village of Barovia following [[Arc B - Welcome to Barovia]] and the Grand Conjunction have won him the loyalty and respect of his people, he often wonders whether he is suited for his role—and whether Ireena would approve of his leadership if she still lived. 
 > 
 > ***Burgomaster Ilya Krezkov.*** The twenty-three-year-old Ilya ascended to his position just six months ago, after his mother, Anna, killed his father, Dmitri, when Dmitri’s wolfsbane potion failed and he broke free of his restraints. Although he puts on a brave face in public, Ilya has struggled to overcome his grief, and to embrace his new responsibilities as Burgomaster. Ilya has come to rely deeply on his wife, the twenty-six-year-old Stella Wachter, who he fell in love with two years ago during a diplomatic visit to Vallaki, and whom he married last year.
+> ^Profile-The-Burgomasters
 
 The players can uncover the following information by asking around the town square:
 

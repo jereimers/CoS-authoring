@@ -1,10 +1,10 @@
 _An adventure for five 4th-level characters._
 
-In this arc, if the players defied [[Baron Vargas Vallakovich|the Baron]]’s will on their first morning after entering Vallaki, if they or [[Ireena]] were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of [[Baron Vargas Vallakovich|Baron Vallakovich]] with Nikolai or Karl Wachter at the [[Blue Water Inn]], the players receive a letter delivered by [[Ernst Larnak]], [[Lady Fiona Wachter]]’s courier and spy, which invites them to dine at Wachterhaus that evening.
+In this arc, if the players defied [[Baron Vargas Vallakovich|the Baron]]’s will on their first morning after entering Vallaki, if they or [[Ireena Kolyana|Ireena]] were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of [[Baron Vargas Vallakovich|Baron Vallakovich]] with Nikolai or Karl Wachter at the [[Blue Water Inn]], the players receive a letter delivered by [[Ernst Larnak]], [[Lady Fiona Wachter]]’s courier and spy, which invites them to dine at Wachterhaus that evening.
 
 When the players arrive at Wachterhaus that night, [[Lady Fiona Wachter|Lady Wachter]] welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that [[Baron Vargas Vallakovich]] is a menace who must be deposed.
 
-If [[Lady Wachter]] determines that the players are suitable allies, she asks them to kill [[Baron Vargas Vallakovich|the Baron]]’s right-hand man, [[Izek Strazni]], and to bring her his head. [[Lady Fiona Wachter|Lady Wachter]] promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
+If [[Lady Fiona Wachter|Lady Wachter]] determines that the players are suitable allies, she asks them to kill [[Baron Vargas Vallakovich|the Baron]]’s right-hand man, [[Izek Strazni]], and to bring her his head. [[Lady Fiona Wachter|Lady Wachter]] promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
 
 If the players accept [[Lady Fiona Wachter|Lady Wachter]]’s assignment, Ernst provides them with a bottle of poisoned wine for use in intoxicating Izek, as well as information that the players can use to track Izek in order to assassinate him. The players can find Izek in Vallaki’s town square, and eventually track him to the shore of Lake Zarovich, where—if the players successfully planted it—he drinks the poisoned wine.
 
@@ -16,11 +16,11 @@ If the players deliver Izek’s severed head to [[Lady Fiona Wachter|Lady Wachte
 # F1. The [[Blue Water Inn]]
 <span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
 
-If the players defied [[Baron Vargas Vallakovich|Baron Vallakovich]] or otherwise intervened in Willemina’s favor on their first morning in Vallaki, if they or [[Ireena]] visited the camp of the Barovian refugees at any point while in Vallaki, or if the players shared their dislike of [[Baron Vargas Vallakovich|Baron Vallakovich]] with Nikolai or Karl Wachter at the [[Blue Water Inn]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] delivers them an envelope upon their return to the [[Blue Water Inn]] that same night.
+If the players defied [[Baron Vargas Vallakovich|Baron Vallakovich]] or otherwise intervened in Willemina’s favor on their first morning in Vallaki, if they or [[Ireena Kolyana|Ireena]] visited the camp of the Barovian refugees at any point while in Vallaki, or if the players shared their dislike of [[Baron Vargas Vallakovich|Baron Vallakovich]] with Nikolai or Karl Wachter at the [[Blue Water Inn]], [[Non-Player Characters#Urwin Martikov|Urwin Martikov]] delivers them an envelope upon their return to the [[Blue Water Inn]] that same night.
 
 The envelope is addressed to whichever player first introduced themselves to Nikolai and Karl Wachter on the night of their first arrival or, if the players did not interact with Nikolai and Karl in the taproom, whichever player first identified themselves to the guards at Vallaki’s gates that same day.
 
-Urwin doesn’t know who the letter is from, but can tell the players that it was delivered by a scruffy-looking man wearing a muddy, but well-made brown cloak who was very insistent that the players receive it. (The man was Ernst Larnak, [[Lady Fiona Wachter|Lady Wachter]]’s spy.) 
+Urwin doesn’t know who the letter is from, but can tell the players that it was delivered by a scruffy-looking man wearing a muddy, but well-made brown cloak who was very insistent that the players receive it. (The man was [[Ernst Larnak]], [[Lady Fiona Wachter|Lady Wachter]]’s spy.) 
 
 The envelope contains the following letter, with the blank filled with the name of whichever player the envelope was addressed to:
 
@@ -31,10 +31,10 @@ The envelope contains the following letter, with the blank filled with the name 
 <p>I trust that this setting shall provide a quiet and welcoming environment to discuss matters of mutual interest and concern. My doors, as they have always been, stand open to those who wish for the best for the good people of Barovia.</p>
 <p>Should you choose to accept, simply present this invitation at the door to my estate. I gladly await your presence tomorrow evening. Until then, I remain,</p>
 <p>Sincerely yours,</p>
-<p>[[Lady Fiona Wachter]]</p>
+<p>Lady Fiona Wachter</p>
 </div>
 
-If the players ask Urwin about [[Lady Fiona Wachter|Lady Wachter]], he can share all of the information about her described in [[Vallaki Lore]] (p. 96). He can also share that, according to town legend, [[Lady Fiona Wachter|Lady Wachter]]’s parents and elder brother were killed in a mysterious accident when she was a teenager. ([[Urwin]], who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
+If the players ask [[Urwin Martikov|Urwin]] about [[Lady Fiona Wachter|Lady Wachter]], he can share all of the information about her described in [[Vallaki Lore]] (p. 96). He can also share that, according to town legend, [[Lady Fiona Wachter|Lady Wachter]]’s parents and elder brother were killed in a mysterious accident when she was a teenager. ([[Urwin Martikov|Urwin]], who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
 # F2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
@@ -50,7 +50,7 @@ Additionally, Stella's room is neither musty nor dark, and her bed is not fitted
 
 Additionally, the high shelf in <span class="citation">N4o. Master Bedroom (p. 113)</span> also holds a thirteen-inch scale model of Wachterhaus, crafted of twigs, clay, and painted thatch. The iron chest beside it still contains the bones of Leo Dilisnya, though [[Lady Fiona Wachter|Lady Wachter]] doesn't know its significance.
 
-***[[Lady Fiona Wachter|Lady Wachter]].*** [[Lady Fiona Wachter|Lady Wachter]] still has the statistics of a **priest**. However, she has a different list of prepared spells:
+***[[Lady Fiona Wachter|Lady Wachter]].*** [[Lady Fiona Wachter|Lady Wachter]] still has the statistics of a **[[Priest|priest]]**. However, she has a different list of prepared spells:
 
 * Cantrips (at will): *light, toll the dead, thaumaturgy*
 * 1st level (4 slots): *command, sanctuary, bane*
@@ -69,7 +69,7 @@ Haliq then leads the players into <span class="citation">N4b. Staircase (p. 110)
 
 Haliq then guides the players through <span class="citation">N4j. Dining Room (p. 112)</span> and invites them to take seats in <span class="citation">N4i. Parlor (p. 112)</span>. After determining which players would like glasses of wine, Haliq assures the players that [[Lady Fiona Wachter|Lady Wachter]] will be with them shortly and excuses himself.
 
-The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to <span class="citation">N4k. Den (p. 112)</span> or <span class="citation">N4h. Servants' Quarters (p. 112)</span>, they find both doors to be locked. Throughout the evening, Ernst Larnak, [[Lady Fiona Wachter|Lady Wachter]]’s spy, silently eavesdrops on the players’ conversations from the den as described in <span class="citation">N4i. Parlor (p. 112)</span>. 
+The players have a few moments to take stock of and discuss their surroundings. Should they investigate the doors to <span class="citation">N4k. Den (p. 112)</span> or <span class="citation">N4h. Servants' Quarters (p. 112)</span>, they find both doors to be locked. Throughout the evening, [[Ernst Larnak]], [[Lady Fiona Wachter|Lady Wachter]]’s spy, silently eavesdrops on the players’ conversations from the den as described in <span class="citation">N4i. Parlor (p. 112)</span>. 
 ## F2b. Meet the Wachters
 Shortly after the players arrive in the parlor, they notice that a young woman wearing slippers and a white nightgown, approximately sixteen years of age, is standing in the open doorway leading back to the staircase and front entrance. The woman appears to be staring vacantly into space toward them, but neither moves nor makes eye contact—even if approached.
 
@@ -107,6 +107,7 @@ Haliq arrives shortly thereafter bearing a tray of wine glasses for those that r
 > ***Morale.*** In a fight, [[Lady Fiona Wachter|Lady Wachter]] would attempt to negotiate or flee, seeking any means necessary to quell hostilities, up to and including outright surrender. If necessary to save her life or those of her children, however, she would fight to the death with bitter ferocity.
 >
 > ***Relationships.*** [[Lady Fiona Wachter|Lady Wachter]] is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of [[Baron Vargas Vallakovich]].
+> ^Profile-Lady-Fiona-Wachter
 ## F2c. Drinks in the Parlor
 During the following conversation, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] can share the following information:
 

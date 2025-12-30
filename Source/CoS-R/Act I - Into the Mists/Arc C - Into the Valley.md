@@ -366,6 +366,7 @@ This scene unfolds largely as described in [[Madam Eva’s Tent (p. 37)]]. After
 > ***Morale.*** In a fight, Madam Eva would calmly insist that her opponent cease their attacks, then—if her Vistani aides prove unable to stop her assailant—weaken them with the harm spell before demanding their surrender.
 >
 > ***Relationships.*** Madam Eva alone knows that she is an avatar of the Seeker.
+> ^Profile-Madam-Eva
 
 She thanks the players for making the journey to Tser Pool. If asked about Strahd’s visit, she says only that each person’s future is their own to know, and that, while her duty binds her to seek the whispers of Fate for any who invoke her name, she is bound not to reveal what she sees to anyone else.
 
@@ -401,6 +402,7 @@ Unless the players intervene, the conversation unfolds as follows:
 > Meanwhile, **Eliza**, one of Strahd’s spies, has heard that outsiders have entered the pool from beyond the Mists, and hopes to glean information about their goals, capabilities, and weaknesses. (Eliza had hoped to eavesdrop on the players’ Tarokka reading as well, but was foiled by Madam Eva’s foresight.)
 >
 > In sharp contrast to Arturi, Eliza is a cheery, excitable woman in her early thirties, always glad to insert herself into a conversation with a brash or witty comment.
+> ^Profile-Arturi-and-Eliza
 
 > [!lore]+ **The Curse of Arturi Radanavich**
 >
@@ -425,6 +427,7 @@ Unless the players intervene, the conversation unfolds as follows:
 > Arturi has often returned to Madam Eva's camp to enjoy her hospitality—but stays no longer than dusk each time. For the walking dead never rest, and Arturi dare not lead them to Tser Pool . . . 
 >
 > **Source:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
+> ^Lore-Arturis-Curse
 
 If the players make their way to the Vistani fire, Eliza—and Arturi, if he is present—introduce themselves. Eliza also asks the players’ names in return. (If asked why he has not shared a Vistani fire until recently, Arturi winces and admits only that the situation is complicated.)
 ## C4d. The Dancing Fire
@@ -866,6 +869,7 @@ This scene largely unfolds as described in [[Dream Pastries (p. 48)]], but Morga
 > ***Morale.*** In a fight, Morgantha would attempt to parlay for peace, then use her ***etherealness*** ability to escape into the Ethereal Plane if doing so appears fruitless.
 > 
 > ***Relationships.*** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
+> ^Profile-Morgantha
 
 Morgantha greets the players warmly, calling them "weary travelers," and shares her hope that the road has not been too hard on them. She freely shares the following information if asked:
 
@@ -1156,6 +1160,7 @@ When the players first arrive, the inn contains the following notable NPCs:
 > ***Morale.*** In a fight, [[Urwin Martikov|Urwin]] would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
 >
 > ***Relationships.*** [[Urwin Martikov|Urwin]] is the father of Brom and Bray Martikov and the husband of [[Danika Dorakova]]. He is also the exiled son of [[Davian Martikov]], and the beloved older brother of Adrian, Elvir, and [[Stefania Martikov]]. In addition to co-owning the [[Blue Water Inn]], [[Urwin Martikov|Urwin]] is the spymaster of the [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
+> ^Profile-Urwin-Martikov
 
 > [!profile]+ **Profile: [[Danika Dorakova]]**
 >
@@ -1174,6 +1179,7 @@ When the players first arrive, the inn contains the following notable NPCs:
 > ***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
 >
 > ***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of [[Urwin Martikov]]. In addition to co-owning the [[Blue Water Inn]], Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
+> ^Profile-Danika-Dorakova
 ### Entering the Inn
 The taproom is as described in [[Blue Water Inn#N2c. Taproom]]. However, add the following text to the end of this area's description:
 
@@ -1227,8 +1233,9 @@ If any of the players approach [[Rictavio]]'s table, [[The Brothers Wachter|Niko
 > ***Morale.*** In a fight, [[Rictavio]] would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
 >
 > ***Relationships.*** [[Rictavio]] is secretly Dr. Rudolph van Richten, the famed vampire hunter.
+> ^Profile-Rictavio
 
-After clearing his throat, [[Rictavio]] shares the following #story:
+After clearing his throat, [[Rictavio]] shares the following story:
 
 <div class="description">
 <p>The vampire Count Belasco kept his coffin, not in a crypt or keep, but in the cellar of an old, decrepit inn, which was managed by his servant, Igoron.</p>
@@ -1390,6 +1397,7 @@ As the players depart the [[Blue Water Inn]] on their first morning in Vallaki, 
 > ***Morale.*** In a fight, [[Baron Vargas Vallakovich|Vargas]] would command his dogs, Claw and Fang, as well as [[Izek Strazni]] and any present guards to seize any who oppose him. If deprived of his defenders, [[Baron Vargas Vallakovich|Vargas]] would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
 >
 > ***Relationships.*** [[Baron Vargas Vallakovich|Vargas]], the burgomaster of Vallaki, is the father of [[Victor Vallakovich]], the husband of Baroness Lydia Petrovna, the brother-in-law of [[Father Lucian Petrovich]], and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of [[Izek Strazni]], his captain of the guard and chief enforcer.
+> ^Profile-Baron-Vargas-Vallakovich
 
 > [!profile]+ **Profile: [[Izek Strazni]]**
 >
@@ -1408,6 +1416,7 @@ As the players depart the [[Blue Water Inn]] on their first morning in Vallaki, 
 > ***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
 >
 > ***Relationships.*** Izek is the adoptive "son" of [[Baron Vargas Vallakovich]], the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
+> ^Profile-Izek-Strazni
 
 If the players interrupt Willemina’s arrest, [[Baron Vargas Vallakovich|the Baron]] greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves. 
 

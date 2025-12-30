@@ -1970,6 +1970,7 @@ Otherwise, the Mountain Folk intervene at initiative count 0 of the third round 
 > ***Morale.*** In a fight, Scorilo and Como would gladly team up to defend themselves or their home—though Como would attempt to first negotiate a peace if doing so was at all possible.
 >
 > ***Relationships.*** Scorilo and Como are twin brothers, and the youngest children of the Mountain Folk cheiftess Diegia. Their elder sister, Diona, is currently away at the Amber Temple with a contingent of trusted friends, where she is proving her worthiness for the position of chieftess by enduring the Temple’s darkness and corruption.
+> ^Profile-Scorilo-and-Como
 
 When the Mountain Folk first emerge, read:
 

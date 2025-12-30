@@ -72,6 +72,7 @@ The gates of Krezk are largely as described in <span class="citation">S2. Gateho
 > ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
 > 
 > ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+> ^Profile-Baron-Dmitri-Krezkov
 
 Otherwise, rather than asking the players to secure a wagonload of wine from the Wizard of Wines, Baron Krezkov asks the players to journey to the hut of the witch Baba Lysaga in the ruins of Berez to the southeast. There, he tells them, they must beseech Baba Lysaga to perform a *scrying* spell to discern the location and condition of a particular person. 
 
@@ -258,6 +259,7 @@ Should the players approach or address him, the Abbot, without looking up from t
 > ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
 > 
 > ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+> ^Profile-The-Abbot
 
 After the players have had an opportunity to discuss and debate his question, if any are infected with the curse of werewolf lycanthropy, the Abbot's nose wrinkles. He then turns to any infected players, his brows furrowing. "Forgive me, my friend," he says, "but you bear the stench of the wolf. It is an unpleasant thing and befouls the air of this sacred place. May I remove it from you?" If the player assents, the Abbot uses his _healing touch_ to cure their lycanthropy. 
 

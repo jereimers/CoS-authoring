@@ -276,6 +276,7 @@ The players recognize the man as [[Rahadin]], Strahd’s chamberlain. The woman 
 > ***Morale.*** In a fight, Anastrasya would parlay for peace—and stab her enemy in the back as soon as an opportune moment presented itself.
 >
 > ***Relationships.*** Anastrasya is Strahd’s third-youngest bride and a former Vallakian noble from a now-extinct house.
+> ^Profile-Anastrasya-Karelova
 
 > [!profile]+ **Profile: [[Rahadin]]**
 > **Roleplaying Information**
@@ -293,6 +294,7 @@ The players recognize the man as [[Rahadin]], Strahd’s chamberlain. The woman 
 > ***Morale.*** In a fight, [[Rahadin]] would immediately draw his weapons and softly offer his opponent an opportunity to stand down—then attack mercilessly and with every strategic advantage if denied.
 >
 > ***Relationships.*** [[Rahadin]] is the chamberlain of Castle Ravenloft, the adopted brother of Strahd von Zarovich, the cousin of the dusk elf Kasimir Velikov, the son of the late dusk elf prince Erevan Löwenhart (the original owner of the blade that would later become the *Sunsword*), and the killer of the dusk elf women (excepting the **banshee** Patrina Velikovna, who was killed by her brother Kasimir).
+> ^Profile-Rahadin
 
 
 ![[anastrasya-karelova.png]]
@@ -353,6 +355,7 @@ The players recognize the man as Escher, Strahd’s **vampire spawn** consort, w
 > ***Morale.*** In a fight, Escher would seek to entreat or flee his adversary, fighting only if cornered or if grievously offended.
 > 
 > ***Relationships.*** Before becoming one of Strahd's consorts, Escher had a crush on Doru, his former best friend. He is now one of Strahd's consorts—though not formally wed to him—and an inferior member of Strahd's court.
+> ^Profile-Escher
 
 > [!profile]+ **Profile: Sasha Ivliskova**
 > **Roleplaying Information**
@@ -370,6 +373,7 @@ The players recognize the man as Escher, Strahd’s **vampire spawn** consort, w
 > ***Morale.*** In a fight, Sasha would seek to flee or entreat her adversary, fighting only if cornered by an evil or malevolent opponent.
 > 
 > ***Relationships.*** Sasha is Strahd's first bride and a secret friend to Gertruda, Doru's betrothed and Strahd's prisoner.
+> ^Profile-Sasha-Ivliskova
 
 > [!lore]+ **The Eldest Bride**
 > Nearly four hundred years ago, in his grief after losing Tatyana, Strahd lured several more women to Castle Ravenloft as described in <span class="citation">[[Rahadin]] (p. 236)</span>. All perished to his newfound thirst for blood—but only Sasha Ivliskova, whom Strahd found remarkably similar in temperament to Tatyana, retained his interest for long.
@@ -553,6 +557,7 @@ The man is the **mongrelfolk** Cyrus Belview, and is largely as described in <sp
 > ***Morale.*** In a fight, Cyrus would cower in a corner, brandishing any nearby object as an impromptu weapon but immediately surrendering if actually wounded.
 >
 > ***Relationships.*** Cyrus is the former patriarch of the Belview family and the butler of Castle Ravenloft.
+> ^Profile-Cyrus-Belview
 
 > [!abstract]+ **Talking to Cyrus**
 > If the players ask Cyrus about his life at Castle Ravenloft or the Abbot’s “perfection" and mention Clovin, Otto, and Zygfrek Belview’s curiosity, Cyrus is initially reluctant to interrupt his cooking efforts to reply to them. If the players continue to press him for a response, however, and succeed on a DC 5 Charisma (Persuasion) check, Cyrus pauses, sighs, and shakes his head before replying, “They’re good kids. Tell them I’m well and thriving."

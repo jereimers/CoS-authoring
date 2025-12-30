@@ -551,6 +551,7 @@ This room is largely as described in [[Children's Room]] (p. 215-16).
 > ***Morale.*** In a fight, Rose would plead for peace, but flee with Thorn if that proved impossible.
 >
 > ***Relationships.*** Rose is Thorn Durst's older sister, Walter Durst's half-sibling, and the eldest child of Elisabeth and Gustav Durst.
+> ^Profile-Rosavalda-Rose-Durst
 
 > [!profile]+ **Profile: Thornboldt "Thorn" Durst**
 >
@@ -569,6 +570,7 @@ This room is largely as described in [[Children's Room]] (p. 215-16).
 > ***Morale.*** In a fight, Thorn would cower and cry, pleading for Rose to rescue him.
 >
 > ***Relationships.*** Thorn is Rose Durst's younger brother, Walter Durst's half-sibling, and the youngest child of Elisabeth and Gustav Durst.
+> ^Profile-Thornboldt-Thorn-Durst
 
 In life, Rose was a budding wizard who discovered a small spellbook in her father’s library, and took great care in copying the _mending_, _light_, and _shocking grasp_ cantrips into her diary.<sup><a href="https://www.reddit.com/r/dndnext/comments/49bvms/notes_from_running_death_house/">4</a></sup>
 
