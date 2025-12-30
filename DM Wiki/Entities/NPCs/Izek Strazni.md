@@ -1,23 +1,18 @@
 ---
 type: NPC
-name: NPC Name
+name: Izek Strazni
 aliases:
-  - Alias One
-  - Alias Two
 pronouns: he/him
 race: Human
 class: Wizard
 age: 18
 gender: male
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin:
+home_base:
+current_location:
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
 arc:
-  - "[[Arc X - Title]]"
   - "[[Arc Y - Other Arc]]"
 first_appearance_session: 7
 first_appearance_date: 3 Neyavr 735
@@ -25,53 +20,83 @@ status: alive
 role_in_story: Major NPC
 statblock_source: CoS p. 231
 cr: 5
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
   - curious
   - frustrated
   - anxious
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+portrait: "[[Source/CoS-R/Act I - Into the Mists/Arc C - Into the Valley/izek-strazni.png]]"
+portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
 tags:
   - npc
+  - cos
   - vallaki
+CoS-R_ref:
+WotC_ref:
 ---
+# Who they are
 
-# Portrait
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Izek Strazni Profile
+
+## Portrait
 ![[DM Wiki/Entities/NPCs/Izek Strazni/izek-strazni.png]]
-# Profile: Izek Strazni
-## **Roleplaying Information**
-***Resonance.*** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in [[Ireena Kolyana]].
 
-***Emotions.*** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
+## Roleplaying Information
 
-***Motivations.*** Izek wants to serve [[Baron Vargas Vallakovich|the Baron]] faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
+### Resonance
+Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in [[Ireena Kolyana]].
 
-***Inspirations.*** When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
+### Emotions
+Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
 
-## **Character Information**
-***Persona.*** To the world, Izek is a cruel and brutish enforcer with a love for fire and blood.
+### Motivations
+Izek wants to serve [[Baron Vargas Vallakovich|the Baron]] faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
 
-***Morale.*** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
+### Inspirations
+When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
 
-***Relationships.*** Izek is the adoptive "son" of [[Baron Vargas Vallakovich]], the captain of [[Town of Vallaki|Vallaki]]'s town guard, a frequent customer of the toymaker [[Gadof Blinsky]], and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
+### Vocal Notes
 
-# #statblock 
-## 1st Form
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+To the world, Izek is a cruel and brutish enforcer with a love for fire and blood.
+
+### Morale
+In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
+
+### Relationships
+Izek is the adoptive "son" of [[Baron Vargas Vallakovich]], the captain of [[Town of Vallaki|Vallaki]]'s town guard, a frequent customer of the toymaker [[Gadof Blinsky]], and (unbeknownst to either of them) the biological brother of [[Ireena Kolyana]].
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
 <h2>Izek Strazni, 1st Form</h2>
 <em>Medium humanoid, neutral evil</em>
@@ -129,8 +154,6 @@ tags:
 <p><strong><em>Vengeful Strike.</em></strong> In response to taking damage from an attack or spell, Izek can move up to 15 ft. toward the attacker without provoking opportunity attacks. He can then immediately make an attack against that creature with his battleaxe.</p>
 </div>
 
-<br>
-## 2nd Form
 <div class="statblock">
 <h2>Izek Strazni, 2nd Form</h2>
 <em>Medium humanoid, neutral evil</em>
@@ -187,3 +210,10 @@ tags:
 <p><strong><em>Cinder Sparks.</em></strong> In response to taking damage from a melee attack, Izek causes the air around him to burst with swirling cinders. The attacker must succeed on a DC 13 Constitution saving throw or take 2 (1d4) fire damage and be blinded until the end of its next turn.</p>
 <p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
 </div>
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

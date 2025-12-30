@@ -1,23 +1,18 @@
 ---
 type: NPC
-name: NPC Name
+name: Gallows Speaker
 aliases:
-  - Alias One
-  - Alias Two
 pronouns: he/him
 race: Human
 class: Wizard
 age: 18
 gender: male
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin:
+home_base:
+current_location:
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
 arc:
-  - "[[Arc X - Title]]"
   - "[[Arc Y - Other Arc]]"
 first_appearance_session: 7
 first_appearance_date: 3 Neyavr 735
@@ -25,35 +20,83 @@ status: alive
 role_in_story: Major NPC
 statblock_source: CoS p. 231
 cr: 5
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
   - curious
   - frustrated
   - anxious
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+portrait: "[[gallows-speaker.png]]"
+portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
 tags:
   - npc
+  - cos
   - vallaki
+CoS-R_ref:
+WotC_ref:
 ---
+# Who they are
 
-# #statblock 
-## Speaker of the Gallows
 
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Gallows Speaker Profile
+
+## Portrait
+*No portrait available.*
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+
+
+### Morale
+
+
+### Relationships
+
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
 <h2>Speaker of the Gallows</h2>
 <em>Medium undead, neutral evil</em>
@@ -113,9 +156,6 @@ tags:
 <p><strong><em>Death's Revelation.</em></strong> In response to taking damage from a creature within range, the gallows speaker attacks that creature with its <strong><em>foretelling touch</em></strong> or <strong><em>will-o'-wisp</em></strong>.</p>
 <p><strong><em>Ghostly Step.</em></strong> In response to taking damage, the gallows speaker teleports up to 15 feet away. It can then immediately force each creature within 5 feet of its new location to make a DC 16 Wisdom saving throw. Each creature that fails the saving throw is frightened until the end of that creature's next turn.</p>
 </div>
-<br>
-
-## Ba'al Verzi Avenger
 
 <div class="statblock">
 <h2>Ba’al Verzi Avenger</h2>
@@ -177,3 +217,9 @@ tags:
 <p><strong><em>Haunting Echoes.</em></strong> In response to taking damage from a creature, the gallows speaker forces that creature to make a DC 16 Wisdom saving throw. On a failure, that creature takes 10 (4d4) psychic damage and has disadvantage on the next attack roll or ability check it makes before the start of its next turn.</p>
 </div>
 
+# Notes
+
+
+# Gallery
+![[gallows-speaker.png]]
+<!-- /DM ONLY -->

@@ -2,7 +2,7 @@
 type: NPC
 name: Urwin Martikov
 aliases:
-  - Urwin
+  - "Urwin"
 pronouns:
 race:
 class:
@@ -13,56 +13,87 @@ origin:
 home_base:
 current_location:
 factions:
-arc(s):
+arc:
 first_appearance_session:
 first_appearance_date:
 status:
+role_in_story:
+statblock_source:
 cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
 relationships:
 portrait:
 portrait_credit:
 handouts:
 tags:
-  - npc
-  - cos
-  - needs_filling
+  - "npc"
+  - "cos"
+  - "needs_filling"
 CoS-R_ref:
 WotC_ref:
 ---
-
-<!-- DM ONLY -->
-%% NPCs populate the in-game world. They always have an age, name, location, and type. They sometimes have a stat block, portrait, and interactions with players. They ideally have a two-part profile including Roleplaying Info and Character Information %%
-<!-- /DM ONLY -->
 # Who they are
+
+
 
 # What the party knows
 
+
+
 # Personality
+
+
 
 # Where we've seen them
 
+*To be updated during play.*
 
 <!-- DM ONLY -->
-# Portrait
+# Urwin Martikov Profile
+
+## Portrait
 ![[urwin-martikov.png]]
 
-# **Roleplaying Information**
-***Resonance.*** Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
+## Roleplaying Information
 
-***Emotions.*** Urwin most often feels amused, satisfied, cheerful, thoughtful, concerned, and hopeful.
+### Resonance
+Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
 
-***Motivations.*** Urwin wants to raise his children well, serve guests with hospitality and skill, and see the people of Barovia freed from Strahd’s tyranny.
+### Emotions
+Urwin most often feels amused, satisfied, cheerful, thoughtful, concerned, and hopeful.
 
-***Inspirations.*** When playing Urwin, channel Vander (Arcane), Greg Universe (Steven Universe), and Linda Belcher (Bob's Burgers).
+### Motivations
+Urwin wants to raise his children well, serve guests with hospitality and skill, and see the people of Barovia freed from Strahd’s tyranny.
 
-**Character Information**
-***Persona.*** To the world, Urwin is a kind fatherly figure, family man, and welcoming host with an ever-present twinkle in his eye. To those he trusts, Urwin is a cunning spymaster and tactician with fierce hope for the future of Barovia. Deep down, Urwin fears for his sons’ futures in a realm ruled by Strahd.
+### Inspirations
+When playing Urwin, channel Vander (Arcane), Greg Universe (Steven Universe), and Linda Belcher (Bob's Burgers).
 
-***Morale.*** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
+### Vocal Notes
 
-***Relationships.*** Urwin is the father of Brom and Bray Martikov and the husband of [[Danika Dorakova]]. He is also the exiled son of [[Davian Martikov]], and the beloved older brother of Adrian, Elvir, and Stefnia Martikov. In addition to co-owning the [[Blue Water Inn]], Urwin is the spymaster of the Keepers of the Feather.
 
-# #statblock 
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+To the world, Urwin is a kind fatherly figure, family man, and welcoming host with an ever-present twinkle in his eye. To those he trusts, Urwin is a cunning spymaster and tactician with fierce hope for the future of Barovia. Deep down, Urwin fears for his sons’ futures in a realm ruled by Strahd.
+
+### Morale
+In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
+
+### Relationships
+Urwin is the father of Brom and Bray Martikov and the husband of [[Danika Dorakova]]. He is also the exiled son of [[Davian Martikov]], and the beloved older brother of Adrian, Elvir, and Stefnia Martikov. In addition to co-owning the [[Blue Water Inn]], Urwin is the spymaster of the Keepers of the Feather.
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
     <h2>Urwin Martikov</h2>
     <em>Medium humanoid (human, shapechanger), lawful good</em>
@@ -114,4 +145,9 @@ WotC_ref:
     <h3>Reactions</h3>
 </div>
 
+# Notes
+
+
+# Gallery
+*No images available.*
 <!-- /DM ONLY -->

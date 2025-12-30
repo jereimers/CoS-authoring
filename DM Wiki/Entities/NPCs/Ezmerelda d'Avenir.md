@@ -1,77 +1,98 @@
 ---
 type: NPC
-name: NPC Name
+name: Ezmerelda d'Avenir
 aliases:
-  - Alias One
-  - Alias Two
 pronouns: he/him
 race: Human
 class: Wizard
 age: 18
 gender: male
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin:
+home_base:
+current_location:
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
 arc:
-  - "[[Arc X - Title]]"
-  - "[[Arc Y - Other Arc]]"
-first_appearance_session: 7
-first_appearance_date: 3 Neyavr 735
+first_appearance_session:
+first_appearance_date:
 status: alive
 role_in_story: Major NPC
-statblock_source: CoS p. 231
+statblock_source:
 cr: 5
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+portrait: "[[20-004.ezmerelda-d'avenir.png]]"
+portrait_credit: CoS-WotC
 handouts:
 tags:
   - npc
+  - cos
   - vallaki
+CoS-R_ref:
+WotC_ref:
 ---
+# Who they are
 
-# Profile: Ezmerelda d'Avenir
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Ezmerelda d'Avenir Profile
+
 ## Portrait
 ![[20-004.ezmerelda-d'avenir.png]]
-## **Roleplaying Information**
-***Resonance.*** Ezmerelda should inspire amusement for her irreverent sense of humor, gratitude for her cool competence, endearment for her fiery spirit in the face of adversity, and sympathy for her complicated feelings regarding Dr. Rudolph van Richten.
 
-***Emotions.*** Ezmerelda most often feels determined, thoughtful, skeptical, proud, enthusiastic, angry, amused, wary, or cautious.
+## Roleplaying Information
 
-***Motivations.*** Ezmerelda wants to save innocents from things that go "bump!" in the night, escape her parents' dark legacy, and prove herself as capable a vampire hunter as Dr. Van Richten.
+### Resonance
+Ezmerelda should inspire amusement for her irreverent sense of humor, gratitude for her cool competence, endearment for her fiery spirit in the face of adversity, and sympathy for her complicated feelings regarding Dr. Rudolph van Richten.
 
-***Inspirations.*** The Tenth Doctor (*Doctor Who*), Captain Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy the Vampire Slayer*), Malcolm Reynolds (*Firefly*)
+### Emotions
+Ezmerelda most often feels determined, thoughtful, skeptical, proud, enthusiastic, angry, amused, wary, or cautious.
 
-## **Character Information**
-***Persona.*** To the world, Ezmerelda is a cool, suave, professional monster hunter. To those she trusts, Ezmerelda is a fiery, wise-cracking, and eternally loyal friend. Deep down, Ezmerelda wonders if Dr. Van Richten thought she wasn't good enough—or if her family's crimes against him are enough to stain her legacy forever.
+### Motivations
+Ezmerelda wants to save innocents from things that go "bump!" in the night, escape her parents' dark legacy, and prove herself as capable a vampire hunter as Dr. Van Richten.
 
-***Morale.*** In a fight, Ezmerelda would move swiftly and tactically to secure an insurmountable advantage, then strike when the moment was right.
+### Inspirations
+The Tenth Doctor (*Doctor Who*), Captain Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy the Vampire Slayer*), Malcolm Reynolds (*Firefly*)
 
-***Relationships.*** Ezmerelda is the former student of Dr. Rudolph van Richten, and the daughter of the d'Avenirs who kidnapped and sold his son, Erasmus, to the vampire Baron Metus.
+### Vocal Notes
 
-# #statblock
 
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+To the world, Ezmerelda is a cool, suave, professional monster hunter. To those she trusts, Ezmerelda is a fiery, wise-cracking, and eternally loyal friend. Deep down, Ezmerelda wonders if Dr. Van Richten thought she wasn't good enough—or if her family's crimes against him are enough to stain her legacy forever.
+
+### Morale
+In a fight, Ezmerelda would move swiftly and tactically to secure an insurmountable advantage, then strike when the moment was right.
+
+### Relationships
+Ezmerelda is the former student of Dr. Rudolph van Richten, and the daughter of the d'Avenirs who kidnapped and sold his son, Erasmus, to the vampire Baron Metus.
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
     <h2>Ezmerelda d'Avenir</h2>
     <em>Medium humanoid (human), chaotic good</em>
@@ -130,3 +151,11 @@ tags:
     <h3>Bonus Actions</h3>
     <p><strong><em>Cast Spell.</em></strong> Ezmerelda casts <em>zephyr strike</em>.
 </div>
+
+# Notes
+
+
+# Gallery
+![[ezmerelda-d'avenir.png]]
+
+<!-- /DM ONLY -->

@@ -1,88 +1,103 @@
+---
+type: NPC
+name: The Brothers Wachter
+aliases:
+pronouns:
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+arc:
+first_appearance_session:
+first_appearance_date:
+status:
+role_in_story:
+statblock_source:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - "npc"
+  - "cos"
+CoS-R_ref:
+WotC_ref:
+---
+# Who they are
 
-# Portrait
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# The Brothers Wachter Profile
+
+## Portrait
 ![[the-brothers-wachter.png]]
-## Nikolai Wachter
-### **Personality**
 
-- Always _talking_, always _exaggerating_, always _puffing himself up.
-- Makes threats he absolutely does not intend to follow through on.
-- Snickers at his own jokes.
-- Loves impressing strangers; hates being ignored.
-### **Behavioral Notes**
+## Roleplaying Information
 
-- Hovering, swaggering, peacocking.
-- Hands always in motion: fiddling with his cloak, his hair, a stolen trinket.
-- Breaks eye contact as soon as someone calls his bluff.
-### **Emotional Pressure Points**
+### Resonance
 
-- Insecure about being the “heir” to nothing of value.
-- Deep fear of his mother’s cold disappointment.
-- Desperate to be seen as dangerous or important.
-### **How He Treats the PCs**
 
-- **Arden:** A mix of fear and fascination. Calls Arden “dark elf” or “knight” interchangeably because he can’t decide which is cooler.
-- **Fig:** Thinks Fig is “hilarious,” the way rich jerks find circus performers hilarious. Gets visibly nervous when Fig moves too fast.
-- **Choppy:** Low-key intimidated by Choppy’s “sorcerous” aura but pretends not to be. Calls magic “cheating.”
-- **Varnish:** Polarized reactions. Sometimes forgets he exists; sometimes treats him like a curiosity. He understands nothing about bards.
+### Emotions
 
-#needs_filling
-**Roleplaying Information**
-***Resonance.*** {{NPC}} should inspire {{emotion1}} with , {{emotion2}} for , and {{emotion3}}.
 
-***Emotions.*** {{NPC}} most often feels .
+### Motivations
 
-***Motivations.*** {{NPC}} wants to .
 
-***Inspirations.*** When playing {{NPC}}, channel .
+### Inspirations
 
-**Character Information**
-***Persona.*** To the world, . To those he trusts, . Deep down, .
 
-***Morale.*** In a fight, .
+### Vocal Notes
 
-***Relationships.*** 
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+To the world, . To those he trusts, . Deep down, .
+
+### Morale
+In a fight, .
+
+### Relationships
 ## Karl Wachter
 ### **Personality**
 
-- Withdrawn, sardonic, sharp-eyed.
-- Speaks less, but when he talks, it _hurts._
-- More wounded than wicked.
-- Shows signs of having read one (1) book and letting it change him completely.
-### **Behavioral Notes**
+### Knowledge
 
-- Leans against walls; fades into shadows.
-- Laughs softly at Nikolai’s failures more than at jokes.
-- Watches everyone with a predator’s stillness, but not a predator’s intent.
 
-### **Emotional Pressure Points**
+# Statblock
 
-- Secret guilt about the Wachter cult business—he knows it’s wrong but thinks resistance is pointless.
-- Feels overshadowed by Nikolai despite being smarter.
-- Quietly yearns for someone to treat him as a human, not an accessory to his mother.
 
-### **How He Treats the PCs**
+# Notes
 
-- **Arden:** Studies him like an animal watching a thunderstorm. Respects strength but says nothing.
-- **Fig:** Mild respect; Fig’s discipline is alien to him.
-- **Choppy:** Will absolutely ask Choppy uncomfortable questions about magic.
-- **Varnish:** Karl sees right through Varnish in a weird, unsettling way—something about the bardic facade intrigues him.
 
-#needs_filling
-**Roleplaying Information**
-***Resonance.*** {{NPC}} should inspire {{emotion1}} with , {{emotion2}} for , and {{emotion3}}.
-
-***Emotions.*** {{NPC}} most often feels .
-
-***Motivations.*** {{NPC}} wants to .
-
-***Inspirations.*** When playing {{NPC}}, channel .
-
-**Character Information**
-***Persona.*** To the world, . To those he trusts, . Deep down, .
-
-***Morale.*** In a fight, .
-
-***Relationships.***
-
-# source:
-[[Non-Player Characters]]
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

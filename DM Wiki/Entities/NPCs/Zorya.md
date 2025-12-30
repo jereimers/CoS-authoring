@@ -1,8 +1,97 @@
-[^1] First Appearance: [[Arc M - The Dragon's Manor#M4b. Steward’s Wing]]
+---
+type: NPC
+name: Zorya
+aliases:
+pronouns:
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+arc:
+first_appearance_session:
+first_appearance_date:
+status:
+role_in_story:
+statblock_source:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - "npc"
+  - "cos"
+CoS-R_ref:
+WotC_ref:
+---
+# Who they are
 
 
-# STATBLOCK_Pseudodragon Spirit
 
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Zorya Profile
+
+## Portrait
+*No portrait available.*
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+
+
+### Morale
+
+
+### Relationships
+
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
   <h2>Zorya, Pseudodragon Spirit</h2>
   <em>Tiny Undead, Neutral Good</em>
@@ -55,4 +144,9 @@
   <p><strong><em>Misty Step.</em></strong> In response to Zorya or a creature within 5 feet of her being hit or missed by an attack, Zorya casts <em>misty step</em>, bringing along up to one willing creature within 5 feet of her. A creature teleported in this way takes half damage from the triggering attack.</p>
 </div>
 
-[^1]: 
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

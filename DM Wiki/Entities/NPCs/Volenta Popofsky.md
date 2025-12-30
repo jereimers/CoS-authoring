@@ -2,7 +2,7 @@
 type: NPC
 name: Volenta Popofsky
 aliases:
-  - Volenta
+  - "Volenta"
 pronouns: he/him
 race: Undead
 class: Vampire Spawn
@@ -11,95 +11,91 @@ gender: female
 creature_type: undead
 origin: "[[K. Castle Ravenloft]]"
 home_base: "[[K. Castle Ravenloft]]"
-current_location: "[[Where They Are Now]]"
+current_location:
 factions:
   - "[[Strahd's Spies]]"
-arc(s):
+arc:
   - "[[Arc D - St. Andral's Feast]]"
 first_appearance_session:
 first_appearance_date:
 status: alive
+role_in_story:
+statblock_source:
 cr:
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+portrait:
+portrait_credit:
 handouts:
 tags:
-  - npc
-  - cos
+  - "npc"
+  - "cos"
 CoS-R_ref:
 WotC_ref:
 ---
+# Who they are
 
 
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
 # Volenta Popofsky Profile
 
 ## Portrait
-!undefined
+*No portrait available.*
 
 ## Roleplaying Information
 
 ### Resonance
-!undefined
+
 
 ### Emotions
+Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
 
 ### Motivations
+Volenta wants to impress Strahd and earn her place as foremost among his brides, to satisfy her frequent sadistic urges, and to find novel ways to cause suffering and pain through tinkering and innovation.
 
 ### Inspirations
+When playing Volenta, channel Jinx (*Arcane*), Ty Lee (*Avatar: The Last Airbender*), and Harley Quinn (*Batman*).
 
 ### Vocal Notes
 
+
 ### Signature Lines
+
 
 ## Character Information
 
 ### Persona
+To strangers, Volenta is a manic, impulsive, and trigger-happy sadist with a flair for invention and innovation.
 
 ### Morale
+In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
 
 ### Relationships
+Volenta is fanatically loyal to [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]], and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+### First Encounter
 
 ### Knowledge
 
+
 # Statblock
-
-# Notes
-
-# Gallery
-# Volenta Popofsky
-**Roleplaying Information**
-***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
-
-***Emotions.*** Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
-
-***Motivations.*** Volenta wants to impress Strahd and earn her place as foremost among his brides, to satisfy her frequent sadistic urges, and to find novel ways to cause suffering and pain through tinkering and innovation.
-
-***Inspirations.*** When playing Volenta, channel Jinx (*Arcane*), Ty Lee (*Avatar: The Last Airbender*), and Harley Quinn (*Batman*).
-
-**Character Information**
-
-***Persona.*** To strangers, Volenta is a manic, impulsive, and trigger-happy sadist with a flair for invention and innovation.
-
-***Morale.*** In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
-
-***Relationships.*** Volenta is fanatically loyal to [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]], and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
-### First Encounter
-
 <div class="statblock">
 <h2>Volenta, First Form</h2>
 <em>Medium undead, chaotic evil</em>
@@ -158,7 +154,7 @@ WotC_ref:
 <h3>Reactions</h3>
 <p><strong><em>Smokestick (1/day).</em></strong> When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
 </div>
-<br>
+
 <div class="statblock">
 <h2>Volenta, Second Form</h2>
 <em>Medium undead, chaotic evil</em>
@@ -216,9 +212,6 @@ WotC_ref:
 <p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
 <p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.
 </div>
-
-### Second Encounter
-
 
 <div class="statblock">
 <h2>Volenta, Alchemical Savant</h2>
@@ -279,7 +272,6 @@ WotC_ref:
 <p><strong><em>Acrobatic Escape.</em></strong> When an attack misses Volenta, she can use her reaction to move up to half her speed without provoking opportunity attacks.</p>
 <p><strong><em>Caustic Splash (1/day).</em></strong> When Volenta takes damage from a creature within 5 feet of her, she can use her reaction to splash that creature with caustic chemicals. The creature must make a <span class="highlight">DC 14 Dexterity saving throw</span>. On a failed save, the creature takes <span class="highlight">14 (4d6) acid damage</span> and is blinded until the end of Volenta's next turn. On a successful save, the creature takes half damage and isn't blinded.</p>
 </div>
-<br>
 
 <div class="statblock">
 <h2>Volenta, Frenzied Spawn</h2>
@@ -338,3 +330,10 @@ WotC_ref:
 <p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
 <p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.</p>
 </div>
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

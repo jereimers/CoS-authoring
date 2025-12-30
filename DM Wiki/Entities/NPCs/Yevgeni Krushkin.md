@@ -1,7 +1,97 @@
-# Yevgeni Krushkin #Profile
-## #Portrait 
+---
+type: NPC
+name: Yevgeni Krushkin
+aliases:
+pronouns:
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+arc:
+first_appearance_session:
+first_appearance_date:
+status:
+role_in_story:
+statblock_source:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - "npc"
+  - "cos"
+CoS-R_ref:
+WotC_ref:
+---
+# Who they are
+
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Yevgeni Krushkin Profile
+
+## Portrait
 ![[05-004.yevgeni-krushkin.png]]
-As described in [[Blue Water Inn#Wolf Hunters.]]
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+
+
+### Morale
+
+
+### Relationships
+
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
 <h2>Scout</h2>
 <em>Small or Medium Humanoid, Neutral</em>
@@ -47,3 +137,10 @@ As described in [[Blue Water Inn#Wolf Hunters.]]
 <p><strong><em>Shortsword.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, range 5 ft., one target. <em>Hit:</em> 5 (1d6 + 2) piercing damage.</p>
 <p><strong><em>Longbow.</em></strong> <em>Ranged Weapon Attack</em> +4 to hit, 150/600 ft., one target. <em>Hit:</em> 8 (1d8 + 2) piercing damage.</p>
 </div>
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

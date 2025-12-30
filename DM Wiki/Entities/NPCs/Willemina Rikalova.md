@@ -1,19 +1,102 @@
+---
+type: NPC
+name: Willemina Rikalova
+aliases:
+pronouns:
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+arc:
+first_appearance_session:
+first_appearance_date:
+status:
+role_in_story:
+statblock_source:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - "npc"
+  - "cos"
+CoS-R_ref:
+WotC_ref:
+---
+# Who they are
 
-# **Roleplaying Information** #needs_filling
-***Resonance.*** {{NPC}} should inspire {{emotion1}} with , {{emotion2}} for , and {{emotion3}}.
 
-***Emotions.*** {{NPC}} most often feels .
 
-***Motivations.*** {{NPC}} wants to .
+# What the party knows
 
-***Inspirations.*** When playing {{NPC}}, channel .
 
-**Character Information**
-***Persona.*** To the world, . To those she trusts, . Deep down, .
 
-***Morale.*** In a fight, .
+# Personality
 
-***Relationships.*** Mother of [[Udo Lukovich]], the man imprisoned by [[Baron Vargas Vallakovich]].
 
-# #session_notes
-Ran to help Fig when they failed their stealth check on 1 Neyavr and acted like they'd gotten hurt. Guided party to [[St. Andral's Church]].
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Willemina Rikalova Profile
+
+## Portrait
+*No portrait available.*
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+To the world, . To those she trusts, . Deep down, .
+
+### Morale
+In a fight, .
+
+### Relationships
+Mother of [[Udo Lukovich]], the man imprisoned by [[Baron Vargas Vallakovich]].
+
+### Knowledge
+
+
+# Statblock
+
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

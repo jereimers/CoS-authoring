@@ -1,23 +1,18 @@
 ---
 type: NPC
-name: NPC Name
+name: Commander Vladimir Horngaard
 aliases:
-  - Alias One
-  - Alias Two
 pronouns: he/him
 race: Human
 class: Wizard
 age: 18
 gender: male
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin:
+home_base:
+current_location:
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
 arc:
-  - "[[Arc X - Title]]"
   - "[[Arc Y - Other Arc]]"
 first_appearance_session: 7
 first_appearance_date: 3 Neyavr 735
@@ -25,61 +20,83 @@ status: alive
 role_in_story: Major NPC
 statblock_source: CoS p. 231
 cr: 5
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
+  - "curious"
+  - "frustrated"
+  - "anxious"
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+portrait:
+portrait_credit:
 handouts:
 tags:
-  - npc
-  - vallaki
+  - "npc"
+  - "cos"
+  - "vallaki"
+CoS-R_ref:
+WotC_ref:
 ---
+# Who they are
 
-# Profile: Commander Vladimir Horngaard
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Commander Vladimir Horngaard Profile
+
 ## Portrait
 ![[20-012.vladimir-horngaard.png]]
 
-## **Roleplaying Information**
-### ***Resonance.*** 
+## Roleplaying Information
+
+### Resonance
 Vladimir should inspire unease and discomfort with his suspicion and paranoia, (restrained) anger with his apathy for the plight of the Barovian people, and pity for the ways in which his rage and pain have blinded him.
 
-### ***Emotions.*** 
+### Emotions
 Vladimir most often feels suspicious, enraged, irritated, placid, stoic, or apathetic.
 
-### ***Motivations.*** 
+### Motivations
 Vladimir wants to preserve Strahd's prison in the Mists to avenge his desecration of Argynvost's corpse and the destruction of the Order of the Silver Dragon.
 
-### ***Inspirations.*** 
+### Inspirations
 When playing Vladimir, channel Stannis Baratheon (*Game of Thrones*), Frank Castle (*The Punisher*), and Rorschach (*Watchmen*).
 
-## **Character Information**
-### ***Persona.*** 
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
 To the world, Vladimir is a cruel, apathetic, and self-righteous creature consumed by vengeance and hatred.
 
-### ***Morale.*** 
+### Morale
 In a fight, Vladimir would gladly take up arms against any person that insulted, disobeyed, or threatened him.
 
-### ***Relationships.*** 
+### Relationships
 Vladimir is the commander of the Order of the Silver Dragon, the source of the other revenants' undeath (through the oath they swore him), and the husband of Sir Godfrey Gwilym (whose relationship to him Vladimir has forgotten). Resides in [[Argynvostholt]]
 
-# #statblock 
-## Vengeful Revenant
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
   <h2>Vladimir Horngaard, Vengeful Revenant</h2>
   <em>Medium undead, lawful evil</em>
@@ -140,9 +157,6 @@ Vladimir is the commander of the Order of the Silver Dragon, the source of the o
   <p><strong><em>Ghostly Command.</em></strong> In response to taking damage from an attack or spell, Vladimir conjures a phantom soldier to shield him, reducing the damage taken by half (rounded up). This ability can’t reduce Vladimir’s damage taken by more than 10.</p>
   <p><strong><em>Martial Reprisal.</em></strong> In response to taking damage from an attack or spell, Vladimir moves up to half his speed toward the attacker or caster and makes an against it with his <strong><em>+2 greatsword</em></strong> if it's within reach.</p>
 </div>
-
-## Knight of Death
-
 
 <div class="statblock">
   <h2>Vladimir Horngaard, Knight of Death</h2>
@@ -207,7 +221,9 @@ Vladimir is the commander of the Order of the Silver Dragon, the source of the o
   <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
 </div>
 
-# Other images
+# Notes
 
-# Sources
 
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

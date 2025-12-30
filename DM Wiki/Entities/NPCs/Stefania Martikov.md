@@ -1,2 +1,102 @@
-[[Non-Player Characters#Stefania Martikov]]
-* **Stefania** is five years older than Urwin. She doesn’t begrudge Urwin for the theft of the third enchanted gem, but shares Davian’s position that Urwin was most likely mistaken about what he saw. She believes that Elric’s death was a tragedy, but that he was an adult member of the Keepers of the Feather and that his choice therefore deserves respect. Stefania should make the players feel comforted and grateful, and most often feels cheerful or determined.
+---
+type: NPC
+name: Stefania Martikov
+aliases:
+pronouns:
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+arc:
+first_appearance_session:
+first_appearance_date:
+status:
+role_in_story:
+statblock_source:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - "npc"
+  - "cos"
+CoS-R_ref:
+WotC_ref:
+---
+# Who they are
+
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Stefania Martikov Profile
+
+## Portrait
+*No portrait available.*
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+
+
+### Morale
+
+
+### Relationships
+
+
+### Knowledge
+
+
+# Statblock
+
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

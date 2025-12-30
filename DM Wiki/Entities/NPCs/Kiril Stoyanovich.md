@@ -1,23 +1,18 @@
 ---
 type: NPC
-name: NPC Name
+name: Kiril Stoyanovich
 aliases:
-  - Alias One
-  - Alias Two
 pronouns: he/him
 race: Human
 class: Wizard
 age: 18
 gender: male
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin:
+home_base:
+current_location:
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
 arc:
-  - "[[Arc X - Title]]"
   - "[[Arc Y - Other Arc]]"
 first_appearance_session: 7
 first_appearance_date: 3 Neyavr 735
@@ -25,36 +20,83 @@ status: alive
 role_in_story: Major NPC
 statblock_source: CoS p. 231
 cr: 5
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
+  - "curious"
+  - "frustrated"
+  - "anxious"
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+portrait:
+portrait_credit:
 handouts:
 tags:
-  - npc
-  - vallaki
+  - "npc"
+  - "cos"
+  - "vallaki"
+CoS-R_ref:
+WotC_ref:
 ---
+# Who they are
 
-# WotC source:
-[[Non-Player Characters]]
-# Kiril Stoyanovich
 
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Kiril Stoyanovich Profile
+
+## Portrait
+*No portrait available.*
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+
+
+### Morale
+
+
+### Relationships
+
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
   <h2>Kiril, Werewolf Alpha</h2>
   <em>Large Monstrosity (Shapechanger), Chaotic Evil</em>
@@ -115,7 +157,6 @@ tags:
     <p><strong><em>Bite.</em></strong> In response to being hit by an attack made by a creature within 5 feet, Kiril attacks that creature with his bite.</p>
   </strong>
 </div>
-<br>
 
 <div class="statblock">
   <h2>Kiril, Mutant Lycan</h2>
@@ -174,3 +215,10 @@ tags:
   <p><strong><em>Rend.</em></strong> In response to a creature moving within his reach, Kiril attacks it with his claws. If the attack misses, that creature has advantage on its next attack against Kiril before the start of its next turn.</p>
   <p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach, Kiril forces that creature to make a DC 18 Strength saving throw. On a failure, that creature is knocked prone and either shoved 20 feet away or grappled (Kiril's choice).</p>
 </div>
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

@@ -1,7 +1,97 @@
-# WotC source:
-[[Non-Player Characters]]
-# Patrina
+---
+type: NPC
+name: Patrina
+aliases:
+pronouns:
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+arc:
+first_appearance_session:
+first_appearance_date:
+status:
+role_in_story:
+statblock_source:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - "npc"
+  - "cos"
+CoS-R_ref:
+WotC_ref:
+---
+# Who they are
 
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Patrina Profile
+
+## Portrait
+*No portrait available.*
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+
+
+### Morale
+
+
+### Relationships
+
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
   <h2>Patrina, Vengeful Wraith</h2>
   <em>Medium undead, neutral evil</em>
@@ -71,7 +161,6 @@
   <p><strong><em>Amber Tentacle (2/round).</em></strong> <strong>Trigger:</strong> Patrina takes damage from a creature she can see within <span class="highlight">30 feet</span>. <strong>Effect:</strong> Patrina makes an <strong><em>amber tentacle</em></strong> attack against that creature.</p>
 </div>
 
-
 <div class="statblock">
   <h2>Patrina, Half-Lich</h2>
   <em>Medium undead, neutral evil</em>
@@ -137,3 +226,10 @@
   <p><strong><em>Vile Teleport (1/Round).</em></strong> <em>Trigger:</em> A creature Patrina can see within <span class="highlight">30 feet</span> ends its turn. <em>Effect:</em> Patrina teleports up to <span class="highlight">30 feet</span> toward or away from that creature. She can cause each creature within <span class="highlight">5 feet</span> of her destination space to take <span class="highlight">10 (3d6) necrotic damage</span>.</p>
   <p><strong><em>Fell Rebuke.</em></strong> <em>Trigger:</em> Patrina is hit by an attack. <em>Effect:</em> Patrina utters a fell word, dealing <span class="highlight">10 (3d6) necrotic damage</span> to the attacker. She then teleports up to <span class="highlight">30 feet</span> to an unoccupied space she can see, along with any equipment she is wearing or carrying.</p>
 </div>
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

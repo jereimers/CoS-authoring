@@ -1,35 +1,98 @@
 ---
+type: NPC
+name: Muriel Vinshaw
 aliases:
-  - Blue-Winged Raven
+  - "Blue-Winged Raven"
+pronouns:
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+arc:
+first_appearance_session:
+first_appearance_date:
+status:
+role_in_story:
+statblock_source:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - "npc"
+  - "cos"
+CoS-R_ref:
+WotC_ref:
 ---
+# Who they are
 
-[^1] First narrative appearance: [[Arc B - Welcome to Barovia#B5a. The Barricade]]
-# Portrait
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Muriel Vinshaw Profile
+
+## Portrait
 ![[muriel-vinshaw.png]]
-# **Roleplaying Information**
-## ***Resonance.*** 
+
+## Roleplaying Information
+
+### Resonance
 Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
 
-## ***Emotions.*** 
+### Emotions
 Muriel most often feels curious, excited, determined, triumphant, gleeful, amused, angry, or sad.
 
-## ***Motivations.*** 
+### Motivations
 Muriel wants to honor Elric's life through her resistance to Strahd and make a difference in the everyday lives of Barovians in her capacity as a field agent for the Keepers of the Feather.
 
-## ***Inspirations.*** 
+### Inspirations
 When playing Muriel, channel Amethyst (*Steven Universe*), Sokka (*Avatar: the Last Airbender*), and Peter Parker (*Spider-Man*).
 
-# **Character Information**
-## ***Persona.*** 
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
 To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. To those she trusts, Muriel is a determined field agent for the Keepers of the Feather, with a strong sense of justice and a fierce independent streak. Deep down, Muriel is still grieving the death of her fiancé, Elric Martikov, and wonders whether she'll ever fix what his death broke inside of her.
 
-## ***Morale.*** 
+### Morale
 In a fight, Muriel would gladly pull out her shortsword or crossbow and dare her opponent to strike first, fleeing only if her regeneration were blocked or outmatched.
 
-## ***Relationships.*** 
+### Relationships
 Muriel is an agent of the Keepers of the Feather under [[Davian Martikov]], a contact and ally of Keeper spymaster [[Urwin Martikov]], and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
 
-# STATBLOCK_Muriel Vinshaw
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
     <h2>Muriel Vinshaw</h2>
     <em>Medium humanoid (human, shapechanger), chaotic good</em>
@@ -83,5 +146,9 @@ Muriel is an agent of the Keepers of the Feather under [[Davian Martikov]], a co
     <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
 </div>
 
-# Images
+# Notes
+
+
+# Gallery
 ![[blue-winged-raven-noir.png]]
+<!-- /DM ONLY -->

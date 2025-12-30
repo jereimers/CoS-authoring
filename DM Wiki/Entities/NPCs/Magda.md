@@ -1,16 +1,104 @@
-# Profile: Magda #needs_filling
-**Roleplaying Information**
-***Resonance.*** {{NPC}} should inspire {{emotion1}} with , {{emotion2}} for , and {{emotion3}}.
+---
+type: NPC
+name: Magda
+aliases:
+pronouns:
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+  - "[[Barovian Villagers]]"
+arc:
+  - "[[Arc C - Into the Valley]]"
+first_appearance_session: -2
+first_appearance_date:
+status:
+role_in_story:
+statblock_source:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - npc
+  - cos
+CoS-R_ref:
+WotC_ref:
+---
+# Who they are
 
-***Emotions.*** {{NPC}} most often feels .
 
-***Motivations.*** {{NPC}} wants to .
 
-***Inspirations.*** When playing {{NPC}}, channel .
+# What the party knows
 
-**Character Information**
-***Persona.*** To the world, . To those he trusts, . Deep down, .
 
-***Morale.*** In a fight, .
 
-***Relationships.*** 
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Magda Profile
+
+## Portrait
+*No portrait available.*
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+To the world, . To those he trusts, . Deep down, .
+
+### Morale
+In a fight, .
+
+### Relationships
+
+
+### Knowledge
+
+
+# Statblock
+
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

@@ -1,71 +1,109 @@
 ---
 type: NPC
-name: NPC Name
+name: Father Donavich
 aliases:
-  - Alias One
-  - Alias Two
+  - Donavich
 pronouns: he/him
 race: Human
-class: Wizard
-age: 18
+class: Acolyte
+age: 45
 gender: male
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin: "[[Village of Barovia]]"
+home_base: "[[Church]]"
+current_location: "[[Church]]"
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
+  - "[[Church of the Morninglord]]"
 arc:
-  - "[[Arc X - Title]]"
-  - "[[Arc Y - Other Arc]]"
-first_appearance_session: 7
-first_appearance_date: 3 Neyavr 735
+  - "[[Arc B - Welcome to Barovia]]"
+first_appearance_session: -3
+first_appearance_date: 28 Octyavr 735
 status: alive
-role_in_story: Major NPC
-statblock_source: CoS p. 231
-cr: 5
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+statblock_source: "[[Source/5e-database/obsidian_output/Monsters/Acolyte|acolyte]]"
+cr: 0.25
+resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+  - "[[Church of the Morninglord]]"
+  - "[[Doru]]"
+portrait: "[[03-005.donavich.png]]"
+portrait_credit: CoS-WotC
 handouts:
 tags:
   - npc
+  - cos
   - vallaki
+CoS-R_ref: "[[Arc B - Welcome to Barovia#^Profile-Father-Donavich]]"
+WotC_ref:
+  - "[[04_Chapter 3 - The Village of Barovia#E5f. Chapel]]"
 ---
+# Who they are
+![[03-005.donavich.png]]
 
-# WotC source:
-[[Non-Player Characters]]
-# Father Donavich
-**Roleplaying Information**
-***Resonance.*** Donavich should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of Doru’s undead nature.
 
-***Emotions.*** In his current state, Donavich most often feels grief, guilt, exhaustion, compassion, and obsession. If reconciled with Doru, he most often feels hope, relief, gratitude, confusion, fear, and shame.
+# What the party knows
 
-***Motivations.*** Father Donavich wants to free his son from Strahd’s clutches—at any cost.
 
-***Inspirations.*** When playing Father Donavich, channel Eddard Stark (Game of Thrones), Walter White (Breaking Bad), and Boromir (The Lord of the Rings).
 
-**Character Information**
-***Persona.*** To the world, Father Donavich is a grieving, yet zealous father. To those he trusts, Donavich is a broken man adrift in the world, lost and confused without guidance or purpose.
+# Personality
+- A grieving, yet zealous father.
+- Wracked with guilt over his son's affliction and his separation from [[The Morninglord]]
 
-***Morale.*** In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
 
-***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
+# Where we've seen them
+- 
+
+
+<!-- DM ONLY -->
+# Father Donavich Profile
+
+## Portrait
+
+
+## Roleplaying Information
+
+### Resonance
+Donavich should inspire sympathy for his sorrow and fears, pity for his separation from the Morninglord, endearment for his kindness and hospitality, and discomfort for his zealous condemnation of Doru’s undead nature.
+
+### Emotions
+In his current state, Donavich most often feels grief, guilt, exhaustion, compassion, and obsession. If reconciled with [[Doru]], he most often feels hope, relief, gratitude, confusion, fear, and shame.
+
+### Motivations
+Father Donavich wants to free his son from [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]]’s clutches—at any cost.
+
+### Inspirations
+When playing Father Donavich, channel Eddard Stark (Game of Thrones), Walter White (Breaking Bad), and Boromir (The Lord of the Rings).
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+To the world, Father Donavich is a grieving, yet zealous father. To those he trusts, Donavich is a broken man adrift in the world, lost and confused without guidance or purpose.
+
+### Morale
+In a fight, Father Donavich would ordinarily fight to defend his people and church. In his current state, however, he would immediately surrender, too wracked with guilt to even defend his own life.
+
+### Relationships
+Father Donavich is Doru’s father and the priest of the Barovian church.
+
+### Knowledge
+
+
+# Statblock
+
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

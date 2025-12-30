@@ -1,23 +1,18 @@
 ---
 type: NPC
-name: NPC Name
+name: Baba Lysaga
 aliases:
-  - Alias One
-  - Alias Two
 pronouns: he/him
 race: Human
 class: Wizard
 age: 18
 gender: male
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin:
+home_base:
+current_location:
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
 arc:
-  - "[[Arc X - Title]]"
   - "[[Arc Y - Other Arc]]"
 first_appearance_session: 7
 first_appearance_date: 3 Neyavr 735
@@ -25,36 +20,83 @@ status: alive
 role_in_story: Major NPC
 statblock_source: CoS p. 231
 cr: 5
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
+  - "curious"
+  - "frustrated"
+  - "anxious"
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+portrait:
+portrait_credit:
 handouts:
 tags:
-  - npc
-  - vallaki
+  - "npc"
+  - "cos"
+  - "vallaki"
+CoS-R_ref:
+WotC_ref:
 ---
+# Who they are
 
-# WotC source:
-[[Non-Player Characters]]
-# Baba Lysaga
 
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Baba Lysaga Profile
+
+## Portrait
+*No portrait available.*
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+
+
+### Morale
+
+
+### Relationships
+
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
   <h2>Baba Lysaga, Witch Mother</h2>
   <em>Medium humanoid (human, shapechanger), chaotic evil</em>
@@ -171,5 +213,9 @@ tags:
   <p><strong><em>Swampwalk (1/round).</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Swampwalk.</p>
   <p><strong><em>Grasping Vine.</em></strong> <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Baba Lysaga uses her Grasping Vine against that creature.</p></div>
 
-> [!info]+ **Grasping Vine**
-> Baba Lysaga’s *grasping vine* spell uses the base statistics provided in the 2024 Player’s Handbook, rather than those provided in the 2014 *Player’s Handbook*.
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

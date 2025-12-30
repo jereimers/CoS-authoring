@@ -1,6 +1,6 @@
 ---
 type: NPC
-name: NPC Name
+name: Ireena Kolyana
 aliases:
   - Ireena
   - Lady Kolyana
@@ -10,66 +10,98 @@ class: Expert
 age: 18
 gender: female
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin: "[[Town of Vallaki|Vallaki]]"
+home_base: "[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster's Mansion]]"
+current_location: with party
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
 arc:
-first_appearance_session: 7
+first_appearance_session: 3
 first_appearance_date: 3 Neyavr 735
 status: alive
 role_in_story: Major NPC
-statblock_source: CoS p. 231
+statblock_source:
 cr: 5
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
   - curious
   - frustrated
   - anxious
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+  - "[[Ismark Kolyanovich]]"
+  - "[[Kolyan Indirovich]]"
+  - "[[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd von Zarovich]]"
+portrait: "[[03-004.ireena.png]]"
+portrait_credit: CoS-WotC
 handouts:
 tags:
   - npc
+  - cos
   - vallaki
+CoS-R_ref: "[[Ireena Kolyana#Ireena Kolyana Profile]]"
+WotC_ref:
+  - "[[04_Chapter 3 - The Village of Barovia#Roleplaying Ireena]]"
 ---
+# Who they are
 
-# Portrait
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Ireena Kolyana Profile
+
+## Portrait
 ![[ireena-kolyana.png]]
-# Profile: Ireena Kolyana
-## **Roleplaying Information**
-***Resonance.*** Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
 
-***Emotions.*** Ireena most often feels curious, thoughtful, melancholy, guilty, stubborn, joyful, determined, defiant, and anxious.
+## Roleplaying Information
 
-***Motivations.*** Ireena wants to keep her fellow Barovians and Ismark safe, honor her parents' memory, learn new stories, and one day explore distant lands.
+### Resonance
+Ireena should inspire flattery with her genuine interest in the players' goals and interests, sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving forward, and gratitude for her efforts to help the players succeed.
 
-***Inspirations.*** When playing Ireena, channel Belle (Beauty and the Beast), Elizabeth Swann (Pirates of the Caribbean), Eowyn (Lord of the Rings), Hermione Granger (Harry Potter), and Katniss Everdeen (The Hunger Games).
+### Emotions
+Ireena most often feels curious, thoughtful, melancholy, guilty, stubborn, joyful, determined, defiant, and anxious.
 
-## **Character Information**
-***Persona.*** To the world, Ireena is a compassionate, curious, yet stubborn young noblewoman. To those she trusts, Ireena is an anxious, yet determined young woman who dreams of freedom and adventure. Deep down, Ireena wonders whether giving herself up to Strahd would be the best way to protect those she loves.
+### Motivations
+Ireena wants to keep her fellow Barovians and Ismark safe, honor her parents' memory, learn new stories, and one day explore distant lands.
 
-***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
+### Inspirations
+When playing Ireena, channel Belle (Beauty and the Beast), Elizabeth Swann (Pirates of the Caribbean), Eowyn (Lord of the Rings), Hermione Granger (Harry Potter), and Katniss Everdeen (The Hunger Games).
 
-***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the (unknowing) reincarnation of Tatyana Federovna.
+### Vocal Notes
+Barovian/Eastern European accent.
 
-# #statblock 
+### Signature Lines
 
+
+## Character Information
+
+### Persona
+To the world, Ireena is a compassionate, curious, yet stubborn young noblewoman. To those she trusts, Ireena is an anxious, yet determined young woman who dreams of freedom and adventure. Deep down, Ireena wonders whether giving herself up to Strahd would be the best way to protect those she loves.
+
+### Morale
+In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
+
+### Relationships
+Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the (unknowing) reincarnation of Tatyana Federovna.
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
 <h2>Ireena Kolyana</h2>
 <em>Medium humanoid, lawful good</em>
@@ -122,6 +154,9 @@ tags:
 <p><strong><em>Parry.</em></strong> <i>Trigger:</i> Ireena is hit by a melee attack while holding a weapon. <i>Response:</i> Ireena adds 2 to her AC against that attack, possibly causing it to miss.
 </div>
 
-# Images
+# Notes
 
+
+# Gallery
 ![[ireena-at-lugdana's-knoll.png]]
+<!-- /DM ONLY -->

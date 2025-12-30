@@ -1,23 +1,18 @@
 ---
 type: NPC
-name: NPC Name
+name: Danika Dorakova
 aliases:
-  - Alias One
-  - Alias Two
 pronouns: he/him
 race: Human
 class: Wizard
 age: 18
 gender: male
 creature_type: humanoid
-origin: "[[Location or Region]]"
-home_base: "[[Primary Location]]"
-current_location: "[[Where They Are Now]]"
+origin:
+home_base:
+current_location:
 factions:
-  - "[[Faction or Family A]]"
-  - "[[Faction or Group B]]"
 arc:
-  - "[[Arc X - Title]]"
   - "[[Arc Y - Other Arc]]"
 first_appearance_session: 7
 first_appearance_date: 3 Neyavr 735
@@ -25,50 +20,88 @@ status: alive
 role_in_story: Major NPC
 statblock_source: CoS p. 231
 cr: 5
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
+  - "curious"
+  - "frustrated"
+  - "anxious"
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+portrait:
+portrait_credit:
 handouts:
 tags:
-  - npc
-  - vallaki
+  - "npc"
+  - "cos"
+  - "vallaki"
+CoS-R_ref:
+WotC_ref:
 ---
+# Who they are
 
-# Profile: Danika Dorakova
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Danika Dorakova Profile
+
 ## Portrait
 ![[danika-dorakova.png]]
 
-## **Roleplaying Information**
-***Resonance.*** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
+## Roleplaying Information
 
-***Emotions.*** Danika most often feels fond, satisfied, congenial, determined, defiant, and affectionate.
+### Resonance
+Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
 
-***Motivations.*** Danika wants to keep her family safe, run a successful business, and ensure that her children one day see sunlight over Barovia.
+### Emotions
+Danika most often feels fond, satisfied, congenial, determined, defiant, and affectionate.
 
-***Inspirations.*** When playing Danika, channel Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers), and Garnet (Steven Universe).
+### Motivations
+Danika wants to keep her family safe, run a successful business, and ensure that her children one day see sunlight over Barovia.
 
-## **Character Information**
-***Persona.*** To the world, Danika is a practical, no-nonsense businesswoman with a heart of gold. To those she trusts, Danika is a fierce mother with a deep dedication to the Martikov clan. Deep down, Danika is grimly prepared to defend those she loves—at any cost necessary.
+### Inspirations
+When playing Danika, channel Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers), and Garnet (Steven Universe).
 
-***Morale.*** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
+### Vocal Notes
 
-***Relationships.*** Danika is the mother of Brom and Bray Martikov and the wife of [[Urwin Martikov]]. In addition to co-owning the [[Blue Water Inn]], Danika is a high-ranking member of the Keepers of the Feather.
 
-# sources
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+To the world, Danika is a practical, no-nonsense businesswoman with a heart of gold. To those she trusts, Danika is a fierce mother with a deep dedication to the Martikov clan. Deep down, Danika is grimly prepared to defend those she loves—at any cost necessary.
+
+### Morale
+In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
+
+### Relationships
+Danika is the mother of Brom and Bray Martikov and the wife of [[Urwin Martikov]]. In addition to co-owning the [[Blue Water Inn]], Danika is a high-ranking member of the Keepers of the Feather.
+
+### Knowledge
+
+
+# Statblock
+
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

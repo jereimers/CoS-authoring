@@ -2,8 +2,8 @@
 type: NPC
 name: Bildrath Cantemir
 aliases:
-  - Bildrath
-  - Uncle Bill
+  - "Bildrath"
+  - "Uncle Bill"
 pronouns: he/him
 race: Human
 class:
@@ -15,69 +15,91 @@ home_base: "[[Bildrath's Mercantile]]"
 current_location: "[[Cemetery]]"
 factions:
   - "[[Barovian Villagers]]"
-arc(s):
+arc:
 first_appearance_session: 3
 first_appearance_date: 3 Neyavr 735
 status: dead
+role_in_story:
+statblock_source:
 cr:
-resonance: |
-  One- or two-sentence reminder of how the NPC should feel to the players.
+resonance:
 emotions:
 motivations:
-  - Primary driving goal
-  - Secondary goal or fear
 inspirations:
-  - Name (Source)
-  - Name (Source)
-vocal_notes: |
-  Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
-  - Favorite line or catchphrase.
-  - Another line you might improv from.
 relationships:
-portrait: IMG-somefile.png
-portrait_credit: Artist name / source
+portrait:
+portrait_credit:
 handouts:
 tags:
-  - npc
-  - cos
+  - "npc"
+  - "cos"
 CoS-R_ref:
 WotC_ref:
 ---
+# Who they are
 
 
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
 # Bildrath Cantemir Profile
 
 ## Portrait
-!undefined
+*No portrait available.*
 
 ## Roleplaying Information
 
 ### Resonance
-!undefined
+
 
 ### Emotions
 
+
 ### Motivations
+
 
 ### Inspirations
 
+
 ### Vocal Notes
 
+
 ### Signature Lines
+
 
 ## Character Information
 
 ### Persona
 
+
 ### Morale
+
 
 ### Relationships
 
+
 ### Knowledge
 
+
 # Statblock
+# Notes
 
 # Notes
 
+
 # Gallery
+*No images available.*
+<!-- /DM ONLY -->

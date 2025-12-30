@@ -1,5 +1,5 @@
 ---
-npc: true
+type: NPC
 name: Baron Vargas Vallakovich
 aliases:
   - Vargas
@@ -27,7 +27,6 @@ arc:
 first_appearance_session: 10
 first_appearance_date: 3 Neyavr 735
 status: alive
-role_in_story: Major NPC
 statblock_source:
 cr: 2
 resonance: Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
@@ -45,7 +44,7 @@ inspirations:
   - Lord Farquaad (Shrek)
   - Joffrey Baratheon (Game of Thrones)
   - Governor Ratcliffe (Pocahontas)
-vocal_notes: Short description of voice, cadence, physical tics.
+vocal_notes:
 signature_lines:
   - All will be well!
 relationships:
@@ -59,38 +58,77 @@ tags:
   - vallaki
   - cos
   - noble
+CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Baron-Vargas-Vallakovich]]"
+WotC_ref:
+  - "[[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family]]"
 ---
+# Who they are
 
-# Portrait
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Baron Vargas Vallakovich Profile
+
+## Portrait
 ![[baron-vargas-vallakovich.png]]
-# Profile: Baron Vargas Vallakovich
-## **Roleplaying Information**
-### ***Resonance.*** 
+
+## Roleplaying Information
+
+### Resonance
 Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
 
-### ***Emotions.*** 
+### Emotions
 Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
 
-### ***Motivations.*** 
+### Motivations
 Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
 
-### ***Inspirations.*** 
+### Inspirations
 When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
 
-## **Character Information**
-### ***Persona.*** 
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
 To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
 
-### ***Morale.*** 
+### Morale
 In a fight, Vargas would command his dogs, Claw and Fang, as well as [[Izek Strazni]] and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
 
-### ***Relationships.*** 
+### Relationships
 Vargas, the burgomaster of Vallaki, is the father of [[Victor Vallakovich]], the husband of Baroness Lydia Petrovna, the brother-in-law of [[Father Lucian Petrovich]], and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of [[Izek Strazni]], his captain of the guard and chief enforcer.
 
-###  ***Knowledge***
+### Knowledge
 Can share with players during scene in his library:
 * For the past two months, a spirit has haunted the Vallakovich mansion. 
 * Servants have seen its reflection in mirrors or darkened windows, and have reported cold drafts, strange sounds, and objects that move of their own volition.
 * The mansion’s butler and the baroness' lady-in-waiting have already left the Baron's employment, too fearful of the ghost to continue working in the house.
 * The Baron’s wife, Baroness Lydia Petrovna, hosts daily lunches for a group of Vallakian women, who Vargas uses to prepare costumes and decorations for his weekly festivals. Vargas is desperate to ensure that the women remain ignorant of the spirit’s existence.
 * The Baron's cook, a doughty woman named Tereska, has seen the spirit most recently, and nearly quit her job before the Baron convinced her to stay by (reluctantly) increasing her pay.
+
+# Statblock
+
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->

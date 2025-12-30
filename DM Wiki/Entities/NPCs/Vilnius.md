@@ -1,7 +1,97 @@
-# WotC source:
-[[Non-Player Characters]]
-# Vilnius
+---
+type: NPC
+name: Vilnius
+aliases:
+pronouns:
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+arc:
+first_appearance_session:
+first_appearance_date:
+status:
+role_in_story:
+statblock_source:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - "npc"
+  - "cos"
+CoS-R_ref:
+WotC_ref:
+---
+# Who they are
 
+
+
+# What the party knows
+
+
+
+# Personality
+
+
+
+# Where we've seen them
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Vilnius Profile
+
+## Portrait
+*No portrait available.*
+
+## Roleplaying Information
+
+### Resonance
+
+
+### Emotions
+
+
+### Motivations
+
+
+### Inspirations
+
+
+### Vocal Notes
+
+
+### Signature Lines
+
+
+## Character Information
+
+### Persona
+
+
+### Morale
+
+
+### Relationships
+
+
+### Knowledge
+
+
+# Statblock
 <div class="statblock">
   <h2>Vilnius, First Prisoner</h2>
   <em>Medium undead, neutral evil</em>
@@ -68,3 +158,10 @@
   <p><strong><em>Illusionist’s Trick.</em></strong> <em>Trigger:</em> A creature attacks or casts a spell targeting Vilnius, one of his allies, or an illusion resembling them. <em>Response:</em> If the target is an illusion identical to one of Vilnius’s allies, or an ally identical to one of his illusions, the two swap places, as though teleported by a <em>misty step</em> spell.</p>
   <p><strong><em>Horrifying Visage (1/Day).</em></strong> <em>Trigger:</em> Vilnius takes damage from a creature he can see. <em>Effect:</em> Each non-undead creature of Vilnius’s choice within <span class="highlight">30 feet</span> must make a <span class="highlight">DC 16 Wisdom saving throw</span> or be <span class="highlight">frightened</span> for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</p>
 </div>
+
+# Notes
+
+
+# Gallery
+*No images available.*
+<!-- /DM ONLY -->
