@@ -1,72 +1,9 @@
----
-type: NPC
-name: Volenta Popofsky
-aliases:
-  - "Volenta"
-pronouns: he/him
-race: Undead
-class: Vampire Spawn
-age:
-gender: female
-creature_type: undead
-origin: "[[K. Castle Ravenloft]]"
-home_base: "[[K. Castle Ravenloft]]"
-current_location:
-factions:
-  - "[[Strahd's Spies]]"
-arc:
-  - "[[Arc D - St. Andral's Feast]]"
-first_appearance_session:
-first_appearance_date:
-status: alive
-role_in_story:
-statblock_source:
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
-tags:
-  - "npc"
-  - "cos"
-CoS-R_ref:
-WotC_ref:
----
-# Who they are
+![[Entities/Areas/K. Castle Ravenloft/K86. Strahd's Tomb|K86. Strahd's Tomb]]
+# Volenta Popofsky
+**Roleplaying Information**
+***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
 
-
-
-# What the party knows
-
-
-
-# Personality
-
-
-
-# Where we've seen them
-
-*To be updated during play.*
-
-<!-- DM ONLY -->
-# Volenta Popofsky Profile
-
-## Portrait
-*No portrait available.*
-
-## Roleplaying Information
-
-### Resonance
-
-
-### Emotions
-Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
+***Emotions.*** Volenta most often feels amused, curious, irritated, bored, fascinated, enraged, and gleeful.
 
 ### Motivations
 Volenta wants to impress Strahd and earn her place as foremost among his brides, to satisfy her frequent sadistic urges, and to find novel ways to cause suffering and pain through tinkering and innovation.
@@ -90,12 +27,11 @@ In a fight, Volenta would gleefully relish the opportunity to test her custom-ma
 
 ### Relationships
 Volenta is fanatically loyal to [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]], and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+***Relationships.*** Volenta is fanatically loyal to [[Strahd von Zarovich]], and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+# #statblock
 ### First Encounter
+![[volenta_first_form.png]]
 
-### Knowledge
-
-
-# Statblock
 <div class="statblock">
 <h2>Volenta, First Form</h2>
 <em>Medium undead, chaotic evil</em>
@@ -154,6 +90,8 @@ Volenta is fanatically loyal to [[Source/CoS-R/Chapter 2 - The Land of Barovia/S
 <h3>Reactions</h3>
 <p><strong><em>Smokestick (1/day).</em></strong> When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
 </div>
+<br>
+![[volenta_second_form.png]]
 
 <div class="statblock">
 <h2>Volenta, Second Form</h2>
