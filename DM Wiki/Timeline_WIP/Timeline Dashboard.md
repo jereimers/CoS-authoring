@@ -2,7 +2,6 @@
 type: dashboard
 tags:
   - dashboard/timeline
-  - "#ai_generated"
 ---
 
 # Barovian Timeline Dashboard
