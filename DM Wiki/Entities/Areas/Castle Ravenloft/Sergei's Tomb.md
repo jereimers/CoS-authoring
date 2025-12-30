@@ -1,0 +1,77 @@
+---
+type: Area
+name: Sergei's Tomb
+aliases:
+area_code: K85
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# K85. Sergei's Tomb
+
+A portcullis is closed in the archway into this tomb. Lifting it requires a successful DC 25 Strength check.
+
+White marble steps descend to a tomb that has a vaulted ceiling thirty feet overhead. A stillness—a calm amid the storm—is felt here. In the center of the tomb, a white marble slab supports an intricately inlaid coffin. Chiseled into the slab is a name: Sergei von Zarovich. To the north, behind the coffin, are three alcoves. A beautifully
+
+%% --- Page 127 --- %%
+
+carved statue stands in each alcove—a stunning young man flanked by two angels—looking as polished and new as the day each was placed there. An iron lever protrudes from the south wall, west of the tomb's entrance.
+
+Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis.
+
+The coffin opens easily to the touch of a lawful good creature. Otherwise, opening it requires a successful DC 15 Strength check. Sergei's flesh has been magically preserved, and at first glance it looks like he is sleeping in his casket.
+
+## Treasure
+
+Sergei's embalmed body is clothed in shining *+2 plate armor*.
+
+## Fortunes of Ravenloft
+
+If your card reading reveals that a treasure is here, it is inside the coffin next to Sergei's body.
+
+If your card reading indicates an encounter with Strahd in this area, he is lying across Sergei's coffin, weeping.
+<!-- /DM ONLY -->

@@ -1,0 +1,69 @@
+---
+type: Area
+name: Architect's Room
+aliases:
+area_code: X20
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# X20. Architect's Room 
+
+Dominating this room is a twelve-foot-tall model of a dark castle with high walls and tall spires. Behind it, tucked in a corner, are some ruined furnishings and a wooden chest.
+
+In the months leading up to the construction of Castle Ravenloft, this room was occupied by the castle's architect, a wizard named Artimus. He built a scale model of the castle out of magically sculpted rock. Anyone who has seen the castle recognizes this replica for what it is.
+
+The ceiling here is 15 feet high. A secret door in the south wall can be pulled open to a staircase landing (area X21).
+
+## Treasure
+
+The wooden chest contains an old map case in which Artimus kept floor plans of Castle Ravenloft, but the maps were lost long ago. The chest has a false bottom that can be found with a successful DC 10 Wisdom (Perception) check. Inside the hidden compartment is a tome of understanding.
+
+## Fortunes of Ravenloft
+
+If your card reading reveals that a treasure is here, it's hidden in the miniature castle. The characters must smash their way into the castle to reach it.
+<!-- /DM ONLY -->

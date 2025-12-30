@@ -2,49 +2,56 @@
 type: Area
 name: Attic Hall
 aliases:
+area_code: E7-16
 WotC_ref: "[[19_Appendix B - Death House#16. Attic Hall]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Attic Hall]]"
 parent_region: "[[Haunted House]]"
-acts:
-  - 
 arcs:
-  - "[[Arc A - Escape From Death House]]"
 connected_locations:
-  - 
 notable_npcs:
-  - 
 threat_level:
 first_appearance_date:
 tags:
-  - area
-  - cos
-  - death_house
+  - "area"
+  - "cos"
+  - "death_house"
 key_factions:
   - "[[Death House Cult]]"
-area_code: E7-16
 area_type: room
 first_appearance_session:
 scene:
 encounter:
 item(s):
 handouts:
+loot:
 ---
+# Overview
 
 
-# Attic Hall 
+
+# What the party knows
 
 
-This bare hall is choked with dust and cobwebs.
 
-## Locked Door
+# Notable places
 
-The door to area 20 is held shut with a padlock. Its key is kept in the library (area 8), but the lock can also be picked with thieves' tools and a successful DC 15 Dexterity check.
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
 # Map
 
-# Image
+
+# Images
+
 
 # Notes
 
-
-
-
+<!-- /DM ONLY -->

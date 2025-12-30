@@ -2,15 +2,13 @@
 type: Area
 name: Town of Vallaki
 aliases:
-  - Vallaki
+  - "Vallaki"
+area_code: N
 WotC_ref: "[[06_Chapter 5 - The Town of Vallaki]]"
 CoS-R_ref:
 parent_region: "[[Barovia]]"
-acts:
-  - 
 arcs:
 connected_locations:
-  - 
 notable_npcs:
   - "[[Urwin Martikov]]"
   - "[[Danika Dorakova]]"
@@ -38,10 +36,9 @@ notable_npcs:
 threat_level: 4-7
 first_appearance_date: 2 Neyavr 735
 tags:
-  - area
-  - cos
-  - vallaki
-  - needs_filling
+  - "area"
+  - "cos"
+  - "vallaki"
 key_factions:
   - "[[Keepers of the Feather]]"
   - "[[Vallakoviches]]"
@@ -50,7 +47,6 @@ key_factions:
   - "[[Strahd's Spies]]"
   - "[[Vistani]]"
   - "[[Dusk Elves]]"
-area_code: N
 area_type: settlement
 first_appearance_session: 8
 scene:
@@ -59,14 +55,16 @@ item(s):
 handouts:
 loot:
 ---
+# Overview
 
 
-<!-- DM ONLY -->
-# Map
 
-![[IMG-20251221155602903.jpg]]
+# What the party knows
 
-# Areas
+
+
+# Notable places
+
 [[St. Andral's Church]]
 [[Blue Water Inn]]
 [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion]]
@@ -76,9 +74,23 @@ loot:
 [[Blinsky Toys]]
 [[Town Square]]
 [[Vistani Camp]]
-# Residents
+
+# Notable figures
+
 ![[Non-Player Characters#Town of Vallaki]]
 
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+![[map-05.01-vallaki.jpg]]
+
+# Images
+
+
+# Notes
 # Sources
 ## _WotC_
 [[06_Chapter 5 - The Town of Vallaki]] describes the town of Vallaki.
@@ -89,5 +101,4 @@ loot:
 [[Arc F - Lady Wachter's Wish]]
 [[Arc G - The Strazni Siblings]]
 [[Arc H - The Lost Soul]]
-
 <!-- /DM ONLY -->

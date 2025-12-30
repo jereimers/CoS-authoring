@@ -2,19 +2,17 @@
 type: Area
 name: St. Andral's Church
 aliases:
-  - Church
-  - Church of St. Andral
-  - Lucian's church
-  - Church in Vallaki
+  - "Church"
+  - "Church of St. Andral"
+  - "Lucian's church"
+  - "Church in Vallaki"
+area_code: N1
 WotC_ref: "[[06_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church]]"
 CoS-R_ref: "[[Arc D - St. Andral's Feast#D1. St. Andral's Church]]"
 parent_region: "[[Town of Vallaki]]"
-acts:
+arcs:
   - "[[Act I Summary]]"
   - "[[Act II Summary]]"
-arcs:
-  - "[[Arc C - Into the Valley]]"
-  - "[[Arc D - St. Andral's Feast]]"
 connected_locations:
   - "[[Coffin Maker's Shop]]"
 notable_npcs:
@@ -25,13 +23,12 @@ notable_npcs:
 threat_level: none
 first_appearance_date: 2 Neyavr 735
 tags:
-  - area
-  - cos
-  - vallaki
+  - "area"
+  - "cos"
+  - "vallaki"
 key_factions:
   - "[[Church of the Morninglord]]"
   - "[[Strahd's Spies]]"
-area_code: N1
 area_type: church
 first_appearance_session: 9
 scene:
@@ -40,36 +37,33 @@ item(s):
 handouts:
 loot:
 ---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
 
 <!-- DM ONLY -->
-## Map
-
-![[IMG-20251221155603394.jpg]]
-
-This slouching, centuries-old stone church has a bulging steeple in the back and walls lined with cracked, stained glass windows depicting pious saints. A fence of wrought iron encloses a garden of gravestones next to the church. A thin mist creeps among the graves.
-
-This church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar (see the "Bones of St. Andral" section). [[Father Lucian Petrovich]] (LG male human priest) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named [[Yeska]] (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named [[Milivoj]] (see below) tends the grounds and digs graves.
-
-At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male and female human commoners) and 2d6 equally terrified Vallakian children (male and female human noncombatants). [[Father Lucian Petrovich|Father Lucian]] offers his nightly congregation his prayers and the promise of St. Andral's protection. Among [[Father Lucian Petrovich|Father Lucian]]'s nightly flock is a sad old woman named [[Willemina Rikalova]]. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
-![[05-002.milivoj.png]]
-
-[[Milivoj]] (N male human commoner) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
-
-- His Strength is $15(+2)$.
-- His melee weapon attack bonus is +4 , and he deals $4(1 \mathrm{~d} 4+2)$ bludgeoning damage when he hits with the blunt head of his shovel.
-
-[[Milivoj]] rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings. He wants to be free of Barovia's curse but sees no hope of escape.
-
-%% --- Page 134 --- %%
-Until recently, the church was protected from Strahd's depredations by the bones of St. Andral, which were sealed in a crypt beneath the church's main altar. But now the church is at risk because someone broke into the crypt a few nights ago and stole the bones. Until recently, [[Father Lucian Petrovich|Father Lucian]] was the only person in Vallaki who knew about the bones, but he recalls mentioning them to [[Yeska]] over a month ago to put the fearful boy at ease. After the bones were stolen, [[Father Lucian Petrovich|Father Lucian]] asked [[Yeska]] if he told anyone else about the bones. The boy nodded but wouldn't divulge a name.
-
-The culprit is [[Milivoj]], whom [[Father Lucian Petrovich|Father Lucian]] correctly suspects. But the priest has been reluctant to confront [[Milivoj]] because the lad is so temperamental. [[Father Lucian Petrovich|Father Lucian]] has not reported the theft for fear of the distress that the news might cause, and he doesn't want to ruin the burgomaster's festival. If the party includes a good-aligned cleric or paladin, [[Father Lucian Petrovich|Father Lucian]] mentions the theft in the hope that the characters can provide assistance.
-
-St. Andral's crypt is a 10-foot-square, 5-foot high chamber beneath the chapel. To reach the crypt, [[Milivoj]] used his shovel to pry up the chapel floorboards. (The boards have since been replaced.) If one of the characters confronts [[Milivoj]] and succeeds on a DC 10 Charisma (Intimidation) check, he admits that [[Yeska]] told him about the bones. He also admits to passing along the information to Henrik van der Voort, the local coffin maker (area N6), and to stealing the bones for Henrik in return for money to help feed his younger sisters and brothers.
-
-The theft of the bones has left the church vulnerable to attack by Strahd's minions (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). If the bones are returned to their resting place, St. Andral's church once again becomes hallowed ground, as though the building was protected by a hallow spell.
-
-# CoS-R Material
+# Map
 
 
-<!-- /DM-ONLY -->
+# Images
+
+
+# Notes
+
+<!-- /DM ONLY -->

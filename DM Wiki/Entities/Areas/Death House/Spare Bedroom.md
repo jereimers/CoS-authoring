@@ -2,45 +2,56 @@
 type: Area
 name: Spare Bedroom
 aliases:
+area_code: E7-17
 WotC_ref: "[[19_Appendix B - Death House#17. Spare Bedroom]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Spare Bedroom]]"
 parent_region: "[[Haunted House]]"
-acts:
-  - 
 arcs:
-  - "[[Arc A - Escape From Death House]]"
 connected_locations:
-  - 
 notable_npcs:
-  - 
 threat_level:
 first_appearance_date:
 tags:
-  - area
-  - cos
-  - death_house
+  - "area"
+  - "cos"
+  - "death_house"
 key_factions:
   - "[[Death House Cult]]"
-area_code: E7-17
 area_type: room
 first_appearance_session:
 scene:
 encounter:
 item(s):
 handouts:
+loot:
 ---
+# Overview
 
 
-# Spare Bedroom 
+
+# What the party knows
 
 
-This dust-choked room contains a slender bed, a nightstand, a small iron stove, a writing desk with a stool, an empty wardrobe, and a rocking chair. A smiling doll in a lacy yellow dress sits in the northern window box, cobwebs draping it like a wedding veil.
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
 # Map
 
-# Image
+
+# Images
+
 
 # Notes
 
-
-
-
+<!-- /DM ONLY -->

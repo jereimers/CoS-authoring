@@ -2,26 +2,21 @@
 type: Area
 name: Darklord's Shrine
 aliases:
+area_code: E7-31
 WotC_ref: "[[19_Appendix B - Death House#31. Darklord's Shrine]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Darklord's Shrine]]"
 parent_region: "[[Haunted House]]"
-acts:
-  - 
 arcs:
-  - "[[Arc A - Escape From Death House]]"
 connected_locations:
-  - 
 notable_npcs:
-  - 
 threat_level:
 first_appearance_date:
 tags:
-  - area
-  - cos
-  - death_house
+  - "area"
+  - "cos"
+  - "death_house"
 key_factions:
   - "[[Death House Cult]]"
-area_code: E7-31
 area_type: room
 first_appearance_session:
 scene:
@@ -30,32 +25,33 @@ item(s):
 handouts:
 loot:
 ---
+# Overview
 
 
-# Darklord's Shrine 
+
+# What the party knows
 
 
-%% --- Page 305 --- %%
-This room is festooned with moldy skeletons that hang from rusty shackles against the walls. A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands next to him. In his right hand, he holds a smoky-gray crystal orb.
-The room has exits in the west and north walls. Chanting can be heard coming from the west.
 
-The statue depicts Strahd, to whom the cultists made sacrifices in the vain hope that he might reveal his darkest secrets to them. If the characters touch the statue or take the crystal orb from Strahd's hand, five shadows form around the statue and attack them. The shadows (the spirits of former cultists) pursue those who flee beyond the room's confines.
+# Notable places
 
-The skeletons on the wall are harmless decor.
 
-## Concealed Door 
 
-Characters searching the room for secret doors find a concealed door in the middle of the east wall with a successful DC 10 Wisdom (Perception) check. It's basically an ordinary (albeit rotted) wooden door hidden under a layer of clay. The door pulls open to reveal a stone staircase that climbs 10 feet to a landing (area 32).
+# Notable figures
 
-## Treasure
 
-The crystal orb is worth 25 gp . It can be used as an arcane focus but is not magical.
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
 # Map
 
-# Image
+
+# Images
+
 
 # Notes
 
-
-
-
+<!-- /DM ONLY -->

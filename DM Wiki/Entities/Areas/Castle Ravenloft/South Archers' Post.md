@@ -1,0 +1,61 @@
+---
+type: Area
+name: South Archers' Post
+aliases:
+area_code: K11
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# K11. South Archers' Post 
+
+The castle courtyard is visible through arrow slits in the north and west walls. Leaning against the walls are mirrors of various sizes, some as tall as a human and others small enough to fit in a backpack.
+
+Each arrow slit is $21 / 2$ feet tall and 4 inches wide. The framed mirrors (seventeen in all) used to hang on various walls of the castle. Strahd had them taken down and stored here.
+
+A secret door in the east wall can be pulled open to reveal the back of the pipe organ in area K10. Characters can't pass through the secret door while the organ is blocking it, and the organ can't be moved from this side.
+<!-- /DM ONLY -->

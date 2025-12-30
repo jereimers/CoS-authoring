@@ -1,0 +1,69 @@
+---
+type: Area
+name: Dragon's Foyer
+aliases:
+area_code: Q3
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# Q3. Dragon's Foyer 
+
+This room feels like a king's tomb. A grand staircase leads up to stone balconies held aloft by stone pillars and arches. A tall, faded tapestry depicting a nobleman in silver armor hangs from an iron rod above the staircase landing.
+
+Six sets of double doors lead from this foyer. Along the walls, displayed on marble pedestals, are three alabaster busts of handsome men. A fourth bust and its pedestal have been knocked over, and their shattered remains lie strewn across the mosaic floor. Two chandeliers of wrought iron hang from the ceiling like monstrous black spiders.
+
+The tapestry is torn in places and worthless. It is a portrait of Lord Argynvost. The alabaster busts depict several of the dragon's other human guises. The stairs lead up to the second-floor balconies (area Q18).
+
+## Shadow of Argynvost
+
+The first time the characters pass through this foyer, read:
+
+A great shadow with wings moves across the walls and disappears. You hear the soft bestial hiss in the darkness.
+
+The draconic shadow is ominous yet harmless.
+<!-- /DM ONLY -->

@@ -2,41 +2,56 @@
 type: Area
 name: Upper Hall
 aliases:
+area_code: E7-6
 WotC_ref: "[[19_Appendix B - Death House#6. Upper Hall]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Upper Hall]]"
 parent_region: "[[Haunted House]]"
-acts:
-  - 
 arcs:
-  - "[[Arc A - Escape From Death House]]"
 connected_locations:
-  - 
 notable_npcs:
-  - 
 threat_level:
 first_appearance_date:
 tags:
-  - area
-  - cos
-  - death_house
+  - "area"
+  - "cos"
+  - "death_house"
 key_factions:
   - "[[Death House Cult]]"
-area_code: E7-6
 area_type: room
 first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
 ---
+# Overview
 
 
-# Upper Hall 
-Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a wood-framed portrait of the Durst family: Gustav and Elisabeth Durst with their two smiling children, Rose and Thorn. Cradled in the father's arms is a swaddled baby, which the mother regards with a hint of scorn.
 
-Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors are carved with dancing youths, although close inspection and a successful DC 12 Wisdom (Perception) check reveals that the youths aren't really dancing but fighting off swarms of bats.
+# What the party knows
 
-The red marble staircase that started on the first floor continues its upward spiral to area 11. A cold draft can be felt coming down the steps.
 
-%% --- Page 299 --- %%
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
 # Map
 
-# Image
+
+# Images
+
 
 # Notes
+
+<!-- /DM ONLY -->

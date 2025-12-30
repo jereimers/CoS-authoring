@@ -2,55 +2,56 @@
 type: Area
 name: Nursemaid's Suite
 aliases:
+area_code: E7-15
 WotC_ref: "[[19_Appendix B - Death House#15. Nursemaid's Suite]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Nursemaid's Suite]]"
 parent_region: "[[Haunted House]]"
-acts:
-  - 
 arcs:
-  - "[[Arc A - Escape From Death House]]"
 connected_locations:
-  - 
 notable_npcs:
-  - 
 threat_level:
 first_appearance_date:
 tags:
-  - area
-  - cos
-  - death_house
+  - "area"
+  - "cos"
+  - "death_house"
 key_factions:
   - "[[Death House Cult]]"
-area_code: E7-15
 area_type: room
 first_appearance_session:
 scene:
 encounter:
 item(s):
 handouts:
+loot:
 ---
+# Overview
 
 
-# Nursemaid's Suite 
+
+# What the party knows
 
 
-Dust and cobwebs shroud an elegantly appointed bedroom (area 15A) and an adjoining nursery (area 15B). Double doors set with panes of stained glass pull open to reveal a balcony (area 15C) overlooking the front of the house.
 
-The bedroom once belonged to the family's nursemaid. The master of the house and the nursemaid had an affair, which led to the birth of a stillborn baby named Walter. The cult slew the nursemaid shortly thereafter. Unless the characters already defeated it in area 18, the nursemaid's spirit haunts the bedroom as a specter. The specter manifests and attacks when a character opens the door to the nursery. The specter resembles a terrified, skeletally thin young woman; it can't speak or be reasoned with.
+# Notable places
 
-The bedroom contains a large bed, two end tables, and an empty wardrobe. Mounted on the wall next to the wardrobe is a full-length mirror with an ornate wooden frame carved to look like ivy and berries. Characters who search the wall for secret doors or otherwise inspect the mirror can, with a successful DC 12 Wisdom (Perception) check, notice eyeballs among the berries. The wall behind the mirror has a secret door in it (see "Secret Door" below).
 
-The nursery contains a crib covered with a hanging black shroud. When characters part the shroud, they see a tightly wrapped, baby-sized bundle lying in the crib. Characters who unwrap the blanket find nothing inside it.
 
-## Secret Door
+# Notable figures
 
-A secret door behind the mirror can be found with a successful DC 15 Wisdom (Perception) check. It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
 # Map
 
-# Image
+
+# Images
+
 
 # Notes
 
-
-
-
+<!-- /DM ONLY -->

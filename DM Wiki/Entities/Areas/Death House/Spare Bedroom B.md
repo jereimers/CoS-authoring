@@ -2,47 +2,56 @@
 type: Area
 name: Spare Bedroom
 aliases:
+area_code: E7-19
 WotC_ref: "[[19_Appendix B - Death House#19. Spare Bedroom]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#19. Spare Bedroom]]"
 parent_region: "[[Haunted House]]"
-acts:
-  - 
 arcs:
-  - "[[Arc A - Escape From Death House]]"
 connected_locations:
-  - 
 notable_npcs:
-  - 
 threat_level:
 first_appearance_date:
 tags:
-  - area
-  - cos
-  - death_house
+  - "area"
+  - "cos"
+  - "death_house"
 key_factions:
   - "[[Death House Cult]]"
-area_code: E7-19
 area_type: room
 first_appearance_session:
 scene:
 encounter:
 item(s):
 handouts:
+loot:
 ---
+# Overview
 
 
-# 19. Spare Bedroom 
+
+# What the party knows
 
 
-This web-filled room contains a slender bed, a nightstand, a rocking chair, an empty wardrobe, and a small iron stove.
 
-%% --- Page 302 --- %%
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
 # Map
 
-# Image
+
+# Images
+
 
 # Notes
 
-
-
-
+<!-- /DM ONLY -->

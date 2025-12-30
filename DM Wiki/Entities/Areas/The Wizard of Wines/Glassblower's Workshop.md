@@ -1,0 +1,64 @@
+---
+type: Area
+name: Glassblower's Workshop
+aliases:
+area_code: W10
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# W10. Glassblower's Workshop 
+
+A dirty window in the south wall allows dim light to enter this room. Wine bottles are manufactured here, as evidenced by the tools lying about, the wooden rack full of freshly blown glass bottles along the south wall, the hearth built into the southwest corner, and the barrel of sand standing next to it. A staircase descends underground, and between it and the rack of bottles stands a barred door.
+
+%% --- Page 244 --- %%
+The stairs lead down to area W13. The bottles stored in the rack don't have labels. The east door is barred from the inside.
+
+## Fortunes of Ravenloft 
+
+If your card reading reveals that a treasure is here, it's buried in the barrel of sand. Emptying the barrel or digging through the sand reveals the treasure without the need for a check.
+<!-- /DM ONLY -->

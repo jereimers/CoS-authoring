@@ -1,0 +1,59 @@
+---
+type: Area
+name: Tower, Third Floor
+aliases:
+area_code: V6
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# V6. Tower, Third Floor
+
+Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black mildew on the walls. The wooden floor is completely rotted and has begun to fall away in places.
+
+In the middle of the room is a 5 -foot-square hole in the floor and ceiling, with a rusty chain near each corner. The chains are part of the tower's elevator mechanism (see area V4). The 5 -foot-square sections of floor that surround the central shaft are weak. Each 5 -foot section can support 50 pounds; any more weight causes the section to collapse, and any creatures standing on that section fall 40 feet to the ground floor, smashing through the second floor on the way down.
+<!-- /DM ONLY -->

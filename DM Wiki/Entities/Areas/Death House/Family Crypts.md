@@ -2,73 +2,56 @@
 type: Area
 name: Family Crypts
 aliases:
+area_code: E7-23
 WotC_ref: "[[19_Appendix B - Death House#23. Family Crypts]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Family Crypts]]"
 parent_region: "[[Haunted House]]"
-acts:
-  - 
 arcs:
-  - "[[Arc A - Escape From Death House]]"
 connected_locations:
-  - 
 notable_npcs:
-  - 
 threat_level:
 first_appearance_date:
 tags:
-  - area
-  - cos
-  - death_house
+  - "area"
+  - "cos"
+  - "death_house"
 key_factions:
   - "[[Death House Cult]]"
-area_code: E7-23
 area_type: room
 first_appearance_session:
 scene:
 encounter:
 item(s):
 handouts:
+loot:
 ---
+# Overview
 
 
-# Family Crypts 
+
+# What the party knows
 
 
-Several crypts have been hewn from the earth. Each crypt is sealed with a stone slab unless noted otherwise. Removing a slab from its fitting requires a successful DC 15 Strength (Athletics) check; using a crowbar or the like grants advantage on the check.
 
-## 23A. Empty Crypt
+# Notable places
 
-The blank stone slab meant to seal this crypt leans against a nearby wall. The crypt is empty.
 
-## 23B. Walter's Crypt
 
-The stone slab meant to seal this crypt leans against a nearby wall. Etched into it is the name Walter Durst. The crypt is empty.
+# Notable figures
 
-## 23C. Gustav's Crypt
 
-The stone slab is etched with the name Gustav Durst. The chamber beyond contains an empty coffin atop a stone bier.
 
-## 23D. Elisabeth's Crypt
+# Visits
 
-The stone slab is etched with the name Elisabeth Durst. The crypt contains a stone bier with an empty coffin atop it. A swarm of insects (centipedes) boils out of the back wall and attacks if the coffin is disturbed.
+*To be updated during play.*
 
-## 23E. Rose's Crypt
-
-The stone slab is etched with the name Rosavalda Durst. The chamber beyond contains an empty coffin on a stone bier.
-If Rose's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by Rose's ghost when this occurs is no longer possessed (see also the "Development" section in area 20).
-
-## 23F. Thorn's Crypt
-
-The stone slab is etched with the name Thornboldt Durst. The chamber beyond contains an empty coffin on a stone bier.
-If Thorn's skeletal remains (see area 20) are placed in the coffin, the child's ghost finds peace and disappears forever. A character possessed by Thorn's ghost when this occurs is no longer possessed (see also the "Development" section in area 20).
-
-%% --- Page 304 --- %%
+<!-- DM ONLY -->
 # Map
 
-# Image
+
+# Images
+
 
 # Notes
 
-
-
-
+<!-- /DM ONLY -->

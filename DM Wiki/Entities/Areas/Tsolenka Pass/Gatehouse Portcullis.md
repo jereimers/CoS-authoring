@@ -1,0 +1,65 @@
+---
+type: Area
+name: Gatehouse Portcullis
+aliases:
+area_code: T1
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# T1. Gatehouse Portcullis 
+
+When the characters approach from the west, read:
+
+The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron portcullis, behind which burns a curtain of green flame.
+
+On the other side of the dark wall, gripping the mountain's edge, is a guard tower of white stone topped by golden statues of mighty warriors.
+
+The gatehouse is 30 feet high. The adjoining walls are 20 feet high and lined with stone spikes. If the characters circumvent the gate by flying or climbing over it, the statues on the gatehouse (area T2) animate and attack.
+
+If the characters approach within 10 feet of the portcullis, it shrieks with the sound of metal on metal as it rises on its own. It stays open for 1 minute, then closes.
+<!-- /DM ONLY -->

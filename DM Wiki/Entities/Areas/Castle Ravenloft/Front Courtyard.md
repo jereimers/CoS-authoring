@@ -1,0 +1,69 @@
+---
+type: Area
+name: Front Courtyard
+aliases:
+area_code: K1
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# K1. Front Courtyard
+
+As the characters enter the castle, the weather worsens. Dismal rain starts to fall, becoming a torrent within the hour. Lightning routinely lights the sky, followed by peals of thunder that make the castle shudder.
+
+Thick, cold fog swirls in this courtyard. Sporadic flashes of lightning lance the weeping clouds overhead as thunder shakes the ground. Through the drizzle, you see torch flames fluttering on each side of the keep's open main doors. Warm light spills out of the entrance, flooding the courtyard. High above the entrance is a round
+
+%% --- Page 72 --- %%
+The walls that enclose the courtyard are 90 feet high. The dark towers of the castle rise even higher. Doors in the gate towers on each side of the tunnel entrance are shut against the rain, and a howling wind rushes through the courtyard.
+
+The open main doors to the keep lead to area K7. The large, shattered window overlooking the main entrance is 50 feet above the courtyard and leads to area K25. No light can be seen through the great window.
+
+## Gate Towers 
+
+Each outer gate tower has an ironbound door with a built-in lock.
+Characters who enter a gate tower find themselves on a flagstone floor with a hollow tower stretching high above them. The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only Strahd knows. It can also be activated with a successful casting of dispel magic (DC 14). Neither the drawbridge nor the portcullis will move until both latches are activated.
+<!-- /DM ONLY -->

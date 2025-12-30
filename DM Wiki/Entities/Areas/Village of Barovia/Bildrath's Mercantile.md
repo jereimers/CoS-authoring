@@ -2,35 +2,55 @@
 type: Area
 name: Bildrath's Mercantile
 aliases:
+area_code: E1
 WotC_ref:
 CoS-R_ref:
 parent_region:
-acts:
-  - 
 arcs:
-  - 
 connected_locations:
-  - 
 notable_npcs:
   - "[[Bildrath Cantemir]]"
 threat_level: none
 first_appearance_date:
 tags:
-  - area
-  - cos
+  - "area"
+  - "cos"
 key_factions:
-  - 
-area_code: E1
 area_type: shop
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
 ---
+# Overview
 
 
-## E1. Bildrath's Mercantile
 
-The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile."
+# What the party knows
 
-The establishment is 70 feet long by 40 feet wide. The owner, Bildrath Cantemir (LN male human commoner), sells items from the Adventuring Gear table in the Player's Handbook, but only items with a price lower than 25 gp in the table, and he sells them for ten times the price.
 
-Bildrath trades with the Vistani when they pass through. He is also happy to make a profit from any strangers unlucky enough to find themselves here. He serves his own interests and offers no sanctuary. He never bargains since, as he says, "If you want it badly enough, you'll pay for it." He has no competition in the village.
 
-If the characters give Bildrath a hard time, he calls Parriwimple (LG male human), his nephew and stock-boy, to help him out. Parriwimple has the statistics of a gladiator, except that he has an Intelligence of 6 and doesn't carry a shield (AC 14). Parriwimple's real name is Parpol Cantemir, but no one in the village calls him that. His muscles rippling beneath his leather tunic should give ample notice of his strength. At the same time, Parriwimple is simpleminded. He is devoted to his uncle and will not follow the characters as long as Bildrath has something to say about it.
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+
+<!-- /DM ONLY -->

@@ -1,0 +1,65 @@
+---
+type: Area
+name: Abbey Entrance
+aliases:
+area_code: S10
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# S10. Abbey Entrance
+
+A fifteen-foot-high curtain wall joins the abbey's two wings. Behind its battlements, two guards stand at attention, their features obscured by fog. Below them, set into the wall, is a pair of ten-foot-tall, wooden doors reinforced with bands of steel. To the right of these doors, mounted on the wall, is a tarnished copper plaque.
+
+The plaque bears the abbey's name, under which appear these words: "May her light cure all illness."
+The "guards" on the wall are propped-up scarecrows that wear corroded chain shirts and clutch rusted spears (see area S18). A character who succeeds on a DC 10 Wisdom (Perception) check discerns the charade.
+
+The double doors are heavy but unlocked. They can be pushed open to reveal a foggy courtyard (area S12).
+![img-74.jpeg](img-74.jpeg)
+
+MAP 8.3: ABBEY OF SAINT MARKOVIA - UPPER FLOOR \& CELLAR
+<!-- /DM ONLY -->

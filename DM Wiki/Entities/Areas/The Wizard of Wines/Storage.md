@@ -1,0 +1,61 @@
+---
+type: Area
+name: Storage
+aliases:
+area_code: W8
+WotC_ref:
+CoS-R_ref:
+parent_region:
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
+tags:
+  - "area"
+  - "cos"
+key_factions:
+area_type:
+first_appearance_session:
+scene:
+encounter:
+item(s):
+handouts:
+loot:
+---
+# Overview
+
+
+
+# What the party knows
+
+
+
+# Notable places
+
+
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
+# Map
+
+
+# Images
+
+
+# Notes
+# W8. Storage
+
+Bare hooks line the walls of this storage room. Shelves to the south hold several pairs of stained wooden sandals with oversized soles. Both doors to this room hang open. The one to the west is fitted with iron brackets and leads outside into the rain. Lying on the floor next to it is a five-foot-long wooden beam.
+
+Before fleeing the winery, the wereravens took the leather rain cloaks stored here, but they left behind the wooden sandals that they wear when crushing grapes on the veranda (area W5).
+
+The wooden beam on the floor can be used to bar the outer door.
+<!-- /DM ONLY -->

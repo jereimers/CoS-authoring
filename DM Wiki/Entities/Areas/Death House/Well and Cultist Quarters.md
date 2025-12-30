@@ -2,26 +2,21 @@
 type: Area
 name: Well and Cultist Quarters
 aliases:
+area_code: E7-
 WotC_ref: "[[19_Appendix B - Death House#25. Well and Cultist Quarters]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Well and Cultist Quarters]]"
 parent_region: "[[Haunted House]]"
-acts:
-  - 
 arcs:
-  - "[[Arc A - Escape From Death House]]"
 connected_locations:
-  - 
 notable_npcs:
-  - 
 threat_level:
 first_appearance_date:
 tags:
-  - area
-  - cos
-  - death_house
+  - "area"
+  - "cos"
+  - "death_house"
 key_factions:
   - "[[Death House Cult]]"
-area_code: E7-
 area_type: room
 first_appearance_session:
 scene:
@@ -30,34 +25,33 @@ item(s):
 handouts:
 loot:
 ---
+# Overview
 
 
-# Well and Cultist Quarters 
+
+# What the party knows
 
 
-A 4-foot-diameter well shaft with a 3-foot-high stone lip descends 30 feet to a water-filled cistern. A wooden bucket hangs from a rope-and-pulley mechanism bolted to the crossbeams above the well.
 
-Five side rooms once served as quarters for senior cultists. Each contains a wood-framed bed with a moldy straw mattress and a wooden chest to hold personal belongings. Each chest is secured with a rusty iron padlock that can be picked with thieves' tools and a successful DC 15 Dexterity check.
+# Notable places
 
-## Treasure
 
-In addition to some worthless personal effects, each chest contains one or more valuable items.
-## 25A. 
-This room's chest contains 11 gp and 60 sp in a pouch made of human skin.
-## 25B. 
-This room's chest contains three moss agates (worth 10 gp each) in a folded piece of black cloth.
-## 25C. 
-This room's chest contains a black leather eyepatch with a carnelian (worth 50 gp ) sewn into it.
-## 25D. 
-This room's chest contains an ivory hairbrush with silver bristles (worth 25 gp ).
-## 25E. 
-This room's chest contains a silvered shortsword (worth 110 gp ).
+
+# Notable figures
+
+
+
+# Visits
+
+*To be updated during play.*
+
+<!-- DM ONLY -->
 # Map
 
-# Image
+
+# Images
+
 
 # Notes
 
-
-
-
+<!-- /DM ONLY -->
