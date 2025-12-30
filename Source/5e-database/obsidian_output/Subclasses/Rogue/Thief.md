@@ -1,0 +1,14 @@
+---
+name: Thief
+aliases: [thief]
+tags: [ai_generated, 5e-srd, subclass, rogue]
+type: subclass
+class: Rogue
+subclass_flavor: Roguish Archetype
+---
+
+# Thief
+
+*Roguish Archetype for [[Rogue]]*
+
+You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ.
