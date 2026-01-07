@@ -5,15 +5,15 @@ aliases:
 area_code: U2
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -86,4 +86,4 @@ Baba Lysaga captures goats and uses their blood in her rituals of longevity. Nin
 
 %% --- Page 224 --- %%
 There is no gate in the fence, and Baba Lysaga uses her flying skull (see area U3) to enter and leave the pen. If the characters try to set the goats free by dismantling or damaging part of the fence, the skulls atop the fence posts begin howling and continue to howl for 1 minute. The racket attracts Baba Lysaga, who arrives in her flying skull on initiative count 20 in 2 rounds. The howling skulls also attract the seven scarecrows in the marsh (see "Marsh Scarecrows" above). Roll initiative once for all the scarecrows.
-<!-- /DM ONLY -->
+%%

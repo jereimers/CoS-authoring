@@ -5,15 +5,15 @@ aliases:
 area_code: X42
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -87,4 +87,4 @@ The beneficiary of this dark gift gains the following flaw: "All I care about is
 East Sarcophagus. The vestige within this sarcophagus offers the dark gift of Zhudun, the Corpse Star. Zhudun's gift is the power to raise the ancient dead. As an action, the beneficiary of this dark gift can touch the remains of a dead creature and restore it to life. The effect is identical to that of the resurrection spell, except that it works regardless of how long the creature has been dead. After it has been used once, the dark gift vanishes.
 
 The beneficiary of this dark gift takes on a corpselike appearance and is easily mistaken for an undead.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: K47
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -66,4 +66,4 @@ The wooden, square trapdoor is 4 feet on a side and as thick as the floor, with 
 The portrait on the wall depicts Strahd von Zarovich before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without destroying it.
 
 If the characters attack the rug or the picture, or if they attempt to remove either item, the guardian portrait (see appendix D) attacks.
-<!-- /DM ONLY -->
+%%

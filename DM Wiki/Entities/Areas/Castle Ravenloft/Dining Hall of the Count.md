@@ -5,15 +5,15 @@ aliases:
 area_code: K36
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -78,4 +78,4 @@ With nothing more to add, the ghost of PidIwick fades away and doesn't appear ag
 ## Treasure 
 
 The lute, though old and covered in dust, has survived the passage of time. It is a magic instrument of the bards called a Doss lute.
-<!-- /DM ONLY -->
+%%

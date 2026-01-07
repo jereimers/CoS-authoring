@@ -5,15 +5,15 @@ aliases:
 area_code: X15
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -68,4 +68,4 @@ A secret door in the south wall opens into area X16. Neither the mountain folk n
 ## Development 
 
 The gladiator, Helwa, uses this room as a shelter while hunting in the mountains. She and her berserkers know nothing about the temple's history or purpose.
-<!-- /DM ONLY -->
+%%

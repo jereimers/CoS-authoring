@@ -2,9 +2,9 @@
 type: NPC
 name: The Grinch
 aliases:
-  - "The Green Devil"
-  - "The Beast of Mt. Crumpit"
-  - "The Thief of Joy"
+  - The Green Devil
+  - The Beast of Mt. Crumpit
+  - The Thief of Joy
 pronouns: he/him
 race: Unknown (Mist-touched humanoid)
 class: Barbarian / Artificer
@@ -19,37 +19,35 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status: alive
-role_in_story: Antagonist / Potential Ally
-statblock_source: Custom
 cr: 8
 resonance: The Grinch should evoke pity beneath the menace—a creature warped by isolation and bitterness, yet not beyond redemption.
 emotions:
-  - "bitter"
-  - "lonely"
-  - "suspicious"
-  - "grudgingly curious"
+  - bitter
+  - lonely
+  - suspicious
+  - grudgingly curious
 motivations:
-  - "To punish those who celebrate while he suffers in solitude"
-  - "To protect Max, his only companion"
+  - To punish those who celebrate while he suffers in solitude
+  - To protect Max, his only companion
 inspirations:
-  - "The Grinch (Dr. Seuss, 2000 film portrayal)"
-  - "Frankenstein's Monster (Mary Shelley)"
-  - "Quasimodo (Victor Hugo)"
+  - The Grinch (Dr. Seuss, 2000 film portrayal)
+  - Frankenstein's Monster (Mary Shelley)
+  - Quasimodo (Victor Hugo)
 vocal_notes: Low, gravelly voice with sudden shifts to mocking falsetto. Speaks in clipped, bitter sentences. Occasionally mutters to himself or to Max.
 signature_lines:
-  - "Joy? In Barovia? How... *nauseating*."
-  - "Max, fetch me the sack. The big one."
-  - "You think your little festival matters? Nothing matters here. Nothing *ever* changes."
+  - Joy? In Barovia? How... *nauseating*.
+  - Max, fetch me the sack. The big one.
+  - You think your little festival matters? Nothing matters here. Nothing *ever* changes.
 relationships:
   - "[[Max]]"
 portrait:
 portrait_credit:
 handouts:
 tags:
-  - "npc"
-  - "cos"
-  - "ai_generated"
-  - "vallaki"
+  - npc
+  - cos
+  - ai_generated
+  - vallaki
 CoS-R_ref: N/A
 WotC_ref:
 ---
@@ -69,7 +67,7 @@ The Grinch is deeply bitter, viewing all celebration as a personal affront. He o
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # The Grinch Profile
 
 ## Portrait
@@ -168,6 +166,8 @@ In combat, the Grinch fights with savage cunning—using gadgets, traps, and his
 > ***Gadget: Smoke Bomb (2/Day).*** The Grinch throws a smoke bomb at a point within 30 feet. A 15-foot-radius sphere of smoke spreads around that point, heavily obscuring the area for 1 minute or until dispersed by wind.
 >
 > ***Gadget: Spring-Loaded Claws (1/Day).*** The Grinch's next Claw attack has +15 ft. reach and deals an extra 2d6 damage.
+> 
+> ***Gadget: Boneless Cannon (1/Day).*** The Grinch's T-Shirt Cannon fires a rolled-up [[Boneless (VRGR)|Boneless]] at the target, who then must succeed against a grapple check. 
 >
 > ### Reactions
 > ***Bitter Retaliation.*** When the Grinch takes damage from a creature within 5 feet of him, he can make one Claw attack against that creature.
@@ -204,4 +204,4 @@ The Grinch can be redeemed if the party:
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

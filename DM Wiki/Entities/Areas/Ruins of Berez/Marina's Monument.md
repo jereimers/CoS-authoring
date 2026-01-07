@@ -5,15 +5,15 @@ aliases:
 area_code: U5
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -73,4 +73,4 @@ The croaking frogs and chirping crickets fall silent, and the stench of decay gr
 Seven distended human corpses have risen from the mire west of the monument. These walking corpses are 60 feet away when first seen. Use the commoner statistics for the corpses, but reduce their walking speed to 20 feet and give them immunity to the charmed and frightened conditions. When a corpse is reduced to 0 hit points, it splits open, disgorging a swarm of poisonous snakes. The snakes are hungry and fight until slain.
 
 Characters can take the treasure and flee, easily outpacing the snake-swollen corpses.
-<!-- /DM ONLY -->
+%%

@@ -21,9 +21,7 @@ tags:
   - needs_filling
 ---
 
-<!-- DM ONLY -->
 %% A faction is a group of people connected by common ethnicity, political cause, or other mission/identity/goal. They can be organized to varying degrees. %%
-<!-- DM ONLY -->
 # Who they are
 
 # What the party knows
@@ -31,7 +29,7 @@ tags:
 # Where we've seen them
 
 
-<!-- DM ONLY -->
+%%
 # 
 
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: K87
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -60,4 +60,4 @@ Wide steps descend to a landing flanked by two alcoves. Within each alcove, taki
 
 The curtain has no effect on creatures that move east to west (from area K88 to area K84).
 A creature of lawful good alignment that moves west to east through the curtain can do so without difficulty, but creatures of other alignments that do so are teleported back to the top of the stairs behind them. A Small creature can squeeze behind and around one of the bronze statues to circumvent the light curtain.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: K24
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ loot:
 <div class="description"><p>Broken furniture and torn cloth are strewn about this twenty-by-forty-foot room. Dim light comes from a pair of dirt-caked windows in the northeast corner. A narrow staircase with no railing ascends along the north wall.</p></div>
 
 The stairs lead to area K34.
-<!-- /DM ONLY -->
+%%

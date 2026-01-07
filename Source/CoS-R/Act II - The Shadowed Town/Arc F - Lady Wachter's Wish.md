@@ -132,6 +132,7 @@ During the following conversation, [[Non-Player Characters#Lady Fiona Wachter|La
 > * ***Argynvostholt.*** [[Lady Fiona Wachter|Lady Wachter]] shares the information in <span class="citation">[[Vallaki Lore]] (p. 96)</span>.
 > * ***The Amber Temple.*** [[Lady Fiona Wachter|Lady Wachter]] can share that she once heard of an "order of knights" inhabiting the abandoned manor to the west, which was said to guard a place called the "Amber Temple." (She learned of this from her mentor, the swamp witch Baba Lysaga, who she refers to only as "Lysa.") She knows little else, however.
 > * ***The Werewolf Pack.*** "An uncivilized assortment of bloodthirsty brutes. Their aggression has intensified as of late, I fear, but Vallaki's walls and silver have kept us safe." ([[Lady Fiona Wachter|Lady Wachter]] doesn't know where the pack's den lies, and doesn't know enough to speculate.)
+> ^Lore-What-Lady-Wachter-Knows
 
 > [!lore]+ **Who is Lysa?**
 >
@@ -142,6 +143,7 @@ During the following conversation, [[Non-Player Characters#Lady Fiona Wachter|La
 > On her first night in the empty, silent Wachterhaus, [[Lady Fiona Wachter|Fiona]] knelt in her parents’ bedroom—now hers, as the mistress of the house—and prayed, sobbing, to Mother Night for guidance. When a voice spoke to her, [[Lady Fiona Wachter|Fiona]] asked in disbelief whether she had heard Mother Night’s voice at last.
 >
 > The voice—a woman’s, light yet melancholy—instead identified itself as Ezra, goddess of the Mists, and offered [[Lady Fiona Wachter|Fiona]] quiet solace in her time of sorrow. [[Lady Fiona Wachter|Fiona]] has been a quiet, but dedicated worshipper of Ezra ever since, and doesn’t suspect that Ezra is merely a guise used by the Dark Powers.
+> ^Lore-Who-is-Lysa
 ### Dinner is Served
 As the cocktail conversation draws to a close, Haliq re-enters the room to announce that dinner is served. As the players take their seats, Dhavit and [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]]'s two maids, Madalena and Amalthia, set the table with an assortment of rich and mouth-watering foods: a roast leg of lamb, stewed vegetables, boiled and seasoned potatoes, and fresh-baked bread with butter and cheeses.
 ## F2d. The Vallakovich Problem
@@ -185,6 +187,7 @@ Where appropriate, [[Lady Fiona Wachter|Lady Wachter]] can also share the follow
 > When the players have finished their story, [[Lady Fiona Wachter|Lady Wachter]] states that she believes them to be playing a cruel joke upon her and her family, and asks whether they have any means of proving their claims. (She refuses to journey to the Vallakovich manor if the players suggest using the *spirit mirror* to allow her to view Stella directly, dismissing it as a “foolish” suggestion.)
 >
 > See [[Arc H - The Lost Soul#H5. Wachterhaus|Arc H - The Lost Soul]] for more information on how the players can persuade [[Lady Fiona Wachter|Lady Wachter]] of Stella’s fate.
+> ^Abstract-Stellas-Illness
 ## F2e. The Wachter Conspiracy
 If the players appear receptive to her concerns, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] proceeds to ask for their discretion, as well as their promise that not a whisper of their conversation shall escape this room. If the players agree, [[Lady Fiona Wachter|Lady Wachter]] makes the following proposal, speaking carefully and making sure to choose her words delicately:
 

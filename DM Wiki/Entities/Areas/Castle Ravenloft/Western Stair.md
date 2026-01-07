@@ -5,15 +5,15 @@ aliases:
 area_code: K79
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -67,4 +67,4 @@ The glyph triggers the first time a living creature passes over it. Triggering i
 A sickly mist fills the stairway ahead, then coalesces into the form of the vampire Strahd, his eyes burning red with anger. "You have worn out your welcome," he says. "Whatever gods you believe in cannot save you now!"
 
 Have the characters roll initiative. Any attack or spell that hits "Strahd" passes through, revealing that he is an illusion. On initiative count 0 , the illusory vampire chuckles and melts away like a wax doll in a bonfire, leaving no trace behind, and the glyph disappears.
-<!-- /DM ONLY -->
+%%

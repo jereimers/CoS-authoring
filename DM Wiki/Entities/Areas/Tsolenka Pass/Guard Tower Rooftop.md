@@ -5,15 +5,15 @@ aliases:
 area_code: T6
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Tsolenka Pass]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -71,4 +71,4 @@ The forms are six snow maidens. Use the specter statistics, with the following m
 - The snow maidens' Life Drain attack deals cold damage instead of necrotic damage.
 
 The snow maidens don't speak, nor are they interested in hearing what the characters have to say. If the characters don't leave at once, the snow maidens attack. When the last snow maiden is defeated, the treasure that the characters seek magically appears in the swirling snow on the rooftop.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: X
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Barovia]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -51,9 +51,5 @@ loot:
 
 
 # Notes
-WotC source:
 
-# X. The Amber Temple
-
-Chapter 13 delves into the Amber Temple, the dungeon complex where Strahd gave himself to the Dark Powers.
-<!-- /DM ONLY -->
+%%

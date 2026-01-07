@@ -5,15 +5,15 @@ aliases:
 area_code: X38
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -61,4 +61,4 @@ The ceiling here is 10 feet high. A poltergeist (see the specter entry in the Mo
 ## Treasure 
 
 A search of the room yields a wooden scroll tube containing an intact spell scroll of wall of fire.
-<!-- /DM ONLY -->
+%%

@@ -26,12 +26,12 @@ Purchase a gift for [[Arabelle]] at [[Blinsky Toys]] in [[Town of Vallaki|Vallak
 # Appearance in Sessions
 - [[Session 07 - The Tarokka Reading]]
 
-<!-- DM ONLY -->
+%%
 # Secrets
 - The first time the party visits Blinsky toys, [[The Theft at Blinsky's Toys]] initiates.
 - Arabelle is not at the Vistani Camp, having instead been kidnapped (see [[Arc E - The Missing Vistana]]). She is, at present, inside [[Rictavio]]'s carnival wagon in [[Arasek Stockyard]]
 
-<!-- /DM ONLY -->
+%%
 
 
 

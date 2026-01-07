@@ -5,15 +5,15 @@ aliases:
 area_code: Z7
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Werewolf Den]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -88,4 +88,4 @@ A creature cursed in this way gains no benefit from finishing a short or long re
 ## Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it's lying amid the other items at the base of the statue. The curse described above applies to this treasure as well.
-<!-- /DM ONLY -->
+%%

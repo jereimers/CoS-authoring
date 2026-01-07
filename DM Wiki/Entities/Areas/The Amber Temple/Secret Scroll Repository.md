@@ -5,15 +5,15 @@ aliases:
 area_code: X7
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 Carved into the south wall of this dusty space are cylindrical holes fit for scrolls or maps.
 
 The wizards kept magic scrolls here in case the temple came under attack. The scrolls have crumbled to dust.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: Z3
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Werewolf Den]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -64,4 +64,4 @@ The old man cackles. "When Kiril returns," he says to you with his last breath, 
 ## Treasure
 
 Skennis's electrum flute is nonmagical and worth 250 gp . Skennis also carries a pouch containing four 50 gp gemstones.
-<!-- /DM ONLY -->
+%%

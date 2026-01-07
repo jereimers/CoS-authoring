@@ -5,15 +5,15 @@ aliases:
 area_code: K83
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -68,4 +68,4 @@ The stairs at the north end of the west wall descends to a door leading to area 
 ### Treasure
 
 The tapestry depicts Strahd's father, King Barov, leading his fearsome knights into glorious battle. The tapestry weighs 10 pounds and is worth 750 gp intact. If it becomes damaged while in the party's possession, it is worthless unless mended.
-<!-- /DM ONLY -->
+%%

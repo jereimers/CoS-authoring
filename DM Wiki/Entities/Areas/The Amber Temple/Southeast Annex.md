@@ -5,15 +5,15 @@ aliases:
 area_code: X6
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -61,4 +61,4 @@ The ceiling here is 20 feet high. Beyond the open doors to the north, the charac
 The hole in the floor forms a roughly hewn shaft that descends 20 feet, then breaks through the ceiling of area X33a. From the bottom of the shaft, it's another 10 -foot drop to the floor of area X33a. The shaft has abundant handholds and can be climbed without an ability check, but characters must still drop the last 10 feet to reach the floor below. If the characters make a lot of noise, the three flameskulls in area X33a float up the shaft and attack them. The flameskulls also attack anyone they can hear attempting to descend the shaft.
 
 A secret door in the south wall opens into area X7.
-<!-- /DM ONLY -->
+%%

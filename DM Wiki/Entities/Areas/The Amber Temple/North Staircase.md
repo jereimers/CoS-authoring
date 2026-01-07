@@ -5,15 +5,15 @@ aliases:
 area_code: X14
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -65,4 +65,4 @@ The stairs descend to a collapsed hall with a high ceiling and amber-glazed wall
 
 This ruined area once connected to area X32, but an earth tremor caused the ceiling and walls to collapse. The ceiling here is 25 feet high.
 Unless the characters douse their light sources and move quietly, the creatures in area X33c hear them approaching and prepare to attack.
-<!-- /DM ONLY -->
+%%

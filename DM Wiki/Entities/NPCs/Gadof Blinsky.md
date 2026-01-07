@@ -2,36 +2,31 @@
 type: NPC
 name: Gadof Blinsky
 aliases:
+  - Blinsky
 pronouns: he/him
 race: Human
-class: Wizard
-age: 18
+class:
+age:
 gender: male
 creature_type: humanoid
-origin:
-home_base:
-current_location:
+origin: "[[Town of Vallaki|Vallaki]]"
+home_base: "[[Blinsky Toys]]"
+current_location: "[[Blinsky Toys]]"
 factions:
 arc:
-  - "[[Arc Y - Other Arc]]"
-first_appearance_session: 7
+  - "[[Arc E - The Missing Vistana]]"
+first_appearance_session: 10
 first_appearance_date: 3 Neyavr 735
 status: alive
-role_in_story: Major NPC
-statblock_source: CoS p. 231
-cr: 5
 resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
 motivations:
 inspirations:
 vocal_notes:
 signature_lines:
 relationships:
 portrait: "[[05-010.blinsky.png]]"
-portrait_credit:
+portrait_credit: CoS-WotC
 handouts:
 tags:
   - npc
@@ -56,16 +51,16 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Gadof Blinsky Profile
 
 ## Portrait
-*No portrait available.*
+![[05-010.blinsky.png]]
 
 ## Roleplaying Information
 
 ### Resonance
-Blinsky should inspire amusement with his accent, attire, and morbid aesthetic, endearment for his loneliness and sincerity, and sympathy for his terror of Izek.
+Blinsky should inspire amusement with his accent, attire, and morbid aesthetic, endearment for his loneliness and sincerity, and sympathy for his terror of [[Izek Strazni|Izek]].
 
 ### Emotions
 Blinsky most often feels cheerful, frightened, anxious, lonely, joyful, or melancholy.
@@ -77,9 +72,11 @@ Blinsky wants to use his macabre toys to bring joy to Barovia’s children and t
 When playing Blinsky, channel Olaf (*Frozen*), Rubeus Hagrid (*Harry Potter*), and Gepetto (*Pinocchio*).
 
 ### Vocal Notes
-
+- Super Polish, cartoonishly long i's and inserted y's
 
 ### Signature Lines
+- "Is no fun, is no Blinsky!"
+- "Wyelcome, friends, to the House of Blinsky, where hyappiness and smiles can be bought at bargain prices. Perhaps you know a leetle child in need of joy? A leetle toy for a girl or boy?"
 
 
 ## Character Information
@@ -91,7 +88,7 @@ To the world, Gadof Blinsky is a cheerful toymaker with a love for the macabre. 
 In a fight, Blinsky would plead for peace, stumbling over himself and babbling for mercy while looking for an opportunity to flee.
 
 ### Relationships
-Blinsky owns Piccolo, a pet monkey that was given to him by [[Rictavio]], the traveling ringmaster. Blinsky also makes dolls resembling [[Ireena Kolyana]] for Izek Strazni, and receives a humble stipend to craft decorations for [[Baron Vargas Vallakovich|Baron Vallakovich]]’s weekly festivals.
+Blinsky owns Piccolo, a pet monkey that was given to him by [[Rictavio]], the traveling ringmaster. Blinsky also makes dolls resembling [[Ireena Kolyana]] for [[Izek Strazni]], and receives a humble stipend to craft decorations for [[Baron Vargas Vallakovich|Baron Vallakovich]]’s weekly festivals.
 
 ### Knowledge
 
@@ -104,4 +101,4 @@ Blinsky owns Piccolo, a pet monkey that was given to him by [[Rictavio]], the tr
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

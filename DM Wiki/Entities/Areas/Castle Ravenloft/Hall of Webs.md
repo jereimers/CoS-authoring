@@ -5,15 +5,15 @@ aliases:
 area_code: K39
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -65,4 +65,4 @@ At the west end of the hall are two secret doors.
 The secret door on the west wall can't be opened from this side, except by magic (such as a knock spell). See area K38 for more information on this secret door. If the characters pass through this door coming from area K38, it closes and locks behind them if they don't take measures to prop it open.
 
 A narrow secret door at the western end of the south wall is hidden behind a mass of webs. If these webs are cleared away, characters can search for the secret door, finding it with a successful DC 15 Wisdom (Perception) check. The door can be pulled open to reveal area K31b.
-<!-- /DM ONLY -->
+%%

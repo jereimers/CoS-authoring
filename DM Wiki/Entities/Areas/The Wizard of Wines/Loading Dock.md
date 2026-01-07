@@ -5,15 +5,15 @@ aliases:
 area_code: W2
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ Parked in the loading dock is a wagon with three barrels set in braces on the be
 Wine barrels in the cellar (area W14) are rolled up a ramp (area W12) to the crane on the upper floor (area W16), then lowered into the wagon from above. Empty barrels are rolled off the back of the wagon and stored in area W9. The three barrels on the wagon hold Purple Grapemash No. 3.
 
 The south door has been forced open and hangs ajar. It can't be closed properly until repaired, though it can be barricaded.
-<!-- /DM ONLY -->
+%%

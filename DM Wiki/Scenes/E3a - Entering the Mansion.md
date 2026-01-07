@@ -13,9 +13,8 @@ tags:
   - scene
   - ai_generated
 ---
-<!-- DM ONLY -->
+
 %% a scene is a chunk of role-playing not requiring initiative -- it has NPCs, a setting, party members present, etc. %%
-<!-- /DM ONLY -->
 # E3a. Entering the Mansion
 
 ## Vignette

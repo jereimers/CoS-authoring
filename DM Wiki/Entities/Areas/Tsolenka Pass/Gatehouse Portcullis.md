@@ -5,15 +5,15 @@ aliases:
 area_code: T1
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Tsolenka Pass]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -62,4 +62,4 @@ On the other side of the dark wall, gripping the mountain's edge, is a guard tow
 The gatehouse is 30 feet high. The adjoining walls are 20 feet high and lined with stone spikes. If the characters circumvent the gate by flying or climbing over it, the statues on the gatehouse (area T2) animate and attack.
 
 If the characters approach within 10 feet of the portcullis, it shrieks with the sound of metal on metal as it rises on its own. It stays open for 1 minute, then closes.
-<!-- /DM ONLY -->
+%%

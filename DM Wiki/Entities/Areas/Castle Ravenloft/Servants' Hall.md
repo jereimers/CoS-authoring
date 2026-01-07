@@ -5,15 +5,15 @@ aliases:
 area_code: K62
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -75,4 +75,4 @@ Stairs at the east end of the north wall lead up to area K23.
 Along the east wall is a rusted but sturdy iron portcullis that bars the way to area K63. (If the characters peer through the portcullis, read the boxed text for area K63.) The portcullis bars are 1 inch thick and spaced 4 inches apart. The portcullis can be lifted with a successful DC 20 Strength check.
 
 The double doors at the west end of the hall are made of heavy planks banded with steel. They open into area K67.
-<!-- /DM ONLY -->
+%%

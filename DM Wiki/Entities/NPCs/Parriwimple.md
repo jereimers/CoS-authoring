@@ -2,22 +2,23 @@
 type: NPC
 name: Parriwimple
 aliases:
-pronouns:
-race:
-class:
-age:
-gender:
-creature_type:
-origin:
-home_base:
-current_location:
+pronouns: he/him
+race: Human
+class: "[[Gladiator]]"
+age: 19
+gender: male
+creature_type: humanoid
+origin: "[[Village of Barovia]]"
+home_base: "[[Bildrath's Mercantile]]"
+current_location: "[[Refugee Camp]]"
 factions:
+  - "[[Barovian Villagers]]"
 arc:
-first_appearance_session:
-first_appearance_date:
-status:
-role_in_story:
-statblock_source:
+  - "[[Arc B - Welcome to Barovia]]"
+  - "[[Arc C - Into the Valley]]"
+first_appearance_session: 4
+first_appearance_date: 27 Octyavr 735
+status: alive (infected with lycanthropy)
 cr:
 resonance:
 emotions:
@@ -26,15 +27,16 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait:
-portrait_credit:
+portrait: "[[Parriwimple_transparent.png]]"
+portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
 tags:
-  - "npc"
-  - "cos"
+  - npc
+  - cos
 CoS-R_ref:
 WotC_ref:
 ---
+![[warrior_parriwimple.png]]
 # Who they are
 
 
@@ -51,11 +53,11 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Parriwimple Profile
 
 ## Portrait
-*No portrait available.*
+![[Parriwimple_transparent.png]]
 
 ## Roleplaying Information
 
@@ -98,5 +100,6 @@ Parriwimple is an orphan and the nephew of the general-store owner Bildrath Cant
 
 
 # Gallery
-*No images available.*
-<!-- /DM ONLY -->
+![[parriwimple_cartoonish_goofy.png]]
+![[Parriwimple's Joyous Greeting.png]]
+%%

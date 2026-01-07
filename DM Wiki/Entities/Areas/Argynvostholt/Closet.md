@@ -5,15 +5,15 @@ aliases:
 area_code: Q38
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -51,7 +51,5 @@ loot:
 
 
 # Notes
-# Q38. Closet 
 
-This dusty closet has a slender window set into the north wall. The room is otherwise empty.
-<!-- /DM ONLY -->
+%%

@@ -16,8 +16,6 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -30,8 +28,8 @@ portrait:
 portrait_credit:
 handouts:
 tags:
-  - "npc"
-  - "cos"
+  - npc
+  - cos
 CoS-R_ref:
 WotC_ref:
 ---
@@ -51,7 +49,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Patrina Profile
 
 ## Portrait
@@ -232,4 +230,4 @@ WotC_ref:
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: W8
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ Bare hooks line the walls of this storage room. Shelves to the south hold severa
 Before fleeing the winery, the wereravens took the leather rain cloaks stored here, but they left behind the wooden sandals that they wear when crushing grapes on the veranda (area W5).
 
 The wooden beam on the floor can be used to bar the outer door.
-<!-- /DM ONLY -->
+%%

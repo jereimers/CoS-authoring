@@ -5,15 +5,15 @@ aliases:
 area_code: K71
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -61,4 +61,4 @@ The yellow lichen is harmless. Beyond the archway to the west is area K70. The s
 ## Treasure 
 
 Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of Strahd von Zarovich stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom (Perception) check.
-<!-- /DM ONLY -->
+%%

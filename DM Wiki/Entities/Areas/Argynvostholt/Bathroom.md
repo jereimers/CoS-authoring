@@ -5,15 +5,15 @@ aliases:
 area_code: Q22
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 The room contains an iron tub and has wood paneling on the walls that rises to a height of three feet. Above the paneling, the walls are painted with a continuous, faded mural of a mountainscape.
 
 The mural accurately depicts the Balinok Mountains.
-<!-- /DM ONLY -->
+%%

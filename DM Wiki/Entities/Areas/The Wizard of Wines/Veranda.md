@@ -5,15 +5,15 @@ aliases:
 area_code: W5
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -57,4 +57,4 @@ Resting on a flagstone veranda are three five-foot-diameter wooden tubs, their i
 At the back of the veranda is a large set of sliding wooden doors as well as a normal-sized wooden door. Stone pillars and arches support the upper floor above.
 
 This veranda is where grapes from the vineyard are crushed into juice. The sliding wooden doors are chained shut from the inside, and the smaller door is barred shut from the inside. Breaking through either requires a successful DC 20 Strength check.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: X20
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -66,4 +66,4 @@ The wooden chest contains an old map case in which Artimus kept floor plans of C
 ## Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it's hidden in the miniature castle. The characters must smash their way into the castle to reach it.
-<!-- /DM ONLY -->
+%%

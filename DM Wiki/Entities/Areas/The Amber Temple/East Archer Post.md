@@ -5,15 +5,15 @@ aliases:
 area_code: X13
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 This narrow room has an arrow slit in the center of the south wall.
 
 The ceiling here is 10 feet high. The arrow slit looks down toward the temple floor (area X5), beneath the raised left arm of the great statue (area X5a).
-<!-- /DM ONLY -->
+%%

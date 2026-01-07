@@ -1842,7 +1842,7 @@ A player who investigates the rectangular foundation of the main hall finds a cr
 
 Investigation of the row of stonework reveals a few post holes where the stable’s main supports once stood. Nothing further remains of the storage shed.
 
-![[IMG-20251221155547960.jpg]]
+![[The-Twin-Falls_4k_NoGrid_40x50_82PPI_Frozen_Snow.jpg]]
 <span class="credit">"Twin Falls" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/901b225d88">here!</a></span>
 ### The Shrine
 When a player approaches the shrine, read:
@@ -2308,7 +2308,7 @@ As the players climb the steps, continue:
 
 The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder Burebis’s form more closely observe that the roots extruding from the wall have, in many places, bound and pierced his flesh, preventing him from moving.
 
-![[IMG-20251221155553741.jpg]]
+![[Burebis_hi-res.jpg]]
 <span class="credit">"Elder Burebis" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Elder Burebis**

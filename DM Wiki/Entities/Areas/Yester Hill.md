@@ -5,15 +5,15 @@ aliases:
 area_code: Y
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Barovia]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -51,9 +51,5 @@ loot:
 
 
 # Notes
-WotC source:
 
-# Y. Yester Hill
-
-Chapter 14 describes Yester Hill, a remote hilltop that belongs to druids who venerate Strahd as lord of the land.
-<!-- /DM ONLY -->
+%%

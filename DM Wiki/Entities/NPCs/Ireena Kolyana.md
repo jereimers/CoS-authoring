@@ -4,10 +4,10 @@ name: Ireena Kolyana
 aliases:
   - Ireena
   - Lady Kolyana
-pronouns: he/him
+pronouns: she/her
 race: Human
 class: Expert
-age: 18
+age: -2
 gender: female
 creature_type: humanoid
 origin: "[[Town of Vallaki|Vallaki]]"
@@ -18,14 +18,9 @@ arc:
 first_appearance_session: 3
 first_appearance_date: 3 Neyavr 735
 status: alive
-role_in_story: Major NPC
-statblock_source:
 cr: 5
 resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
 motivations:
 inspirations:
 vocal_notes:
@@ -61,7 +56,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Ireena Kolyana Profile
 
 ## Portrait
@@ -159,4 +154,4 @@ Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) si
 
 # Gallery
 ![[ireena-at-lugdana's-knoll.png]]
-<!-- /DM ONLY -->
+%%

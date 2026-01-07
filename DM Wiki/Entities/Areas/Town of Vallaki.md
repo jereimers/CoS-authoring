@@ -2,7 +2,7 @@
 type: Area
 name: Town of Vallaki
 aliases:
-  - "Vallaki"
+  - Vallaki
 area_code: N
 WotC_ref: "[[06_Chapter 5 - The Town of Vallaki]]"
 CoS-R_ref:
@@ -36,9 +36,9 @@ notable_npcs:
 threat_level: 4-7
 first_appearance_date: 2 Neyavr 735
 tags:
-  - "area"
-  - "cos"
-  - "vallaki"
+  - area
+  - cos
+  - vallaki
 key_factions:
   - "[[Keepers of the Feather]]"
   - "[[Vallakoviches]]"
@@ -83,7 +83,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 ![[map-05.01-vallaki.jpg]]
 
@@ -101,4 +101,4 @@ loot:
 [[Arc F - Lady Wachter's Wish]]
 [[Arc G - The Strazni Siblings]]
 [[Arc H - The Lost Soul]]
-<!-- /DM ONLY -->
+%%

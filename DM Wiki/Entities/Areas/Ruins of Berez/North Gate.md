@@ -5,15 +5,15 @@ aliases:
 area_code: S6
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -83,4 +83,4 @@ Otto has the Standing Leap feature (see the mongrelfolk stat block in appendix D
 **Zygfrek Belview.** Zygfrek stands 4 feet, 7 inches tall. The left side of her face and body is covered with lizard scales, the right with tufts of gray wolf fur. Between these tufts is pale human skin. One of her eyes is that of a feline, and her fingers and hands resemble cat's paws with opposable thumbs. She has a gruff voice and wears a gray cloak with black fur trim.
 
 Zygfrek has the Darkvision feature (see the mongrelfolk stat block in appendix D). Her madness is embodied in the following statement: "I don't like the way people judge me all the time."
-<!-- /DM ONLY -->
+%%

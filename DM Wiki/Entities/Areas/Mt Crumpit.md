@@ -59,7 +59,7 @@ Vallakian children whisper that a "green devil" lives atop the mountain and stea
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 *No map available. Consider a cave system layout: Entry Cavern branching into the Workroom and a passage leading deeper to the Vault and the Grinch's Chamber. The Lookout is accessible via a narrow climb from the cave mouth.*
@@ -91,7 +91,7 @@ Mt. Crumpit is visible from Vallaki's walls on clear days. The path begins at a 
 # The Threshold
 
 ## Description
-Halfway up the mountain, travelers encounter a ring of ancient standing stones—moss-covered, leaning at odd angles. The Mists pool thickly here, swirling in patterns that seem almost deliberate. This is the boundary of the Grinch's domain: a **Model II Mist-Pocket Demi-Refuge**.
+Halfway up the mountain, travelers encounter a ring of ancient standing stones—moss-covered, leaning at odd angles. The Mists pool thickly here, swirling in patterns that seem almost deliberate. This is the boundary of the Grinch's domain: a **Mist-Pocket Demi-Refuge**.
 
 ## Crossing the Threshold
 When characters enter the Threshold:
@@ -212,5 +212,5 @@ If the Grinch is killed:
 - The natural cave setting gives the Grinch home-field advantage; he knows every passage and hiding spot
 - Combat here should favor the Grinch; retreat is a valid option for the party
 
-<!-- /DM ONLY -->
+%%
 

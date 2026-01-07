@@ -9,9 +9,30 @@ In the last festival, Baron Vallakovich had townsfolk parade through the streets
 There is no light in the eyes of the men that feed off this land. They are as dead as the dead.
 -Strahd von Zarovich
 
-#[[WotC - 05 - Vallaki - Approaching the Town]]
+## Approaching the Town
+%% --- Page 131 --- %%
+When the characters first approach Vallaki, read:
 
-#[[WotC - 05 - Vallaki - Town Gates]]
+<div class="description"><p>The Old Svalich Road meanders into a valley watched over by dark, brooding mountains to the north and south. The woods recede, revealing a sullen mountain burg surrounded by a wooden palisade. Thick fog presses up against this wall, as though looking for a way inside, hoping to catch the town aslumber.</p>
+
+<p>The dirt road ends at a set of sturdy iron gates with a pair of shadowy figures standing behind them. Planted in the ground and flanking the road outside the gates are a half-dozen pikes with wolves' heads impaled on them.</p>
+
+<p>A 15 -foot-high wall encloses the town, its vertical logs held together with thick ropes and mortar. The top of each log has been sharpened to a point. Wooden scaffolding hugs the inside of the palisade twelve feet off the ground, enabling guards to peer over the wall there.</p></div>
+
+## Town Gates
+
+Three tall gates made of iron bars lead into town:
+
+- The north gate is sometimes called the Zarovich Gate, or "the gate to the lake," because it leads to Lake Zarovich (chapter 2, area L).
+- The west gate is referred to as the Sunset Gate, even though no living person in Vallaki has seen an undimmed sunset. A few abandoned cottages line the road outside this gate.
+- The east gate is also known as the Morning Gate, or, as some locals like to call it, the Mourning Gate.
+
+Heavy iron chains with iron padlocks keep the gates shut at night. During the day, the gates are closed but not typically locked.
+Two town guards (LG male and female humans) stand just inside each gate. Instead of spears, they carry pikes (reach $10 \mathrm{ft}$. $1 \mathrm{~d} 10+1$ piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma (Persuasion) check to convince the guards to unlock the gate and let them enter.
+
+If trouble breaks out at one of the gates, the guards there cry out, "To arms!" Their shouts are echoed across Vallaki, putting the entire town on alert within minutes. Vallaki has twenty-four human guards, half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls). The town can also muster a militia of fifty able-bodied human commoners armed with clubs, daggers, and torches.
+
+%% --- Page 132 --- %%
 ## House Occupants 
 
 If the characters explore a residence other than the burgomaster's mansion (area N3), roll a d20 and consult the following table to determine the house's occupant.
@@ -35,7 +56,25 @@ A house of Vallakian townsfolk contains 1d4 adults (male and female human common
 
 A cult haven contains 2d4 Vallakian adults (LE male and female cultists) and one cult fanatic (LE male or female) who leads them in prayer or orchestrates ritual sacrifices. These cultists worship devils and consider Lady Fiona Wachter (see area N4) to be their spiritual leader.
 
-#[[WotC - 05 - Vallaki - Vallaki Lore]]
+## Vallaki Lore
+
+In addition to the information known to all Barovians (see "Barovian Lore" in chapter 2), Vallakians know the following bits of local lore:
+
+- The Blue Water Inn (area N2) offers food, wine, and shelter to visitors. A stranger with pointed ears is staying there. He came to Barovia from a distant land, riding into town on a carnival wagon.
+- The burgomaster, [[Baron Vargas Vallakovich]], has decreed that the Festival of the Blazing Sun will be held in the town square (area N8) in three days. The previous festival, which he called the Wolf's Head Jamboree, was less than a week ago.
+- Vallaki has endured at least one festival every week for the past several years. Some Vallakians believe that the festivals keep the devil Strahd at bay. Others think they provide no protection or benefit whatsoever. Most consider them dismal affairs.
+- Those who speak ill of the festivals are declared by the burgomaster to be in league with the devil Strahd and arrested. Some are thrown in the stocks (area N8), while others are taken to the burgomaster's mansion so that the baron can purge them of their evil.
+- The burgomaster's henchman, [[Izek Strazni]], has a history of violence as well as a fiendish deformity: a monstrous arm with which he can conjure fire. Fear of lzek keeps the baron's enemies at bay.
+- No one hates the burgomaster more than Lady Fiona Wachter, who is often quoted as saying, "I'd rather serve the devil than a madman." She owns an old house in town (area N4) but rarely leaves her estate. Her two adult sons, Nikolai and Karl, are local troublemakers. Lady Wachter also has a mad daughter whom she keeps locked away. The burgomaster doesn't confront Fiona or her offspring because he is afraid of Lady Wachter, whose family has old ties to Strahd.
+- Purple flashes of light have been seen emanating from the attic of the burgomaster's mansion.
+- Wolves and dire wolves prowl the woods and aren't afraid to attack travelers on the Old Svalich Road. Well-armed groups of hunters and trappers have managed to kill several of the wolves, but more keep coming.
+- It's too dangerous to go fishing on Lake Zarovich (chapter 2, area L), but the threat of Strahd's wolves hasn't stopped Bluto Krogarov, the town drunk, from trying. He sets out each morning and returns every evening, but hasn't caught any fish in a while.
+- There have been no recent sightings of the Mad Mage of Mount Baratok (chapter 2, area M). Folks used to see him skulking along the north shore of Lake Zarovich, shooting lightning bolts into the water to kill the fish. (If the characters seem interested in meeting this wizard, locals recommend that they use the fishing boats on the south shore to cross the lake, because it's shorter and a lot less dangerous than walking around the lakı
+
+%% --- Page 133 --- %%
+- There's a Vistani camp in the woods southwest of town (area N9). The Vistani there aren't very friendly. Vistani aren't welcome in Vallaki.
+- West of town is a haunted mansion (see chapter 7, "Argynvostholt"). Legend has it that a dragon died there long, long ago.
+- South of town is a village that has been abandoned for decades. Its burgomaster committed some terrible offense and incurred the wrath of Strahd.
 
 
 ## Areas of Vallaki 
@@ -61,6 +100,9 @@ At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male 
 [[Milivoj]] rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings. He wants to be free of Barovia's curse but sees no hope of escape.
 
 %% --- Page 134 --- %%
+
+#### Bones of St. Andral
+
 Until recently, the church was protected from Strahd's depredations by the bones of St. Andral, which were sealed in a crypt beneath the church's main altar. But now the church is at risk because someone broke into the crypt a few nights ago and stole the bones. Until recently, [[Father Lucian Petrovich|Father Lucian]] was the only person in Vallaki who knew about the bones, but he recalls mentioning them to Yeska over a month ago to put the fearful boy at ease. After the bones were stolen, [[Father Lucian Petrovich|Father Lucian]] asked Yeska if he told anyone else about the bones. The boy nodded but wouldn't divulge a name.
 
 The culprit is [[Milivoj]], whom [[Father Lucian Petrovich|Father Lucian]] correctly suspects. But the priest has been reluctant to confront [[Milivoj]] because the lad is so temperamental. [[Father Lucian Petrovich|Father Lucian]] has not reported the theft for fear of the distress that the news might cause, and he doesn't want to ruin the burgomaster's festival. If the party includes a good-aligned cleric or paladin, [[Father Lucian Petrovich|Father Lucian]] mentions the theft in the hope that the characters can provide assistance.
@@ -82,7 +124,7 @@ The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp , or a pint of the
 The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.
 
 %% --- Page 135 --- %%
-![img-44.jpeg](img-44.jpeg)
+![[map-05.02-blue-water-inn.jpg]]
 
 MAP 5.2: BLUE WATER INN (AREA N2)
 
@@ -132,7 +174,6 @@ These two are dour fellows, but they seldom pass up an opportunity to earn coin.
 On rare occasions when he has something to say, Szoldar speaks brusquely, while Yevgeni usually parrots his friend in not so many words. Szoldar has a notch in his bow for every wolf he's killed, while Yevgeni adds a new swatch to his wolfskin cloak every time he makes a kill. Both men have families but spend most of their time together, either drowning their sorrows or hunting in the woods. Most of the wolf heads that adorn the tavern walls are the result of their handiwork.
 
 %% --- Page 137 --- %%
-![img-45.jpeg](img-45.jpeg)
 
 ##### Wachter Brothers. 
 Nikolai and Karl Wachter ( N male human nobles) are brothers of noble birth. They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers. Their mother, Fiona Wachter (see area N4), is an influential figure in town, but her sons never talk about her. They'd rather listen to tales of the characters' harrowing adventures or hear about how the characters plan to free Vallaki from the burgomaster's madness.
@@ -876,7 +917,7 @@ burst forth and attack.
 ##### Teleport Destination. 
 Characters who teleport to this location from area K78 in Castle Ravenloft arrive at the point marked T on the map.
 
-### [[Blinsky Toys]] 
+### [[Blinsky Toys]]
 
 This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
 

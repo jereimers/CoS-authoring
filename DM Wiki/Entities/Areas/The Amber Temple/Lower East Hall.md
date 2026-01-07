@@ -5,15 +5,15 @@ aliases:
 area_code: X32
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -76,4 +76,4 @@ A dark gift functions like a charm (see "Supernatural Gifts" in chapter 7, "Trea
 The instant a dark gift is bestowed, the creature receiving it undergoes a transformation, gaining a sinister physical trait or flaw, or one of each. Unless the text states otherwise, a trait or a flaw that accompanies this gift can't be removed by anything short of a wish spell or divine intervention.
 
 Each time a non-evil creature accepts a dark gift, it must make a DC 12 Charisma saving throw. If the saving throw fails, the creature's alignment changes to evil. A character who turns evil becomes an NPC under the Dungeon Master's control, although the DM can allow the player to continue playing the evil character.
-<!-- /DM ONLY -->
+%%

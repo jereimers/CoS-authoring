@@ -2,8 +2,8 @@
 type: NPC
 name: Sir Godfrey Gwilym
 aliases:
-  - "Sir Godfrey"
-  - "Godfrey"
+  - Sir Godfrey
+  - Godfrey
 pronouns:
 race:
 class:
@@ -18,8 +18,6 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -32,9 +30,9 @@ portrait:
 portrait_credit:
 handouts:
 tags:
-  - "npc"
-  - "cos"
-  - "needs_filling"
+  - npc
+  - cos
+  - needs_filling
 CoS-R_ref:
 WotC_ref:
 ---
@@ -54,7 +52,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Sir Godfrey Gwilym Profile
 
 ## Portrait
@@ -102,4 +100,4 @@ WotC_ref:
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

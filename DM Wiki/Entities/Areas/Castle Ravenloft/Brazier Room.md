@@ -5,15 +5,15 @@ aliases:
 area_code: K78
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -92,4 +92,4 @@ After 5 rounds, the sand runs out, and the color of the flame returns to white. 
 ## Development 
 
 If the brazier, the hourglass, or either golem is attacked, the doors of the room magically slam shut and lock (unless they are being held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses' mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight in the room, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength (Athletics) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
-<!-- /DM ONLY -->
+%%

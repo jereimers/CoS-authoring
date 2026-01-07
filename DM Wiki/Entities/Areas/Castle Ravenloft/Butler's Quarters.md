@@ -5,15 +5,15 @@ aliases:
 area_code: K66
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -57,4 +57,4 @@ This twenty-foot-square room is filled wall to wall with clutter. A long, saggin
 
 Cyrus Belview (see area K62) uses this room as his lair. There is nothing of value here.
 If Cyrus is with the party, the characters notice that he is caressing their equipment and chuckling to himself. Cyrus has been salvaging equipment from dead adventurers for years. He looks forward to adding to his collection after Strahd gets through with the characters.
-<!-- /DM ONLY -->
+%%

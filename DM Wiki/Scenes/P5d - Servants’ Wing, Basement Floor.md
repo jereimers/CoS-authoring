@@ -13,9 +13,7 @@ tags:
   - scene
   - ai_generated
 ---
-<!-- DM ONLY -->
 %% a scene is a chunk of role-playing not requiring initiative -- it has NPCs, a setting, party members present, etc. %%
-<!-- /DM ONLY -->
 # P5d. Servants’ Wing, Basement Floor
 
 ## Vignette

@@ -5,15 +5,15 @@ aliases:
 area_code: W20
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -65,4 +65,4 @@ The druid and the vine blights fight to the death.
 Inside the cabinet is a key hanging on a loop of twine. The key unlocks the padlock on the sliding doors between the veranda (area W5) and the fermentation vats (area W9).
 
 The contraption standing near the north wall is a printing press, which [[Davian Martikov]] uses to make wine bottle labels. The ink is made from wine and stored in bottles in the cabinet, along with pieces of parchment and jars of glue.
-<!-- /DM ONLY -->
+%%

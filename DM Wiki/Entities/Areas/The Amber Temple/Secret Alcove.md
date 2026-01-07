@@ -5,15 +5,15 @@ aliases:
 area_code: X26
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -67,4 +67,4 @@ The iron chest on the ceiling is held in place with sovereign glue, and its lid 
 If the chest's lid is opened, the floor of this room disappears (as if affected by a disintegrate spell), creating a 10-foot-square hole above area X39. Creatures standing on the floor when it disappears fall 30 feet, landing in the northwest corner of area X39.
 
 The iron chest is empty.
-<!-- /DM ONLY -->
+%%

@@ -2,8 +2,8 @@
 type: NPC
 name: Henrik van der Voort
 aliases:
-  - "Henrik"
-  - "coffin-maker"
+  - Henrik
+  - coffin-maker
 pronouns: he/him
 race: Human
 class:
@@ -19,8 +19,6 @@ arc:
 first_appearance_session:
 first_appearance_date: 3 Neyavr 735
 status: alive
-role_in_story:
-statblock_source:
 cr: -3
 resonance:
 emotions:
@@ -29,14 +27,15 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait:
-portrait_credit:
+portrait: "[[05-009.henrik.png]]"
+portrait_credit: CoS-WotC
 handouts:
 tags:
-  - "npc"
-  - "cos"
+  - npc
+  - cos
 CoS-R_ref:
 WotC_ref:
+  - "[[06_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop]]"
 ---
 # Who they are
 
@@ -54,11 +53,11 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Henrik van der Voort Profile
 
 ## Portrait
-*No portrait available.*
+![[05-009.henrik.png]]
 
 ## Roleplaying Information
 
@@ -102,4 +101,4 @@ WotC_ref:
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

@@ -4,9 +4,9 @@ name: Ezmerelda d'Avenir
 aliases:
 pronouns: he/him
 race: Human
-class: Wizard
-age: 18
-gender: male
+class:
+age:
+gender: female
 creature_type: humanoid
 origin:
 home_base:
@@ -16,8 +16,6 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status: alive
-role_in_story: Major NPC
-statblock_source:
 cr: 5
 resonance:
 emotions:
@@ -32,7 +30,6 @@ handouts:
 tags:
   - npc
   - cos
-  - vallaki
 CoS-R_ref:
 WotC_ref:
 ---
@@ -52,7 +49,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Ezmerelda d'Avenir Profile
 
 ## Portrait
@@ -158,4 +155,4 @@ Ezmerelda is the former student of Dr. Rudolph van Richten, and the daughter of 
 # Gallery
 ![[ezmerelda-d'avenir.png]]
 
-<!-- /DM ONLY -->
+%%

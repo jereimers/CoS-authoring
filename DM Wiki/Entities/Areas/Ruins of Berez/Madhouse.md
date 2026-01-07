@@ -5,15 +5,15 @@ aliases:
 area_code: S15
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -78,4 +78,4 @@ Four mongrel creatures brawl amid the wreckage of this bedchamber while a fifth 
 Five mongrelfolk are confined here. The four that are fighting aren't trying to kill each other, but they are trying to assert dominance. They stop fighting if a character separates them.
 
 The statue is a little over 5 feet tall and carved from a single piece of wood. It depicts Saint Markovia. Close inspection reveals that it is covered with bite marks.
-<!-- /DM ONLY -->
+%%

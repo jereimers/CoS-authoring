@@ -19,7 +19,6 @@ arc:
 first_appearance_session: -3
 first_appearance_date: 28 Octyavr 735
 status: alive
-statblock_source: "[[Source/5e-database/obsidian_output/Monsters/Acolyte|acolyte]]"
 cr: 0.25
 resonance:
 emotions:
@@ -58,7 +57,7 @@ WotC_ref:
 - 
 
 
-<!-- DM ONLY -->
+%%
 # Father Donavich Profile
 
 ## Portrait
@@ -106,4 +105,4 @@ Father Donavich is Doru’s father and the priest of the Barovian church.
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

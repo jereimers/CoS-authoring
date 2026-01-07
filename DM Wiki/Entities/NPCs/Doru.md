@@ -4,8 +4,8 @@ name: Doru
 aliases:
 pronouns: he/him
 race: Human
-class: Wizard
-age: 18
+class:
+age: 21
 gender: male
 creature_type: humanoid
 origin:
@@ -13,18 +13,12 @@ home_base:
 current_location:
 factions:
 arc:
-  - "[[Arc Y - Other Arc]]"
-first_appearance_session: 7
-first_appearance_date: 3 Neyavr 735
+first_appearance_session: 3
+first_appearance_date: 27 Octyavr 735
 status: alive
-role_in_story: Major NPC
-statblock_source: CoS p. 231
-cr: 5
+cr:
 resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
 motivations:
 inspirations:
 vocal_notes:
@@ -56,7 +50,7 @@ WotC_ref:
 # Where we've seen them
 [[Church]]
 
-<!-- DM ONLY -->
+%%
 # Doru Profile
 
 ## Portrait
@@ -104,4 +98,4 @@ Doru is Father Donavich's son, Escher's former friend, and Gertruda's betrothed.
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

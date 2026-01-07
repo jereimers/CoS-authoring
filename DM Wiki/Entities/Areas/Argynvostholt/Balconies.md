@@ -5,15 +5,15 @@ aliases:
 area_code: Q18
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 Two stone balconies flank the main foyer. Balusters carved to resemble knights in shining armor support their elegantly carved stone railings. Weapons and shields festoon the walls along each of these walkways, while alabaster busts of handsome men flank hallways that lead north and south away from the foyer. At the west end of each balcony is an archway that leads to a spiral staircase going up.
 
 The balcony is 20 feet above the floor of the foyer (area Q3). The weapons and shields hanging on the walls are nonmagical. The busts, displayed atop wooden pedestals, depict various human guises of the dragon Argynvost. Their eyes seem to watch the characters as they walk by, but the effect is an optical illusion.
-<!-- /DM ONLY -->
+%%

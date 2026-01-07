@@ -28,7 +28,7 @@ The boots are practical rather than elegant—clearly hand-crafted by someone mo
 
 The party may find these boots in the Grinch's Workshop or receive them as a gift if the Grinch is redeemed. A DC 14 Intelligence (Arcana) check identifies their magical properties.
 
-<!-- DM ONLY -->
+%%
 # Sleigh Boots
 
 ## Description
@@ -103,4 +103,4 @@ An upgraded version crafted by a redeemed Grinch, or recovered from deeper withi
 - The cursed version can create interesting roleplay if the party doesn't identify the curse
 - The improved version is appropriate as a reward for redeeming the Grinch
 
-<!-- /DM ONLY -->
+%%

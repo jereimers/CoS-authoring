@@ -5,15 +5,15 @@ aliases:
 area_code: K25
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -62,4 +62,4 @@ Both staircases in the north wall lead down to area K19. The eastern double door
 
 If your card reading reveals that a treasure is here, it lies on the marble dais, just behind the throne.
 If your card reading indicates an encounter with Strahd in this area, he is sitting on the wooden throne.
-<!-- /DM ONLY -->
+%%

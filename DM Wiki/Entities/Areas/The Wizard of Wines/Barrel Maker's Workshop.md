@@ -5,15 +5,15 @@ aliases:
 area_code: W3
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -57,4 +57,4 @@ loot:
 Strips of iron and wood lie in neat piles on the floor of this workshop, the walls of which are lined with tools. Two worktables stand against the east wall.
 
 Wine barrels are made here. The north door is barred from the inside.
-<!-- /DM ONLY -->
+%%

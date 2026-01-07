@@ -5,15 +5,15 @@ aliases:
 area_code: W14
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -68,4 +68,4 @@ The cellar gets markedly colder the closer one gets to the north wall. Against t
 
 The wine rack in the eastern half of the cellar holds forty bottles, the labels of which show that the wine is the winery's Red Dragon Crush.
 A secret door between the two halves of the wine cellar can be pushed open to reveal a freezing cold passageway (area W15).
-<!-- /DM ONLY -->
+%%

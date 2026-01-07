@@ -5,15 +5,15 @@ aliases:
 area_code: K19
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -66,4 +66,3 @@ When 40 or more pounds of weight are placed on a pressure plate, the suit of arm
 The suits of armor act much like metal puppets—a little joke intended to spook visitors more than damage them. A pressure plate can be disabled by a character who uses thieves' tools and makes a successful DC 15 Dexterity check. A trap can also be disabled by destroying its suit of armor, which has AC 18, 5 hit points, and immunity to psychic and poison damage.
 
 %% --- Page 79 --- %%
-<!-- /DM ONLY -->

@@ -2,10 +2,10 @@
 type: NPC
 name: Lady Fiona Wachter
 aliases:
-  - "Lady Wachter"
-  - "Lady Fiona"
-  - "Fiona"
-  - "Fiona Wachter"
+  - Lady Wachter
+  - Lady Fiona
+  - Fiona
+  - Fiona Wachter
 pronouns: she/her
 race: Human
 class: Priest
@@ -24,29 +24,27 @@ arc:
 first_appearance_session:
 first_appearance_date: 3 Neyavr 735
 status: alive
-role_in_story: Major NPC
-statblock_source: "[[Arc F - Lady Wachter's Wish#F2. Wachterhaus]]"
 cr: 2
 resonance: Lady Wachter should inspire wariness for her loyalty to Strahd, grudging respect for her streak of pragmatic rationality, endearment for her dedication to her children, and pity for the tragedy of her family.
 emotions:
-  - "concerned"
-  - "apprehensive"
-  - "melancholic"
-  - "satisfied"
-  - "thoughtful"
-  - "determined"
-  - "stern"
-  - "compassionate (toward her children)"
-  - "loving (toward her children)"
+  - concerned
+  - apprehensive
+  - melancholic
+  - satisfied
+  - thoughtful
+  - determined
+  - stern
+  - compassionate (toward her children)
+  - loving (toward her children)
 motivations:
-  - "Keep Vallaki and children safe from harm."
-  - "Remove Vargas Vallakovich from power."
-  - "Reassure Strahd that Vallaki is no danger to his rule."
+  - Keep Vallaki and children safe from harm.
+  - Remove Vargas Vallakovich from power.
+  - Reassure Strahd that Vallaki is no danger to his rule.
 inspirations:
-  - "Moiraine Damodred (The Wheel of Time)"
-  - "Olenna Tyrell (Game of Thrones)"
-  - "Minerva McGonagall (Harry Potter)"
-  - "Lady Jessica (Dune)"
+  - Moiraine Damodred (The Wheel of Time)
+  - Olenna Tyrell (Game of Thrones)
+  - Minerva McGonagall (Harry Potter)
+  - Lady Jessica (Dune)
 vocal_notes:
 signature_lines:
 relationships:
@@ -58,13 +56,14 @@ portrait: "[[05-007.fiona-wachter.png]]"
 portrait_credit: CoS-WotC
 handouts:
 tags:
-  - "npc"
-  - "vallaki"
-  - "potential_ally"
-  - "noble"
-  - "cos"
-CoS-R_ref:
+  - npc
+  - vallaki
+  - potential_ally
+  - noble
+  - cos
+CoS-R_ref: "[[Arc F - Lady Wachter's Wish#^Profile-Lady-Fiona-Wachter]]"
 WotC_ref:
+  - "[[06_Chapter 5 - The Town of Vallaki#N4. Wachterhaus]]"
 ---
 # Who they are
 
@@ -82,7 +81,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Lady Fiona Wachter Profile
 
 ## Portrait
@@ -97,7 +96,7 @@ Lady Wachter should inspire wariness for her loyalty to Strahd, grudging respect
 Lady Wachter most often feels concerned, apprehensive, irate, melancholic, satisfied, thoughtful, determined, stern, or (with her children) compassionate and loving.
 
 ### Motivations
-Lady Wachter wants to keep Vallaki—and especially her children—safe from harm. To that end, she hopes to see [[Baron Vargas Vallakovich]] removed from power and to reassure [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] that Vallaki is no danger to his rule.
+Lady Wachter wants to keep Vallaki—and especially her children—safe from harm. To that end, she hopes to see [[Baron Vargas Vallakovich]] removed from power and to reassure [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]] that Vallaki is no danger to his rule.
 
 ### Inspirations
 When playing Lady Wachter, channel Moiraine Damodred (The Wheel of Time), Olenna Tyrell (Game of Thrones), Minerva McGonagall (Harry Potter), and Lady Jessica (Dune).
@@ -120,7 +119,7 @@ In a fight, Lady Wachter would attempt to negotiate or flee, seeking any means n
 Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of Nikolai Wachter II, Karl Wachter, and Stella Wachter. She is the employer of the **spy** Ernst Larnak, and an outspoken critic of [[Baron Vargas Vallakovich]].
 
 ### Knowledge
-# #statblock
+![[Arc F - Lady Wachter's Wish#^Lore-What-Lady-Wachter-Knows]]
 
 # Statblock
 Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
@@ -135,4 +134,4 @@ Lady Wachter still has the statistics of a **priest**. However, she has a diffe
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

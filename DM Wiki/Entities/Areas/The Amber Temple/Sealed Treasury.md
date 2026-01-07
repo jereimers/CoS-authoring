@@ -5,15 +5,15 @@ aliases:
 area_code: X40
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -131,4 +131,4 @@ Six piles of treasure are numbered on the map.
 ## Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it's buried in a random pile of treasure (roll a d6).
-<!-- /DM ONLY -->
+%%

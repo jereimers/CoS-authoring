@@ -5,15 +5,15 @@ aliases:
 area_code: Y4
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Yester Hill]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -73,4 +73,4 @@ The dead adventurer's tattered leather armor isn't salvageable, but the axe embe
 ## Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it's buried amid the roots of the Gulthias tree, beneath the skeleton of the dead adventurer. Characters who dig in the ground under the skeleton automatically find it.
-<!-- /DM ONLY -->
+%%

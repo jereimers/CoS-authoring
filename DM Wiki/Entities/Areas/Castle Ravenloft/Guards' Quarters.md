@@ -5,15 +5,15 @@ aliases:
 area_code: K69
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten-foot-square alcoves that contain rotting cots, rags, and the skeletal remains of castle guards. A deathly silence fills the hall.
 
 The yellow lichen is harmless. When one or more characters reach the midpoint of the hall, ten human skeletons leap from the alcoves and attack.
-<!-- /DM ONLY -->
+%%

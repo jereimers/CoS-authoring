@@ -5,15 +5,15 @@ aliases:
 area_code: K7
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -75,4 +75,4 @@ If anyone except Strahd enters this area through the doors that adjoin area K8, 
 The dragons don't attack characters who enter this area from area K1, heading east. The dragons are four red dragon wyrmlings, and they have
 instructions to allow guests to enter the castle, but not to leave it. If intruders vacate this area, the dragons fly up to their perches and revert to stone. In
 their stone forms, they are impervious to weapon damage. The dragons never leave the room.
-<!-- /DM ONLY -->
+%%

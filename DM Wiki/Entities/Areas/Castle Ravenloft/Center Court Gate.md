@@ -5,15 +5,15 @@ aliases:
 area_code: K2
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ Two gates, one north of the keep and one to the south, prevent easy access to wh
 A massive wall juts out to connect the outer walls of the castle with the keep. A twenty-foot-wide, twenty-foot-tall archway offers passage through the connecting wall but is blocked by a rusting iron portcullis.
 
 The portcullis is unlocked and can be lifted with a successful DC 15 Strength check. It can also be opened with a command word that only Strahd and Cyrus Belview (area K62) know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go.
-<!-- /DM ONLY -->
+%%

@@ -16,8 +16,6 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -51,7 +49,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Madam Eva Profile
 
 ## Portrait
@@ -99,4 +97,4 @@ Madam Eva alone knows that she is an avatar of the Seeker.
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

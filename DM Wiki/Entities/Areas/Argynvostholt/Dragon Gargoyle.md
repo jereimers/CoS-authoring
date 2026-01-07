@@ -5,15 +5,15 @@ aliases:
 area_code: Q44
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -51,19 +51,5 @@ loot:
 
 
 # Notes
-# Q44. Dragon Gargoyle
 
-Perched on the rooftop overlooking the parapet is a silver-plated gargoyle shaped like a dragon wyrmling.
-
-The silver dragon wyrmling statue is 10 feet above the parapet and has a magic mouth spell cast on it. When a character passes in front of it, the spell is activated, and the wyrmling whispers the following short verse in the Common tongue:
-
-When the dragon dreams its dream
-Within its rightful tomb,
-The light of Argynvost will beam
-And rid this land of gloom.
-
-%% --- Page 192 --- %%
-An ancient ballista, rotted by time and weather, stands behind the battlements on this tower rooftop.
-
-The ballista falls apart if disturbed.
-<!-- /DM ONLY -->
+%%

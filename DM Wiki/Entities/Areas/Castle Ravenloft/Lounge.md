@@ -5,15 +5,15 @@ aliases:
 area_code: K49
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -68,4 +68,4 @@ The books in the bookcase have no value and aren't much help to the characters. 
 ## Treasure 
 
 On the third finger of his left hand, Escher wears a platinum ring engraved with tiny roses and thorns (worth 150 gp ). Around his neck, he wears a gold and ruby pendant (worth 750 gp ).
-<!-- /DM ONLY -->
+%%

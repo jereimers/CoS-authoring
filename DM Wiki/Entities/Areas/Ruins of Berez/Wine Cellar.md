@@ -5,15 +5,15 @@ aliases:
 area_code: S16
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -62,4 +62,4 @@ The wine racks contain thirty-three bottles of Purple Grapemash No. 3 and twenty
 ## Treasure
 
 Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up spell scroll of heroes' feast.
-<!-- /DM ONLY -->
+%%

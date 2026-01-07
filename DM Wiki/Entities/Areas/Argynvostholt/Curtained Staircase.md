@@ -5,15 +5,15 @@ aliases:
 area_code: Q30
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -51,8 +51,5 @@ loot:
 
 
 # Notes
-# Q30. Curtained Staircase
 
-A tattered black curtain conceals an archway leading to a spiral staircase that descends to area Q17.
-At the top of the stairs is a secret door that can be pulled open to reveal area Q36 beyond.
-<!-- /DM ONLY -->
+%%

@@ -9,14 +9,14 @@
 # Visits
 
 
-<!-- DM ONLY -->
+%%
 # Map
 
 # Images
 
 # Notes
 
-<!-- /DM ONLY -->
+%%
 
 
 

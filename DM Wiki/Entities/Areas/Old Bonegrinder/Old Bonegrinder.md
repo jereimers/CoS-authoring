@@ -5,7 +5,7 @@ aliases:
   - Durst Mill
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Old Bonegrinder]]"
 arcs:
 connected_locations:
   - 
@@ -28,9 +28,7 @@ handouts:
 loot:
 ---
 
-<!-- DM ONLY -->
 %% an area is a location, place, region, etc. It can be as large as the Planes of Existence and as small as a room inside a building inside a town inside a region inside a domain inside a continent/plane. Areas have types, are encountered by the party at a particular time/place, and can be home to multiple NPCs, items, etc. %%
-<!-- /DM ONLY -->
 # Overview
 
 # What the party knows
@@ -42,14 +40,14 @@ loot:
 # Visits
 
 
-<!-- DM ONLY -->
+%%
 # Map
 
 # Images
 
 # Notes
 
-<!-- /DM ONLY -->
+%%
 
 
 

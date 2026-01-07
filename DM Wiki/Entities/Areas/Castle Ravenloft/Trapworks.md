@@ -5,15 +5,15 @@ aliases:
 area_code: K31
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -84,4 +84,4 @@ Set into the roof of the shaft is a 5-foot-square stone trapdoor that can be pus
 This vantage point is 130 feet from the bottom of the shaft (area K31a). Forty feet down is area K31, and 40 feet up is a stone trapdoor in the ceiling that opens into area K47.
 
 A door in the north wall is easy to spot from this side (no ability check required) and opens into area K39.
-<!-- /DM ONLY -->
+%%

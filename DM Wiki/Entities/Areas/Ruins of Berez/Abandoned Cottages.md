@@ -5,15 +5,15 @@ aliases:
 area_code: U1
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -57,4 +57,4 @@ loot:
 As you approach this cluster of ruined cottages separated by low stone walls, you see a short stretch of dirt road that has remained intact.
 
 The cottages contain rotted furnishings and nothing of value. The walls that separate the cottages are 3 feet tall and easily scaled or circumvented.
-<!-- /DM ONLY -->
+%%

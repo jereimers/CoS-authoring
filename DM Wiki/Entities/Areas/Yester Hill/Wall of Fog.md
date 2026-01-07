@@ -5,15 +5,15 @@ aliases:
 area_code: Y5
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Yester Hill]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -61,4 +61,4 @@ The Dark Powers have created a false image of Strahd's ancestral home within the
 
 Any creature that enters the deadly fog is subject to its effects (see the "Mists of Ravenloft" section in chapter 2).
 If the characters ask an NPC spellcaster about this part of the wall of fog, that person might relate an ancient legend about it. According to the mountain folk of Barovia, there was always a wall of mist near Yester Hill, even before the deadly mists entrapped all of Barovia. The ancient folk called the mist the Whispering Wall, for within it they could hear the whisper of voices from the past and the future. They believed that an ancient god gave up his divinity to preserve the world from destruction and that his last exhalation as a god produced this mist. Within it were all his memories of the world and all his visions of its possible futures, and with proper preparation, a seeker could go on a vision quest within it. Some students of the arcane contend that the Dark Powers took a bit of that fog and twisted it to create the mists of Barovia, and that perhaps Strahd's domain is just a dark memory in the Whispering Wall.
-<!-- /DM ONLY -->
+%%

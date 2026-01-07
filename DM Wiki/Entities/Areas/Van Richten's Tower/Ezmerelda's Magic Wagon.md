@@ -5,15 +5,15 @@ aliases:
 area_code: V1
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Van Richten's Tower]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -93,4 +93,4 @@ The interior of the wagon contains the following items:
 - A map of Barovia (showing all the locations marked on this adventure's map of Barovia)
 - A charred page from van Richten's journal (show the players "Journal of Rudolph van Richten" in appendix F).
 ![img-86.jpeg](img-86.jpeg)
-<!-- /DM ONLY -->
+%%

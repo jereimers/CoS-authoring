@@ -18,8 +18,6 @@ arc:
 first_appearance_session: -2
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -53,7 +51,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Magda Profile
 
 ## Portrait
@@ -101,4 +99,4 @@ In a fight, .
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

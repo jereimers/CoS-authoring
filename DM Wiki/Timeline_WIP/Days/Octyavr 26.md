@@ -1,31 +1,4 @@
----
-type: barovian_day
-tags:
-  - timeline
-  - barovia/date
-barovian_date_key: 0735-10-26
-barovian_date: 26 Octyavr, 735
-month: Neyavr
-day_of_month: 26
-moon_phase
-primary_location: Death House
-act: Act II
-arc: Arc D - St. Andral's Feast
-sessions:
-  - 
-  - 
-time_of_day_focus: 
-party_level: 1
-major_events:
-  - 
-  - 
-factions_active:
-  - Wachter Cult
-party_presence:
-  - Arden
-  - Fig
-  - Blue
----
+
 # 26 Octyavr, 735 — Death House
 
 ## Summary of the Day

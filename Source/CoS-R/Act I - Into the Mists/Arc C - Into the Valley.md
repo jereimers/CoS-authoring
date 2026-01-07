@@ -739,7 +739,7 @@ If the players pause, proceed, or attack, the six wolves in the woods strike. Re
 <p>Six snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p>
 </div>
 
-![[IMG-20251221155538249.jpg]]
+![[wolf-ravine.jpg]]
 
 > [!combat]- **Balancing the Wolves** 
 > This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally ([[Ireena Kolyana]]), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
@@ -771,7 +771,7 @@ As the players depart this area, a player with a passive Wisdom (Perception) sco
 
 This area is largely as described in [[Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)]] standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
 
-![[Source/CoS-R/Act I - Into the Mists/Arc C - Into the Valley/tser-falls-revenant.png]]
+![[Source/CoS-R/Appendices/images/tser-falls-revenant.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Vladimir’s Fury**
@@ -1212,7 +1212,7 @@ Both [[Urwin]] and Danika can provide directions to any major landmark inside of
 
 The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make [[Urwin]] alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
 
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See [[IMG-20251221155603370.jpg|Map 5.2 - Blue Water Inn]])
+If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See [[map-05.02-blue-water-inn.jpg|Map 5.2 - Blue Water Inn]])
 ### The Ringmaster's Tale
 If any of the players approach [[Rictavio]]'s table, [[The Brothers Wachter|Nikolai and Karl Wachter]] urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. ([[Szoldar Szoldarovich]], the wolf hunter, has turned his chair away from the bar to listen in.)
 
@@ -1377,7 +1377,7 @@ As the players depart the [[Blue Water Inn]] on their first morning in Vallaki, 
 * [[Baron Vargas Vallakovich|The Baron]] insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
 * Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
 * As the old woman is hauled away, [[Baron Vargas Vallakovich|the Baron]] turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
-![[Source/CoS-R/Act I - Into the Mists/Arc C - Into the Valley/izek-strazni.png]]
+![[Source/CoS-R/Appendices/images/izek-strazni.png]]
 <span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: [[Baron Vargas Vallakovich]]**

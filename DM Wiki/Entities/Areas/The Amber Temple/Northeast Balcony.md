@@ -5,15 +5,15 @@ aliases:
 area_code: X11
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -57,4 +57,4 @@ loot:
 This black marble balcony, thirty feet above the floor, overhangs the northeast corner of the temple. The two amber doors leading from this balcony stand open.
 
 Characters can see an arrow slit west of the northern set of doors (see area X13).
-<!-- /DM ONLY -->
+%%

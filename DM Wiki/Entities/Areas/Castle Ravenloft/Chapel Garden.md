@@ -5,15 +5,15 @@ aliases:
 area_code: K5
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,3 @@ At the back of the keep, behind towering buttresses and tall, boarded-up stained
 The large iron gates squeal loudly on rusted hinges when opened. Beyond them lies area K6.
 
 %% --- Page 73 --- %%
-<!-- /DM ONLY -->

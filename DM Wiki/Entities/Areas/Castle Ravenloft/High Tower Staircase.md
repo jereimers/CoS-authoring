@@ -5,15 +5,15 @@ aliases:
 area_code: K18
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -70,4 +70,4 @@ Characters can access this 10-foot-diameter, 390-foot-tall stone shaft from the 
 The shaft is dark and choked with cobwebs. A rushing wind causes the webs to stir. Climbing the shaft is impossible without the aid of magic or the use of a climber's kit, since there are few handholds.
 
 The bats in the catacombs (area K84) fly up the shaft at night, exiting Castle Ravenloft through various arrow slits and holes in the tower's peak (area K59). After feeding, they return by the same route.
-<!-- /DM ONLY -->
+%%

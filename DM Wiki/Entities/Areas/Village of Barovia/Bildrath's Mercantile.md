@@ -4,17 +4,19 @@ name: Bildrath's Mercantile
 aliases:
 area_code: E1
 WotC_ref:
+  - "[[04_Chapter 3 - The Village of Barovia#E1. Bildrath's Mercantile]]"
 CoS-R_ref:
-parent_region:
+parent_region: "[[Village of Barovia]]"
 arcs:
 connected_locations:
 notable_npcs:
   - "[[Bildrath Cantemir]]"
+  - "[[Parriwimple]]"
 threat_level: none
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type: shop
 first_appearance_session:
@@ -44,7 +46,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -53,4 +55,4 @@ loot:
 
 # Notes
 
-<!-- /DM ONLY -->
+%%

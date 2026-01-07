@@ -5,15 +5,15 @@ aliases:
 area_code: O2
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Old Bonegrinder]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -63,4 +63,4 @@ The old woman is Morgantha, a night hag. She doesn't mind visitors, as long as t
 
 %% --- Page 173 --- %%
 The hags operate the millstone manually, since the arms of the windmill no longer function.
-<!-- /DM ONLY -->
+%%

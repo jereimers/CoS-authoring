@@ -13,9 +13,9 @@ tags:
   - scene
   - ai_generated
 ---
-<!-- DM ONLY -->
+
 %% a scene is a chunk of role-playing not requiring initiative -- it has NPCs, a setting, party members present, etc. %%
-<!-- /DM ONLY -->
+
 # B5e. Bildrath’s Mercantile
 
 ## Vignette

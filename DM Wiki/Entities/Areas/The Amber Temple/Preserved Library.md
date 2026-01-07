@@ -5,15 +5,15 @@ aliases:
 area_code: X30
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -66,4 +66,4 @@ The secret door in the center of the west wall can be pulled open to reveal an e
 ![img-97.jpeg](img-97.jpeg)
 
 MAP 13.2: AMBER TEMPLE (AREA X) - LOWER LEVEL
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: X39
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -60,4 +60,4 @@ The ceiling here is 30 feet high and flat. A 10-foot-square hole in the northwes
 An amber golem once stood guard here, but it escaped after thieves broke into the treasury and looted it. The golem has since made its way upstairs (see area X10).
 
 Not all of the thieves escaped, and the pulverized remains of those who died here lie strewn upon the floor. Their restless spirits survive here as four poltergeists (see the specter entry in the Monster Manual). The poltergeists can't leave the room and fight until destroyed.
-<!-- /DM ONLY -->
+%%

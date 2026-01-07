@@ -5,15 +5,15 @@ aliases:
 area_code: Z1
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Werewolf Den]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -60,4 +60,4 @@ The guards in area Z2 spot characters in the cave mouth who aren't hidden. Chara
 ## Development
 
 If the characters arrive here with Emil Toranescu (see chapter 4, area K75a) in their company or their custody, he can command the other werewolves in the den not to attack the characters as they make their way inside.
-<!-- /DM ONLY -->
+%%

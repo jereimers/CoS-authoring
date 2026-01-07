@@ -261,7 +261,7 @@ A player who inspects the map observes a small piece of parchment tucked away be
 
 The woman is Zuleika Toranescu, Dmitri’s elder sister. A player with a passive Wisdom (Perception) score of 13 or higher notices that she bears a striking resemblance to Burgomaster Dmitri Krezkov.
 
-![[sketch-of-zuleika.png]]
+![[Source/homebrew/images/sketch-of-zuleika.png]]
 <span class="credit">"Sketch of Zuleika" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 If shown the picture, Dmitri’s face pales, and he asks the player where they found it. If told that the player found it in Ilya’s room, he insists that it is impossible. “That is a drawing of my older sister, Zuleika," he says hoarsely, “and she has not been seen in Krezk in nearly thirteen years." (If asked why Zuleika left, Dmitri shares only that she had a fight with him and their ailing father about personal family matters, and that he has neither seen nor heard from her since she departed.)

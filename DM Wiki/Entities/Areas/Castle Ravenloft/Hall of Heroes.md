@@ -5,15 +5,15 @@ aliases:
 area_code: K45
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -60,4 +60,4 @@ The ten statues that line this corridor depict ancient heroes. In actuality, the
 The statues are imbued with the spirits of Strahd's ancestors, all of which grieve over the termination of their bloodline. Each spirit will answer one question if addressed directly. The spirits' answers are always short and vague, and there is a 20 percent chance that a spirit's answer is wrong.
 
 The stairs at the west end of the hall descend 40 feet to area K33. An open archway to the east reveals a tower landing beyond (part of area K20).
-<!-- /DM ONLY -->
+%%

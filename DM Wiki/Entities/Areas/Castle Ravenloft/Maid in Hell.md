@@ -5,15 +5,15 @@ aliases:
 area_code: K32
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -64,4 +64,4 @@ Helga plays the part of the innocent damsel in distress to the last, revealing h
 ## Treasure
 
 Helga's gold necklace with its ruby pendant is a gift from Strahd. The necklace is almost five centuries old and is worth 750 gp .
-<!-- /DM ONLY -->
+%%

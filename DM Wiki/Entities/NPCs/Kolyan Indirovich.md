@@ -16,8 +16,6 @@ arc:
 first_appearance_session: 5
 first_appearance_date: 27 Octyavr 735
 status: dead
-role_in_story:
-statblock_source:
 cr: -4
 resonance:
 emotions:
@@ -30,10 +28,10 @@ portrait:
 portrait_credit:
 handouts:
 tags:
-  - "npc"
-  - "cos"
-  - "barovia"
-  - "burgomaster"
+  - npc
+  - cos
+  - barovia
+  - burgomaster
 CoS-R_ref:
 WotC_ref:
 ---
@@ -53,7 +51,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Kolyan Indirovich Profile
 
 ## Portrait
@@ -101,4 +99,4 @@ WotC_ref:
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

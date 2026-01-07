@@ -4410,6 +4410,8 @@ At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male 
 [[Milivoj]] rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings. He wants to be free of Barovia's curse but sees no hope of escape.
 
 %% --- Page 134 --- %%
+#### Bones of St. Andral
+
 Until recently, the church was protected from Strahd's depredations by the bones of St. Andral, which were sealed in a crypt beneath the church's main altar. But now the church is at risk because someone broke into the crypt a few nights ago and stole the bones. Until recently, Father Lucian was the only person in Vallaki who knew about the bones, but he recalls mentioning them to Yeska over a month ago to put the fearful boy at ease. After the bones were stolen, Father Lucian asked Yeska if he told anyone else about the bones. The boy nodded but wouldn't divulge a name.
 
 The culprit is [[Milivoj]], whom Father Lucian correctly suspects. But the priest has been reluctant to confront [[Milivoj]] because the lad is so temperamental. Father Lucian has not reported the theft for fear of the distress that the news might cause, and he doesn't want to ruin the burgomaster's festival. If the party includes a good-aligned cleric or paladin, Father Lucian mentions the theft in the hope that the characters can provide assistance.

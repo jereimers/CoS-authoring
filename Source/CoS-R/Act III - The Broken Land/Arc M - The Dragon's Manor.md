@@ -649,7 +649,7 @@ Revise Argynvost’s journal page to read as follows:
 </div>
 <br>
 
-![[IMG-20251221155540598.jpg]]
+![[Argynvost_Journal_RRL.jpg]]
 <span class="credit">"Argynvost's Journal" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 If the players inspect the slashed picture, revise the first sentence of its description to read as follows:
@@ -704,7 +704,7 @@ The scroll is a letter and reads as follows:
 </div>
 <br>
 
-![[IMG-20251221155544313.jpg]]
+![[Andral_Scroll_RRL.jpg]]
 <span class="credit">"Saint Andral's Letter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 #### Argynvost’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>

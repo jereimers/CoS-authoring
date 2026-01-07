@@ -2,8 +2,8 @@
 type: NPC
 name: Bildrath Cantemir
 aliases:
-  - "Bildrath"
-  - "Uncle Bill"
+  - Bildrath
+  - Uncle Bill
 pronouns: he/him
 race: Human
 class:
@@ -19,8 +19,6 @@ arc:
 first_appearance_session: 3
 first_appearance_date: 3 Neyavr 735
 status: dead
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -29,12 +27,12 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait:
-portrait_credit:
+portrait: "[[bildrath.png]]"
+portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
 tags:
-  - "npc"
-  - "cos"
+  - npc
+  - cos
 CoS-R_ref:
 WotC_ref:
 ---
@@ -54,7 +52,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Bildrath Cantemir Profile
 
 ## Portrait
@@ -102,4 +100,4 @@ WotC_ref:
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

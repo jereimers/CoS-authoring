@@ -5,15 +5,15 @@ aliases:
 area_code: K27
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -73,4 +73,4 @@ The scraping noise is the sound of the hidden compartment opening, and the squea
 Have the players roll initiative, and run this as a combat encounter with the "vampire" acting on initiative count 5. On its turn, the mannequin flies over the characters, 10 feet above the floor, and doesn't stop until it reaches the east end of the hall. On its next turn, it reverses direction and flies back to its compartment. The trap resets after 1 minute.
 
 A character who attacks the mannequin from the floor needs a range of at least 10 feet. The mannequin has AC 15 and 10 hit points, and it is immune to poison and psychic damage. If the mannequin is reduced to 0 hit points while in the air, it falls to the floor.
-<!-- /DM ONLY -->
+%%

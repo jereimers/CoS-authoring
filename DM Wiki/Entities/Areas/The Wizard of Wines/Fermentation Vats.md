@@ -5,15 +5,15 @@ aliases:
 area_code: W9
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -74,4 +74,4 @@ In addition to her animal skin gown and horned headdress, the druid wears neckla
 The sliding wooden doors along the north wall (leading to area W5) are chained shut from the inside. The key to the padlock can be found in the office (area W20).
 
 The single door leading to area W5 is barred shut from the inside, as is the single door leading to area W2.
-<!-- /DM ONLY -->
+%%

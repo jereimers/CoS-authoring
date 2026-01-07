@@ -5,15 +5,15 @@ aliases:
 area_code: S3
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -91,4 +91,4 @@ In addition to the information known to all Barovians (see "Barovian Lore" in ch
 believe he's Strahd's servant or the vampire himself in disguise.
 
 - No one from the village visits the abbey anymore. The abbey's bell rings at odd times, day and night, and the place is filled with baleful screams and horrible, inhuman laughter that can be heard throughout the village.
-<!-- /DM ONLY -->
+%%

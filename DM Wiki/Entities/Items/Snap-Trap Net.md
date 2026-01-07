@@ -29,7 +29,7 @@ The net appears ordinary at first glance, but closer inspection reveals thin met
 
 The party may find these nets in the Grinch's Workshop, encounter them as traps, or receive them as gifts if the Grinch is redeemed. A DC 12 Intelligence (Investigation) check reveals the spring mechanism; a DC 14 Intelligence (Arcana) check identifies the enchantment.
 
-<!-- DM ONLY -->
+%%
 # Snap-Trap Net
 
 ## Description
@@ -122,4 +122,4 @@ The Grinch's finest creation, perhaps gifted to the party if redeemed:
 - The trap functionality makes these excellent for dungeon preparation
 - The Grinch has approximately 1d4 of these in his Workshop at any given time
 
-<!-- /DM ONLY -->
+%%

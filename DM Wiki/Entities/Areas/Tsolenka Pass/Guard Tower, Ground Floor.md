@@ -5,15 +5,15 @@ aliases:
 area_code: T4
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Tsolenka Pass]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -62,4 +62,4 @@ The stairs climb 20 feet to area T5.
 ## Teleport Destination
 
 Characters who teleport to this location from area K78 in Castle Ravenloft arrive at the point marked $X$ on the map.
-<!-- /DM ONLY -->
+%%

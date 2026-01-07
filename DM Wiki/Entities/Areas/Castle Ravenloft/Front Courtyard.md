@@ -5,15 +5,15 @@ aliases:
 area_code: K1
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -66,4 +66,4 @@ The open main doors to the keep lead to area K7. The large, shattered window ove
 
 Each outer gate tower has an ironbound door with a built-in lock.
 Characters who enter a gate tower find themselves on a flagstone floor with a hollow tower stretching high above them. The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only Strahd knows. It can also be activated with a successful casting of dispel magic (DC 14). Neither the drawbridge nor the portcullis will move until both latches are activated.
-<!-- /DM ONLY -->
+%%

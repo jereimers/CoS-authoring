@@ -5,15 +5,15 @@ aliases:
 area_code: V7
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Van Richten's Tower]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -69,4 +69,4 @@ The magic oils preserving Yan's head allow it to remember conversations it has w
 If your card reading reveals that a treasure is here, it's in a narrow compartment hidden in the wall behind the suit of armor. If the armor is activated and commanded to retrieve the treasure, it pulls the stones out of the wall, revealing the treasure beyond.
 
 If the characters have collapsed the tower (see area V2), they find the treasure after $1 \mathrm{~d} 8+2$ hours of searching through the rubble. For each hour they spend searching, they have a 10 percent chance of accidentally unearthing a clay golem (see area V4) that withstood the collapse. The golem, which took no damage from the collapsing tower, is berserk and attacks until destroyed.
-<!-- /DM ONLY -->
+%%

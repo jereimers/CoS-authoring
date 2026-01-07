@@ -191,7 +191,7 @@ for a celebration of the one-year anniversary of the Durst Mill.
 <em>Dinner and refreshments to be served.</em>
 </div>
 
-![[IMG-20251221155542225.jpg]]
+![[Durst Invitation.jpg]]
 <span class="credit">"Durst Invitation" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Den of Wolves

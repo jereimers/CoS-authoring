@@ -5,15 +5,15 @@ aliases:
 area_code: K38
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -67,4 +67,4 @@ This room is concealed behind two secret doors.
 The secret door to the west is set into the back wall of the fireplace (area K37) and can be pulled open from within this room by lifting a simple locking mechanism (which is connected to the poker in the study). It's possible that a character might open this secret door inadvertently by lifting the poker in area K37. Characters can otherwise locate the secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
 
 The secret door at the northern end of the east wall is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Removing the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a knock spell or similar magic.
-<!-- /DM ONLY -->
+%%

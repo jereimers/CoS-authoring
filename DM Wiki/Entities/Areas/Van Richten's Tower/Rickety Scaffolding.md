@@ -5,15 +5,15 @@ aliases:
 area_code: V3
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Van Richten's Tower]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ loot:
 
 %% --- Page 234 --- %%
 The scaffolding can't support more than 200 pounds of weight. If it collapses, anyone standing on it falls 20 feet to the ground, taking 1d6 bludgeoning damage per 10 feet fallen plus an additional 2d6 piercing damage from the debris. A creature underneath the scaffolding must succeed on a DC 13 Dexterity saving throw or take 14 (4d6) bludgeoning damage from falling debris.
-<!-- /DM ONLY -->
+%%

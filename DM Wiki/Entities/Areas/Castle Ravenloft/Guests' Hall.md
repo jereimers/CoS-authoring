@@ -5,15 +5,15 @@ aliases:
 area_code: K9
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -57,4 +57,4 @@ Torchlight flutters against the walls of this vaulted hall. To the east, an arch
 
 The suit of armor standing in the alcove is merely a normal suit of plate armor that is well cared for.
 The staircase leads down to area K61 and up to area K30. The double doors provide access to area K10.
-<!-- /DM ONLY -->
+%%

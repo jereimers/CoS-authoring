@@ -5,15 +5,15 @@ aliases:
 area_code: S22
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -60,4 +60,4 @@ The first time a character touches the table, read:
 A scream fills the room-a scream that echoes through time. It is followed by other, fainter screams of those who died under the knife. The screams fade until they are nothing more than haunting memories.
 
 There is nothing of value here.
-<!-- /DM ONLY -->
+%%

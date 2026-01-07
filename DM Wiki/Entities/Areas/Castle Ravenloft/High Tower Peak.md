@@ -5,15 +5,15 @@ aliases:
 area_code: K59
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -77,4 +77,4 @@ Pidwick II can't speak and doesn't have an expressive face, so he relies mostly 
 If the characters show kindness to the clockwork effigy, it accompanies them and tries its best to be helpful and entertaining. It knows its way around the castle and can serve as a silent guide.
 
 If one or more characters are mean toward Pidwick II, its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking 1d6 bludgeoning damage per 10 feet fallen.
-<!-- /DM ONLY -->
+%%

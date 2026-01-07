@@ -5,15 +5,15 @@ aliases:
 area_code: W13
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 Thick moss covers the walls of this underground staircase. At the foot of the steps is a landing with an arched wooden door set into the north wall.
 
 This staircase connects areas W10 and W14.
-<!-- /DM ONLY -->
+%%

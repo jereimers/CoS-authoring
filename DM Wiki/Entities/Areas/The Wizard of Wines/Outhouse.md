@@ -5,15 +5,15 @@ aliases:
 area_code: W7
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 Sweet-smelling herbs hang from the eaves of this ramshackle wooden outhouse, which has a small crescent moon carved into its door.
 
 The outhouse contains no surprises.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: K30
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -80,4 +80,4 @@ The western door leads to area K25. The eastern door provides access to a stairc
 The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence (Investigation) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
 
 Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp. The fourth chest holds 500 pp , hidden under which is a manual of bodily health.
-<!-- /DM ONLY -->
+%%

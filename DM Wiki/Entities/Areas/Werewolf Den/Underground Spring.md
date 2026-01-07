@@ -5,15 +5,15 @@ aliases:
 area_code: Z4
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Werewolf Den]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -59,4 +59,4 @@ A gash in the rocky ceiling allows the gray light and cold drizzle of the outdoo
 The water is fresh. The ceiling is roughly 20 feet above the surface of the pool. The fissure in the ceiling is 3 feet wide at its widest point, and 6 inches at its narrowest.
 
 The crates on the eastern ledge contain heaps of adult-sized clothing.
-<!-- /DM ONLY -->
+%%

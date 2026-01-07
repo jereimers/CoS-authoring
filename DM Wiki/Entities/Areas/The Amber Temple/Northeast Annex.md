@@ -5,15 +5,15 @@ aliases:
 area_code: X10
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ The walls and ceiling in the eastern portion of this bare stone room have collap
 The ceiling here is 20 feet high, and the walls are lined with empty torch sconces. The statue is a damaged amber golem (use the stat block for the stone golem in the Monster Manual). It has 145 hit points and attacks any creature it sees, stopping only when it can't see any.
 
 An earthquake collapsed the eastern part of the room long ago.
-<!-- /DM ONLY -->
+%%

@@ -13,7 +13,7 @@ WotC_ref:
 CoS-R_ref:
 factions:
 ---
-<!-- DM ONLY -->
+%%
 # The Grinch (Vallakian Lore)
 
 The people of [[Town of Vallaki|Vallaki]] speak in hushed tones of the creature that dwells upon [[Mt Crumpit]]—when they speak of it at all. These are the stories, rumors, and half-truths that circulate through taverns, guard posts, and children's bedtime warnings.
@@ -113,4 +113,4 @@ Ways to introduce the Grinch lore to players:
 4. **Tavern tale:** A drunk local at the Blue Water Inn shares an embellished story
 5. **Child's plea:** A Vallakian child asks the party to retrieve a stolen toy
 
-<!-- /DM ONLY -->
+%%

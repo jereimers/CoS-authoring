@@ -5,15 +5,15 @@ aliases:
 area_code: S12
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -97,4 +97,4 @@ Marzena Belview is skittish and afraid of everyone and everything except for Clo
 
 %% --- Page 206 --- %%
 Marzena has the Flight feature (see the mongrelfolk stat block in appendix D). Her madness is embodied in the following statement: "I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time."
-<!-- /DM ONLY -->
+%%

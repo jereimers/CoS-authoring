@@ -140,6 +140,7 @@ Blinsky is terrified that the Baron will blame him for losing the decorations, a
 > Blinsky is genuinely distraught. This is not merely a financial loss—though that is significant—but a personal violation. He takes pride in his work, macabre though it may be, and the thought that someone despises it enough to steal it wounds him deeply.
 > 
 > If the players are kind to him, Blinsky becomes a loyal ally. If they dismiss his concerns or refuse to help, he retreats into melancholy and becomes less cooperative in future interactions.
+> ^Abstract-Blinskys-Emotional-State
 
 ## X2c. Investigating the Scene
 
@@ -183,7 +184,7 @@ If the players ask around Vallaki for witnesses, they can find the following NPC
 
 <span class="citation"><em>This scene takes place in a new location: Mt. Crumpit.</em></span>
 
-Mt. Crumpit rises northwest of Vallaki, a jagged peak shrouded in perpetual mist. The journey from Vallaki's walls to the mountain's base is approximately two miles and takes roughly forty minutes on foot. The ascent itself—from base to summit—is far more arduous.
+Mt. Crumpit rises northwest of Vallaki, a jagged peak shrouded in perpetual mist. The journey from Vallaki's walls to the mountain's base is approximately **two miles** and takes roughly forty minutes on foot. The ascent itself—from base to summit—is far more arduous.
 
 ## X3a. Approaching the Mountain
 
@@ -392,7 +393,8 @@ The players have several options when confronting the Grinch:
 3. **Kindness to Max:** Show compassion to Max, thereby disarming the Grinch's hostility. (Proceed to [[#The Key to Redemption]].)
 4. **Retreat:** Leave the mountain without engaging. (The Grinch does not pursue but remains a threat.)
 
-> [!warning]+ **Max as Emotional Lever** Max is the key to reaching the Grinch. The players' treatment of Max will determine whether the Grinch can be redeemed—or whether he becomes a vengeful enemy. Pay close attention to how the players interact with Max, and adjust the Grinch's reactions accordingly.
+> [!warning]+ **Max as Emotional Lever** 
+> Max is the key to reaching the Grinch. The players' treatment of Max will determine whether the Grinch can be redeemed—or whether he becomes a vengeful enemy. Pay close attention to how the players interact with Max, and adjust the Grinch's reactions accordingly.
 
 ## X4e. Negotiating with the Grinch
 
@@ -461,7 +463,8 @@ On initiative count 20 (losing initiative ties), the Grinch can take one lair ac
 3. **Mist Surge:** The Mists within the Workshop thicken. Until initiative count 20 of the next round, the area is heavily obscured (beyond 5 feet), and creatures other than the Grinch and Max have disadvantage on Wisdom (Perception) checks.
 4. **Max, Attack!:** Max immediately moves up to his speed and makes a Bite attack against a creature of the Grinch's choice (uses Max's reaction).
 
-> [!combat]- **Balancing the Grinch** This combat encounter is a **deadly** encounter against a party of five 4th-level players and will consume approximately 90% of their total maximum hit points (assuming the Grinch uses lair actions and Max fights alongside him). For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Balancing the Grinch** 
+> This combat encounter is a **deadly** encounter against a party of five 4th-level players and will consume approximately 90% of their total maximum hit points (assuming the Grinch uses lair actions and Max fights alongside him). For parties of smaller or larger sizes, modify the encounter as follows:
 > 
 > - _**Three Players.**_ Reduce the Grinch's hit points to 100. Remove Max from the encounter or make him a non-combatant.
 > - _**Four Players.**_ Reduce the Grinch's hit points to 118. Max fights alongside the Grinch but has 20 HP instead of 27.

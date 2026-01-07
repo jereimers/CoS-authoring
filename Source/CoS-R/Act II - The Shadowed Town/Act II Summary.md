@@ -46,6 +46,7 @@ At dawn, [[Father Lucian Petrovich]] discovers the missing bones. Players who br
 > During Ireena’s meeting with the Baron—whether the players are present or not—the Baron dismisses out of hand any suggestion that the refugees be allowed to enter the town. However, he is willing to allow Ireena to come and go from the town into the refugee camp without requiring her to pay the toll at the gates. 
 > 
 > If the players are present at this meeting and befriend or antagonize the Baron, he responds as described in <span class="citation">[[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family|Roleplaying the Valakovich Family]] (p. 105)</span>. He also boasts to the players of the upcoming Festival of the Blazing Sun, at which he plans to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
+> ^Abstract-Ireenas-Diplomacy
 
 That night, if the players defied [[Baron Vargas Vallakovich|Baron Vallakovich]] or aided [[Willemina Rikalova]] on their first morning in Vallaki, the players receive an invitation left by [[Ernst Larnak]] inviting them to dine with [[Lady Fiona Wachter]] at [[Wachterhaus|Wachterhaus]]. Players who accept Lady Wachter's invitation at this point begin [[Arc F - Lady Wachter's Wish]].
 ## [[Neyavr 4]]

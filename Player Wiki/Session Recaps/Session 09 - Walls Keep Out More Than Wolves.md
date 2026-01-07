@@ -24,15 +24,11 @@ tags:
   - cos
 play_date: 12/3/25
 ---
-<!-- DM ONLY -->
-%% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
-<!-- /DM ONLY -->
-
 ## The [[Refugee Camp]]
 
 The day began where [[Town of Vallaki|Vallaki]] prefers not to look: a [[refugee camp]] squatting just beyond the city walls, full of people deemed unfit for happiness. [[Emeric]] and [[Magda]] explained [[Baron Vargas Vallakovich|the Baron]]’s logic with bureaucratic cheer—sickness, unruliness, and malicious unhappiness—as if misery were a contagious crime. [[Arden Nalero|Arden]] moved through the infirmary tent laying on hands and mending wounds left by wolves, bats, and other night-born messengers of Strahd, offering small mercies where the town offered none.
 
-It didn’t take long to notice that many refugees had found their own escape. Dream Pastries circulated like contraband prayers—temporary bliss wrapped in powdered sugar. [[Arden Nalero|Arden]], aghast, tossed his pastry aside… only to retrieve it moments later when a desperate man named Zsolt dove for it. Zsolt’s hunger was absolute. He begged, bartered, and debased himself for a single bite. [[Arden Nalero|Arden]] tried to heal him instead, with mixed results: Zsolt got half his teeth back, but lost the gummy mouth that had apparently been paying the bills.
+It didn’t take long to notice that many refugees had found their own escape. Dream Pastries circulated like contraband prayers—temporary bliss wrapped in powdered sugar. [[Arden Nalero|Arden]], aghast, tossed his pastry aside… only to retrieve it moments later when a desperate man named Franz dove for it. Franz’s hunger was absolute. He begged, bartered, and debased himself for a single bite. [[Arden Nalero|Arden]] tried to heal him instead, with mixed results: Franz got half his teeth back, but lost the gummy mouth that had apparently been paying the bills.
 
 Elsewhere in the camp, [[Parriwimple]] made himself indispensable. He hauled firewood at impossible speed, did the work of several men without complaint, and quickly became a hero to the refugee children, who looked at him like a living wall between themselves and the dark. For the first time, [[Parriwimple]] admitted he wanted to stay—not because he was told to, but because he was needed. With heavy hearts and heavier concerns about his lingering werewolf injury, the party agreed to leave him behind, swearing they’d return before the next full moon.
 
@@ -60,6 +56,6 @@ The evening’s entertainment belonged to [[Rictavio]], the carnival ringmaster,
 
 Disaster loomed, but [[Rictavio]] defused it with theatrical exhaustion and an abrupt retirement. The party followed suit, retreating upstairs to collapse together in one oversized bed, finally surrendering to sleep after a day spent skirting walls—some of stone, some of fear, and some far harder to climb.
 
-<!-- DM ONLY -->
+%%
 
-<!-- /DM ONLY -->
+%%

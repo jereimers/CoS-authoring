@@ -2,23 +2,23 @@
 type: NPC
 name: Standimir
 aliases:
-  - "Revenant"
+  - Revenant
 pronouns:
 race: Human
 class: Revenant
 age:
 gender:
 creature_type:
-origin:
+origin: "[[Argynvostholt]]"
 home_base:
 current_location:
 factions:
+  - "[[Order of the Silver Dragon]]"
 arc:
+  - "[[Arc C - Into the Valley]]"
 first_appearance_session:
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -27,16 +27,18 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait:
-portrait_credit:
+  - "[[Sir Godfrey Gwilym]]"
+portrait: "[[Source/CoS-R/Appendices/images/tser-falls-revenant.png]]"
+portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
 tags:
-  - "npc"
-  - "cos"
-  - "needs_filling"
+  - npc
+  - cos
+  - needs_filling
 CoS-R_ref:
 WotC_ref:
 ---
+![[Source/CoS-R/Appendices/images/tser-falls-revenant.png]]
 # Who they are
 
 
@@ -53,7 +55,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Standimir Profile
 
 ## Portrait
@@ -100,5 +102,5 @@ WotC_ref:
 
 
 # Gallery
-*No images available.*
-<!-- /DM ONLY -->
+![[Source/homebrew/images/tser-falls-revenant.png]]
+%%

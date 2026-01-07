@@ -5,15 +5,15 @@ aliases:
 area_code: K26
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -62,4 +62,4 @@ If the characters enter this hall through either set of double doors, read:
 The "floating" skeletons hang from pegs on the north and south walls. The skeletons, which were assembled by Cyrus Belview (see area K62), are held together with wire and are harmless. Behind the skeleton on the north wall is a secret door that can be pushed open into area K33.
 
 If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hanging on the inside of the secret door as soon as they pull it open, and, with a light source or darkvision, can see the skeleton at the south end of the hall as well.
-<!-- /DM ONLY -->
+%%

@@ -7,4 +7,3 @@
 # Allies
 - [[Ireena Kolyana]]
 - [[Parriwimple]]
-- [[Muriel Vinshaw|Blue-Winged Raven]]

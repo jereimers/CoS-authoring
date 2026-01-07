@@ -5,15 +5,15 @@ aliases:
 area_code: X3
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -59,4 +59,4 @@ Shattered bits of wood cover the floor of this frigid, twenty-foot-square room.
 The ceiling in each of these rooms is 10 feet high. The wood is all that remains of guards' bunks.
 
 A secret door set in one wall of each room can be pulled open to reveal area X2a or X2b beyond.
-<!-- /DM ONLY -->
+%%

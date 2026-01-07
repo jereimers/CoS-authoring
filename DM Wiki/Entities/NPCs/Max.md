@@ -18,8 +18,6 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status: alive
-role_in_story: Emotional Lever / Support NPC
-statblock_source: Custom (Steel Defender base)
 cr: 1
 resonance: Max should inspire immediate sympathy—a loyal creature bound to a troubled master, embodying unconditional love in a land that has forgotten it.
 emotions:
@@ -64,7 +62,7 @@ Max is gentle, eager to please, and starved for affection. He is anxious around 
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Max Profile
 
 ## Portrait
@@ -112,9 +110,6 @@ Max is the emotional heart of the Grinch encounter. Players should feel genuine 
 > - **Hit Points** 27 (5d6 + 10)
 > - **Speed** 40 ft.
 > ___
-> |STR|DEX|CON|INT|WIS|CHA|
-> |:---:|:---:|:---:|:---:|:---:|:---:|
-> |12 (+1)|14 (+2)|14 (+2)|4 (-3)|12 (+1)|8 (-1)|
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -151,4 +146,4 @@ ___
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

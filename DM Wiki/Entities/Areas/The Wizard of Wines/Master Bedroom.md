@@ -5,15 +5,15 @@ aliases:
 area_code: W17
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -76,4 +76,4 @@ A secret door in the north corner of the east wall can be pushed open to gain ac
 ## Treasure 
 
 Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled visage of Strahd von Zarovich), and 350 sp. A secret compartment in the lid can be found with a successful DC 15 Wisdom (Perception) check. It holds a gold locket (worth 25 gp ) containing a painted portrait of a beautiful woman (Davian's deceased wife, Angelika), as well as a pouch containing five 50 gp gemstones.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: V4
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Van Richten's Tower]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -63,4 +63,4 @@ If it appears that a creature wants to use the elevator, the golems lower the pl
 The elevator isn't a smooth ride. The platform rises or lowers 5 feet per round, and its movements are jerky. If even one clay golem is destroyed, the remaining golems can no longer operate the elevator and remain motionless until attacked.
 
 The crates in this room are all empty.
-<!-- /DM ONLY -->
+%%

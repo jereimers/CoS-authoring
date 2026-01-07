@@ -5,15 +5,15 @@ aliases:
 area_code: Q42
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 Rich drapes, faded by time and neglect, hide the windows of this otherwise empty room.
 
 Argynvost preferred to sleep in his dragon form. Thus, there is no furniture here.
-<!-- /DM ONLY -->
+%%

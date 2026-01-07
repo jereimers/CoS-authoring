@@ -457,7 +457,7 @@ If any of the players treated him kindly at the Blood of the Vine Tavern or Bild
 >
 > Wooden platforms scattered across the western side of the barricade allow defenders to peer over the edge and attack approaching enemies. While behind the barricade, defenders have full cover, or three-quarters cover while standing on a platform.
 
-![[IMG-20251221155545829.jpg]]
+![[Eastern Barricade.jpg]]
 <span class="credit">"The Eastern Barricade" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/ef507db2df">here!</a></span>
 ### The Siege
 Dusk falls soon after the players complete their preparations. Read:
@@ -540,7 +540,7 @@ If the players follow her, Muriel guides them west toward the town square, then 
 <p>The torches to the west have been extinguished, the town’s western defenders fled—or killed. Only one figure remains standing: Ismark, his clothes torn and bloody, bearing a longsword in his left hand and a shortsword in his right. Twenty feet away from him stands a pale-skinned zombie, its flesh a smooth, sickly white that bulges with crimson veins. Its eyes stare dully toward the tents in the town square beyond, and, as a cloud of reddish mist spills gently from its gaping mouth, it takes a shambling step forward.</p>
 </div>
 
-![[IMG-20251221155548688.jpg]]
+![[Town-Square_4k_NoGrid_30x20_136PPI_Gloom_Fog.jpg]]
 
 <span class="credit">"Village of Barovia Town Square" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/05afd01fa8/">here!</a></span>
 
@@ -905,7 +905,7 @@ Doru prefers to speak with the players from the safety of darkness, but won’t 
 </div>
 <br>
 
-![[IMG-20251221155551143.jpg]]
+![[Doru.jpg]]
 <span class="credit">"Doru" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 

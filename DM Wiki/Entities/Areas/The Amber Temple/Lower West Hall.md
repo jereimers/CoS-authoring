@@ -5,15 +5,15 @@ aliases:
 area_code: X36
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ Glistening amber coats the walls and ceiling of this enormous hall like sculpted
 An amber door in the north wall stands open. Four other amber doors to the west and south stand closed.
 
 The animal statues represent different kinds of familiars, and they are harmless.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: K28
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -59,4 +59,4 @@ Two Strahd zombies (see appendix D) are slouched on the thrones. They remain mot
 
 %% --- Page 83 --- %%
 The balcony is 50 feet above the floor of the chapel (area K15). A staircase north of the double doors leads down to area K29.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: K12
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 A high, domed ceiling caps the thirty-foot-wide octagonal room before you. Frescoes faded with age adorn the ceiling, but their images are impossible to make out. Tall, thin arrow slits look out over the courtyard.
 
 Each arrow slit is $21 / 2$ feet tall and 4 inches wide.
-<!-- /DM ONLY -->
+%%

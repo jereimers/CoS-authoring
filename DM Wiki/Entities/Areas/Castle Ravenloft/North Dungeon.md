@@ -5,15 +5,15 @@ aliases:
 area_code: K74
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -120,4 +120,4 @@ The sword's purpose is to fight evil. The sword has the following additional pro
 - The sword continually sheds bright light in a 15-foot radius and dim light for an additional 15 feet. Only by destroying the sword can this light be extinguished.
 - A lawful good creature can attune itself to the sword in 1 minute.
 - While attuned to the weapon, the sword's wielder can use the sword to cast the crusader's mantle spell. Once used, this property of the sword can't be used again until the next dawn.
-<!-- /DM ONLY -->
+%%

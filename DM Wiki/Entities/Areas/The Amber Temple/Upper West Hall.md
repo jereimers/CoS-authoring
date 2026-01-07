@@ -5,15 +5,15 @@ aliases:
 area_code: X17
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -63,4 +63,4 @@ The arrow slits look down on the temple (area X5).
 ## Treasure
 
 Although the dead wizard's spellbook didn't survive, his staff did. It is a staff of frost. Imprinted on it is a fragment of the wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
-<!-- /DM ONLY -->
+%%

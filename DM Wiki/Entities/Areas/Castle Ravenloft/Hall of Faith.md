@@ -5,15 +5,15 @@ aliases:
 area_code: K14
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ loot:
 
 The statues are harmless. Their moving eyes are a simple optical illusion.
 Double doors stand at both ends of the hall. Above the doors leading to area K15 hangs a symbol of beaten bronze that looks like a rising or setting sun.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: W10
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -61,4 +61,4 @@ The stairs lead down to area W13. The bottles stored in the rack don't have labe
 ## Fortunes of Ravenloft 
 
 If your card reading reveals that a treasure is here, it's buried in the barrel of sand. Emptying the barrel or digging through the sand reveals the treasure without the need for a check.
-<!-- /DM ONLY -->
+%%

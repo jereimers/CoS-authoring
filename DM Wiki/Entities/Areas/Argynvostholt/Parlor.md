@@ -5,15 +5,15 @@ aliases:
 area_code: Q7
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -51,9 +51,5 @@ loot:
 
 
 # Notes
-# Q7. Parlor
 
-Tattered velvet drapes cover the tall, slender windows that encircle this parlor. The furnishings are covered with dust and cobwebs, and lie in disarray. A damaged brass chandelier hangs from the ceiling, which is covered with a faded mural that depicts metallic dragons and colorful birds flying beneath white clouds.
-
-Time and neglect have damaged the furnishings, leaving nothing of value.
-<!-- /DM ONLY -->
+%%

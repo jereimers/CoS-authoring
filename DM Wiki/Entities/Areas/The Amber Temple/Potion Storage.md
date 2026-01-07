@@ -5,15 +5,15 @@ aliases:
 area_code: X19
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -59,4 +59,4 @@ Stone blocks resembling tables stand in the center of this room covered in dust.
 The ceiling here is 15 feet high. The bottles contain the dried-up remains of potions that lost their efficacy long ago. The ladders were once used to reach the higher niches, but they can no longer support any weight.
 
 A secret door is set in the north wall. It can be pulled open to reveal a staircase landing (area X21).
-<!-- /DM ONLY -->
+%%

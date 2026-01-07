@@ -5,15 +5,15 @@ aliases:
 area_code: K73
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -68,4 +68,4 @@ The floor beneath the water isn't as solid as one might expect. There is a safe 
 When a character sets off a trap, other characters in the hall see an explosion of air and water fly up around the triggering character (air that was trapped in the pit is released suddenly when the trapdoor opens). The triggering character suddenly falls from sight. An instant later, the trapdoor closes, leaving only a slowly dissipating swirl in the water. It doesn't open again until 24 hours have passed, at which point its teleport trap is recharged.
 
 Characters who fall victim to the teleport traps are transported to dungeon cells closed with iron bars and under 5 feet of brackish water (areas K74 and K75).
-<!-- /DM ONLY -->
+%%

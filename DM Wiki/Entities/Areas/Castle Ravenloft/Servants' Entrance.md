@@ -5,15 +5,15 @@ aliases:
 area_code: K23
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -59,4 +59,4 @@ The skeletons, which were assembled by Cyrus Belview (see area K62), are held to
 The staircase descends to area K62. The east door leading to the courtyard is swollen in its frame and requires a successful DC 10 Strength check to force open. The north door is cracked and hangs loose on its hinges; beyond it lies another dust-filled chamber (area K24).
 
 The ancient book is weathered and brittle, but the ink in the well is fresh. At the top of each page is scribed the message "Please register for your own convenience and that of your next of kin." The book is more than half-filled with names, all of them illegible.
-<!-- /DM ONLY -->
+%%

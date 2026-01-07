@@ -5,15 +5,15 @@ aliases:
 area_code: K80
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -62,4 +62,4 @@ If the characters enter this area at the top of the staircase, read:
 The rough-hewn corridor ends at a stone staircase that descends to the south. Flanked by walls of rough masonry and relatively free of dust, these stairs descend before ending at a lonely door.
 
 The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, connecting areas K78 and K81.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: K42
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -70,4 +70,4 @@ The figure on the bed is Gertruda (NG female human commoner), the daughter of Ma
 Gertruda is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to herself and others. Fortunately for her, Strahd has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
 
 Next to the bed, set into the north wall, is a secret door. It can be pushed open to reveal a dusty hall that ends at a similar secret door in the back of an alcove (see area K45 for details). Gertruda doesn't know that this secret door exists.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: X24
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ This bare stone room consists of a foyer to the east and a shrine to the west. C
 The obsidian statue is 4 feet tall, weighs 250 pounds, and depicts the same nameless god that stands watch in the main temple (area X5). Any living creature that enters this room must succeed on a DC 16 Wisdom saving throw or be drawn to the statue as though affected by the sympathy effect of an antipathy/sympathy spell. The corpses lying in front of the statue are the remains of two human wizards who came here separately, failed their saving throws, and starved to death while under the spell's effect. The lich in area X27 destroyed the wizards' spellbooks and other possessions. Covering the statue or removing it from this shrine suppresses its magic and ends its sympathy effect on anyone.
 
 A pair of amber doors in the east wall open into area X25. A secret door is set in the back of one of the northern alcoves. Pulling it open releases hundreds of skulls (see area X26).
-<!-- /DM ONLY -->
+%%

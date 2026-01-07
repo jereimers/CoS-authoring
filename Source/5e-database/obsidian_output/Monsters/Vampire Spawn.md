@@ -11,7 +11,7 @@ hit_points: 82
 challenge_rating: 5
 xp: 1800
 ---
-<!-- DM ONLY -->
+%%
 # Vampire Spawn
 
 *Medium undead, neutral evil*
@@ -55,4 +55,4 @@ Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts it
 
 **Claws.** Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
 
-<!-- /DM ONLY -->
+%%

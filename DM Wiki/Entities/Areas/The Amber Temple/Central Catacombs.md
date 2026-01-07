@@ -5,15 +5,15 @@ aliases:
 area_code: X31
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -73,4 +73,4 @@ More skeletal remains fill niches in the walls of this smaller annex, the amber 
 The niches set into the wall of this annex lie empty, except for a thick coat of dust.
 
 No wizards were entombed here. This annex is empty.
-<!-- /DM ONLY -->
+%%

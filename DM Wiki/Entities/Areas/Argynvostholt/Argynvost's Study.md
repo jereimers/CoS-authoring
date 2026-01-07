@@ -5,15 +5,15 @@ aliases:
 area_code: Q40
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -79,4 +79,4 @@ The picture radiates an aura of transmutation magic under the scrutiny of a dete
 The beacon in the picture flashes with a brilliant silver light, and the spectral form of a huge silver dragon fills the room. "My skull lies in the fortress of my enemy," it says, "displayed in a place of ill omen. Return my skull to its rightful crypt, and my spirit will shine here forever, bringing hope to this dark land." With that, the dragon's apparition fades away.
 
 The spectral dragon isn't the spirit of Argynvost, but a spell-like effect. Once the dragon has spoken, the picture no longer glows and becomes nonmagical.
-<!-- /DM ONLY -->
+%%

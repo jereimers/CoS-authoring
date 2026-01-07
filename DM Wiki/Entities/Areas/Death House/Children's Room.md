@@ -47,7 +47,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 
 # Notes
 
-<!-- /DM ONLY -->
+%%

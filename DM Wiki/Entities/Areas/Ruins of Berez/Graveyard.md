@@ -5,15 +5,15 @@ aliases:
 area_code: S7
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -66,4 +66,4 @@ A ray of golden sunlight breaks through the clouds to the west and shines upon t
 The sunray lasts for 1 minute. If the characters smash the gravestone without placing Tasha Petrovna's holy symbol in it first, they find nothing within its remains.
 
 The ring is a ring of regeneration.
-<!-- /DM ONLY -->
+%%

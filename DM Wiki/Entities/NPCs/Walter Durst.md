@@ -16,8 +16,6 @@ arc:
 first_appearance_session: 5
 first_appearance_date: 3 Neyavr 735
 status: undead
-role_in_story:
-statblock_source:
 cr: 5
 resonance:
 emotions:
@@ -30,8 +28,8 @@ portrait:
 portrait_credit:
 handouts:
 tags:
-  - "npc"
-  - "cos"
+  - npc
+  - cos
 CoS-R_ref:
 WotC_ref:
 ---
@@ -51,7 +49,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Walter Durst Profile
 
 ## Portrait
@@ -99,4 +97,4 @@ WotC_ref:
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

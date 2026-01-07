@@ -5,15 +5,15 @@ aliases:
 area_code: S15c
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -93,4 +93,4 @@ This room contains ten mongrelfolk, three of which are tending to noncombatant m
 This room contains a fort made out of piled bits of shattered furniture and tom draperies. From within the fort, you hear a mischievous cackle.
 
 Two mongrelfolk live in the "fort" but refuse to come out unless baited with food. While hidden under the wreckage, they have three-quarters cover.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: V2
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Van Richten's Tower]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -73,4 +73,4 @@ If the arm positions are done out of order, a young blue dragon magically appear
 ## Vestibule
 
 Beyond the door is a 5 -foot-square vestibule with a tattered curtain that conceals area V4 beyond. The iron door leading outside can be safely opened from this side. It magically closes after 1 minute unless held open.
-<!-- /DM ONLY -->
+%%

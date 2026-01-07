@@ -5,15 +5,15 @@ aliases:
 area_code: K81
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ This tunnel is cut into the Pillarstone of Ravenloft itself. Its surface is slic
 Characters who have knowledge of stonecutting can tell that this passage is a relatively new construction compared to other areas of Ravenloft. The tunnel is 120 feet long, with a stone door at its eastern end.
 
 Near the midpoint of the tunnel is a trapdoor hidden under a layer of fog. Characters can't spot the trapdoor passively, but an active search accompanied by a successful DC 20 Wisdom (Perception) check locates it. Unless the trapdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
-<!-- /DM ONLY -->
+%%

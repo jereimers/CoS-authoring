@@ -5,15 +5,15 @@ aliases:
 area_code: K53
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -61,4 +61,4 @@ If a character tries to traverse the rooftop, read:
 Some of the ancient roof tiles slide easily underfoot, easily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below.
 
 A character must succeed on a DC 15 Dexterity (Acrobatics) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof ans falls 40 feet to the castle parapet (area K46).
-<!-- /DM ONLY -->
+%%

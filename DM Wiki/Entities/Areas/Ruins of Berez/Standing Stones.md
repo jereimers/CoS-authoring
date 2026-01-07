@@ -5,15 +5,15 @@ aliases:
 area_code: U6
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -79,4 +79,4 @@ The standing stones are nonmagical. However, druid characters who enter the circ
 The circle has another property that druid characters can't sense but might discover when they use the Wild Shape feature within the circle's confines. Any druid that uses the Wild Shape feature within the circle gains the maximum number of hit points available to the new form. For example, a druid character using the Wild Shape feature to assume the form of a giant eagle would have $44(4 d 10+4)$ hit points while in that form.
 
 At your discretion, the circle might have other strange properties that have been forgotten over time. Although she knows something of the circle's history, Muriel is unaware of its properties.
-<!-- /DM ONLY -->
+%%

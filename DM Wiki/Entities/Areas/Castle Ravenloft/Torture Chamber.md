@@ -5,15 +5,15 @@ aliases:
 area_code: K76
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -70,4 +70,4 @@ upward through the water as they attack.
 
 %% --- Page 112 --- %%
 ![img-39.jpeg](img-39.jpeg)
-<!-- /DM ONLY -->
+%%

@@ -1,4 +1,4 @@
-<!-- DM ONLY -->
+%%
 # <% tp.file.title %> 
 <% tp.file.content %>
 # Description
@@ -7,8 +7,8 @@
 
 # Notes
 
-<!-- /DM ONLY -->
 
+%%
 
 
 

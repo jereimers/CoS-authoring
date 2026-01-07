@@ -2,14 +2,14 @@
 type: Area
 name: Blue Water Inn
 aliases:
-  - "Blue Water Inn"
+  - Blue Water Inn
 area_code: N2
 WotC_ref: "[[WotC - 05 - Vallaki - Areas of Vallaki#N2. Blue Water Inn]]"
 CoS-R_ref: "[[Arc C - Into the Valley#C12b. The Blue Water Inn]]"
 parent_region: "[[Town of Vallaki]]"
 arcs:
 connected_locations:
-  - "[[W. The Wizard of Wines]]"
+  - "[[The Wizard of Wines]]"
 notable_npcs:
   - "[[Danika Dorakova]]"
   - "[[Nikolai Wachter]]"
@@ -21,9 +21,9 @@ notable_npcs:
 threat_level: none
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
-  - "vallaki"
+  - area
+  - cos
+  - vallaki
 key_factions:
   - "[[Keepers of the Feather]]"
 area_type: residence
@@ -54,7 +54,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -63,4 +63,4 @@ loot:
 
 # Notes
 
-<!-- /DM ONLY -->
+%%

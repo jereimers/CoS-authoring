@@ -6,7 +6,7 @@ aliases:
   - Ismark the Lesser
 pronouns: he/him
 race: Human
-class: Wizard
+class:
 age: 18
 gender: male
 creature_type: humanoid
@@ -15,18 +15,12 @@ home_base:
 current_location:
 factions:
 arc:
-  - "[[Arc Y - Other Arc]]"
-first_appearance_session: 7
-first_appearance_date: 3 Neyavr 735
+first_appearance_session: 2
+first_appearance_date:
 status: alive
-role_in_story: Major NPC
-statblock_source: CoS p. 231
-cr: 5
+cr:
 resonance:
 emotions:
-  - curious
-  - frustrated
-  - anxious
 motivations:
 inspirations:
 vocal_notes:
@@ -58,7 +52,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Ismark Kolyanovich Profile
 
 ## Portrait
@@ -151,7 +145,7 @@ actions:
 
 # Notes
 
-<!-- /DM ONLY -->
+%%
 # Gallery
 ![[ismark.png]]
 

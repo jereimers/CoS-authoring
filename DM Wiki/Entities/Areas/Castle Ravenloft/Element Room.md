@@ -5,15 +5,15 @@ aliases:
 area_code: K55
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -62,4 +62,4 @@ The leaded windows are fitted with iron hinges and can be opened. They are curre
 Characters who search the room spot numerous boot prints in the dust, as well as a short trail in the dust on the floor, leading from the northeast corner of the room to the easternmost door. It looks like something heavy was dragged across the floor toward the doorway.
 
 There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down. Area K51 lies below. (There's no ability check that will let the characters figure out the trick to opening the door. They can get that information from the witches, or perhaps by using a divination spell or similar magic.)
-<!-- /DM ONLY -->
+%%

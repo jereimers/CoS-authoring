@@ -5,15 +5,15 @@ aliases:
 area_code: O4
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Old Bonegrinder]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -63,4 +63,4 @@ If your card reading reveals that a treasure is here, it's easy to find, either 
 
 %% --- Page 174 --- %%
 ![[06-003.hag.png]]
-<!-- /DM ONLY -->
+%%

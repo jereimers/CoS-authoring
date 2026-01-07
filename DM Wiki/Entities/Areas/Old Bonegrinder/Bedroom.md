@@ -5,15 +5,15 @@ aliases:
 area_code: O3
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Old Bonegrinder]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -68,4 +68,4 @@ The two captured children (LG male and female noncombatants) were taken from the
 ## Treasure
 
 The hags don't use the bed for sleeping, but they store their treasure in it. Six pieces of cheap jewelry (worth 25 gp each) are stuffed in the moldy straw mattress.
-<!-- /DM ONLY -->
+%%

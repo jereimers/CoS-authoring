@@ -5,15 +5,15 @@ aliases:
 area_code: X1
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -64,4 +64,4 @@ The amber statues are impervious to damage. Looking at one for long fills a view
 A natural fissure has opened in the mountainside west of the temple's facade, creating a gap two feet wide, ten feet tall, and fifteen feet deep. You see light coming from a room beyond, and you hear human voices there as well.
 
 The fissure leads to area X15. If the characters make a lot of noise outside, one of the creatures in that area investigates the disturbance.
-<!-- /DM ONLY -->
+%%

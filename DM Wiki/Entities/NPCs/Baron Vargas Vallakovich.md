@@ -27,7 +27,6 @@ arc:
 first_appearance_session: 10
 first_appearance_date: 3 Neyavr 735
 status: alive
-statblock_source:
 cr: 2
 resonance: Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
 emotions:
@@ -78,7 +77,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Baron Vargas Vallakovich Profile
 
 ## Portrait
@@ -131,4 +130,4 @@ Can share with players during scene in his library:
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

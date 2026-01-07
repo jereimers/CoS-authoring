@@ -5,15 +5,15 @@ aliases:
 area_code: K20
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -88,4 +88,4 @@ Strahd senses if any damage is done to the Heart of Sorrow and sends four vampir
 ## K20a. Tower Hall Stair 
 
 This stairway connects areas K20 and K71.
-<!-- /DM ONLY -->
+%%

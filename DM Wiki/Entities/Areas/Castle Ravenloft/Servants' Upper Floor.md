@@ -5,15 +5,15 @@ aliases:
 area_code: K34
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -65,4 +65,4 @@ If anyone touches the dancing dress, it collapses in a lifeless heap on the floo
 Set into the south wall, behind the hanging mirror west of the wardrobe, is a secret door. It can be pulled open to reveal a closet choked with dust and cobwebs and that contains a wooden ladder that leads up 20 feet to another secret door in the tower stairway (area K20).
 
 The staircase leads down to area K24.
-<!-- /DM ONLY -->
+%%

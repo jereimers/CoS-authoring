@@ -18,9 +18,8 @@ has_recap?: true
 tags:
   - cos
 ---
-<!-- DM ONLY -->
-%% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. /%%
-<!-- /DM ONLY -->
+%% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. 
+%%
 
 ## [[Tser Falls]] and the [[Standimir|Revenant]]'s Counsel
 
@@ -85,6 +84,6 @@ Some recognized [[Parriwimple]] and called out his name; others beheld [[Ireena 
 
 And there, surrounded by hungry stares, wounded pride, and the looming walls of [[Town of Vallaki|Vallaki]]—our party drew breath.
 
-<!-- DM ONLY -->
+%%
 
-<!-- /DM ONLY -->
+%%

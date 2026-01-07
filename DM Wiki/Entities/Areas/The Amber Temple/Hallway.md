@@ -5,15 +5,15 @@ aliases:
 area_code: X18
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 This twenty-foot-long, ten-foot-high hallway of bare stone has an amber door at each end.
 
 Area X17 lies beyond the door to the east, area X21 beyond the door to the west.
-<!-- /DM ONLY -->
+%%

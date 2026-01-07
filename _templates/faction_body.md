@@ -5,7 +5,7 @@
 # Where we've seen them
 
 
-<!-- DM ONLY -->
+%%
 # <% tp.file.content %>
 
-<!-- /DM ONLY -->
+%%

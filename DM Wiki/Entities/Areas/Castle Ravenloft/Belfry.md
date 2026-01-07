@@ -5,15 +5,15 @@ aliases:
 area_code: K40
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -61,4 +61,4 @@ The rope is attached to a great bell mounted in a wooden framework 50 feet overh
 Most of the belfry is filled with giant spider webs (see "Dungeon Hazards" in chapter 5, "Adventure Environments," of the Dungeon Master's Guide). Characters who blunder into them risk becoming stuck.
 
 At the west end of the north wall, behind thick webs, is a secret door that opens into area K41.
-<!-- /DM ONLY -->
+%%

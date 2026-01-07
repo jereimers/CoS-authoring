@@ -2,7 +2,7 @@
 type: NPC
 name: Urwin Martikov
 aliases:
-  - "Urwin"
+  - Urwin
 pronouns:
 race:
 class:
@@ -17,8 +17,6 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -31,9 +29,9 @@ portrait:
 portrait_credit:
 handouts:
 tags:
-  - "npc"
-  - "cos"
-  - "needs_filling"
+  - npc
+  - cos
+  - needs_filling
 CoS-R_ref:
 WotC_ref:
 ---
@@ -53,7 +51,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Urwin Martikov Profile
 
 ## Portrait
@@ -150,4 +148,4 @@ Urwin is the father of Brom and Bray Martikov and the husband of [[Danika Dorako
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

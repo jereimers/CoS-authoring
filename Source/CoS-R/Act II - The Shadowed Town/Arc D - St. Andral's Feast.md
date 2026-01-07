@@ -12,10 +12,11 @@ Can the players defeat [[Volenta Popofsky|Volenta]]'s plan and restore the churc
 > If told that [[Ireena]] hopes to find sanctuary at the church, [[Father Lucian Petrovich|Father Lucian]] is glad to offer her a pallet to sleep on in the chapel. After [[Ireena]] offers to compensate him for his kindness, [[Father Lucian Petrovich|Father Lucian]] considers her request, then invites her to assist with [[Yeska]]'s chores and education for the duration of her stay—a request which [[Ireena]] graciously accepts.
 > 
 > The following morning, after St. Andral's bones are stolen as described below, [[Ireena]] visits the players at the [[Blue Water Inn]] before their conversation with [[Urwin Martikov]] described in [[Arc C - Into the Valley#Urwin's Advice|Arc C - Into the Valley]] and asks them to visit the church to speak with [[Father Lucian Petrovich|Father Lucian]] about an "incident." ([[Father Lucian Petrovich|Father Lucian]] has asked her not to speak of the incident outside of the church, for fear of raising a panic.) The remainder of this arc then proceeds normally.
+> ^Abstract-An-Early-Start
 # D1. [[St. Andral's Church]]
-<em>This scene takes place in Chapter 5: Area N1.</em></span>
+<em>This scene takes place in Chapter 5: Area N1.</em>
 
-The church is largely as described in N1. [[St. Andral's Church]] (p. 97)</span>.
+The church is largely as described in N1. [[St. Andral's Church]] (p. 97).
 
 The church's occupants follow the following schedule unless interrupted:
 
@@ -76,6 +77,7 @@ The church's occupants follow the following schedule unless interrupted:
 > [[Yeska]] doesn't yet know that the bones were stolen. Instead, [[Father Lucian Petrovich|Father Lucian]] told him only that a broken tree branch had crashed through the window, breaking the glass and damaging the floor. The following dawn, [[Father Lucian Petrovich|Father Lucian]] sent [[Yeska]] to [[Coffin Maker's Shop|Henrik's shop]] to obtain planks and nails for the repair, which [[Henrik van der Voort|Henrik]] delivered personally to scope out whether [[Father Lucian Petrovich|Lucian]] suspected his involvement.
 > 
 > [[Father Lucian Petrovich|Father Lucian]] doesn't know who stole the bones or why. Though he gently interrogated [[Yeska]] as to whether he told anyone about the bones, [[Yeska]] truthfully told him that he hadn't. [[Father Lucian Petrovich|Father Lucian]] has been unable to discern more from his own brief inspection of the crime scene. With the date of reconsecration fast approaching, however, he fears the worst.
+> ^Lore-The-Stolen-Bones
 ## D1a. Entering the Church
 When the players first move to enter the church after the bones have been stolen, [[Henrik van der Voort]] emerges at the same time, forcing one of the players to make a DC 10 Dexterity saving throw or crash into him.
 
@@ -96,7 +98,7 @@ When the players first enter this area, read:
 <p>A broad-shouldered, black-haired young man stands atop a small stepladder before the broken window, nailing a tarp into place to cover it as a young boy sweeps the chapel floor not far away. A middle-aged priest, with graying hair and crisp, clean vestments watches them work from the pews, holding a broom of his own and looking lost in thought.</p>
 </div>
 
-The young man is [[Milivoj]], who is as described in N1. [[St. Andral's Church]] (p. 97)</span>. The priest is [[Father Lucian Petrovich]]. The boy is [[Yeska]].
+The young man is [[Milivoj]], who is as described in N1. [[St. Andral's Church]] (p. 97). The priest is [[Father Lucian Petrovich]]. The boy is [[Yeska]].
 
 ![[father-lucian-petrovich.png]]
 <span class="credit">"Father Lucian Petrovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -117,13 +119,13 @@ If the players agree not to spread his words beyond the church, [[Father Lucian 
 
 * The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
 * The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
-* Originally, only [[Father Lucian Petrovich|Father Lucian]] knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with [[Yeska]], as described in Bones of St. Andral (p. 97)</span>.
+* Originally, only [[Father Lucian Petrovich|Father Lucian]] knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with [[Yeska]], as described in [[06_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church]] (p. 97).
 * To retain the church's protection, [[Father Lucian Petrovich|Father Lucian]] must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
 * If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
 * Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, [[Father Lucian Petrovich|Father Lucian]] can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
 * [[Father Lucian Petrovich|Father Lucian]] is fearful that some fell creature or wicked soul has manufactured this crisis as an opportunity to cause his congregation harm; though [[Baron Vargas Vallakovich|the Baron]] is confident that no monsters could breach Vallaki's walls, [[Father Lucian Petrovich|Father Lucian]] fears that the town is not as safe as it appears.
 
-[[Father Lucian Petrovich|Father Lucian]] can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in Bones of St. Andral (p. 97)</span>. He does not suspect [[Milivoj]] of stealing the bones either, having no reason to do so.
+[[Father Lucian Petrovich|Father Lucian]] can also share the date of St. Andral's Feast, which will take place on the fifth day after the players arrived in Vallaki. He has not reported the theft of the bones for the reasons described in Bones of St. Andral (p. 97). He does not suspect [[Milivoj]] of stealing the bones either, having no reason to do so.
 
 If the players express an interest in doing so, [[Father Lucian Petrovich|Father Lucian]] is glad to allow them to inspect the crime scene—having made neither heads nor tails of it himself—and to interview [[Yeska]], so long as they promise to be patient and gentle with the boy. 
 
@@ -144,7 +146,7 @@ While accompanying the party, [[Father Lucian Petrovich|Father Lucian]] fights a
 
 The fresh boards and nails were delivered by [[Henrik van der Voort|Henrik]]. The opening is barely wide enough to allow one person to enter, and descends into the crypt.
 
-The crypt is as described in Bones of St. Andral (p. 97)</span>, lying largely beneath the chapel's altar. If a player enters the crypt, read:
+The crypt is as described in [[06_Chapter 5 - The Town of Vallaki#Bones of St. Andral|Bones of St. Andral]] (p. 97), lying largely beneath the chapel's altar. If a player enters the crypt, read:
 
 <div class="description">
 <p>You descend into a small, dark, damp chamber, the walls made of rough-hewn stone blocks stained with age and moisture. At the center stands a lonely stone slab, an empty, circular depression carved neatly into its surface.</p>
@@ -169,7 +171,7 @@ If the players choose to interview [[Yeska]], [[Non-Player Characters#Father Luc
 
 If one of the players asks [[Yeska]] whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with [[Father Lucian Petrovich|Father Lucian]], [[Yeska]] shares that [[Milivoj]] was also in the church at that time. ([[Yeska]], though alarmed by the direction of the conversation, can also be persuaded to share that [[Milivoj]]'s tales of Strahd potentially attacking the church encouraged him to ask [[Father Lucian Petrovich|Father Lucian]] about the church's protection in the first place.)
 
-![[Source/CoS-R/Act II - The Shadowed Town/Arc D - St. Andral's Feast/yeska.png]]
+![[Source/CoS-R/Appendices/images/yeska.png]]
 <span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 # D2. [[Milivoj]]’s House
 [[Milivoj]]’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
@@ -194,7 +196,7 @@ Jarzinka is a woman of few words, and is annoyed because she has just finished t
 * Bogan cheerfully informs the players that [[Milivoj]] is sick and doesn’t want to talk to anyone today.
 * If the players succeed on a DC 10 Charisma (Persuasion) check or insist that the matter is urgent, Zondra turns and hollers, “Milo! Someone wants to speak to you.”
 
-A few moments later, the nineteen-year-old [[Non-Player Characters#Milivoj|Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop [[Milivoj]]’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
+A few moments later, the nineteen-year-old [[Milivoj]] exits a swollen wooden door at the back of the room, with his three-year-old brother Jirko giggling delightedly from atop [[Milivoj]]’s shoulders and his four-year-old twin sisters, Victoria and Vasha, hanging from his biceps.
 
 > [!profile]+ **Profile: [[Milivoj]]**
 >
@@ -259,7 +261,7 @@ If the players successfully break the door to the wagon or pick its padlock, the
 The [[Coffin Maker's Shop]] is largely as described in [[Coffin Maker's Shop]] (p. 116). However, the crates in [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **[[Volenta Popofsky]]**, one of Strahd's vampiric brides. In addition, players who explore [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
 > [!lore]+ **The Burned Pentagram**
-> The green pentagram is a remnant of [[Volenta Popofsky|Volenta]]'s use of the teleportation brazier in [[K78. Brazier Room]] (p. 82)</span>. If asked, [[Henrik van der Voort|Henrik]] doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met [[Volenta Popofsky|Volenta]], a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) shortly thereafter.
+> The green pentagram is a remnant of [[Volenta Popofsky|Volenta]]'s use of the teleportation brazier in [[Brazier Room]] (p. 82). If asked, [[Henrik van der Voort|Henrik]] doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met [[Volenta Popofsky|Volenta]], a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) shortly thereafter.
 
 [[Henrik van der Voort]], the coffin maker, follows the following schedule:
 
@@ -388,21 +390,21 @@ If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta
 <strong>Challenge</strong> 5 (1,800 XP)<br>
 <strong>Proficiency Bonus</strong> +3<br>
 <hr>
-<p><strong><em>Close Quarters Fighter.</em></strong> [[Volenta Popofsky|Volenta]] doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
-<p><strong><em>Regeneration.</em></strong> [[Volenta Popofsky|Volenta]] regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If [[Volenta Popofsky|Volenta]] takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> [[Volenta Popofsky|Volenta]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, [[Volenta Popofsky|Volenta]] takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Nimble Escape.</em></strong> [[Volenta Popofsky|Volenta]] can take the Disengage or Hide action as a bonus action on each of her turns.</p>
-<p><strong><em>Awakened Bloodlust.</em></strong> When [[Volenta Popofsky|Volenta]] drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
+<p><strong><em>Close Quarters Fighter.</em></strong> Volenta doesn't have disadvantage on her ranged attack rolls when within 5 feet of a hostile creature.</p>
+<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
+<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Nimble Escape.</em></strong> Volenta can take the Disengage or Hide action as a bonus action on each of her turns.</p>
+<p><strong><em>Awakened Bloodlust.</em></strong> When Volenta drops to 0 hit points, her nostrils flare like a bats, her claws lengthen, and her eyes begin to glow a dim crimson. Her statistics are then instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> [[Volenta Popofsky|Volenta]] uses <strong><em>hail of daggers</em></strong> twice, <strong><em>dagger</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
+<p><strong><em>Multiattack.</em></strong> Volenta uses <strong><em>hail of daggers</em></strong> twice, <strong><em>dagger</em></strong> twice, or <strong><em>hail of daggers</em></strong> once and either <strong><em>tanglefoot</em></strong> or <strong><em>thunderstone</em></strong>.</p>
 <p><strong><em>Hail of Daggers.</em></strong> <em>Ranged Weapon Attack:</em> +7 to hit, range 15 ft., one target. <em>Hit:</em> 9 (2d4 + 4) piercing damage.</p>
 <p><strong><em>Dagger.</em></strong> <em>Melee Weapon Attack</em> +7 to hit, 5 ft., one target. <em>Hit:</em> 6 (1d4 + 4) piercing damage.</p>
-<p><strong><em>Tanglefoot (1/day).</em></strong> [[Volenta Popofsky|Volenta]] hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
-<p><strong><em>Thunderstone (1/day).</em></strong> [[Volenta Popofsky|Volenta]] hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of [[Volenta Popofsky|Volenta]]’s next turn.</p>
-<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> [[Volenta Popofsky|Volenta]] hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
+<p><strong><em>Tanglefoot (1/day).</em></strong> Volenta hurls a bag of writhing, sticky black tar at a point on the ground within 30 feet. The bag bursts on impact, covering up to two creatures within 5 feet of one another with sticky tar and forcing each target to succeed on a DC 14 Strength saving throw or be restrained. A target can repeat the saving throw at the end of each of its turns, ending the effect on a success.</p>
+<p><strong><em>Thunderstone (1/day).</em></strong> Volenta hurls a crystalline shard at a creature, object, or surface within 30 feet. The shard shatters on impact with a blast of concussive energy. Each creature within 10 feet of the point of impact must succeed on a DC 14 Constitution saving throw or be knocked prone and pushed 10 feet away from that point. A creature that fails the save is also deafened until the start of Volenta’s next turn.</p>
+<p><strong><em>Alchemist's Firebomb (1/day).</em></strong> Volenta hurls a flask of concentrated alchemist's fire at a point within 30 feet. The vial shatters on impact and detonates in a 10-foot radius. Any creature in that area must succeed on a DC 14 Dexterity saving throw or take 2d6 fire damage and be set ablaze. A creature set ablaze in this way takes 1d4 fire damage at the start of each of its turns, and can make an additional DC 14 Dexterity saving throw at the end of each of its turns to extinguish the flames.</p>
 <h3>Reactions</h3>
-<p><strong><em>Smokestick (1/day).</em></strong> When [[Volenta Popofsky|Volenta]] is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
+<p><strong><em>Smokestick (1/day).</em></strong> When Volenta is reduced to 0 hit points, if she isn't grappled, restrained, or incapacitated, she can crack a charred, black wooden stick, releasing a cloud of thick, opaque smoke that creates a heavily obscured area in a 20-foot radius. She can then move up to her speed without triggering opportunity attacks. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
 </div>
 <br>
 <div class="statblock">
@@ -445,22 +447,22 @@ If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 6 (2,300 XP)<br>
 <hr>
-<p><strong><em>Regeneration.</em></strong> [[Volenta Popofsky|Volenta]] regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If [[Volenta Popofsky|Volenta]] takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
-<p><strong><em>Spider Climb.</em></strong> [[Volenta Popofsky|Volenta]] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
-<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, [[Volenta Popofsky|Volenta]] takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
-<p><strong><em>Blood Frenzy.</em></strong> [[Volenta Popofsky|Volenta]] has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
+<p><strong><em>Regeneration.</em></strong> Volenta regains 10 hit points at the start of her turn if she has at least 1 hit point and isn't in sunlight or running water. If Volenta takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.</p>
+<p><strong><em>Spider Climb.</em></strong> Volenta can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+<p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Volenta takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+<p><strong><em>Blood Frenzy.</em></strong> Volenta has advantage on melee attack rolls against any creature that doesn't have all its hit points.</p>
 <h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> [[Volenta Popofsky|Volenta]] makes two attacks, only one of which can be a bite attack.</p>
-<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by [[Volenta Popofsky|Volenta]], incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and [[Volenta Popofsky|Volenta]] regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
-<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, [[Volenta Popofsky|Volenta]] can grapple the target (escape DC 13).</p>
+<p><strong><em>Multiattack.</em></strong> Volenta makes two attacks, only one of which can be a bite attack.</p>
+<p><strong><em>Bite.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Volenta, incapacitated, or restrained. <em>Hit:</em> 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and Volenta regains hit points equal to that amount. The target dies if this effect reduces its hit point maximum to 0. Each time the target finishes a long rest without being bitten again, it can roll one of its hit dice and add its Constitution modifier. The target’s maximum hit points increase by an amount equal to the result. (This increase can’t raise the target’s hit points above its original maximum.)</p>
+<p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +6 to hit, reach 5 ft., one creature. <em>Hit:</em> 8 (2d4 + 3) slashing damage. Instead of dealing damage, Volenta can grapple the target (escape DC 13).</p>
 <h3>Bonus Actions</h3>
-<p><strong><em>Leap.</em></strong> [[Volenta Popofsky|Volenta]] moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
-<p><strong><em>Dislocate.</em></strong> [[Volenta Popofsky|Volenta]] dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.
+<p><strong><em>Leap.</em></strong> Volenta moves up to her speed without provoking opportunity attacks. As she does, she can replace 10 feet of movement with a 10-foot high jump.</p>
+<p><strong><em>Dislocate.</em></strong> Volenta dislocates her joints, automatically escaping any nonmagical restraints, such as manacles or a creature that has her grappled.
 <h3>Reactions</h3>
-<p>[[Volenta Popofsky|Volenta]] can take up to three reactions per round, but only one per turn. If [[Volenta Popofsky|Volenta]] would lose her reactions, she loses one reaction instead.</p>
-<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, [[Volenta Popofsky|Volenta]] spits a wad of blood at the attacking creature’s eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
-<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, [[Volenta Popofsky|Volenta]] moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
-<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, [[Volenta Popofsky|Volenta]] uses her <strong><em>leap</em></strong> feature.
+<p>Volenta can take up to three reactions per round, but only one per turn. If Volenta would lose her reactions, she loses one reaction instead.</p>
+<p><strong><em>Spit Blood.</em></strong> In response to taking damage from a melee attack, Volenta spits a wad of blood at the attacking creature’s eyes, forcing it to make a DC 15 Dexterity saving throw. On a failure, the creature is blinded until the end of its next turn.</p>
+<p><strong><em>Aggress.</em></strong> In response to taking damage from an attack or spell, Volenta moves up to her speed toward a hostile creature she can see without provoking opportunity attacks.</p>
+<p><strong><em>Abscond.</em></strong> In response to escaping a grapple, Volenta uses her <strong><em>leap</em></strong> feature.
 </div>
 
 ### 1. [[Volenta Popofsky|Volenta]]

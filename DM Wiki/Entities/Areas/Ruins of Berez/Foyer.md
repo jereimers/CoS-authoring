@@ -5,15 +5,15 @@ aliases:
 area_code: S14
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -57,4 +57,4 @@ This room used to be an office, as evidenced by the remains of a desk and a chai
 
 The stairs lead up to area S20.
 If the characters enter this area making noise or carrying light sources, the golem in area S15 is drawn to them (unless they have already defeated it).
-<!-- /DM ONLY -->
+%%

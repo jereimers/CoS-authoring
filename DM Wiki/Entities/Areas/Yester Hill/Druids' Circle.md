@@ -5,15 +5,15 @@ aliases:
 area_code: Y3
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Yester Hill]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -75,4 +75,4 @@ If the characters discern or divine the gem's location with the aid of magic, th
 ### Development
 
 If the druids and the berserkers are killed, their numbers are replenished as others return from forays into the Svalich Woods. At the end of each day, at dusk, 1d4 - 1 druids and 1d4 - 1 berserkers arrive until there are six of each.
-<!-- /DM ONLY -->
+%%

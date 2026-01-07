@@ -5,15 +5,15 @@ aliases:
 area_code: K43
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -67,4 +67,4 @@ A blood-drenched creature explodes out of the tub and attaches to the ceiling, c
 
 %% --- Page 92 --- %%
 The creature that erupts from the tub is no more real than the blood. It can't be harmed and doesn't attack. It scuttles across the ceiling, disappearing into area K44 through one of the archways. Once there, it disappears.
-<!-- /DM ONLY -->
+%%

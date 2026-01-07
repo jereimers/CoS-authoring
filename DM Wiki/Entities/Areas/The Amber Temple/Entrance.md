@@ -5,15 +5,15 @@ aliases:
 area_code: X2
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -74,4 +74,4 @@ The skeleton is all that remains of a wizard who froze to death. It poses no thr
 ### Treasure
 
 The skeleton clutches a wand of secrets.
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: S2
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -75,4 +75,4 @@ Dmitri is a lord and expects to be treated like one. He places the safety of his
 If the characters force their way into town using magic or strength of arms, Dmitri tells his guards to stand down, hoping to avoid bloodshed, and does everything he can to expedite the characters' departure.
 
 A character who succeeds on a DC 12 Wisdom (Insight) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya-the last of his children (see area S3).
-<!-- /DM ONLY -->
+%%

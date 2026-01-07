@@ -2,20 +2,20 @@
 type: Area
 name: Barovia
 aliases:
-  - "Barovia Valley"
-  - "Valley of Barovia"
+  - Barovia Valley
+  - Valley of Barovia
 area_code:
 WotC_ref: "[[03_Chapter 2 - The Lands of Barovia]]"
 CoS-R_ref:
-parent_region: Domains of Dread
+parent_region: "[[Domains of Dread]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -45,7 +45,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -54,4 +54,4 @@ loot:
 
 # Notes
 
-<!-- /DM ONLY -->
+%%

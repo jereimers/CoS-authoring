@@ -5,15 +5,15 @@ aliases:
 area_code: S9
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -65,4 +65,4 @@ The rabbits and the scarecrows are harmless. The gardens contain a meager assort
 ## Fortunes of Ravenloft 
 
 If your card reading reveals that a treasure is here, the item is hidden in the straw-filled gullet of the southernmost scarecrow. If the treasure is removed from the scarecrow, seven wights erupt from the gardens and attack. They wear tattered livery of Strahd's house.
-<!-- /DM ONLY -->
+%%

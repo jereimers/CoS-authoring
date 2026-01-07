@@ -16,8 +16,6 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -51,7 +49,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Luvash Profile
 
 ## Portrait
@@ -99,4 +97,4 @@ Luvash is the elder brother of Arrigal, one of Strahdâ€™s spies. (Luvash doesnâ€
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

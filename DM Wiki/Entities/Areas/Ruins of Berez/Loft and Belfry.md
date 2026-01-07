@@ -5,15 +5,15 @@ aliases:
 area_code: S17
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -94,4 +94,4 @@ The creature on the table appears to be made from the body parts of the characte
 Your eyes play tricks, for what truly lies atop the table are chopped-up body parts, all of them taken from cold, gray, lifeless women, all of them waiting to be stitched together into something horrid.
 
 The body parts were plundered from graves in Krezk. They are leftovers-pieces the Abbot didn't use in the creation of Strahd's bride (see area S13).
-<!-- /DM ONLY -->
+%%

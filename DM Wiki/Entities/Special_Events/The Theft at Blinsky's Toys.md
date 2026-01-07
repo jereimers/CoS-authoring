@@ -58,7 +58,7 @@ The party may learn of the theft through:
 - Request (Blinsky asks the party for help recovering his goods)
 - Baron's complaint (the burgomaster rages about missing decorations)
 
-<!-- DM ONLY -->
+%%
 # The Theft at Blinsky's Toys
 
 ## Framing the Incident
@@ -174,4 +174,4 @@ The theft should feel:
 >
 > *Beyond the wall, the prints continue into the snow, two sets now clearly visible: one humanoid, one canine. They head unerringly toward the crooked silhouette on the horizon—Mt. Crumpit, wreathed in Mist, waiting.*
 
-<!-- /DM ONLY -->
+%%

@@ -5,15 +5,15 @@ aliases:
 area_code: S11
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -54,4 +54,4 @@ loot:
 # S11. Inner Gatehouses
 
 These two empty buildings help support the curtain wall (area S18) that encloses the courtyard (area S12). The wooden doors that lead to them are unlocked.
-<!-- /DM ONLY -->
+%%

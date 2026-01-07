@@ -88,7 +88,7 @@ Despite the burgomaster's interference, Vallakians maintain quieter traditions:
 
 [[Gadof Blinsky]] sees the Long Night as his busiest season. He crafts toys and trinkets for the occasion, though his macabre aesthetic lends the gifts an unsettling quality. Children receive wind-up ravens, miniature coffins that open to reveal candy, and dolls with eerily lifelike expressions. The Baron commissions decorations; Blinsky obliges, though his heart lies with the private gift-giving traditions.
 
-<!-- DM ONLY -->
+%%
 # Why Strahd Tolerates This Observance
 
 [[Strahd von Zarovich]] is aware of the Long Night and its traditions. He tolerates it for several reasons:
@@ -193,4 +193,4 @@ The Grinch's hatred of the Long Night is not simple cruelty. He raids because:
 - The Grinch joins the celebration—awkwardly, reluctantly, but genuinely
 - Vallaki gains an unlikely protector
 
-<!-- /DM ONLY -->
+%%

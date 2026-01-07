@@ -2,7 +2,7 @@
 type: NPC
 name: Muriel Vinshaw
 aliases:
-  - "Blue-Winged Raven"
+  - Blue-Winged Raven
 pronouns:
 race:
 class:
@@ -17,8 +17,6 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -31,8 +29,8 @@ portrait:
 portrait_credit:
 handouts:
 tags:
-  - "npc"
-  - "cos"
+  - npc
+  - cos
 CoS-R_ref:
 WotC_ref:
 ---
@@ -52,7 +50,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Muriel Vinshaw Profile
 
 ## Portrait
@@ -151,4 +149,4 @@ Muriel is an agent of the Keepers of the Feather under [[Davian Martikov]], a co
 
 # Gallery
 ![[blue-winged-raven-noir.png]]
-<!-- /DM ONLY -->
+%%

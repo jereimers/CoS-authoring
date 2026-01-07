@@ -5,15 +5,15 @@ aliases:
 area_code: W18
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -56,4 +56,4 @@ loot:
 This room contains a rectangular table surrounded by eight chairs, an L-shaped cupboard, and a floor-to-ceiling closet pantry. Next to the pantry is a small iron stove.
 
 The cupboard holds dishware and eating utensils. The pantry holds cooking ingredients and the winery's stores.
-<!-- /DM ONLY -->
+%%

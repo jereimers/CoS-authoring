@@ -5,15 +5,15 @@ aliases:
 area_code: Q4
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -51,9 +51,5 @@ loot:
 
 
 # Notes
-# Q4. Spiders' Ballroom
 
-Rubble is strewn throughout much of this vast chamber, caused by the partial collapse of the rooms above it. On the pink marble floor, fallen chandeliers lie amid broken chairs and other furnishings. Thick webs stretch from wall to wall, and moving among them are too many giant spiders to count!
-
-Nine giant spiders nest here. They attack anyone who gets too close.
-<!-- /DM ONLY -->
+%%

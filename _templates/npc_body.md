@@ -7,7 +7,7 @@
 # Where we've seen them
 
 
-<!-- DM ONLY -->
+%%
 # <% tp.file.title %> Profile
 
 ## Portrait
@@ -44,4 +44,4 @@
 
 # Gallery
 
-<!-- /DM ONLY -->
+%%

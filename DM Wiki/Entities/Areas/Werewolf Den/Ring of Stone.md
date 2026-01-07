@@ -5,15 +5,15 @@ aliases:
 area_code: Z8
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Werewolf Den]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -59,4 +59,4 @@ A twenty-foot-diameter ring of stones dominates a rocky ledge on the mountainsid
 The werewolf pack convenes here to watch their young prisoners fight with spears in the stone ring. The last child standing is bitten and turned into a werewolf; then the bodies of the dead are devoured, their bones picked clean.
 
 Set into the mountainside is a secret door that can be pushed open to reveal a tunnel with rough-hewn stairs leading down to area Z6.
-<!-- /DM ONLY -->
+%%

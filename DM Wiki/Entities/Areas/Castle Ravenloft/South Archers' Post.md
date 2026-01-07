@@ -5,15 +5,15 @@ aliases:
 area_code: K11
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -58,4 +58,4 @@ The castle courtyard is visible through arrow slits in the north and west walls.
 Each arrow slit is $21 / 2$ feet tall and 4 inches wide. The framed mirrors (seventeen in all) used to hang on various walls of the castle. Strahd had them taken down and stored here.
 
 A secret door in the east wall can be pulled open to reveal the back of the pipe organ in area K10. Characters can't pass through the secret door while the organ is blocking it, and the organ can't be moved from this side.
-<!-- /DM ONLY -->
+%%

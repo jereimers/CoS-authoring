@@ -5,15 +5,15 @@ aliases:
 area_code: X27
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -72,4 +72,4 @@ There are three secret doors in this room. The secret door to area X28 has an ar
 ## Treasure
 
 The lich's ancient, bronze-covered spellbook sits on a rotted divan, in plain view. Inscribed on its spine is a title: The Incants of Exethanter. The spellbook contains all the spells on the lich's list of prepared spells (see the lich stat block in the Monster Manual). The lich attacks anyone who tries to take its spellbook.
-<!-- /DM ONLY -->
+%%

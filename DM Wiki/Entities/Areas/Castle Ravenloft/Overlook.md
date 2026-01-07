@@ -5,15 +5,15 @@ aliases:
 area_code: K6
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -70,4 +70,4 @@ Anyone who falls from the overlook plummets 1,000 feet.
 ## Fortunes of Ravenloft
 
 If your card reading indicates an encounter with Strahd in this area, he is looking out over the balcony.
-<!-- /DM ONLY -->
+%%

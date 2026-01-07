@@ -5,15 +5,15 @@ aliases:
 area_code: Z5
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Werewolf Den]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -68,4 +68,4 @@ Wensencia, a werewolf in wolf form, sleeps here with Kellen, a ten-year-old were
 When an alarm sounds, Wencensia takes Kellen to area Z7, locks him in one of the empty cages, and tells him to take human form, which he does. She then joins her fellow werewolves in the den's defense.
 
 Kellen was kidnapped from his home in Liam's Hold, a hamlet near the Misty Forest in the Forgotten Realms setting. He was afflicted with werewolf lycanthropy after winning one of Kiril's despicable contests. Wencensia has been tasked with training this newest member of Kiril's pack. Casting a greater restoration spell or a remove curse spell on Kellen ends his lycanthropy.
-<!-- /DM ONLY -->
+%%

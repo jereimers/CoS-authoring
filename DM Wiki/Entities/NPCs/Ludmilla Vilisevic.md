@@ -16,8 +16,6 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
 cr:
 resonance:
 emotions:
@@ -51,7 +49,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Ludmilla Vilisevic Profile
 
 ## Portrait
@@ -282,4 +280,4 @@ Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

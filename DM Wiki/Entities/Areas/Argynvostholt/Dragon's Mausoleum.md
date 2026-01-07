@@ -5,15 +5,15 @@ aliases:
 area_code: Q16
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -51,22 +51,4 @@ loot:
 
 
 # Notes
-# Q16. Dragon's Mausoleum
-
-%% --- Page 183 --- %%
-Tarnished, silver-plated gargoyles shaped like dragon wyrmlings cling to the stone-tiled roof of this mausoleum. An eight-foot-tall, four-foot-wide white marble door set into the southwest wall is engraved with a name: Argynvost.
-
-The dragon-shaped gargoyles are harmless statuary. The stone door can be pulled open with a successful DC 15 Strength check.
-
-The interior of the mausoleum is dark and dusty. You see four empty alcoves with raised floors. Etched into the far wall is a verse written in Draconic.
-
-Characters who can read the Draconic script can decipher the writing on the wall:
-
-Here lie the bones and treasures of
-Argynvost, lord of Argynvostholt and
-founder of the Order of the Silver Dragon.
-
-## Development 
-
-If the skull of Argynvost is brought from Castle Ravenloft (see chapter 4, area K67) and sealed inside the mausoleum, the dragon's spirit transforms into a brilliant light at the top of the tower (see area Q53).
-<!-- /DM ONLY -->
+%%

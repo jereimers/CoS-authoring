@@ -22,8 +22,6 @@ arc:
 first_appearance_session: 9
 first_appearance_date: 3 Neyavr 735
 status: alive
-role_in_story: Major NPC
-statblock_source: CoS p. 231
 cr: 5
 resonance:
 emotions:
@@ -61,7 +59,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Father Lucian Petrovich Profile
 
 ## Portrait
@@ -160,4 +158,4 @@ Father Petrovich is a mentor and father figure to the orphan and altar boy [[Yes
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

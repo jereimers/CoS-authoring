@@ -5,15 +5,15 @@ aliases:
 area_code: O1
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Old Bonegrinder]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -71,7 +71,7 @@ Morgantha's cabinet contains wooden bowls full of herbs and baking ingredients, 
 
 The chicken coop contains three chickens, a rooster, and a few laid eggs.
 The wooden trunk has tiny holes bored into its lid and contains a hundred croaking toads. Several toads escape if the lid is lifted, but they are harmless.
-![[IMG-20251221155603316.jpg]]
+![[map-06.01-old-bonegrinder.jpg]]
 
 MAP 6.1: OLD BONEGRINDER (AREA 0)
-<!-- /DM ONLY -->
+%%

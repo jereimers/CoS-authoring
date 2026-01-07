@@ -5,15 +5,15 @@ aliases:
 area_code: K46
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -60,4 +60,4 @@ The walkway runs around the front of the upper portion of the keep. Battlemented
 If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter Strahd's animated armor (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, characters without darkvision are more likely to hear the clatter of the armor approaching before they can see it.
 
 The armor can't be salvaged if it is reduced to 0 hit points.
-<!-- /DM ONLY -->
+%%

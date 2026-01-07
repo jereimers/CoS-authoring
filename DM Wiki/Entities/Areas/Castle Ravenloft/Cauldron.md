@@ -5,15 +5,15 @@ aliases:
 area_code: K56
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -82,4 +82,4 @@ Not visible from the entrance is a small table behind the cauldron on which sits
 1st level: burning hands, charm person, detect magic, find familiar, fog cloud, mage armor, protection from evil and good, ray of sickness, sleep, Tasha's hideous laughter, unseen servant, witch bolt
 
 2nd level: alter self, arcane lock, cloud of daggers, darkness, enlarge/reduce, invisibility, knock, misty step
-<!-- /DM ONLY -->
+%%

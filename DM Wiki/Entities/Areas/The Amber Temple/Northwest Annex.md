@@ -5,15 +5,15 @@ aliases:
 area_code: X22
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -67,4 +67,4 @@ Hidden in plain sight amid the feast on the table is a green copper ewer embosse
 Any poisonous liquid poured into the ewer is instantly transformed into an equal amount of sweet wine. Furthermore, a creature that grasps the ewer's handle can command the ewer to fill with 1 gallon of wine, and it can't produce more wine until the next dawn.
 
 Many unscrupulous Barovians and Vistani would kill to obtain this ewer. Others would gladly pay for it or accept it as a gift.
-<!-- /DM ONLY -->
+%%

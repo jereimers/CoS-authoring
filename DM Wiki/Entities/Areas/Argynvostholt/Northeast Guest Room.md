@@ -5,15 +5,15 @@ aliases:
 area_code: Q26
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Argynvostholt]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -51,20 +51,4 @@ loot:
 
 
 # Notes
-# Q26. Northeast Guest Room
-
-The door to this room hangs open.
-
-Two beds with torn canopies stand against opposite walls with a tattered rug lying on the floor between them. Set into the far wall is a fireplace black with soot. A soft hiss issues from the hearth.
-
-When one or more characters approach within 10 feet of the fireplace, add:
-
-A small, hissing dragon made of ash and smoke erupts from the fireplace, filling the room with soot as it beats its wings.
-
-The smoky dragonet has the statistics of a *smoke mephit* but fights only in self-defense. If left alone, it flies out of the room at a speed of 30 feet, up the spiral staircase (area Q17), through the curtain at area Q30, over the rubble in area Q33, and into area Q36. Once there, it lands on the back of Vladimir's throne and disappears.
-
-%% --- Page 186 --- %%
-![img-65.jpeg](img-65.jpeg)
-
-MAP 7.2: ARGYNVOSTHOLT (AREA Q)
-<!-- /DM ONLY -->
+%%

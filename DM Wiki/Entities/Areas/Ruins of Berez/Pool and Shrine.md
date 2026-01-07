@@ -5,15 +5,15 @@ aliases:
 area_code: S4
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -62,4 +62,4 @@ The gazebo is so frail that it wouldn't take more than a strong wind to knock it
 ## Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, the item is hidden under the gazebo. The gazebo must be torn down to reach it, and doing that doesn't sit well with the locals. If the characters damage the gazebo and don't repair it, any Charisma checks they make to shift the attitudes of the villagers have disadvantage.
-<!-- /DM ONLY -->
+%%

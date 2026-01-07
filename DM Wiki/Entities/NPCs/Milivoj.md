@@ -4,7 +4,7 @@ name: Milivoj
 aliases:
 pronouns:
 race:
-class:
+class: "[[Commoner]]"
 age:
 gender:
 creature_type:
@@ -16,9 +16,7 @@ arc:
 first_appearance_session:
 first_appearance_date:
 status:
-role_in_story:
-statblock_source:
-cr:
+cr: 0
 resonance:
 emotions:
 motivations:
@@ -34,6 +32,7 @@ tags:
   - cos
 CoS-R_ref:
 WotC_ref:
+  - "[[06_Chapter 5 - The Town of Vallaki#Bones of St. Andral]]"
 ---
 # Who they are
 
@@ -51,7 +50,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Milivoj Profile
 
 ## Portrait
@@ -95,8 +94,18 @@ Milivoj is employed by [[Father Lucian Petrovich]], secretly works for the coffi
 
 
 # Notes
+## Milivoj's Siblings (old --> young)
+
+1. Bogan (boy, 12)
+2. Zondra (girl, 10)
+3. Lazlo (boy, 8)
+4. Grilsha (girl, 7)
+5. Dargos (boy, 5)
+6. Victoria (girl, 4)
+7. Vasha (girl, 4)
+8. Jirko (boy, 3)
 
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

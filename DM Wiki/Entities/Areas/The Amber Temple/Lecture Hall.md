@@ -5,15 +5,15 @@ aliases:
 area_code: X9
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Amber Temple]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -76,4 +76,4 @@ Vilnius is a greedy, treacherous coward. He curses his dead master for leading t
 Vilnius carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the control amulet for the shield guardian in area X35.
 
 Although he can tell that the amulet is magical, he doesn't know its purpose. The amulet thrums when it comes within 10 feet of the shield guardian. If Vilnius realizes what the amulet does, he won't part with it.
-<!-- /DM ONLY -->
+%%

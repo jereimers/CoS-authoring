@@ -2,7 +2,7 @@
 type: NPC
 name: Victor Vallakovich
 aliases:
-  - "Victor"
+  - Victor
 pronouns: he/him
 race: Human
 class: Wizard
@@ -21,43 +21,41 @@ arc:
 first_appearance_session:
 first_appearance_date: 3 Neyavr 735
 status: alive
-role_in_story: Major NPC; unstable wizard; Stella's would-be savior
-statblock_source: Curse of Strahd – Vallaki section
 cr: 5
 resonance: Players should feel annoyed at his suspicion and condescension, sympathetic to his anxiety, frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
 emotions:
-  - "curious"
-  - "frustrated"
-  - "suspicious"
-  - "excited"
-  - "bored"
-  - "anxious"
-  - "desperate"
-  - "determined"
+  - curious
+  - frustrated
+  - suspicious
+  - excited
+  - bored
+  - anxious
+  - desperate
+  - determined
 motivations:
-  - "Restore Stella's soul to her body."
-  - "Escape Barovia."
+  - Restore Stella's soul to her body.
+  - Escape Barovia.
 inspirations:
-  - "Jonathan Byers (Stranger Things)"
+  - Jonathan Byers (Stranger Things)
   - "Prince Zuko (Avatar: The Last Airbender)"
-  - "Raven (Teen Titans)"
-  - "Perrin Aybara (Wheel of Time)"
+  - Raven (Teen Titans)
+  - Perrin Aybara (Wheel of Time)
 vocal_notes: Quiet, slightly monotone, with bursts of intensity when excited or anxious. Occasional awkward pauses and self-corrections, especially when talking about Stella or his magic.
 signature_lines:
-  - "You wouldn’t understand. None of you do."
-  - "It’s not dangerous— not if I do it right this time."
-  - "Stella trusted me, once. I have to make that mean something."
+  - You wouldn’t understand. None of you do.
+  - It’s not dangerous— not if I do it right this time.
+  - Stella trusted me, once. I have to make that mean something.
 relationships:
 portrait: "[[victor-vallakovich.png]]"
 portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
   - "[[Victor's Spellbook Notes]]"
 tags:
-  - "npc"
-  - "cos"
-  - "vallaki"
-  - "wizard"
-  - "ally"
+  - npc
+  - cos
+  - vallaki
+  - wizard
+  - ally
 CoS-R_ref:
 WotC_ref:
 ---
@@ -77,7 +75,7 @@ WotC_ref:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Victor Vallakovich Profile
 
 ## Portrait
@@ -125,4 +123,4 @@ If persuaded to aid the players in finding [[Arabelle]], Victor can share the fo
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%

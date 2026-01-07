@@ -5,15 +5,15 @@ aliases:
 area_code: W16
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[The Wizard of Wines]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -62,4 +62,4 @@ A secret door in the north corner of the west wall can be pulled open to reveal 
 ## Treasure
 
 The druid wields a Gulthias staff (see appendix C), which can be used to destroy the blights in the winery.
-<!-- /DM ONLY -->
+%%

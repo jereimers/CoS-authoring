@@ -708,7 +708,7 @@ Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair act
 <p>The hags release a bloodcurdling scream of rage, their voices melding into a single, resonant note of high-pitched fury.</p>
 </div>
 
-![[IMG-20251221155551684.jpg]]
+![[Victor's-counterspell.jpg]]
 <span class="credit">"Victor's Counterspell" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 Immediately following Victor's _counterspell_, Morgantha calls for a parley, promising to reveal three pieces of secret knowledge to the players in exchange for the coven's lives. 

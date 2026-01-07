@@ -5,15 +5,15 @@ aliases:
 area_code: S18
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Ruins of Berez]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -57,4 +57,4 @@ Scarecrows line the abbey walls, looking outward. They wear tattered chain shirt
 
 The scarecrows are lashed to wooden stands. Though fearsome from a distance, they have no life to them.
 It's a 15 -foot drop from the top of the wall to the courtyard. Any creature that falls over the southwest wall tumbles 400 feet down the cliffside.
-<!-- /DM ONLY -->
+%%

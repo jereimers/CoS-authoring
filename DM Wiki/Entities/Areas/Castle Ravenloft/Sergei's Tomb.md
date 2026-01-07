@@ -5,15 +5,15 @@ aliases:
 area_code: K85
 WotC_ref:
 CoS-R_ref:
-parent_region:
+parent_region: "[[Castle Ravenloft]]"
 arcs:
 connected_locations:
 notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -43,7 +43,7 @@ loot:
 
 *To be updated during play.*
 
-<!-- DM ONLY -->
+%%
 # Map
 
 
@@ -74,4 +74,4 @@ Sergei's embalmed body is clothed in shining *+2 plate armor*.
 If your card reading reveals that a treasure is here, it is inside the coffin next to Sergei's body.
 
 If your card reading indicates an encounter with Strahd in this area, he is lying across Sergei's coffin, weeping.
-<!-- /DM ONLY -->
+%%

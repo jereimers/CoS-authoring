@@ -1,4 +1,39 @@
-![[Entities/Areas/K. Castle Ravenloft/K86. Strahd's Tomb|K86. Strahd's Tomb]]
+---
+type: NPC
+name: Volenta Popofsky
+aliases:
+  - Volenta
+pronouns: she/her
+race:
+class:
+age:
+gender:
+creature_type:
+origin:
+home_base:
+current_location:
+factions:
+arc:
+first_appearance_session:
+first_appearance_date:
+status:
+cr:
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
+tags:
+  - npc
+  - cos
+CoS-R_ref:
+WotC_ref:
+---
 # Volenta Popofsky
 **Roleplaying Information**
 ***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
@@ -274,4 +309,4 @@ Volenta is fanatically loyal to [[Source/CoS-R/Chapter 2 - The Land of Barovia/S
 
 # Gallery
 *No images available.*
-<!-- /DM ONLY -->
+%%
