@@ -22,4 +22,4 @@
 ---
 
 ## 🗺️ Reference Map
-![[{{originalname}}-1.jpg]]
+![[map-02.01-barovia.jpg]]
