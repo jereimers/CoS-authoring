@@ -17,6 +17,7 @@ play_date:
 tags:
   - cos
   - needs_filling
+publish: true
 ---
 
 %%
@@ -41,6 +42,8 @@ Eva warned the heroes and confirmed their resolve, explaining that there would b
 Satisfied with their mettle, she bade them sit with her and withdrew from her cloak a magnificent deck of rune-backed cards, a small velvet pouch jingling with coin, and three candles that she drove like stakes into the graveyard soil and lit with a wave of her gnarled hand. Amid the diffuse tallow light she asked the party to take the coin pouch with them to [[Town of Vallaki|Vallaki]], find the workshop of Blinsky the toymaker, and use the pouch’s contents to procure a toy for her great-grand-niece, [[Arabelle]]. In exchange for “reading the cards,” the party agreed to deliver a toy to [[Arabelle]] by noon on the girl’s name-day, a mere two days hence. (As an aside, Eva added that the party was likely to enjoy making [[Arabelle]]’s acquaintance as well as that of her father, [[Luvash]], and his brother, [[Arrigal]]). [[Arabelle]] lives at the [[Vistani]] encampment southwest of [[Town of Vallaki|Vallaki]], and Blinsky's Toys can be found within the town walls.
 
 Proceeding with the Tarokka reading, Eva muttered mystic invocations while she placed 5 cards on the cold earth. The air stilled, the night quieted, and the very shadows huddled close as she drew the cards and read them one by one.
+
+![[The Tarokka Reading]]
 
 With the reading complete and the atmosphere returned to “normal”, Eva bade the adventurers return to camp and “tell no servant of Strahd of what they just heard.” 
 

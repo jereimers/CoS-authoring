@@ -23,6 +23,7 @@ has_recap?: true
 tags:
   - cos
 play_date: 12/3/25
+publish: true
 ---
 ## The [[Refugee Camp]]
 

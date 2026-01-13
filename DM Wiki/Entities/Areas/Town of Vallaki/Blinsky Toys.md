@@ -24,20 +24,17 @@ item(s):
 handouts:
 loot:
 ---
+
 # Overview
 
+This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
 
-
+![[blinsky-toys-storefront.png]]
 # What the party knows
 
 
-
-# Notable places
-
-
-
 # Notable figures
-
+- [[Gadof Blinsky]] - Owner & Proprietor
 
 
 # Visits
@@ -51,6 +48,7 @@ loot:
 # Images
 
 
-# Notes
+# Descriptions
+![[06_Chapter 5 - The Town of Vallaki#Blinsky Toys]]
 
 %%

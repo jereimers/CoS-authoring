@@ -10,6 +10,7 @@ location(s):
 NPCs_involved:
   - "[[Arabelle]]"
   - "[[Gadof Blinsky]]"
+publish: true
 ---
 # Objective
 Purchase a gift for [[Arabelle]] at [[Blinsky Toys]] in [[Town of Vallaki|Vallaki]], then deliver the toy to her at the [[Vistani Camp]] outside town before noon on her nameday ([[Neyavr 4]])

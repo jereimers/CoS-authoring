@@ -301,7 +301,7 @@ Brom and Bray Martikova don't spend much time in this room. The toy box contains
 - A stuffed (real) bat on puppet strings
 
 A hidden trapdoor in the 8 -foot-high ceiling opens into a secret attic (area N2q).
-![img-46.jpeg](img-46.jpeg)
+![[05-010.blinsky.png]]
 
 #### N2p. Master Bedroom
 
@@ -336,7 +336,7 @@ People come and go from the mansion at all hours during the day. Guards bring cr
 If the characters knock on the front doors, a maid (LG female human commoner) lets them in, escorts them to the den (area N3e), and leaves to fetch the baron.
 
 %% --- Page 142 --- %%
-![img-47.jpeg](img-47.jpeg)
+![[map-05.03-burgomasters-mansion.jpg]]
 
 MAP 5.3: BURGOMASTER'S MANSION (AREA N3)
 
@@ -353,7 +353,7 @@ If the characters get on his bad side, the baron accuses them of being "spies of
 If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
 
 %% --- Page 143 --- %%
-![img-48.jpeg](img-48.jpeg)
+![[05-006.baroness-baron.png]]
 
 THE BARONESS AND BARON
 Two members of the baron's household staff have vanished in the past week: the butler and the baroness's lady-in-waiting. The baron has charged lzek with finding out what happened to them, but investigation isn't lzek's forte. Searches have been organized, to no avail.
@@ -595,7 +595,7 @@ This house seems disgusted with itself. A slouching roof hangs heavy over furrow
 The Wachter family, once an influential noble line in Barovia, owns and occupies a mansion in Vallaki. The house's reigning governess, Fiona Wachter, is a loyal servant of Strahd. She seeks to supplant Baron Vallakovich as the town burgomaster.
 
 %% --- Page 150 --- %%
-![img-49.jpeg](img-49.jpeg)
+![[map-05.04-wachterhaus.jpg]]
 
 MAP 5.4: WACHTERHAUS (AREA N4)
 
@@ -609,7 +609,7 @@ Fiona conspired to wed her young daughter, Stella, to the baron's son, Victor, a
 Lady Wachter's latest scheme to gain control of Vallaki is far more diabolical. She has started a cult based on devil worship and has written a manifesto that she reads to her "book club," which is made up of the most fanatical group members. Inspired by her words, these zealots have created smaller cults of their own. Once her cult has enough members, Fiona plans to take the town by force. To reward her most loyal followers, she has her pet imp stand invisibly in the center of a pentagram, then performs a false ritual that calls upon "princes of darkness" to lavish their appreciation upon the cultists. The imp then sprinkles onto the floor a few electrum coins, which Lady Wachter allows the cultists to keep.
 
 %% --- Page 151 --- %%
-![img-50.jpeg](img-50.jpeg)
+![[05-007.fiona-wachter.png]]
 
 FIONA WACHTER AND MAJESTO
 
@@ -832,7 +832,7 @@ The wagon also contains the torn-up remains of a doll. A character who makes a s
 If the tiger is released, it begins stalking through the streets until its keen sense of smell locates either [[Rictavio]] (area N2) or Piccolo (area N7). The tiger doesn't attack anyone who isn't a Vistana except in self-defense. It attacks Vistani on sight. [[Rictavio]] can make the tiger break off its attack and lure it back into the wagon.
 
 %% --- Page 157 --- %%
-![img-51.jpeg](img-51.jpeg)
+![[05-008.wagon.png]]
 
 ##### Treasure 
 
@@ -859,7 +859,7 @@ This uninviting shop is two stories tall and has a sign shaped like a coffin abo
 Henrik van der Voort (LE male human commoner) is a mediocre carpenter and a troubled, lonely man. He profits from the deaths of others, and no one desires his company, because of the ghastly nature of his handiwork. One night several months ago, Strahd visited Henrik in the guise of an imposing, well-dressed nobleman named Vasili von Holtz and promised the coffin maker "good business" in exchange for his help. Since then, Henrik's workshop has become the lair of a pack of vampire spawn-former adventurers who were turned by Strahd. These vampires are lying low for the time being.
 
 %% --- Page 158 --- %%
-![img-52.jpeg](img-52.jpeg)
+![[05-009.henrik.png]]
 
 HENRIK VAN DER VOORT
 The vampires plan to attack St. Andral's church (see "St. Andral's Feast" in the "Special Events" section at the end of this chapter). When Henrik learned about the sacred bones buried under the church, the vampire spawn ordered him to steal the bones, which Henrik paid [[Milivoj]] the gravedigger (see area N1) to do.
@@ -869,7 +869,7 @@ Every window of Henrik's shop is a latticework of iron fitted with squares of fr
 If the characters break into the store, Henrik offers no resistance. He tells them where to find the bones (in the upstairs bedroom wardrobe, area N6e) and the vampire nest (in the upstairs wood storage room, area N6f).
 
 If the characters report the theft of the bones to the burgomaster, Baron Vallakovich dispatches four guards to arrest Henrik and retrieve the bones. If the guards show up during daylight hours, Henrik surrenders himself and the bones without a fight, claiming that vampires forced him to steal the bones. If the guards come at night, Henrik surrenders himself and tells the guards where the bones are hidden, but he won't retrieve the bones himself for fear of being killed by the vampires.
-![img-53.jpeg](img-53.jpeg)
+![[map-05.05-coffin-makers-shop.png]]
 
 %% --- Page 159 --- %%
 #### N6a. Coffin Storage 
@@ -917,12 +917,12 @@ burst forth and attack.
 ##### Teleport Destination. 
 Characters who teleport to this location from area K78 in Castle Ravenloft arrive at the point marked T on the map.
 
-### [[Blinsky Toys]]
+### N7. Blinsky Toys
 
 This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
 
 Vallaki's toymaker, Gadof Blinsky (CG male human commoner), calls himself "a wizard of tiny wonders," but he has been consumed by despair lately because no one seems to like him or want his toys. His fascination for eerie playthings causes most other locals to avoid him. The burgomaster enables Blinsky to stay in business by giving him a couple of gold pieces a month to make festival decorations.
-![img-54.jpeg](img-54.jpeg)
+![[05-010.blinsky.png]]
 
 GADOF BLINSKY AND PICCOLO
 Blinsky is a heavyset man who wears a moth-eaten jester's cap during store hours, more out of habit than to humor visitors. In the past six months, the only paying customer who has set foot in the store is a visitor from a faraway land named [[Rictavio]] (see area N2), who came in two weeks ago and bought a stuffed Vistana doll. Realizing that the toymaker was lonely, [[Rictavio]] gave Blinsky his pet monkey, Piccolo (use the baboon stat block in the Monster Manual). Overjoyed, Blinsky has begun training the monkey to fetch toys from hard-to-reach shelves. The toymaker has also fitted Piccolo with a customtailored ballerina tutu.
@@ -987,14 +987,14 @@ If the characters are exiled from Vallaki without their weapons, the Keepers of 
 
 If the guards fall to waylay the characters, lzek (if he's still around) flees to the burgomaster's mansion, giving the characters the run of the town. The townsfolk lock themselves in their homes, fearful that the characters aim to murder them.
 
-### [[Vistani Camp]] 
+### N9. Vistani Camp
 
 Several footpaths and horse trails lead to this location in the woods southwest of Vallaki.
 
 The woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but you can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves. Atop the hill, above the fog, is a ring of barrel-topped wagons that surround a large tent with a column of smoke pouring out through a hole in the top. The tent is brightly lit from within. Even at this distance, you can smell the odors of wine and horses that emanate from this central area.
 
 This natural clearing serves as a permanent campsite for the Vistani and their dusk elf allies.
-![img-55.jpeg](img-55.jpeg)
+![[map-05.06-vistani-camp.jpg]]
 
 MAP 5.6: VISTANI CAMP (AREA N9)
 
@@ -1011,10 +1011,10 @@ Dusk Elves. The dusk elf race is all but forgotten, and the few survivors live i
 The dusk elves reside in small homes built into the hillside and are mostly self-sufficient. They are skilled trackers, and many of them are away from camp when the characters arrive, helping the Vistani search for Arabelle. Strahd has tasked the Vistani with keeping an eye on the dusk elves, and the dusk elves know they aren't safe in Barovia without the Vistani's "protection." Strahd has also forbidden the Vistani from helping the dusk elves escape his domain.
 
 There are no women or children among the dusk elves. Strahd had all the female dusk elves put to death around four centuries ago as a punishment for Patrina's murder. Thus, the remaining elves can't procreate. A broken people, they are aware of the vampire's absolute hold over the land of Barovia. They keep a low profile and have no desire to incur Strahd's wrath again.
-![img-56.jpeg](img-56.jpeg)
+![[05-011.luvash.png]]
 
 LUVASH
-![img-57.jpeg](img-57.jpeg)
+![[05-012.arrigal.png]]
 
 ARRIGAL
 

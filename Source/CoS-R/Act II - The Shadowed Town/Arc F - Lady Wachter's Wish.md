@@ -260,6 +260,7 @@ When the handoff is complete, Ernst advises the players to follow Izek as he lea
 > Ernst was able to learn of Izek’s daytime schedule by stalking Izek himself. However, he was unable to learn of the inner goings-on within the burgomaster’s mansion until recently, when [[Baron Vargas Vallakovich|the Baron]]’s butler and the Baroness’s lady-in-waiting departed the manor out of fear of its recent haunting. Ernst took advantage of the situation and bribed the two former servants to share those details with him.
 >
 > The poison that Ernst added to the wine was purchased from Arrigal, one of the two leaders of the Vallakian Vistani encampment.
+> ^Lore-Ernsts-Preparations
 
 # F4. Izek’s Assassination
 
@@ -276,7 +277,8 @@ When the handoff is complete, Ernst advises the players to follow Izek as he lea
 > * **5:30 P.M.** Izek dismisses the two **guards** and travels alone to Lake Zarovich. He spends the remainder of the evening consuming the second bottle of wine and staring into space.
 > * **10:00 P.M.** Izek returns to the burgomaster’s mansion and takes his evening meal, as well as a third bottle of wine, in his bedroom.
 > 
->   Once Izek drinks the entire bottle of [[Lady Fiona Wachter|Lady Wachter]]’s poisoned wine, he suffers the **poisoned** condition for 1 hour afterward.
+>   Once Izek drinks the entire bottle of [[Lady Fiona Wachter|Lady Wachter]]’s poisoned wine, he suffers the **[[authoring/Source/5e-database/obsidian_output/Conditions/Poisoned|poisoned]]** condition for 1 hour afterward.
+>   ^Lore-Izeks-Schedule
 
 ## F4a. Planting the Poisoned Wine
 The players can attempt to plant the poisoned bottle of wine in Izek’s case of wine in multiple ways, including (but not limited to) the following:
@@ -305,7 +307,8 @@ As the players trail [[Non-Player Characters#Izek Strazni|Izek]], any or all of 
 > 
 > If Izek detects the players, he demands to know whether the players have been following him and accuses them of being "spies and criminals." The players can deceive him with a successful DC 9 Charisma (Deception) check. On a failure, Izek directs any nearby guards to arrest the players to be locked in the stocks; if the players resist, or if there are no guards nearby, Izek attacks in an attempt to knock the players out himself.
 > 
-> If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in [[Ireena Kolyana]]'s company, he immediately demands to know her location. The players can deceive Izek with another successful DC 9 Charisma (Deception) check, made with disadvantage if the players deny any association with [[Ireena]]. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
+> If the players are detected but successfully deceive Izek as to their intentions, if Izek previously saw the players in [[Ireena Kolyana]]'s company, he immediately demands to know her location. The players can deceive Izek with another successful DC 9 Charisma (Deception) check, made with disadvantage if the players deny any association with [[authoring/DM Wiki/Entities/NPCs/Ireena Kolyana|Ireena]]. If he catches the players in a lie, Izek coldly vows to "beat the truth out of them" and attacks.
+> ^Info-Getting-Caught
 ### 1. The Town Square
 <span class="citation"><em>This scene takes place in Chapter 5: Area N8.</em></span>
 
@@ -327,7 +330,7 @@ Izek then commands one of the guards to fetch a dozen fresh silvered crossbow bo
 
 As Izek is leaving the Morning Gate, he idly commands one of the guards standing watch to purchase and deliver a dream pastry for him when the peddler returns the following day.
 ### 4. End of the Day
-When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to <span class="citation">[[Blinsky Toys]] (p. 118)</span>, where he attempts to pick up the doll that looks like [[Ireena Kolyana]]. 
+When [[Non-Player Characters#Izek Strazni|Izek]] has finished the evening inspection for all of the gates, he dismisses his two **guards** as usual. However, instead of proceeding to one of his usual drinking spots, he travels to [[Blinsky Toys]] (p. 118), where he attempts to pick up the doll that looks like [[Ireena Kolyana]]. 
 
 > [!abstract]+ **The Missing Doll**
 >
@@ -343,17 +346,18 @@ While he is poisoned in this way, treat Izek’s passive Wisdom (Perception) sco
 
 If Izek is undisturbed, he leaves Lake Zarovich and returns to the burgomaster’s mansion approximately four hours later. If Izek is attacked, he defends himself, vowing to destroy the players for their insolence. Izek always begins combat using the statistics of his **first form**. Upon realizing his poisoned state at the end of his first turn in combat, Izek roars in rage and demands to know what the players have done to him.
 
-If the players ask the truth behind the [[Ireena]]-shaped doll, Izek snarls that the doll is none of their business.
+If the players ask the truth behind the [[authoring/DM Wiki/Entities/NPCs/Ireena Kolyana|Ireena]]-shaped doll, Izek snarls that the doll is none of their business.
 
-If [[Ireena]] has accompanied the players to the lake, Izek instructs her to stand aside while he "teaches these worms some manners." If defied, he snarls in rage.
+If [[authoring/DM Wiki/Entities/NPCs/Ireena Kolyana|Ireena]] has accompanied the players to the lake, Izek instructs her to stand aside while he "teaches these worms some manners." If defied, he snarls in rage.
 
-![[IMG-20251221155533015.jpg]]
+![[lake-zarovich.jpg]]
 
 <span class="credit">"Lake Zarovich" by DM Andy Maps. High resolution versions available <a href="https://ko-fi.com/s/29a5db8e9c/">here!</a></span>
 
 
 > [!warning]+ **Poisoned Izek**
 > Remember that Izek remains **poisoned** while the effect lasts. Changing forms doesn't remove this (or any other) condition.
+> ^Warning-Poisoned-Izek
 
 > [!warning]+ **Don't Use Tactics!**
 > All enemies in this guide, including boss monsters, have been exhaustively playtested and balanced using the Challenge Ratings 2.0 encounter-building system. All major boss encounters have been calibrated to consume most or all of the players' hit points in order to create a dangerous and exciting fight.
@@ -361,9 +365,10 @@ If [[Ireena]] has accompanied the players to the lake, Izek instructs her to sta
 > However, these boss statblocks have enough hit points and deal enough damage per round (DPR) to ensure that they can present a suitable threat without any special tactics or strategy. To the extent any such strategies exist, they have been built into the statblock and require no additional strategizing by the Dungeon Master.
 > 
 > Accordingly, unless your players have proven themselves highly tactical and/or optimized, **avoid playing these boss statblocks tactically**—because if you *do* play them tactically, you're very likely to TPK your players. Instead, simply choose whichever actions, bonus actions, reactions, and targets will provide the most interest and excitement for the current round.
+> ^Warning-Dont-Use-Tactics
 
 <div class="statblock">
-<h2>[[Izek Strazni]], 1st Form</h2>
+<h2>Izek Strazni, 1st Form</h2>
 <em>Medium humanoid, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 14 (studded leather)
@@ -422,7 +427,7 @@ If [[Ireena]] has accompanied the players to the lake, Izek instructs her to sta
 <br>
 
 <div class="statblock">
-<h2>[[Izek Strazni]], 2nd Form</h2>
+<h2>Izek Strazni, 2nd Form</h2>
 <em>Medium humanoid, neutral evil</em>
 <hr>
 <strong>Armor Class</strong> 14 (studded leather)
@@ -495,6 +500,7 @@ If the players successfully deliver Izek’s severed head to [[Non-Player Charac
 > That night, [[Lady Fiona Wachter|Lady Wachter]], accompanied by her three **cult fanatics**, travels to [[Baron Vargas Vallakovich|the Baron]]’s mansion, requests an audience with [[Baron Vargas Vallakovich|the Baron]], and presents him with Izek’s severed head. [[Baron Vargas Vallakovich|The Baron]], assuming that he is about to be assassinated, attempts to flee. However, he is forcefully stopped by the _command_ spell of one of [[Lady Fiona Wachter|Lady Wachter]]’s cultists.
 >
 > Trapped in [[Lady Fiona Wachter|Lady Wachter]]’s clutches, [[Baron Vargas Vallakovich|the Baron]] spitefully agrees to relinquish his claim to the position of burgomaster. ([[Lady Fiona Wachter|Lady Wachter]] graciously permits him to retain his noble title, ensuring that he retains his family’s estate, incomes, and other trappings of status.)
+> ^Abstract-The-Transfer-of-Power
 ## F5a. The Abdication
 The following morning, Vallaki’s guards gather the townsfolk for an announcement in the town square. While standing atop the wooden scaffold erected for the Festival of the Blazing Sun, [[Baron Vargas Vallakovich|the Baron]] solemnly abdicates his position as burgomaster and appoints [[Lady Fiona Wachter|Lady Wachter]] to replace him. 
 
@@ -503,7 +509,7 @@ If the players attend the announcement, [[Lady Fiona Wachter|Lady Wachter]] does
 [[Lady Fiona Wachter|Lady Wachter]] first commands the town guard to release the prisoners in the stocks, and then proclaims that the town shall have no further festivals, except those on holy days. She then delivers the following speech:
 
 <div class="description">
-<p>“Thank you, [[Baron Vargas Vallakovich|Baron Vallakovich]], both for your foresight in these times of trouble, and for your family's long history of service to the good people of Vallaki. You honor me with this position, and I vow to do my utmost to carry out the responsibilities of burgomaster with wisdom and care.</p>
+<p>“Thank you, Baron Vallakovich, both for your foresight in these times of trouble, and for your family's long history of service to the good people of Vallaki. You honor me with this position, and I vow to do my utmost to carry out the responsibilities of burgomaster with wisdom and care.</p>
 <p>“My fellow Vallakians, we find ourselves in a period of change. Change is difficult—it can lead us into danger, or into a period of new and brighter prosperity. To navigate such murky waters, a steady hand is needed—a hand that acknowledges the world as it is, not the world as we may wish it to be.</p>
 <p>"It is neither defiance nor abdication that will lead us to prosperity and peace, but respect, homage, and a sense of proper duty.</p>
 <p>"It is through these three principles that we may secure the safety of our children, our neighbors, and ourselves—and it is through these three principles that I will work to ensure a better future for our beloved town.</p>
@@ -518,7 +524,7 @@ If asked his opinion on [[Lady Fiona Wachter|Lady Wachter]], [[Father Lucian Pet
 
 [[Father Lucian Petrovich|Father Petrovich]] also briefly expresses his regret for his younger sister, Baroness Lydia Petrovna, who has faced many challenges over the past several months and years, and shares his hopes that the Vallakovich family will find a sense of peace amidst their new circumstances.
 ## F5b. The Reward
-If the players return to Wachterhaus to obtain their promised compensation (if any), [[Lady Fiona Wachter|Lady Wachter]] provides it to them with gratitude. Their reward is as follows:
+If the players return to [[authoring/DM Wiki/Entities/Areas/Town of Vallaki/Wachterhaus|Wachterhaus]] to obtain their promised compensation (if any), [[Lady Fiona Wachter|Lady Wachter]] provides it to them with gratitude. Their reward is as follows:
 
 * Up to thirty silvered crossbow bolts
 * Up to four silvered spears
@@ -544,6 +550,7 @@ Once [[Lady Fiona Wachter|Lady Wachter]] has located the proper page, the player
 <p>In his escape, I saw Leo's face contort with hatred and disgust. "Blood-traitor, I name you, Lovina," he swore, "for your allegiance to the beast who abandoned Reinhold to his fate." He renounced our bond, proclaimed I was no longer of House Dilisnya, and vowed that he would one day expunge the Wachter blight from the valley—once and forevermore.</p>
 <p>I know not what has become of him. He is gone from the Pillarstone now, and though more of the treacherous guards return in caskets to the castle each day, his face is not among them. But each night I hear his voice in my nightmares, I know he yet lives—and dread the occasion of his return.</p>
 </div>
+^Lore-The-Wedding
 
 The remainder of the book is concerned with genealogies, family legends, and notable figures in House Wachter's pre-Barovian history, with little relevance to Strahd.
 
@@ -560,9 +567,10 @@ The remainder of the book is concerned with genealogies, family legends, and not
 > [[Baron Vargas Vallakovich]] and his family are placed under unofficial house arrest, with the mansion guarded by two of [[Lady Fiona Wachter|Lady Wachter]]’s **cultists** at all times—one guarding the front door and one guarding the back. The cultists assure [[Baron Vargas Vallakovich|Baron Vallakovich]] that they are present for his protection, both from ungrateful townsfolk and servants of Strahd, but are under strict orders to bar him and his family from exiting the manor. [[Victor Vallakovich]], [[Baron Vargas Vallakovich|the Baron]]’s son, is mildly perturbed by this development, but takes no action against it.
 >
 > Udo Lukovich, the shoemaker, is released from his prison in [[Baron Vargas Vallakovich|the Baron]]’s home and returned to his mother, Willemina.
+> ^Abstract-Lady-Wachters-Promises
 
 # Design Notes: [[Lady Fiona Wachter|Lady Wachter]]'s Wish
-***The [[Blue Water Inn]].*** The hook to this quest—[[Lady Fiona Wachter|Lady Wachter]]'s decision to send the players an invitation to dine at Wachterhaus—has been tweaked to provide more support for [[Lady Fiona Wachter|Lady Wachter]]'s decision to entrust the players with her conspiracy.
+***The [[Blue Water Inn]].*** The hook to this quest—[[Lady Fiona Wachter|Lady Wachter]]'s decision to send the players an invitation to dine at [[Wachterhaus]]—has been tweaked to provide more support for [[Lady Fiona Wachter|Lady Wachter]]'s decision to entrust the players with her conspiracy.
 
 ***Wachterhaus.*** The corpse of Nikolai Wachter has been removed from Wachterhaus to ensure that he does not serve as a black mark against [[Lady Fiona Wachter|Lady Wachter]]—a complicated figure who the players should have more cause to trust, not less. (See [[Arc H - The Lost Soul]] for more information about the players' relationship with [[Lady Fiona Wachter]].)
 

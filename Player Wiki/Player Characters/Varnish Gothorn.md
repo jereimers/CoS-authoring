@@ -9,6 +9,7 @@ player: Cody
 character_sheet: https://www.dndbeyond.com/characters/151521951
 tags:
   - cos
+publish: true
 ---
 # At a glance
 

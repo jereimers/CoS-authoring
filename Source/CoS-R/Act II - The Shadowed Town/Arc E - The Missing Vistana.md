@@ -81,13 +81,13 @@ After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase
 > ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling [[Ireena Kolyana]] for [[Izek Strazni]], and receives a humble stipend to craft decorations for [[Baron Vargas Vallakovich|Baron Vallakovich]]’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 > ^Profile-Gadof-Blinsky
 
-Blinsky Toys is as described in [[Blinsky Toys]] (p. 118). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
+Blinsky Toys is as described in [[06_Chapter 5 - The Town of Vallaki#N7. Blinsky Toys|N7. Blinsky Toys]] (p. 118). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
-If the players ask Blinsky about the doll resembling [[Ireena Kolyana]] (see Creepy Toys, p. 118), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+If the players ask Blinsky about the doll resembling [[Ireena Kolyana]] (see [[06_Chapter 5 - The Town of Vallaki#Creepy Toys|Creepy Toys]], p. 118), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
 
-As the characters exit Blinsky Toys, they can see [[Izek Strazni]] and two **guards** arrive to post new proclamations, as described in N8. Town Square (p. 119).
+As the characters exit Blinsky Toys, they can see [[Izek Strazni]] and two **guards** arrive to post new proclamations, as described in [[06_Chapter 5 - The Town of Vallaki#N8. Town Square|N8. Town Square]] (p. 119).
 
 ![[wolfs-head-jamboree-poster.png]]
 
@@ -96,12 +96,12 @@ As the characters exit Blinsky Toys, they can see [[Izek Strazni]] and two **gua
 # E2. Vistani Camp
 <em>This scene takes place in Chapter 5: Area N9.</em>
 
-The path from Vallaki to the Vistani Camp is as described in [[Vistani Camp]] (p. 119). The journey is one-half mile long and takes approximately ten minutes.
+The path from Vallaki to the Vistani Camp is as described in [[06_Chapter 5 - The Town of Vallaki#N9. Vistani Camp|N9. Vistani Camp]] (p. 119). The journey is one-half mile long and takes approximately ten minutes.
 
 When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#E2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#E2b. Dusk Elf Hovels]]).
 ## E2a. The Vistani Encampment
 ### Entering the Vistani Camp
-The Vistani are largely as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]], with the encampment largely as described in [[Vistani Camp#N9c. Vistani Tent|N9c. Vistani Tent]], [[Vistani Camp#N9d. Horses|N9d. Horses]], [[Vistani Camp#N9e. Luvash's Wagon|N9e. Luvash's Wagon]], [[Vistani Camp#N9f. Wagon of Sleeping Vistani|N9f. Wagon of Sleeping Vistani]], [[Vistani Camp#N9g. Wagon of Gambling Vistani|N9g. Wagon of Gambling Vistani]], [[Vistani Camp#N9h. Vistani Family Wagon|N9h. Vistani Family Wagon]], and [[Vistani Camp#N9i. Vistani Treasure Wagon|N9i. Vistani Treasure Wagon]] (pp. 121-23). 
+The Vistani are largely as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]], with the encampment largely as described in [[06_Chapter 5 - The Town of Vallaki#N9c. Vistani Tent|N9c. Vistani Tent]], [[06_Chapter 5 - The Town of Vallaki#N9d. Horses|N9d. Horses]], [[06_Chapter 5 - The Town of Vallaki#N9e. Luvash's Wagon|N9e. Luvash's Wagon]], [[06_Chapter 5 - The Town of Vallaki#N9f. Wagon of Sleeping Vistani|N9f. Wagon of Sleeping Vistani]], [[06_Chapter 5 - The Town of Vallaki#N9g. Wagon of Gambling Vistani|N9g. Wagon of Gambling Vistani]], [[06_Chapter 5 - The Town of Vallaki#N9h. Vistani Family Wagon|N9h. Vistani Family Wagon]], and [[06_Chapter 5 - The Town of Vallaki#N9i. Vistani Treasure Wagon|N9i. Vistani Treasure Wagon]] (pp. 121-23). 
 
 When the players first enter the tent, modify the descriptive text as follows:
 

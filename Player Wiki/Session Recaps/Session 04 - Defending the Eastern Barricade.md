@@ -9,6 +9,7 @@ play_date:
 tags:
   - needs_filling
   - cos
+publish: true
 ---
 
 

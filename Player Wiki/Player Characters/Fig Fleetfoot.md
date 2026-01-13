@@ -9,6 +9,7 @@ player: Kip
 character_sheet: https://www.dndbeyond.com/characters/142826007
 tags:
   - cos
+publish: true
 ---
 # At a glance
 

@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # Current Members
 - [[Arden Nalero]] - Drow Paladin of Hoar
 - [[Fig Fleetfoot]] - Harengon Monk

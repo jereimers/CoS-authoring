@@ -12,6 +12,7 @@ location(s):
 NPCs_involved:
   - "[[Ireena Kolyana]]"
   - "[[Ismark Kolyanovich]]"
+publish: true
 ---
 # Objective
 Escort [[Ireena Kolyana]] safely from the [[Village of Barovia]] to [[St. Andral's Church]] in [[Town of Vallaki|Vallaki]], where she can find sanctuary from [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]].

@@ -3,13 +3,13 @@ status: active
 tags:
   - cos
   - quest
-  - ai_generated
 giver: "[[Arturi Radanavich]]"
 location(s):
   - "[[Tser Pool Encampment]]"
 NPCs_involved:
   - "[[Arturi Radanavich]]"
   - "[[Rictavio|Rudolph van Richten]]"
+publish: true
 ---
 # Objective
 Help [[Arturi Radanavich]] find a scholar named [[Rictavio|Rudolph van Richten]]. 

@@ -10,6 +10,7 @@ location(s):
 NPCs_involved:
   - "[[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd von Zarovich]]"
   - "[[Madam Eva]]"
+publish: true
 ---
 # Objective
 Escape this accursed domain and return home, by any means necessary.

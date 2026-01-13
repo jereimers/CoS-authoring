@@ -12,6 +12,7 @@ NPCs_involved:
   - "[[Gertruda]]"
   - "[[Mary]]"
   - "[[Doru]]"
+publish: true
 ---
 # Objective
 Find [[Gertruda]], who disappeared from the [[Village of Barovia]] and was last believed to be traveling alone toward [[Town of Vallaki|Vallaki]].

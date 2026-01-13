@@ -1,3 +1,6 @@
+---
+publish: true
+---
 1. [[Session 01 - Arrivals]]
 2. [[Session 02 - Death House]]
 3. [[Session 03 - Kolyan's Burial]]

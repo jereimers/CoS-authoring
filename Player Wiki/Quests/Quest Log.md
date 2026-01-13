@@ -1,3 +1,6 @@
+---
+publish: true
+---
 # Active Quests
 - [[Escape Barovia]]
 - [[Arabelle's Gift]]

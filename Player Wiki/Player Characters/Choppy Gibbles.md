@@ -9,6 +9,7 @@ player: Travis
 character_sheet: https://www.dndbeyond.com/characters/151522122
 tags:
   - cos
+publish: true
 ---
 # At a glance
 

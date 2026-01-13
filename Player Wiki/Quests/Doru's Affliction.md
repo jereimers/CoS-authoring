@@ -3,13 +3,13 @@ status: active
 tags:
   - cos
   - quest
-  - ai_generated
 giver: "[[Father Donavich]]"
 location(s):
   - "[[Church]]"
 NPCs_involved:
   - "[[Doru]]"
   - "[[Father Donavich]]"
+publish: true
 ---
 # Objective
 Help [[Father Donavich]] find a way to save—or destroy—[[Doru]], his son who has been transformed into a [[Vampire Spawn]].

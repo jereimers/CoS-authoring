@@ -634,7 +634,7 @@ If the players accept Madam Eva's task, she nods approvingly. She then begins th
 <p>The cerulean light dances across its surface, revealing an illustration of a smirking guardsman looking up at a haughty priest, the priest’s pointing fingers mere inches from the guardsman’s nose as the guardsman readies a wickedly curved dagger behind his back. “The Nine of Glyphs—the Traitor.” Her dark pupils shift from side to side, as though reading from an unseen text. "I see the ancient foe of an old and noble house. The lost soul will lead you to him."</p>
 <p>She moves her hand to the second card, this one at the top of the cross. As she closes her eyes and listens once more, the candlelight flares, its color bursting into a fierce, cheery yellow.</p>
 <p>"This card tells of a powerful force for good and protection, a holy symbol of great hope." She flips the card.</p>
-<p>This time, the light reveals a new illustration: an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.” Her eyes stare deep into the darkness that lurks beyond the candlelight. (See [[Swords (Spades), p. 12]], for this card’s foretelling.)</p>
+<p>This time, the light reveals a new illustration: an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.” Her eyes stare deep into the darkness that lurks beyond the candlelight. (See [[authoring/Source/CoS-WotC/02_Chapter 1 - Into the Mists#5 of Swords-Myrmidon|02_Chapter 1 - Into the Mists]], p. 12, for this card’s foretelling.)</p>
 <p>She moves her hand to the third card, at the right arm of the cross, her eyelids closing like a trance, her lips pursed in quiet contemplation. The candlelight vanishes, for a heartbeat—and then returns in a nova of fierce, burning white, so pure and strong and clean that it hurts to look at, burns to see—</p>
 <p>Madam Eva's eyes snap open, burning with a fierce determination.</p>
 <p>"This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight." She flips the card.</p>
@@ -1430,6 +1430,7 @@ If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Pet
 
 > [!lore]+ **What's [[Father Lucian Petrovich|Lucian]] Doing Here?**
 > After discovering [[Arc C - Into the Valley|St. Andral's missing bones]] and sending [[Yeska]] to recruit Henrik to leave materials to repair the crypt, [[Father Lucian Petrovich|Father Petrovich]] sought out [[Baron Vargas Vallakovich|Baron Vallakovich]] in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing [[Baron Vargas Vallakovich|the Baron]]'s mood and behavior in the streets. ([[Father Lucian Petrovich|Lucian]] doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask [[Baron Vargas Vallakovich|the Baron]] about something, but decided against it after seeing the man's current mood.)
+> ^Lore-Whats-Lucian-Doing-Here
 
 [[Baron Vargas Vallakovich|The Baron]] also wonders aloud whether he should punish the players for their insolence. [[Father Lucian Petrovich|Father Petrovich]] assures [[Baron Vargas Vallakovich|the Baron]] that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated. 
 
@@ -1439,9 +1440,9 @@ If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Pet
 
 The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” [[Baron Vargas Vallakovich|The Baron]] nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
 
-If [[Ireena]] is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches [[Ireena]]’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving [[Ireena]] feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
+If [[Ireena Kolyana|Ireena]] is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches [[Ireena Kolyana|Ireena]]’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving [[Ireena Kolyana|Ireena]] feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
 
-If asked, [[Ireena]] notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
+If asked, [[Ireena Kolyana|Ireena]] notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
 
 If the players defied [[Baron Vargas Vallakovich|Vargas]] or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to [[Lady Fiona Wachter]] at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
 

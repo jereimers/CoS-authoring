@@ -16,6 +16,7 @@ If the players neither stop Izek nor take extraordinary measures to keep [[Ireen
 > "I would pay the salaries of the town's guard, yes," she says, "but they are Morninglord-fearing folk—they would not hesitate to depose me if they felt my ordinances harmful to their neighbors." She adds wryly, "I assure you: I have no wish to *rule* Vallaki. My aspirations, clerical as they are, are far more dull than that." 
 > 
 > If the players still appear suspicious of the possibility that she might betray them to Strahd, she scoffs, and points out that the players have killed Izek—who she could not herself touch. "If anyone should be frightened, it's I," she says, laughing slightly hysterically. "A band of armed, powerful outsiders have arrived in my small town and killed the most powerful creature within its walls. I am here only because I have faith in your goodwill and your love for my neighbors.")
+> ^Abstract-Lady-Wachters-Request
 # G1. The [[Blue Water Inn]]
 ## G1a. Izek’s Visit
 Just over a day after catching a glimpse of [[Ireena Kolyana]] for the first time—either in the street outside of the [[Blue Water Inn]], in Vallaki’s town square, or in some other location—[[Izek Strazni]] recognizes her as the woman that he has seen repeatedly in his dreams and becomes determined to find her. 
