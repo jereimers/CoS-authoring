@@ -1,3 +1,6 @@
+---
+publish: true
+---
 ## 🔗 Quick Links
 - 📜 [[Quest Log]]
 - 🗓️ [[Player Wiki/Session Recaps/Index|Session Recaps]]
