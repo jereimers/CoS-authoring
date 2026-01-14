@@ -54,7 +54,7 @@ encounter:
 item(s):
 handouts:
 loot:
-publish: false
+publish: true
 ---
 # Overview
 
