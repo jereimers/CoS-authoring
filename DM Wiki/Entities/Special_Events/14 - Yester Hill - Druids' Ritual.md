@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 14 - Yester Hill - Special Events]]
 # Druids' Ritual

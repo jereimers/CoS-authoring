@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 02 - Lands of Barovia - Vistani]]
 # Vistani Lore 

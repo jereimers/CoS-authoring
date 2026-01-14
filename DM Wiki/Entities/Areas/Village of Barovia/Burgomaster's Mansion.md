@@ -15,8 +15,8 @@ notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type:
 first_appearance_session:
@@ -25,6 +25,7 @@ encounter:
 item(s):
 handouts:
 loot:
+publish: false
 ---
 # Overview
 

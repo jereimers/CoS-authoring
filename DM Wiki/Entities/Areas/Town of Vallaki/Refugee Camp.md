@@ -2,7 +2,7 @@
 type: Area
 name: Refugee Camp
 aliases:
-  - "Barovian Refugee Camp"
+  - Barovian Refugee Camp
 area_code: N10
 WotC_ref: N/A
 CoS-R_ref: "[[Arc C - Into the Valley#The Refugee Camp]]"
@@ -18,9 +18,9 @@ notable_npcs:
 threat_level: 1-3
 first_appearance_date: 2 Neyavr 735
 tags:
-  - "area"
-  - "cos"
-  - "vallaki"
+  - area
+  - cos
+  - vallaki
 key_factions:
   - "[[Barovian Villagers]]"
 area_type: settlement
@@ -30,6 +30,7 @@ encounter:
 item(s):
 handouts:
 loot:
+publish: false
 ---
 # Overview
 

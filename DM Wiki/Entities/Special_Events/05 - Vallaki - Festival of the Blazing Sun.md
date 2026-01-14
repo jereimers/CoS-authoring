@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 05 - Vallaki - Special Events]]
 # Festival of the Blazing Sun

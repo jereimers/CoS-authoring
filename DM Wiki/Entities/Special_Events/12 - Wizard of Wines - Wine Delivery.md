@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 12 - Wizard of Wines - Special Events]]
 # Wine Delivery

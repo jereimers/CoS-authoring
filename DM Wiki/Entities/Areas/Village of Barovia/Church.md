@@ -2,8 +2,8 @@
 type: Area
 name: Church
 aliases:
-  - "Barovian church"
-  - "Donavich's church"
+  - Barovian church
+  - Donavich's church
 area_code: E5
 WotC_ref: "[[04_Chapter 3 - The Village of Barovia#E5. Church]]"
 CoS-R_ref: "[[Arc B - Welcome to Barovia#B5i. The Barovian Church]]"
@@ -16,8 +16,8 @@ notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
   - "[[Church of the Morninglord]]"
 area_type: church
@@ -27,6 +27,7 @@ encounter:
 item(s):
 handouts:
 loot:
+publish: false
 ---
 # Overview
 

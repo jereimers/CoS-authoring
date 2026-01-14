@@ -29,6 +29,7 @@ party_presence:
   - "[[Ireena]]"
   - "[[Parriwimple]]"
   - "[[Muriel Vinshaw]]"
+publish: false
 ---
 # 2 Neyavr, 735 — Tser Pool -> Vallaki
 

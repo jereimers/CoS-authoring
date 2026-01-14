@@ -10,6 +10,7 @@ tags:
   - magic-item
   - consumable
   - scroll
+publish: false
 ---
 
 <!-- DM-Only Start -->

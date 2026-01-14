@@ -7,7 +7,6 @@ combat?:
 has_recap?:
 play_date:
 tags:
-  - needs_filling
   - cos
 publish: true
 ---
@@ -45,7 +44,7 @@ The crew ate mutton stew and Barovian wine as the tales were shared:
     
 - [[Arden Nalero|Arden]]'s Tale: His origins as the lone Drow survivor of a family slain by Lolth’s assassins, dedicating centuries to serving Hoar, god of vengeance, as a relentless instrument of justice.
     
-- [[Parriwimple]]'s Tale: A hilariously tragic tale of being terrorized by a vicious one-eyed chicken named Old Murderbeak, who outwitted and bloodied him until the bird was finally cooked.
+- [[Parriwimple's Tale]]: A hilariously tragic tale of being terrorized by a vicious one-eyed chicken named Old Murderbeak, who outwitted and bloodied him until the bird was finally cooked.
     
 - [[Fig Fleetfoot|Fig]]'s Tale: The story of Jack Lop the Clever, a Harengon trickster who won a dangerous wager with the wicked Lord Blackwood by impersonating his wife’s voice to make him abolish his cruel taxes.
     

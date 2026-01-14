@@ -60,6 +60,7 @@ tags:
 CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Baron-Vargas-Vallakovich]]"
 WotC_ref:
   - "[[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family]]"
+publish: true
 ---
 # Who they are
 

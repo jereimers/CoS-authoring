@@ -9,6 +9,7 @@ tags:
   - item
   - consumable
   - potion
+publish: false
 ---
 
 <!-- DM-Only Start -->

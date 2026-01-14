@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Stanimir]] fills his mouth with wine, then spits into the fire. The flames turn from orange to green. As they dance and sway, a dark shape appears in the bonfire's core.
 "We come from an ancient land whose name is long forgotten-a land of kings. Our enemies forced us from our homes, and now we wander the lost roads."
 

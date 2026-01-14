@@ -8,6 +8,7 @@ tags:
   - cos
   - item
   - weapon
+publish: false
 ---
 
 <!-- DM-Only Start -->

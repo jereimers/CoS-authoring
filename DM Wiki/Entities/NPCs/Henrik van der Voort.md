@@ -36,6 +36,7 @@ tags:
 CoS-R_ref:
 WotC_ref:
   - "[[06_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop]]"
+publish: false
 ---
 # Who they are
 

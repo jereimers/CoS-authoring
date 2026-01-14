@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 03 - Village of Barovia - Special Events]]
 # Dream Pastries

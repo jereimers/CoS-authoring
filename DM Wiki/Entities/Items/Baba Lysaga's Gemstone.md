@@ -10,6 +10,7 @@ tags:
   - magic-item
   - gem
   - wizard-of-wines
+publish: false
 ---
 
 <!-- DM-Only Start -->

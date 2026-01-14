@@ -9,6 +9,7 @@ tags:
   - item
   - magic-item
   - wondrous-item
+publish: false
 ---
 
 <!-- DM-Only Start -->

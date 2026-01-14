@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # Scene order
 1. [[X2a - The Discovery]]
 2. [[X2b - What Blinsky Knows]]

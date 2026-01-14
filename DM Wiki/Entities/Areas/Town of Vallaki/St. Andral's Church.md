@@ -2,10 +2,10 @@
 type: Area
 name: St. Andral's Church
 aliases:
-  - "Church"
-  - "Church of St. Andral"
-  - "Lucian's church"
-  - "Church in Vallaki"
+  - Church
+  - Church of St. Andral
+  - Lucian's church
+  - Church in Vallaki
 area_code: N1
 WotC_ref: "[[06_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church]]"
 CoS-R_ref: "[[Arc D - St. Andral's Feast#D1. St. Andral's Church]]"
@@ -23,9 +23,9 @@ notable_npcs:
 threat_level: none
 first_appearance_date: 2 Neyavr 735
 tags:
-  - "area"
-  - "cos"
-  - "vallaki"
+  - area
+  - cos
+  - vallaki
 key_factions:
   - "[[Church of the Morninglord]]"
   - "[[Strahd's Spies]]"
@@ -36,6 +36,7 @@ encounter:
 item(s):
 handouts:
 loot:
+publish: true
 ---
 # Overview
 

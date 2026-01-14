@@ -1,3 +1,6 @@
+---
+publish: true
+---
 [[Parriwimple]] leans forward, eyes wide, hands gesturing with all the gravity of a ghost story.
 
 > “So… there was this chicken, right? Belonged to Mr. Kolyan—uh, Ireena’s pa. Meanest bird I ever met. Big red comb, one eye, beak like a dagger. They called him _Old Murderbeak._”

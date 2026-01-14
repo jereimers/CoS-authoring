@@ -13,6 +13,7 @@ tags:
 type: Weapon (Net)
 rarity: Uncommon
 attunement: No
+publish: false
 ---
 
 # Snap-Trap Net

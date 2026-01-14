@@ -33,6 +33,7 @@ tags:
   - cos
 CoS-R_ref:
 WotC_ref:
+publish: false
 ---
 # Volenta Popofsky
 **Roleplaying Information**

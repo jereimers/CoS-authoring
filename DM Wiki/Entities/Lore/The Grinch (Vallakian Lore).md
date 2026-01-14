@@ -12,6 +12,7 @@ type: Lore
 WotC_ref:
 CoS-R_ref:
 factions:
+publish: false
 ---
 %%
 # The Grinch (Vallakian Lore)

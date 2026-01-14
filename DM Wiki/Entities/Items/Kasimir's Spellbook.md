@@ -8,6 +8,7 @@ tags:
   - cos
   - item
   - spellbook
+publish: false
 ---
 
 <!-- DM-Only Start -->

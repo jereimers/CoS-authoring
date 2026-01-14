@@ -35,6 +35,7 @@ item(s):
   - "[[Snap-Trap Net]]"
 handouts:
 loot:
+publish: false
 ---
 # Overview
 

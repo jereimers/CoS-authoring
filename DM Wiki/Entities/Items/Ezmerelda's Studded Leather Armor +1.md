@@ -9,6 +9,7 @@ tags:
   - item
   - magic-item
   - armor
+publish: false
 ---
 
 <!-- DM-Only Start -->

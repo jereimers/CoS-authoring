@@ -10,6 +10,7 @@ tags:
   - magic-item
   - weapon
   - order-of-the-silver-dragon
+publish: false
 ---
 
 <!-- DM-Only Start -->

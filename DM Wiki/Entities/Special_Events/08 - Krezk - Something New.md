@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 08 - Krezk - Special Events]]
 # Something New

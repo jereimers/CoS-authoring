@@ -24,6 +24,7 @@ notable_npcs:
   - "[[Baron Vargas Vallakovich]]"
   - "[[Gadof Blinsky]]"
   - "[[The Grinch]]"
+publish: false
 ---
 
 # The Long Night

@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 05 - Vallaki - Special Events]]
 # Lady Wachter's Wish

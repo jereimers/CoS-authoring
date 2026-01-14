@@ -3,7 +3,7 @@ party_presence:
 npc_presence:
 arc: "[[Arc B - Welcome to Barovia]]"
 CoS-R_Ref: "[[Arc B - Welcome to Barovia#B2. Gates of Barovia]]"
-location: 
+location:
 session:
 party_level:
 combat_possible?: false
@@ -12,6 +12,7 @@ tags:
   - cos
   - scene
   - ai_generated
+publish: false
 ---
 %%
 a scene is a chunk of role-playing not requiring initiative -- it has NPCs, a setting, party members present, etc.

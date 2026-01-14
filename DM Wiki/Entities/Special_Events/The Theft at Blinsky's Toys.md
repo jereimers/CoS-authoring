@@ -18,6 +18,7 @@ notable_npcs:
   - "[[Gadof Blinsky]]"
   - "[[The Grinch]]"
   - "[[Max]]"
+publish: false
 ---
 
 # The Theft at Blinsky's Toys

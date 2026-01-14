@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 13 - Amber Temple - Special Events]]
 # Rahadin's Prayer

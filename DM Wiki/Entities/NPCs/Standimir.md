@@ -37,6 +37,7 @@ tags:
   - needs_filling
 CoS-R_ref:
 WotC_ref:
+publish: true
 ---
 ![[Source/CoS-R/Appendices/images/tser-falls-revenant.png]]
 # Who they are

@@ -11,6 +11,7 @@ has_vignette: false
 tags:
   - cos
   - scene
+publish: false
 ---
 
 %% a scene is a chunk of role-playing not requiring initiative -- it has NPCs, a setting, party members present, etc. %%

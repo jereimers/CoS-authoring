@@ -33,6 +33,7 @@ tags:
 CoS-R_ref:
 WotC_ref:
   - "[[06_Chapter 5 - The Town of Vallaki#Bones of St. Andral]]"
+publish: false
 ---
 # Who they are
 

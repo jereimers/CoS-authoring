@@ -32,7 +32,7 @@ party_presence:
   - Ireena
   - Parriwimple
   - "[[Blue-Winged Raven]]"
-NPCs_met: 
+NPCs_met:
   - "[[Eliza]]"
   - "[[Stanimir]]"
   - "[[Arturi Radanavich]]"
@@ -41,6 +41,7 @@ NPCs_met:
   - "[[Korga]]"
   - "[[Strahd]]"
   - "[[Escher]]"
+publish: false
 ---
 # 4 Neyavr, 735 — Vallaki
 

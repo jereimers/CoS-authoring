@@ -9,6 +9,7 @@ tags:
   - item
   - magic-item
   - weapon
+publish: false
 ---
 
 <!-- DM-Only Start -->

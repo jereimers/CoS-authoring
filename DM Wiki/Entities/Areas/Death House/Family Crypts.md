@@ -12,9 +12,9 @@ notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
-  - "death_house"
+  - area
+  - cos
+  - death_house
 key_factions:
   - "[[Death House Cult]]"
 area_type: room
@@ -24,6 +24,7 @@ encounter:
 item(s):
 handouts:
 loot:
+publish: false
 ---
 # Overview
 

@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 11 - Van Richten's Tower - Special Events]]
 # Pack Attack

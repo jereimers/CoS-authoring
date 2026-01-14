@@ -9,6 +9,7 @@ tags:
   - item
   - magic-item
   - ring
+publish: false
 ---
 
 <!-- DM-Only Start -->

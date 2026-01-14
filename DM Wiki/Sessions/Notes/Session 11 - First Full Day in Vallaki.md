@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # Scenes
 1. [[C12c - Morning in Vallaki]] - first the bits with Rictavio in the taproom, then the bits outside the taproom with the Baron and whatnot
 	1. gonna have to figure out voice notes for the baron and for Izek. 

@@ -3,7 +3,6 @@ status: active
 tags:
   - cos
   - quest
-  - ai_generated
 giver: "[[Mary]]"
 location(s):
   - "[[Village of Barovia]]"

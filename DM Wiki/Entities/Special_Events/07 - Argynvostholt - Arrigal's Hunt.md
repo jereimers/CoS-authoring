@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 07 - Argynvostholt - Special Events]]
 # **Arrigal's Hunt**

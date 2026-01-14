@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 10 - Ruins of Berez - Special Events]]
 # Creeping Hut

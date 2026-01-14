@@ -12,6 +12,7 @@ tags:
 type: Wondrous Item
 rarity: Uncommon
 attunement: No
+publish: false
 ---
 
 # Sleigh Boots

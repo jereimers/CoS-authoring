@@ -64,6 +64,7 @@ tags:
 CoS-R_ref: "[[Arc F - Lady Wachter's Wish#^Profile-Lady-Fiona-Wachter]]"
 WotC_ref:
   - "[[06_Chapter 5 - The Town of Vallaki#N4. Wachterhaus]]"
+publish: false
 ---
 # Who they are
 

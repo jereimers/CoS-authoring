@@ -3,7 +3,6 @@ status: active
 tags:
   - cos
   - quest
-  - ai_generated
 giver: The Mists
 location(s):
   - "[[Barovia]]"

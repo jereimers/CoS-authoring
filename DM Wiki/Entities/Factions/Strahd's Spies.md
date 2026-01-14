@@ -19,4 +19,5 @@ first_appearance_session:
 tags:
   - cos
   - faction
+publish: false
 ---

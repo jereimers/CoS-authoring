@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # WotC source:
 [[WotC - 15 - Werewolf Den - Special Events]]
 # Die Kinder 

@@ -17,7 +17,7 @@ sessions:
 session_notes:
   - - - 
   - - - 
-time_of_day_focus: 
+time_of_day_focus:
 party_level: 5
 major_events:
   - Festival of the Blazing Sun preparations
@@ -32,6 +32,7 @@ party_presence:
   - Varnish
   - Ireena
   - Parriwimple
+publish: false
 ---
 # 4 Neyavr, 735 — Vallaki
 

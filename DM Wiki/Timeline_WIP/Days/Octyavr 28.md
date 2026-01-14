@@ -33,6 +33,7 @@ party_presence:
   - Parriwimple
   - Ismark
   - Bildrath
+publish: false
 ---
 #  28 Octyavr, 735 — Barovia
 

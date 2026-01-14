@@ -39,6 +39,7 @@ tags:
 CoS-R_ref: "[[Arc B - Welcome to Barovia#^Profile-Father-Donavich]]"
 WotC_ref:
   - "[[04_Chapter 3 - The Village of Barovia#E5f. Chapel]]"
+publish: true
 ---
 # Who they are
 ![[03-005.donavich.png]]

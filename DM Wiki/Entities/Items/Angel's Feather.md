@@ -3,6 +3,7 @@ belongs_to: "[[Fig Fleetfoot]]"
 CoS-R_ref: "[[Character Creation#Redemption—The Angel's Feather]]"
 WotC_ref: N/A
 current_location: "[[Fig Fleetfoot]]"
+publish: false
 ---
 
 ![[angels-feather.png]]

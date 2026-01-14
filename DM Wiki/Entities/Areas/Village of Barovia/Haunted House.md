@@ -2,10 +2,10 @@
 type: Area
 name: Haunted House
 aliases:
-  - "Death House"
-  - "Durst House"
-  - "Durst Manor"
-  - "Haunted House"
+  - Death House
+  - Durst House
+  - Durst Manor
+  - Haunted House
 area_code: E7
 WotC_ref: "[[19_Appendix B - Death House]]"
 CoS-R_ref: "[[Arc A - Escape From Death House]]"
@@ -19,8 +19,8 @@ notable_npcs:
 threat_level:
 first_appearance_date:
 tags:
-  - "area"
-  - "cos"
+  - area
+  - cos
 key_factions:
 area_type: residence
 first_appearance_session:
@@ -29,6 +29,7 @@ encounter:
 item(s):
 handouts:
 loot:
+publish: true
 ---
 # Overview
 

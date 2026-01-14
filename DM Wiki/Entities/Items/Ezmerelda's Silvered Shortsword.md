@@ -9,6 +9,7 @@ tags:
   - item
   - weapon
   - silvered
+publish: false
 ---
 
 <!-- DM-Only Start -->

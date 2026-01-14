@@ -10,6 +10,7 @@ tags:
   - magic-item
   - artifact
   - castle-ravenloft
+publish: false
 ---
 
 <!-- DM-Only Start -->

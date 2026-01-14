@@ -9,6 +9,7 @@ tags:
   - item
   - weapon
   - poison
+publish: false
 ---
 
 <!-- DM-Only Start -->

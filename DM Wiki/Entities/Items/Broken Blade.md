@@ -3,6 +3,7 @@ belongs_to: "[[Arden Nalero]]"
 CoS-R_ref: "[[Character Creation#Justice—The Broken Blade]]"
 WotC_ref: N/A
 current_location: "[[Arden Nalero]]"
+publish: false
 ---
 
 

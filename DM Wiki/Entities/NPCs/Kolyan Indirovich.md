@@ -34,6 +34,7 @@ tags:
   - burgomaster
 CoS-R_ref:
 WotC_ref:
+publish: true
 ---
 # Who they are
 

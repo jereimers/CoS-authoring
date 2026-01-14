@@ -8,6 +8,7 @@ tags:
   - cos
   - item
   - consumable
+publish: false
 ---
 
 <!-- DM-Only Start -->

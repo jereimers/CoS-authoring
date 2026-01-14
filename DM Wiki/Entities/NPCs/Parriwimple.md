@@ -35,6 +35,7 @@ tags:
   - cos
 CoS-R_ref:
 WotC_ref:
+publish: true
 ---
 ![[warrior_parriwimple.png]]
 # Who they are

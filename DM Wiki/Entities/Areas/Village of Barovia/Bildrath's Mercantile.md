@@ -25,6 +25,7 @@ encounter:
 item(s):
 handouts:
 loot:
+publish: false
 ---
 # Overview
 
