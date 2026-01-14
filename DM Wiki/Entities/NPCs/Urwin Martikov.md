@@ -36,16 +36,19 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
-# Who they are
+# Portrait
+![[urwin-martikov.png]]
 
+# Who they are
+He owns and runs the [[Blue Water Inn]], along with his wife, [[Danika Dorakova]]. 
 
 
 # What the party knows
-
+- Urwin's family owns and operates the winery from which Purple Grapemash No. 3 and Red Dragon Crush originate.
 
 
 # Personality
-
+- A kind fatherly figure, family man, and welcoming host with an ever-present twinkle in his eye
 
 
 # Where we've seen them

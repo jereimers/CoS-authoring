@@ -34,21 +34,25 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
-# Who they are
+# Portrait Gallery
 
+![[rictavio-in-the-blue-water-inn.png]]
+
+![[rictavio.png]]
+
+# Who they are
+Rictavio, the lone guest of the Blue Water Inn besides the party, is a colorfully dressed half-elf bard who claims to be a carnival ringmaster from a distant land. He regales tavern patrons with stories so outrageous as to be hardly believable. 
 
 
 # What the party knows
-
-
-
+- Rictavio came to the inn just a day before the party. 
+- He gave his monkey, Piccolo, as a gift to [[Gadof Blinsky]], the toymaker
 # Personality
-
+- Flamboyant, showy, ostentatious
 
 
 # Where we've seen them
-
-*To be updated during play.*
+- [[Session 09 - Walls Keep Out More Than Wolves]] — he shared the story of Count Belasco (see [[The Ringmaster's Tale]])
 
 %%
 # Rictavio Profile

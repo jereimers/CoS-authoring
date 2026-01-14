@@ -48,20 +48,22 @@ publish: true
 ![[03-004.ireena.png]]
 
 # Who they are
-
+Ireena is the adopted daughter of [[Kolyan Indirovich]] and adopted brother of [[Ismark Kolyanovich]], having lived with them since she was a child—as long as she can remember. She is a fierce, capable, and adroit Barovian woman.
 
 
 # What the party knows
-
-
+- For reasons unclear, Ireena has become the especial target of [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]], having been visited (and bitten) by him at least once while dwelling with her brother in the [[Village of Barovia]].
 
 # Personality
-
-
+- Compassionate, curious, yet stubborn.
 
 # Where we've seen them
-
-*To be updated during play.*
+- [[Session 04 - Defending the Eastern Barricade]]
+- [[Session 05 - Out of Barovia]]
+- [[Session 06 - The Game of Stories]]
+- [[Session 07 - The Tarokka Reading]]
+- [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three]]
+- [[Session 09 - Walls Keep Out More Than Wolves]]
 
 %%
 # Ireena Kolyana Profile

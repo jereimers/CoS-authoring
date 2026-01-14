@@ -1189,7 +1189,7 @@ The taproom is as described in [[Blue Water Inn#N2c. Taproom]]. However, add the
 
 The man is the ringmaster [[Rictavio]], who is largely as described in [[WotC - 20 - Appendix D - Monsters and NPCs - Creatures (R-Z)#Rictavio]] and [[Blue Water Inn#N2c. Taproom]]. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in [[Blue Water Inn#N2c. Taproom]].
 ![[rictavio.png]]
-<span class="credit">"[[Rictavio]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Rictavio" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
 
@@ -1199,18 +1199,18 @@ If the characters approach the bar, [[Urwin Martikov]] exits the kitchen carryin
 
 Before [[Urwin Martikov|Urwin]] can reply to the players, [[Danika Dorakova|Danika]] returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
 
-* Danika lightheartedly accuses [[Urwin]] of plotting to rent rooms to guests "for free" again, an allegation that [[Urwin]] cheerfully denies. 
-* Danika tells the players that [[Urwin]] has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. ([[Urwin]] graciously concedes the point.) 
-* "After all," [[Urwin]] says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
-* Danika pecks [[Urwin]]'s cheek with a kiss and says, "The table by the window is getting hungry." [[Urwin]] winks at the players, picks up the tray again, and exits the bar to deliver the food.
+* Danika lightheartedly accuses [[Urwin Martikov|Urwin]] of plotting to rent rooms to guests "for free" again, an allegation that [[Urwin Martikov|Urwin]] cheerfully denies. 
+* Danika tells the players that [[Urwin Martikov|Urwin]] has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. ([[Urwin Martikov|Urwin]] graciously concedes the point.) 
+* "After all," [[Urwin Martikov|Urwin]] says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
+* Danika pecks [[Urwin Martikov|Urwin]]'s cheek with a kiss and says, "The table by the window is getting hungry." [[Urwin Martikov|Urwin]] winks at the players, picks up the tray again, and exits the bar to deliver the food.
 
 Danika then tells the players the rates for room and board, as listed in [[Blue Water Inn]]. (Both the large guest room, [[Blue Water Inn#N2m. Guest Room|N2m]], as well as the two small guest rooms, [[Blue Water Inn#N2I. Guest Rooms|N2l]], are available for rent.) When [[Urwin Martikov|Urwin]] returns, he offers to take the players' orders for dinner, assuming they're hungry. 
 
-The players then have a few minutes to talk with [[Urwin]] and Danika or amongst themselves. During this conversation, [[Urwin]] and Danika can provide the players with information about [[Rictavio]], the [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] (which will take place in five days at noon), and the nearby [[Vistani Camp|Vistani camp]], as described in [[Vallaki Lore]]. 
+The players then have a few minutes to talk with [[Urwin]] and Danika or amongst themselves. During this conversation, [[Urwin Martikov|Urwin]] and Danika can provide the players with information about [[Rictavio]], the [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] (which will take place in five days at noon), and the nearby [[Vistani Camp|Vistani camp]], as described in [[Vallaki Lore]]. 
 
-Both [[Urwin]] and Danika can provide directions to any major landmark inside of Vallaki, including [[St. Andral's Church]], [[Arasek Stockyard]], and [[Town Square]]. If the players ask about the inn's other guest, [[Urwin]] and Danika can also share information about [[Rictavio]], which is largely as described in [[Blue Water Inn#N2c. Taproom|N2c]], except that [[Rictavio]] first arrived that same morning.
+Both [[Urwin Martikov|Urwin]] and Danika can provide directions to any major landmark inside of Vallaki, including [[St. Andral's Church]], [[Arasek Stockyard]], and [[Town Square]]. If the players ask about the inn's other guest, [[Urwin Martikov|Urwin]] and Danika can also share information about [[Rictavio]], which is largely as described in [[Blue Water Inn#N2c. Taproom|N2c]], except that [[Rictavio]] first arrived that same morning.
 
-The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make [[Urwin]] alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
+The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make [[Urwin Martikov|Urwin]] alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
 
 If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See [[map-05.02-blue-water-inn.jpg|Map 5.2 - Blue Water Inn]])
 ### The Ringmaster's Tale
@@ -1274,8 +1274,10 @@ If the players don't intervene, the following sequence of events then occurs:
 * [[Karl Wachter|Karl]] scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
 * [[Rictavio]] clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, [[Rictavio]] bows with a flourish, then ascends the stairs to [[Blue Water Inn#N2n. Private Guest Room|Private Guest Room]]. 
 
-Any player who watches as [[Rictavio]] makes his way along [[Blue Water Inn#N2j. Great Balcony|the Great Balcony]] sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in [[N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)]] to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
+Any player who watches as [[Rictavio]] makes his way along [[Blue Water Inn#N2j. Great Balcony|the Great Balcony]] sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in N2o. Boys' Bedroom (p. 102) over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the N2i. Secret Stairs and Hall (p. 101) to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
+
 ### [[The Brothers Wachter]]
+
 If the players linger at [[Rictavio]]'s table, the Wachter brothers are happy (if prodded) to rant about:
 
 - the Festival of the Blazing Sun,
@@ -1283,7 +1285,7 @@ If the players linger at [[Rictavio]]'s table, the Wachter brothers are happy (i
 - [[Baron Vargas Vallakovich|the Baron]]'s response to those who speak ill of the festivals, and
 - the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
 
-(See [[Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)]].
+(See [[Vallaki Lore]] (p. 96). Once the players have won the brothers' trust, the conversation proceeds as described in [[06_Chapter 5 - The Town of Vallaki#N2c. Taproom|N2c. Taproom]] (p. 100).
 
 Through conversation, it becomes evident that the brothers have a deep, personal enmity toward [[Izek Strazni]] and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 20 Charisma (Persuasion) check.
 
@@ -1493,4 +1495,4 @@ Stanimir's tale indicates the relationship between Strahd and the Vistani, there
 
 ***The [[Blue Water Inn]].*** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster [[Rictavio]]. [[Rictavio]]'s tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
 
-***Exiting the Inn.*** The players' encounter with [[Baron Vargas Vallakovich|Baron Vallakovich]] and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to [[Father Lucian Petrovich]], to set up the core dramatic tension of [[Baron Vargas Vallakovich|the Baron]]'s tyrannical rule over Vallaki, to kick off Izek's pursuit of [[Ireena]], and to provide [[Lady Fiona Wachter]] with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**
+***Exiting the Inn.*** The players' encounter with [[Baron Vargas Vallakovich|Baron Vallakovich]] and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to [[Father Lucian Petrovich]], to set up the core dramatic tension of [[Baron Vargas Vallakovich|the Baron]]'s tyrannical rule over Vallaki, to kick off Izek's pursuit of [[Ireena Kolyana|Ireena]], and to provide [[Lady Fiona Wachter]] with an actionable reason to invite the players into her machinations. **It is essential that the players do *not* fight Izek here, and all reasonable precautions have been taken to ensure this.**

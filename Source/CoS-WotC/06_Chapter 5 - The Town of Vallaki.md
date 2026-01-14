@@ -168,7 +168,8 @@ Danika Martikov usually tends bar while her husband busies himself in the kitche
 
 Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic (area N2q). From noon to dusk, the taproom holds 2d4 local patrons (male and female commoners). Between dusk and midnight, 2d8 Vallakians are here. In addition, one or more of the following people might be present during this time.
 
-Wolf Hunters. Szoldar Szoldarovich and [[Yevgeni Krushkin]] (N male human scouts) are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody. Both men are grim and have haunted looks in their eyes.
+##### Wolf Hunters. 
+Szoldar Szoldarovich and Yevgeni Krushkin (N male human scouts) are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody. Both men are grim and have haunted looks in their eyes.
 
 These two are dour fellows, but they seldom pass up an opportunity to earn coin. If the characters are looking for guides or information about the land of Barovia, Szoldar and Yevgeni can be of service. They aren't afraid to venture beyond Vallaki's walls during the day, and they know the woods and valley well. They're willing to serve as guides for 5 gp per day, or to provide directions to important landmarks in exchange for free drinks. They think it's foolish to travel "this cursed realm" at night and won't do so unless their payment is exorbitant ( 100 gp or more).
 

@@ -27,7 +27,7 @@ publish: true
 ---
 ## The [[Refugee Camp]]
 
-The day began where [[Town of Vallaki|Vallaki]] prefers not to look: a [[refugee camp]] squatting just beyond the city walls, full of people deemed unfit for happiness. [[Emeric]] and [[Magda]] explained [[Baron Vargas Vallakovich|the Baron]]’s logic with bureaucratic cheer—sickness, unruliness, and malicious unhappiness—as if misery were a contagious crime. [[Arden Nalero|Arden]] moved through the infirmary tent laying on hands and mending wounds left by wolves, bats, and other night-born messengers of Strahd, offering small mercies where the town offered none.
+The day began where [[Town of Vallaki|Vallaki]] prefers not to look: a [[Refugee Camp|refugee camp]] squatting just beyond the city walls, full of people deemed unfit for happiness. [[Emeric]] and [[Magda]] explained [[Baron Vargas Vallakovich|the Baron]]’s logic with bureaucratic cheer—sickness, unruliness, and malicious unhappiness—as if misery were a contagious crime. [[Arden Nalero|Arden]] moved through the infirmary tent laying on hands and mending wounds left by wolves, bats, and other night-born messengers of Strahd, offering small mercies where the town offered none.
 
 It didn’t take long to notice that many refugees had found their own escape. Dream Pastries circulated like contraband prayers—temporary bliss wrapped in powdered sugar. [[Arden Nalero|Arden]], aghast, tossed his pastry aside… only to retrieve it moments later when a desperate man named Franz dove for it. Franz’s hunger was absolute. He begged, bartered, and debased himself for a single bite. [[Arden Nalero|Arden]] tried to heal him instead, with mixed results: Franz got half his teeth back, but lost the gummy mouth that had apparently been paying the bills.
 

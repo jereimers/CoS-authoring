@@ -35,8 +35,11 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
-# Who they are
+# Portrait
+![[danika-dorakova.png]]
 
+# Who they are
+A co-owner of the [[Blue Water Inn]], husband to [[Urwin Martikov]] and mother to [[Brom Martikov|Brom]] and [[Bray Martikov|Bray]], Danika can often be found tending bar in the inn's taproom and keeping her husband from giving away the proverbial golden goose with his generous nature.
 
 
 # What the party knows
@@ -44,7 +47,7 @@ publish: true
 
 
 # Personality
-
+- Stern, but kind and warm. A practical, no-nonsense businesswoman with a heart of gold.
 
 
 # Where we've seen them

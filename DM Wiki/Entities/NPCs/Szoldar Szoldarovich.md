@@ -2,9 +2,10 @@
 type: NPC
 name: Szoldar Szoldarovich
 aliases:
-pronouns:
-race:
-class:
+  - Szoldar
+pronouns: he/him
+race: Human
+class: "[[Scout]]"
 age:
 gender:
 creature_type:
@@ -34,16 +35,23 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
-# Who they are
+# Portrait
 
+![[05-003.szoldar-szoldarovich.png]]
+# Who they are
+Szoldar is a wolf hunter who knows the [[Svalich Woods]] well and frequents the [[Blue Water Inn]]. For every wolf he slays, he adds a notch to his longbow.
 
 
 # What the party knows
-
+- Szoldar and his partner, [[Yevgeni Krushkin|Yevgeni]], can be hired as guides for 5gp per day.
+- They'll also provide directions to important landmarks in exchange for free drinks.
+- They think that it's suicide to venture into the woods at night, and will only act as guides at night for an exorbitant amount of compensation.
 
 
 # Personality
-
+- Gruff, outspoken
+- Also an anti-capitalist king
+- 
 
 
 # Where we've seen them

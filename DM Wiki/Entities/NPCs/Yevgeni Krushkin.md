@@ -2,14 +2,15 @@
 type: NPC
 name: Yevgeni Krushkin
 aliases:
-pronouns:
-race:
-class:
+  - Yevgeni
+pronouns: he/him
+race: Human
+class: "[[Scout]]"
 age:
-gender:
+gender: male
 creature_type:
 origin:
-home_base:
+home_base: "[[Town of Vallaki|Vallaki]]"
 current_location:
 factions:
 arc:
@@ -34,21 +35,26 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
+# Portrait
+![[05-004.yevgeni-krushkin.png]]
 # Who they are
-
+Yevgeni is a wolf hunter who knows the [[Svalich Woods]] well and frequents the [[Blue Water Inn]]. 
 
 
 # What the party knows
-
+- He's an anti-capitalist king
+- For each wolf he slays, he adds a segment of their pelt to his cloak motley cloak.
 
 
 # Personality
-
+- Quiet, mostly parrots what his buddy [[Szoldar Szoldarovich]] says
+- Yevgeni and his partner can be hired as guides for 5gp per day.
+- They'll also provide directions to important landmarks in exchange for free drinks.
+- They think that it's suicide to venture into the woods at night, and will only act as guides at night for an exorbitant amount of compensation.
 
 
 # Where we've seen them
-
-*To be updated during play.*
+- [[Session 09 - Walls Keep Out More Than Wolves]]
 
 %%
 # Yevgeni Krushkin Profile
