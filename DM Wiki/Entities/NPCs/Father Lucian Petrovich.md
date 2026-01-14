@@ -44,28 +44,23 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
+# Portrait
+![[father-lucian.png]]
 # Who they are
-
+Father Lucian is a warm-hearted man who serves as high priest of the Morninglord at [[St. Andral's Church]] in [[Town of Vallaki|Vallaki]]. 
 
 
 # What the party knows
-
-
+- Father Lucian personally confirmed the hallowed nature of the church grounds, assuring them of [[Ireena Kolyana|Ireena]]'s safety.
 
 # Personality
-
-
+Father Lucian is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom, preferably over a hot cup of jasmine tea.
 
 # Where we've seen them
-
-*To be updated during play.*
+- [[Session 09 - Walls Keep Out More Than Wolves]]
 
 %%
 # Father Lucian Petrovich Profile
-
-## Portrait
-![[father-lucian.png]]
-
 ## Roleplaying Information
 
 ### Resonance

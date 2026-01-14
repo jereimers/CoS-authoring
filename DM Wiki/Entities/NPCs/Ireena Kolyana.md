@@ -41,6 +41,12 @@ WotC_ref:
   - "[[04_Chapter 3 - The Village of Barovia#Roleplaying Ireena]]"
 publish: true
 ---
+# Portrait Gallery
+![[ireena-kolyana.png]]
+
+
+![[03-004.ireena.png]]
+
 # Who they are
 
 

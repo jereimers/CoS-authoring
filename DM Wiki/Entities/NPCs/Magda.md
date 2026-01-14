@@ -37,7 +37,7 @@ WotC_ref:
 publish: true
 ---
 # Who they are
-
+This young woman is one of two leaders of the refugees driven from [[Village of Barovia]] by Strahd's nightly undead onslaughts, along with [[Emeric]].
 
 
 # What the party knows
@@ -45,12 +45,11 @@ publish: true
 
 
 # Personality
-
+- Grief-stricken
 
 
 # Where we've seen them
-
-*To be updated during play.*
+- [[Session 09 - Walls Keep Out More Than Wolves]]
 
 %%
 # Magda Profile

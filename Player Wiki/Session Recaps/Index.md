@@ -2,7 +2,7 @@
 publish: true
 ---
 1. [[Session 01 - Arrivals]]
-2. [[Session 02 - Death House]]
+2. [[Session 02 - Out of Death House]]
 3. [[Session 03 - Kolyan's Burial]]
 4. [[Session 04 - Defending the Eastern Barricade]]
 5. [[Session 05 - Out of Barovia]]

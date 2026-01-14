@@ -63,12 +63,13 @@ WotC_ref:
 publish: true
 ---
 # Who they are
-
+Descended from the original founders of the settlement, Vargas Vallakovich is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a praise kink (*but you didn't hear that from me*).
 
 
 # What the party knows
-
-
+- Ever since [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]]’s awakening three months ago, he has instituted weekly festivals and made attendance mandatory. 
+- He has decreed that the [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] will be held in the town square ([[Town Square]]) on [[Neyavr 7]]. The previous festival, which he called the Wolf's Head Jamboree, was less than a week ago.
+- He lives with his wife and two large dogs in a mansion on the south side of town.
 
 # Personality
 

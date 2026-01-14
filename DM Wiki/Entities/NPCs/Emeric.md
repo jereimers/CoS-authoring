@@ -36,20 +36,17 @@ WotC_ref:
 publish: true
 ---
 # Who they are
-
+This middle-aged man is one of two leaders of the refugees driven from [[Village of Barovia]] by Strahd's nightly undead onslaughts, along with [[Magda]].
 
 
 # What the party knows
 
 
-
 # Personality
-
-
+- Melancholy
 
 # Where we've seen them
-
-*To be updated during play.*
+- [[Session 09 - Walls Keep Out More Than Wolves]]
 
 %%
 # Emeric Profile

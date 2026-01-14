@@ -70,7 +70,7 @@ If the protective wards of [[St. Andral's Church]] have not been restored, Strah
 ## Neyavr 8
 If the players failed to prevent [[Volenta Popofsky|Volenta]]'s attack or otherwise defend [[St. Andral's Church]] in [[Arc D - St. Andral's Feast]], an angry mob forms outside of Baron Vallakovich's manor. The hunter [[Szoldar Szoldarovich]] also finds [[Milivoj]], the church groundskeeper, hanging from a tree outside Vallaki—dead by apparent suicide—and returns his body to his family. 
 
-Shortly after sundown, if the players failed to prevent [[Volenta Popofsky|Volenta]]'s attack or otherwise defend [[St. Andral's Church]] in [[Arc D - St. Andral's Feast]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. [[Victor Vallakovich]] escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, [[Izek Strazni]] also escapes, taking shelter in Q9. Servants' Quarters (p. 133) in Argynvostholt.
+Shortly after sundown, if the players failed to prevent [[Volenta Popofsky|Volenta]]'s attack or otherwise defend [[St. Andral's Church]] in [[Arc D - St. Andral's Feast]], the angry mob assaults the manor, capturing the Baron and lynching him in the town square. [[Victor Vallakovich]] escapes, taking shelter in one of the abandoned houses abutting Vallaki's western walls. If he still lives, [[Izek Strazni]] also escapes, taking shelter in Q9. Servants' Quarters (p. 133) in [[Argynvostholt]].
 
 At sundown, the **full moon** rises over Vallaki. (Due to Barovia's strange cosmology, the next full moon will arrive just two weeks later.)
 ## Neyavr 9

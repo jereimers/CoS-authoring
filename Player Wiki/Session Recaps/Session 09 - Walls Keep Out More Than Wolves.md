@@ -35,15 +35,15 @@ Elsewhere in the camp, [[Parriwimple]] made himself indispensable. He hauled fir
 
 ## Entering the Town
 
-At [[Town of Vallaki|Vallaki]]’s gates, the city watch performed their civic rituals. Teeth were inspected for vampirism. Garlic was handled for lycanthropy. Silver was quietly hidden. A few coins changed hands, and suddenly the guards were quite helpful, pointing out the [[Blue Water Inn]] and Blinsky’s Toys with the enthusiasm of men supplementing their wages.
+At [[Town of Vallaki|Vallaki]]’s gates, the city watch performed their civic rituals. Teeth were inspected for vampirism. Garlic was handled for lycanthropy. Silver was quietly hidden. A few coins changed hands, and suddenly the guards were quite helpful, pointing out the [[Blue Water Inn]] and [[Blinsky Toys]] with the enthusiasm of men supplementing their wages.
 
-The party entered [[Town of Vallaki|Vallaki]] at dusk, slipping through streets that felt abandoned by choice rather than chance—shutters closed, doors barred, the town holding its breath. A lone hooded figure headed toward St. Andral’s [[St. Andral's Church|Church]]. [[Fig Fleetfoot|Fig]] attempted a stealthy approach and instead detonated an awning, landing flat in the street. Feigning injury, they were helped up by the very stranger they’d been tailing: [[Willemina Rikalova]], a gentle old woman on her way to pray for her imprisoned son, Udo, jailed for the crime of political dissent.
+The party entered [[Town of Vallaki|Vallaki]] at dusk, slipping through streets that felt abandoned by choice rather than chance—shutters closed, doors barred, the town holding its breath. A lone hooded figure headed toward [[St. Andral's Church]]. [[Fig Fleetfoot|Fig]] attempted a stealthy approach and instead detonated an awning, landing flat in the street. Feigning injury, they were helped up by the very stranger they’d been tailing: [[Willemina Rikalova]], a gentle old woman on her way to pray for her imprisoned son, Udo, jailed for the crime of political dissent.
 
   
 
 ## St. Andral’s [[St. Andral's Church|Church]]
 
-At the [[St. Andral's Church|church]], [[Father Lucian Petrovich|Father Lucian]] Petrovich and his assistant [[Yeska]] were just concluding evening services. Tea was offered, sympathy extended, and when [[Ireena Kolyana|Ireena]]’s plight was explained, [[Father Lucian Petrovich|Lucian]] readily offered her sanctuary. He spoke reassuringly of holy protections—of sanctified ground and unseen wards—and implied that no servant of the Devil could cross St. Andral’s threshold.
+At the [[St. Andral's Church|church]], [[Father Lucian Petrovich]] and his assistant [[Yeska]] were just concluding evening services. Tea was offered, sympathy extended, and when [[Ireena Kolyana|Ireena]]’s plight was explained, [[Father Lucian Petrovich|Lucian]] readily offered her sanctuary. He spoke reassuringly of holy protections—of sanctified ground and unseen wards—and implied that no servant of the Devil could cross St. Andral’s threshold.
 
   
 

@@ -36,24 +36,24 @@ loot:
 publish: true
 ---
 # Overview
+Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 
-
+# Map
+![[map-05.02-blue-water-inn.jpg]]
 
 # What the party knows
-
-
-
-# Notable places
-
-
+- The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, [[Urwin Martikov]], considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.
+- A bed for the night costs **1 ep**. Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge. A cooked wolf steak costs **1 ep**.
+- The inn offers a pint of Purple Grapemash No. 3 wine for **3 cp**, or a pint of the superior Red Dragon Crush wine for **1 sp**. [[Urwin Martikov|Urwin]] is hurt if the characters complain about the wines, for his family makes them.
 
 # Notable figures
-
-
+- [[Urwin Martikov]] and [[Danika Dorakova]] -- proprietors and innkeepers, parents to [[Bray Martikov|Bray]] and [[Brom Martikov|Brom]].
+- [[Rictavio]] -- ostentatious carnival ringleader, fellow guest, storyteller extraordinaire.
+- [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] -- grizzled Vallakian wolf-hunters (*also leftist homies*).
 
 # Visits
+- [[Session 09 - Walls Keep Out More Than Wolves]]
 
-*To be updated during play.*
 
 %%
 # Map

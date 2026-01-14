@@ -4,6 +4,7 @@ name: Bildrath Cantemir
 aliases:
   - Bildrath
   - Uncle Bill
+  - Uncle Bildrath
 pronouns: he/him
 race: Human
 class:

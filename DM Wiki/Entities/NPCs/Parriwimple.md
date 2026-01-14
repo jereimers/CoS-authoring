@@ -37,22 +37,28 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
+# Portrait Gallery
+![[parriwimple_cartoonish_gladiator_avatar.png]]
 ![[warrior_parriwimple.png]]
 # Who they are
-
+The nephew and former shop assistant for [[Bildrath Cantemir|Bildrath]] in the [[Village of Barovia]], Parriwimple has now joined the party to help escort [[Ireena Kolyana|Ireena]] to safety. 
 
 
 # What the party knows
+- Recently lost his parents to one of Strahd's nightly assaults on the village, and then lost his [[Bildrath Cantemir|Uncle Bildrath]] during the final siege at the village's eastern barricade in [[Session 04 - Defending the Eastern Barricade]].
+- Once lost a fight to a chicken (see [[Parriwimple's Tale]]).
+- Probably infected with lycanthropy after the fight in [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three]].
 
+## Walk-up song
+His walk-up song is [Alabama Chicken](https://www.youtube.com/watch?v=6CuC02Jj6qM)
 
 
 # Personality
-
+- To the world, Parriwimple is a cheerful, simple-minded young man. To those he trusts, Parriwimple is a thoughtful, insightful, yet grieving orphan, desperate to move past his parents’ deaths by proving useful to others.
 
 
 # Where we've seen them
 
-*To be updated during play.*
 
 %%
 # Parriwimple Profile

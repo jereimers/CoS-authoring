@@ -34,8 +34,11 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
-# Who they are
+# Portrait
+![[Source/homebrew/images/yeska.png]]
 
+# Who they are
+Yeska is a timid and fearful child, recently orphaned, who looks to [[Father Lucian Petrovich|Father Lucian]] for safety and comfort. He lives at the [[St. Andral's Church|Church]] and serves as its altar boy.
 
 
 # What the party knows

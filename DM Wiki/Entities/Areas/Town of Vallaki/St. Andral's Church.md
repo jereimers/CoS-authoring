@@ -39,24 +39,20 @@ loot:
 publish: true
 ---
 # Overview
-
-
+This slouching, centuries-old stone church has a bulging steeple in the back and walls lined with cracked, stained glass windows depicting pious saints. A fence of wrought iron encloses a garden of gravestones next to the church. A thin mist creeps among the graves.
 
 # What the party knows
-
-
-
-# Notable places
-
-
+- This church is dedicated to the Morninglord and named after St. Andral.
+- [[Father Lucian Petrovich]] oversees the church and does his best to raise spirits. Assisting him is an altar boy, also a recent orphan, named [[Yeska]].
+- The church is somehow sanctified as hallowed ground, providing respite and protection from the forces of darkness — including [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]] and his minions
+- 
 
 # Notable figures
-
+- [[Father Lucian Petrovich]]
 
 
 # Visits
-
-*To be updated during play.*
+- [[Session 09 - Walls Keep Out More Than Wolves#St. Andral’s St. Andral's Church Church|Session 09]] — dropping off Ireena, meeting Father Lucian
 
 %%
 # Map
