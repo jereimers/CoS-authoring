@@ -51,3 +51,5 @@ Fig carries the weight of something terrible in their past—something they refu
 # Session Highlights
 
 # Character Arc Threads
+
+## Barovian Relic - [[Angel's Feather]]

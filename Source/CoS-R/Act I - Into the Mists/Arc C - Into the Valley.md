@@ -63,6 +63,7 @@ The players can attempt to lure the zombies away from the clearing; given the zo
 > Revise each **zombie** ***undead fortitude*** feature to read as follows:
 >
 > * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining. 
+> ^Info-Undead-Fortitude
 
 If the players reach the oak tree, they can find Van Richten’s weapons cache where [[Doru]] told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two *healer’s kits*, two vials of *holy water*, and one *potion of healing.*
 # C2. River Ivlis Crossroads
@@ -72,17 +73,18 @@ As the players approach this area, the drizzling rain stops. Read:
 
 <div class="description"><p>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.</p></div>
 
-The players have arrived at the River Ivlis Crossroads, which is largely as described in [[River Ivlis Crossroads]] (p. 35). Do not check for a random encounter when the players arrive.
+The players have arrived at the River Ivlis Crossroads, which is largely as described in [[03_Chapter 2 - The Lands of Barovia#F. River Ivlis Crossroads|F. River Ivlis Crossroads]] (p. 35). Do not check for a random encounter when the players arrive.
 
-This scene begins similarly to [[River Ivlis Crossroads]] (p. 35). However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in [[I. Black Carriage]] (p. 37) and [[K4. Carriage House]] (p. 54), comes into view.
+This scene begins similarly to [[River Ivlis Crossroads]] (p. 35). However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in [[03_Chapter 2 - The Lands of Barovia#I. Black Carriage|I. Black Carriage]] (p. 37) and [[05_Chapter 4 - Castle Ravenloft#K4. Carriage House|K4. Carriage House]] (p. 54), comes into view.
 ## C2a. Strahd’s Arrival
 The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in [[K49. Lounge]] (p. 70). If present, [[Ireena]] gasps at the sight of him, whispering that she thought that he was dead.
 
 > [!abstract]+ **What If The Players Flee?**
 >
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus [[Ireena]]—emerge from the fog behind them and snarl, obstructing the players' escape.
+> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus [[Ireena Kolyana|Ireena]]—emerge from the fog behind them and snarl, obstructing the players' escape.
+> ^Abstract-What-If-The-Players-Flee
 
-The carriage then comes to a stop. Read the following, modifying the text as necessary if [[Ireena]] isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
+The carriage then comes to a stop. Read the following, modifying the text as necessary if [[Ireena Kolyana|Ireena]] isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
 
 <div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
 <p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
@@ -92,7 +94,7 @@ If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
 <div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
 <p>The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. </p></div>
 
-Whether [[Ireena]] is with the party or not, add:
+Whether [[Ireena Kolyana|Ireena]] is with the party or not, add:
 
 <div class="description"><p>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.</p></div>
 
@@ -111,6 +113,7 @@ Whether [[Ireena]] is with the party or not, add:
 > Much of Strahd’s foretelling was overheard by Muriel Vinshaw, an eavesdropping **wereraven**, until Strahd detected her presence and drove her away. Both Muriel and Strahd were unaware that Madam Eva knew of Muriel’s presence all along. As the hidden avatar of the Seeker, Eva bears a special bond with Barovia’s wereravens, and deliberately continued her foretelling to allow Muriel to hear it.
 >
 > Muriel heard the first five cards that Madam Eva read, but doesn’t know the last two. More information about Muriel and her escape from Strahd’s minions can be found in [[#C3. The Strix]] below.
+> ^Lore-Strahds-Foretelling
 
 >[!profile]+ **How to Enjoy Roleplaying Strahd**
 >Strahd can be a challenging and anxiety-inducing villain to roleplay. To enjoy the experience, rather than dreading it, consider the following tips:
@@ -1325,7 +1328,7 @@ When the players first emerge from their rooms onto [[Blue Water Inn#N2k. Guest 
 
 Lowering his voice, [[Urwin Martikov|Urwin]] warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. [[Urwin Martikov|Urwin]] can share the following additional information, as described in [[Vallaki Lore]] (p. 96):
 
-* The date of the Festival of the Blazing Sun, which will take place from dawn to noon of the players' fifth full day in Vallaki,
+* The date of the Festival of the Blazing Sun, which will take place from dawn to noon of the players' fifth full day in Vallaki (Neyavr 7),
 * Vallaki's recent history of festivals,
 * [[Baron Vargas Vallakovich|The Baron]]'s strict rules regarding his festivals—and the fates of those who speak ill of them,
 * The brutish nature and terrible strength of [[Izek Strazni]], [[Baron Vargas Vallakovich|the baron]]'s henchman. ("Many have tried to test his strength," [[Urwin Martikov|Urwin]] notes grimly. "All have failed.")

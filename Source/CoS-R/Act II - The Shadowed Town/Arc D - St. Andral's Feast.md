@@ -314,7 +314,7 @@ Opening the compartment without disabling the wire or unsuccessfully attempting 
 > If the players successfully retrieve the bones without alerting the vampires, [[Volenta Popofsky|Volenta]] discovers the bones to be missing shortly after she awakens at dusk that night. If [[Henrik van der Voort|Henrik]] is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of N8. [[Town Square]] (p. 119). In either case, [[Volenta Popofsky|Volenta]] then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
 > ^Abstract-Disabling-the-Noisemaker
 ## D4c. [[Volenta Popofsky|Volenta]]'s Trap
-If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal [[Vampire Spawn]] arise to confront them one round later, either by forcing their way into **N6d. [[Coffin Maker's Shop#N6d. Kitchen|Kitchen]]** or (if the players have already exited **N6e. [[Coffin Maker's Shop#N6e. Henrik van der Voort Henrik 's Bedroom|Henrik's Bedroom]]**) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with [[Volenta Popofsky|Volenta]] crouching upside-down on the ceiling behind them.
+If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal [[Vampire Spawn]] arise to confront them one round later, either by forcing their way into **N6d. [[Coffin Maker's Shop#N6d. Kitchen|Kitchen]]** or (if the players have already exited [[06_Chapter 5 - The Town of Vallaki#N6e. Henrik's Bedroom|N6e. Henrik's Bedroom]]) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with [[Volenta Popofsky|Volenta]] crouching upside-down on the ceiling behind them.
 ![[volenta-popofsky.png]]
 	<span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -504,8 +504,9 @@ If any of the players are reduced to 0 hit points, [[Father Lucian Petrovich|Fat
 > Because [[Volenta Popofsky|Volenta]] and her **vampire spawn** prefer to target the players instead of [[Father Lucian Petrovich|Father Lucian]], it's unlikely that [[Father Lucian Petrovich|Father Lucian]] will be reduced to 0 hit points in this battle.
 >
 > However, as noted in **Monsters and Death** (Player's Handbook, p. 198</span>), allied non-player characters—such as [[Father Lucian Petrovich|Father Lucian]], [[Ireena Kolyana]], and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in **Death Saving Throws** (Player's Handbook, p. 197</span>).
+> ^Info-Dying-NPCs
 ### 3. The Vampire Spawn
-The two **vampire spawn** fight by using their ***claws*** to grapple enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
+The two [[Vampire Spawn]] fight by using their [[Vampire Spawn#**Claws.**|Claws]] to [[Grappled|grapple]] enemies, who they then drag away to feast upon in private—preferably by hauling grappled prey out of the windows and onto the rooftop of the shop. Both spawn fight to the death.
 # D5. Retrieving the Bones
 If the players and [[Father Lucian Petrovich|Father Lucian]] successfully return the stolen bones to [[St. Andral's Church]] by dawn on Neyavr 7, [[Father Lucian Petrovich|Father Lucian]] thanks the players and invites [[Ireena Kolyana|Ireena]] to remain under their protection for as long as she desires. [[Ireena Kolyana]] then sleeps at [[St. Andral's Church]] each night until the party departs Vallaki in [[Arc J - The Stolen Gem]]. 
 
@@ -710,7 +711,7 @@ Once [[Rahadin]] is satisfied justice has been done, he summons his _phantom ste
 # Design Notes: St. Andral's Feast
 ***[[St. Andral's Church]].*** The original module's requirement that one of the players be a cleric or paladin to receive this quest has been removed to make it more accessible. 
 
-Though it doesn't exist in the original adventure, the holy day of St. Andral's Feast has been added to provide a clear deadline for the players' efforts to recover the bones, and to ensure a safe place for [[Ireena]] to stay while the arc unfolds.
+Though it doesn't exist in the original adventure, the holy day of St. Andral's Feast has been added to provide a clear deadline for the players' efforts to recover the bones, and to ensure a safe place for [[Ireena Kolyana|Ireena]] to stay while the arc unfolds.
 
 The date of the bones' theft has been moved to the night of the players' arrival in Vallaki to ensure that the scene of the crime is sufficiently undisturbed for the players to do substantive detective work while investigating. An assortment of clues has been added to clearly point the finger at [[Milivoj]].
 

@@ -39,13 +39,9 @@ At [[Town of Vallaki|Vallaki]]’s gates, the city watch performed their civic r
 
 The party entered [[Town of Vallaki|Vallaki]] at dusk, slipping through streets that felt abandoned by choice rather than chance—shutters closed, doors barred, the town holding its breath. A lone hooded figure headed toward [[St. Andral's Church]]. [[Fig Fleetfoot|Fig]] attempted a stealthy approach and instead detonated an awning, landing flat in the street. Feigning injury, they were helped up by the very stranger they’d been tailing: [[Willemina Rikalova]], a gentle old woman on her way to pray for her imprisoned son, Udo, jailed for the crime of political dissent.
 
-  
-
-## St. Andral’s [[St. Andral's Church|Church]]
+## [[St. Andral's Church]]
 
 At the [[St. Andral's Church|church]], [[Father Lucian Petrovich]] and his assistant [[Yeska]] were just concluding evening services. Tea was offered, sympathy extended, and when [[Ireena Kolyana|Ireena]]’s plight was explained, [[Father Lucian Petrovich|Lucian]] readily offered her sanctuary. He spoke reassuringly of holy protections—of sanctified ground and unseen wards—and implied that no servant of the Devil could cross St. Andral’s threshold.
-
-  
 
 ## [[Blue Water Inn]]
 

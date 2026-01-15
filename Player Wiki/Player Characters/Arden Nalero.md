@@ -50,3 +50,5 @@ Arden has faced unimaginable horror in his long life—something that has left i
 # Session Highlights
 
 # Character Arc Threads
+
+## Barovian Relic - [[Broken Blade]]

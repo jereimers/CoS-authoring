@@ -16,7 +16,7 @@ If the players return to Vallaki, confront [[Rictavio]], and persuade him that t
 
 > [!lore]+ **Strahd’s Bounty** #lore
 >
-> When Strahd received Madam Eva’s [[Arc C - Into the Valley#C2a. Strahd’s Arrival|most recent foretelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
+> When Strahd received Madam Eva’s [[Arc C - Into the Valley#^Lore-Strahds-Foretelling|most recent foretelling]], he learned that he could not control the raw power of the Fanes without a token of the *Rozana’s* divinity. Strahd also learned of two means by which he could obtain such a token: by sacrificing a memento of his past at the Whispering Wall by Yester Hill, or by securing a mortal descendant who bore a divine spark of the Ladies Three themselves. Strahd’s preference is, of course, the latter.
 >
 > Strahd knows that a descendant of one of the Ladies lives somewhere in the valley, and knows which signs will lead him to them. To this end, he has dispatched his spies across Barovia in search of them. Though Strahd doesn’t know it, his cupbearer and most recent consort—the **vampire spawn** Escher—has taken it upon himself to pursue the descendant as well.
 > 
@@ -55,6 +55,7 @@ If the players return to Vallaki, confront [[Rictavio]], and persuade him that t
 > Meanwhile, Van Richten plans to deliver [[Arabelle]] food from the [[Blue Water Inn]]’s kitchens once each morning and night, claiming to nosy onlookers that he is merely delivering snacks to the “ferocious saber-toothed tiger” he has locked up in his wagon. Van Richten’s lie, however, is more true than he knows. The wagon is haunted by the kindly ghost of his son, **Erasmus van Richten** (see Van Richten's Guide to Ravenloft, p. 180)—and Erasmus, in his youthful exuberance, has already scared onlookers away more than once by shaking the wagon and scratching against its wooden interior.
 >
 > Both Van Richten and [[Arabelle]] know that this is a temporary solution at best. Van Richten, who first heard of the mysterious [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]] during Doru’s rebellion, is quietly investigating the members as described in N2c. Taproom (p. 100). He hopes to determine whether the secret society is friend or foe—and, if friend, whether its agents can be trusted.
+> ^Lore-Strahds-Bounty
 # E1. Blinsky Toys
 <em>This scene takes place in Chapter 5: Area N7.</em>
 
@@ -590,6 +591,7 @@ If eight different symbols are pressed in an incorrect sequence, their lights br
 > * ***Three Players.*** Two of the gargoyles are damaged and cannot animate or fight.
 > * ***Four Players.*** One of the gargoyles is damaged and cannot animate or fight.
 > * ***Six Players.*** Add a fifth gargoyle.
+> ^Combat-Balancing-the-Gargoyles
 ### 2. The Scaffolding
 <em>This scene takes place in Chapter 11: Area V3.</em>
 
@@ -659,6 +661,7 @@ The interior of the tower is largely as described in V4. Tower, First Floor, V5.
 
 > [!lore]+ **The Crib**
 > The old crib is the last memento of Khazan's infant child, who died with its mother in childbirth two years after Barovia was trapped in the Mists.
+> ^Lore-The-Crib
 
 **The Fourth Floor.** The wooden box containing Yan's severed head has been removed from the tower. In addition, the suit of armor is nonmagical and a functional suit of plate armor.
 
@@ -676,6 +679,7 @@ As the players search the room, any character who looks out one of the windows t
 > A player who investigates the stained patch of lily pads can find a trio of ceramic pots sunk ten feet below the surface of the water. The pots are each half-filled with rocks; two bear traces of dried yellow paint along their rims and interior, while the third bears traces of dried white paint along its rim and interior.
 >
 > If the player has previously seen [[Rictavio]]’s wagon in Arasek Stockyard, they recognize the paint as the same shade as yellow as the sign on the wagon.
+> ^Abstract-The-Lily-Pads
 
 If read, the burned journal page now reads only as follows:
 
@@ -718,6 +722,7 @@ Otherwise, if no characters show that they’re carrying silvered weapons or amm
 > * ***Three Players.*** Reduce the werewolves’ hit points to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
 > * ***Four Players.*** Reduce the werewolves’ hit points to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
 > * ***Six Players.*** Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
+> ^Combat-Balancing-the-Werewolves
 
 Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
 
@@ -779,6 +784,7 @@ The players experience no other encounters on their journey to Vallaki.
 
 > [!info]+ **The Curse of Lycanthropy**
 > If a player is infected with lycanthropy, see the **Lycanthropy in Barovia** infobox in [[Arc C - Into the Valley#C11. The Werewolves' Hunt|Arc C - Into the Valley]] for more information about the curse.
+> ^Info-The-Curse-of-Lycanthropy
 # E8. Return to Vallaki
 The players' return to Vallaki from Lake Baratok is three and one-quarter miles long and takes approximately one hour.
 

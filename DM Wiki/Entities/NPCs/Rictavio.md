@@ -48,7 +48,7 @@ Rictavio, the lone guest of the Blue Water Inn besides the party, is a colorfull
 - Rictavio came to the inn just a day before the party. 
 - He gave his monkey, Piccolo, as a gift to [[Gadof Blinsky]], the toymaker
 # Personality
-- Flamboyant, showy, ostentatious
+- Flamboyant, irreverent, and occasionally narcissistic
 
 
 # Where we've seen them

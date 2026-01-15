@@ -26,7 +26,7 @@ publish: true
 
 # Backstory (public)
 
-Varnish serves a vampire lord—their one true faith. Their criminal past has given them skills in deception, stealth, and sleight of hand, making them an invaluable asset for covert operations. Despite their lawful evil alignment, they work alongside the party, though their ultimate loyalties remain an open question.
+Varnish served a vampire lord—their one true faith at the time. Their criminal past has given them skills in deception, stealth, and sleight of hand, making them an invaluable asset for covert operations. Despite their lawful evil alignment, they work alongside the party, though their ultimate loyalties remain an open question.
 
 # Personality & Beliefs
 
@@ -35,3 +35,4 @@ Varnish serves a vampire lord—their one true faith. Their criminal past has gi
 # Session Highlights
 
 # Character Arc Threads
+## Barovian Relic - [[Electrum Coin]]
