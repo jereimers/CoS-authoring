@@ -3,7 +3,7 @@ type: Area
 name: Nursemaid's Suite
 aliases:
 area_code: E7-15
-WotC_ref: "[[19_Appendix B - Death House#15. Nursemaid's Suite]]"
+WotC_ref: "[[18_Appendix B - Death House#15. Nursemaid's Suite]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Nursemaid's Suite]]"
 parent_region: "[[Haunted House]]"
 arcs:

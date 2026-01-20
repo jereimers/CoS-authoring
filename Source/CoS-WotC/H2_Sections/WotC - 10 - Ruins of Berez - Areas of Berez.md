@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Berez
 
 The following areas correspond to labels on the map of Berez below.

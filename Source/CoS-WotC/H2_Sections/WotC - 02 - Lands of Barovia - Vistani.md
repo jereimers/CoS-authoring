@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Vistani
 
 The Vistani (singular: Vistana) are wanderers, traveling about in horse-drawn, barrel-topped wagons, which they build themselves. Compared to Barovians, they are flamboyant, dressing in bright clothes and laughing often. As much as they feel at home in Strahd's dreary land, they know they can leave it whenever they please and aren't damned to spend eternity there.

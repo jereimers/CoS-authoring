@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Barovia (A-I)
 
 The following areas correspond to labels on the map of Barovia below and on the poster map.

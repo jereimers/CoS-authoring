@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Winery (Upper Floor W16-W20)
 
 ## W16. Loading Winch

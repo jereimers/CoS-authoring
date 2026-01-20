@@ -3,7 +3,7 @@ type: Area
 name: Portcullis
 aliases:
 area_code: E7-37
-WotC_ref: "[[19_Appendix B - Death House#37. Portcullis]]"
+WotC_ref: "[[18_Appendix B - Death House#37. Portcullis]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Portcullis]]"
 parent_region: "[[Haunted House]]"
 arcs:

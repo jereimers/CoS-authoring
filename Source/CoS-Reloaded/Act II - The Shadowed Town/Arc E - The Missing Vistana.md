@@ -59,7 +59,7 @@ If the players return to Vallaki, confront [[Rictavio]], and persuade him that t
 # E1. Blinsky Toys
 <em>This scene takes place in Chapter 5: Area N7.</em>
 
-After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, [[Arabelle]], the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking [[Urwin Martikov]], [[Danika Dorakova]], or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in [[06_Chapter 5 - The Town of Vallaki#N8. Town Square|N8. Town Square]] (p. 119).
+After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, [[Arabelle]], the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking [[Urwin Martikov]], [[Danika Dorakova]], or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in [[05_Chapter 5 - The Town of Vallaki#N8. Town Square|N8. Town Square]] (p. 119).
 
 
 > [!profile]+ **Profile: Gadof Blinsky**
@@ -82,13 +82,13 @@ After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase
 > ***Relationships.*** Blinsky owns Piccolo, a pet monkey that was given to him by "Alanik Ray", a traveling scholar (and one of Rudolph van Richten's disguises) shortly after Doru's rebellion. Blinsky also makes dolls resembling [[Ireena Kolyana]] for [[Izek Strazni]], and receives a humble stipend to craft decorations for [[Baron Vargas Vallakovich|Baron Vallakovich]]’s weekly festivals. In addition, Blinsky is the creator of Ezmerelda d'Avenir's prosthetic leg.
 > ^Profile-Gadof-Blinsky
 
-Blinsky Toys is as described in [[06_Chapter 5 - The Town of Vallaki#N7. Blinsky Toys|N7. Blinsky Toys]] (p. 118). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
+Blinsky Toys is as described in [[05_Chapter 5 - The Town of Vallaki#N7. Blinsky Toys|N7. Blinsky Toys]] (p. 118). As the characters explore the shop, Blinsky cheerfully tells them about his inspiration for making toys: the legendary toymaker Fritz von Weerg, and his greatest invention that was lost to the ages: a clockwork man said to lie somewhere in Castle Ravenloft.
 
-If the players ask Blinsky about the doll resembling [[Ireena Kolyana]] (see [[06_Chapter 5 - The Town of Vallaki#Creepy Toys|Creepy Toys]], p. 118), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
+If the players ask Blinsky about the doll resembling [[Ireena Kolyana]] (see [[05_Chapter 5 - The Town of Vallaki#Creepy Toys|Creepy Toys]], p. 118), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
 If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.  
 
-As the characters exit Blinsky Toys, they can see [[Izek Strazni]] and two **guards** arrive to post new proclamations, as described in [[06_Chapter 5 - The Town of Vallaki#N8. Town Square|N8. Town Square]] (p. 119).
+As the characters exit Blinsky Toys, they can see [[Izek Strazni]] and two **guards** arrive to post new proclamations, as described in [[05_Chapter 5 - The Town of Vallaki#N8. Town Square|N8. Town Square]] (p. 119).
 
 ![[wolfs-head-jamboree-poster.png]]
 
@@ -97,12 +97,12 @@ As the characters exit Blinsky Toys, they can see [[Izek Strazni]] and two **gua
 # E2. Vistani Camp
 <em>This scene takes place in Chapter 5: Area N9.</em>
 
-The path from Vallaki to the Vistani Camp is as described in [[06_Chapter 5 - The Town of Vallaki#N9. Vistani Camp|N9. Vistani Camp]] (p. 119). The journey is one-half mile long and takes approximately ten minutes.
+The path from Vallaki to the Vistani Camp is as described in [[05_Chapter 5 - The Town of Vallaki#N9. Vistani Camp|N9. Vistani Camp]] (p. 119). The journey is one-half mile long and takes approximately ten minutes.
 
 When the players arrive at the camp, they can choose to either ascend the hill to the ring of wagons at the top (see [[#E2a. The Vistani Encampment]]) or speak with one the dusk elves guarding the hovels at the base of the hill (see [[#E2b. Dusk Elf Hovels]]).
 ## E2a. The Vistani Encampment
 ### Entering the Vistani Camp
-The Vistani are largely as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]], with the encampment largely as described in [[06_Chapter 5 - The Town of Vallaki#N9c. Vistani Tent|N9c. Vistani Tent]], [[06_Chapter 5 - The Town of Vallaki#N9d. Horses|N9d. Horses]], [[06_Chapter 5 - The Town of Vallaki#N9e. Luvash's Wagon|N9e. Luvash's Wagon]], [[06_Chapter 5 - The Town of Vallaki#N9f. Wagon of Sleeping Vistani|N9f. Wagon of Sleeping Vistani]], [[06_Chapter 5 - The Town of Vallaki#N9g. Wagon of Gambling Vistani|N9g. Wagon of Gambling Vistani]], [[06_Chapter 5 - The Town of Vallaki#N9h. Vistani Family Wagon|N9h. Vistani Family Wagon]], and [[06_Chapter 5 - The Town of Vallaki#N9i. Vistani Treasure Wagon|N9i. Vistani Treasure Wagon]] (pp. 121-23). 
+The Vistani are largely as described in [[05_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]], with the encampment largely as described in [[05_Chapter 5 - The Town of Vallaki#N9c. Vistani Tent|N9c. Vistani Tent]], [[05_Chapter 5 - The Town of Vallaki#N9d. Horses|N9d. Horses]], [[05_Chapter 5 - The Town of Vallaki#N9e. Luvash's Wagon|N9e. Luvash's Wagon]], [[05_Chapter 5 - The Town of Vallaki#N9f. Wagon of Sleeping Vistani|N9f. Wagon of Sleeping Vistani]], [[05_Chapter 5 - The Town of Vallaki#N9g. Wagon of Gambling Vistani|N9g. Wagon of Gambling Vistani]], [[05_Chapter 5 - The Town of Vallaki#N9h. Vistani Family Wagon|N9h. Vistani Family Wagon]], and [[05_Chapter 5 - The Town of Vallaki#N9i. Vistani Treasure Wagon|N9i. Vistani Treasure Wagon]] (pp. 121-23). 
 
 When the players first enter the tent, modify the descriptive text as follows:
 
@@ -169,10 +169,10 @@ Luvash believes that the sigil on the signet ring may lead him to [[Arabelle]]�
 
 Luvash asks the players to recover the ring from Kasimir, then research its sigil in [[Baron Vargas Vallakovich|Baron Vallakovich]]’s library. Should the players return to him with actionable information about [[Arabelle]]’s whereabouts—or, better yet, [[Arabelle]] herself—Luvash promises to give them a valuable reward. (If pressed, Luvash can promise the players a sum of 500 gp—or an assortment of treasure worth as much or more.)
 
-If the players accept Luvash’s mission, he directs them to **[[06_Chapter 5 - The Town of Vallaki#N9b. Dusk Elf Hovels|N9b. Dusk Elf Hovels]]** to meet with Kasimir.
+If the players accept Luvash’s mission, he directs them to **[[05_Chapter 5 - The Town of Vallaki#N9b. Dusk Elf Hovels|N9b. Dusk Elf Hovels]]** to meet with Kasimir.
 
 > [!abstract]+ **Tracking [[Arabelle]]**
-> If the players offer to track [[Arabelle]] from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of [[03_Chapter 2 - The Lands of Barovia#P. Luna River Crossroads|P. Luna River Crossroads]] (p. 40). As the players travel there, they pass through [[#E5a. Luna River Bridge]] and [[#E5b. Luna River Crossroads]].
+> If the players offer to track [[Arabelle]] from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of [[02_Chapter 2 - The Lands of Barovia#P. Luna River Crossroads|P. Luna River Crossroads]] (p. 40). As the players travel there, they pass through [[#E5a. Luna River Bridge]] and [[#E5b. Luna River Crossroads]].
 > 
 > A player who searches the area where [[Arabelle]] disappeared and makes a DC 15 Wisdom (Survival) check can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
 > 
@@ -181,7 +181,7 @@ If the players accept Luvash’s mission, he directs them to **[[06_Chapter 5 - 
 > Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
 > ^Abstract-Tracking-Arabelle
 ## E2b. Dusk Elf Hovels
-The dusk elf hovels are as described in [[Vistani Camp#N9b. Dusk Elf Hovels|N9b. Dusk Elf Hovels]] (p. 121). The dusk elves themselves are as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]] (p. 119). If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
+The dusk elf hovels are as described in [[Vistani Camp#N9b. Dusk Elf Hovels|N9b. Dusk Elf Hovels]] (p. 121). The dusk elves themselves are as described in [[05_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]] (p. 119). If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
 
 If the players inquire about Luvash’s mission, the guard directs them to Kasimir's hovel. The guard notes, however, that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
 ## E2c. Kasimir’s Hovel
@@ -194,7 +194,7 @@ Kasimir’s hovel is largely as described in [[Vistani Camp#N9a. Kasimir's Hovel
 <p>Beyond the curtains lie a larger chamber, lit and heated by a fireplace at the north end. An old green rug sits facing the fire, just beside an old wooden table flanked by several chairs. The left-side wall of this comfortable room bears a dozen cubbyholes bearing leather-bound books and small wooden statuettes of elven figures, while the wall to the right bears a faded tapestry of a lush and beautiful forest beneath a noonday sun.</p>
 </div>
 
-The players can find Kasimir sitting on the green rug facing the fire, meditating. He is as described in [[21_Appendix D - Monsters and NPCs#Kasimir Velikov|Kasimir Velikov]] (WotC p. 232), but has recently sustained a black eye and several cuts across his cheek.
+The players can find Kasimir sitting on the green rug facing the fire, meditating. He is as described in [[20_Appendix D - Monsters and NPCs#Kasimir Velikov|Kasimir Velikov]] (WotC p. 232), but has recently sustained a black eye and several cuts across his cheek.
 
 ![[kasimir-velikov.png]]
 <span class="credit">"Kasimir Velikov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -234,7 +234,7 @@ Kasimir welcomes the players warmly, though obviously with some discomfort. If t
 ![[signet-ring.png]]
 <span class="credit">"Khazan's Ring" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The symbol on the signet ring resembles the connected series of lines depicted on [[12_Chapter 11 - Van Richten's Tower#V2. Tower Door|V2. Tower Door]] (WotC p. 169), but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. 
+The symbol on the signet ring resembles the connected series of lines depicted on [[11_Chapter 11 - Van Richten's Tower#V2. Tower Door|V2. Tower Door]] (WotC p. 169), but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. 
 
 Kasimir notes that the runes are the symbols of the evocation (left) and necromancy (right) schools of magic, respectively, but confesses that the ring has shown no reaction to any kind of magic.
 
@@ -257,9 +257,9 @@ If the players ask Kasimir about the history of the dusk elves, Kasimir shares t
 # E3. Burgomaster’s Mansion
 <em>This scene takes place in Chapter 5: Area N3.</em>
 
-The burgomaster's mansion is largely as described in [[06_Chapter 5 - The Town of Vallaki#N3. Burgomaster's Mansion|N3. Burgomaster's Mansion]] (p. 103). However, the magic mirror in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p]] (p. 108) has been modified and moved to [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109). See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
+The burgomaster's mansion is largely as described in [[05_Chapter 5 - The Town of Vallaki#N3. Burgomaster's Mansion|N3. Burgomaster's Mansion]] (p. 103). However, the magic mirror in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p]] (p. 108) has been modified and moved to [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109). See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
-If the players visit the burgomaster’s mansion openly, they are greeted by Claudia, [[Baron Vargas Vallakovich|the Baron]]’s maid, and led to the den as described in [[06_Chapter 5 - The Town of Vallaki#N3. Burgomaster's Mansion|N3. Burgomaster's Mansion]] (p. 103) and [[06_Chapter 5 - The Town of Vallaki#N3e. Den|N3e. Den]] (p. 106). [[Baron Vargas Vallakovich|The Baron]] arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in [[06_Chapter 5 - The Town of Vallaki#N3l. Library|N3l. Library]] (p. 107)**.
+If the players visit the burgomaster’s mansion openly, they are greeted by Claudia, [[Baron Vargas Vallakovich|the Baron]]’s maid, and led to the den as described in [[05_Chapter 5 - The Town of Vallaki#N3. Burgomaster's Mansion|N3. Burgomaster's Mansion]] (p. 103) and [[05_Chapter 5 - The Town of Vallaki#N3e. Den|N3e. Den]] (p. 106). [[Baron Vargas Vallakovich|The Baron]] arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in [[05_Chapter 5 - The Town of Vallaki#N3l. Library|N3l. Library]] (p. 107)**.
 ## E3a. Entering the Mansion
 
 If [[Ireena Kolyana]] has already visited the mansion alone and obtained an audience with [[Baron Vargas Vallakovich|the Baron]] regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade [[Baron Vargas Vallakovich|the Baron]] to grant them entry, or try to gain access by subterfuge if all else fails. 
@@ -340,11 +340,11 @@ Shortly after the players discover these records, however, they are interrupted 
 > ***Relationships.*** Victor is the only child of [[Baron Vargas Vallakovich]] (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears [[Izek Strazni]], who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
 > ^Profile-Victor-Vallakovich
 
-Victor, who is largely as described in [[06_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
+Victor, who is largely as described in [[05_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
 If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of [[Arabelle]]’s disappearance or by making a successful DC 15 Charisma (Persuasion) check. 
 
-If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to [[06_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] to speak further. He won’t share any information outside of his workroom.
+If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to [[05_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] to speak further. He won’t share any information outside of his workroom.
 
 > [!lore]+ **Ethereal Entities**
 >
@@ -387,7 +387,7 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 ## E3c. Speaking with Victor
 <em>This scene takes place in Chapter 5: Area N3t.</em>
 
-Victor’s workroom is largely as described in [[06_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
+Victor’s workroom is largely as described in [[05_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
 > [!Warning]+ Counterspell 2024
 > 
@@ -395,12 +395,12 @@ Victor’s workroom is largely as described in [[06_Chapter 5 - The Town of Vall
 > ^Warning-Counterspell-2024
 
 
-Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from [[06_Chapter 5 - The Town of Vallaki#N3p. Bridal Gown and Spirit Mirror|N3p. Bridal Gown and Spirit Mirror]] (p. 108) against the wall beside the rug.
+Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from [[05_Chapter 5 - The Town of Vallaki#N3p. Bridal Gown and Spirit Mirror|N3p. Bridal Gown and Spirit Mirror]] (p. 108) against the wall beside the rug.
 
 The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of [[Stella Wachter]].)
 
 > [!abstract]+ **Meeting Victor**
-> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in [[06_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109) if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
+> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in [[05_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109) if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
 >
 > Shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#E3b. Searching the Library]] above.
 > ^Abstract-Meeting-Victor
@@ -524,7 +524,7 @@ If the players approach the snapped signpost or move to leave the intersection, 
 # E6. Lake Baratok
 The journey from the Luna River Crossroads to Lake Baratok via the northwestern path is two and one-quarter miles long and takes forty-five minutes.
 
-Lake Baratok is as described in [[12_Chapter 11 - Van Richten's Tower#Approaching the Tower|Approaching the Tower]] (p. 167). The tower itself is largely as described in [[12_Chapter 11 - Van Richten's Tower|Chapter 11 - Van Richten's Tower]] (p. 167).
+Lake Baratok is as described in [[11_Chapter 11 - Van Richten's Tower#Approaching the Tower|Approaching the Tower]] (p. 167). The tower itself is largely as described in [[11_Chapter 11 - Van Richten's Tower|Chapter 11 - Van Richten's Tower]] (p. 167).
 ## E6a. Ezmerelda’s Wagon
 <em>This scene takes place in Chapter 11: Area V1.</em>
 

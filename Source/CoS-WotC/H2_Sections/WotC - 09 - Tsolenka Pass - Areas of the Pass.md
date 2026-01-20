@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Pass
 
 The following areas correspond to labels on the map of the Tsolenka Pass below. These structures are made of tightly fitted stone and can't be scaled without the aid of magic or a climber's kit.

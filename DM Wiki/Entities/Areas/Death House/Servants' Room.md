@@ -3,7 +3,7 @@ type: Area
 name: Servants' Room
 aliases:
 area_code: E7-7
-WotC_ref: "[[19_Appendix B - Death House#7. Servants' Room]]"
+WotC_ref: "[[18_Appendix B - Death House#7. Servants' Room]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Servants' Room]]"
 parent_region: "[[Haunted House]]"
 arcs:

@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 11 Van Richten's Tower]]"
+chapter: 11
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 11
+  - Ch. 11
+---
 # Chapter 11: Van Richten's Tower 
 
 One of the men employed by Strahd to raise Castle Ravenloft was an archwizard named Khazan. After his work on the castle was complete, Khazan retired to the Barovian valley and built a tower for himself on a small island on Lake Baratok. With the help of some engineers and laborers, he also built an earth-and-gravel causeway connecting the island with the nearby shore.

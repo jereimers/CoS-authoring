@@ -3,7 +3,7 @@ type: Area
 name: Spare Bedroom
 aliases:
 area_code: E7-17
-WotC_ref: "[[19_Appendix B - Death House#17. Spare Bedroom]]"
+WotC_ref: "[[18_Appendix B - Death House#17. Spare Bedroom]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Spare Bedroom]]"
 parent_region: "[[Haunted House]]"
 arcs:

@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Spires of Ravenloft
 
 Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.

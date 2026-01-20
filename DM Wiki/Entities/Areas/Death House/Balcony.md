@@ -3,7 +3,7 @@ type: Area
 name: Balcony
 aliases:
 area_code: E7-11
-WotC_ref: "[[19_Appendix B - Death House#11. Balcony]]"
+WotC_ref: "[[18_Appendix B - Death House#11. Balcony]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Balcony]]"
 parent_region: "[[Haunted House]]"
 arcs:

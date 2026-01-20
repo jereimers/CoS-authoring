@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 5 The Town of Vallaki]]"
+chapter: 5
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 5
+  - Ch. 5
+---
 # Chapter 5: The Town of Vallaki 
 
 Located close to the shores of Lake Zarovich, the town of Vallaki (pronounced vah-lah-key) seems like a safe haven against the evils of the Svalich Woods, if not Strahd himself. The town lies beyond the sight of Castle Ravenloft and doesn't, at first blush, seem as depressed (or oppressed) as the village of Barovia farther east. Characters who spend time in Vallaki, however, quickly realize that there is no happiness here, only false hope-which Strahd himself cultivates.

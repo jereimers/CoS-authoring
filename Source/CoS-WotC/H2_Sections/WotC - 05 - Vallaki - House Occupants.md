@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # House Occupants 
 
 If the characters explore a residence other than the burgomaster's mansion (area N3), roll a d20 and consult the following table to determine the house's occupant.

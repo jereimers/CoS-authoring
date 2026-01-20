@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Special Events
 
 Any of the following events can occur while the characters are staying in Vallaki.

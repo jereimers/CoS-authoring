@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the House (11-20)
 
 ## 11. Balcony

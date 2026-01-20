@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Approaching the Vineyard 
 
 A branch of the Old Svalich Road leads to the vineyard. If the characters approach along this path, read:

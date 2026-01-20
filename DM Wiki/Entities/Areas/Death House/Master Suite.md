@@ -3,7 +3,7 @@ type: Area
 name: Master Suite
 aliases:
 area_code: E7-12
-WotC_ref: "[[19_Appendix B - Death House#12. Master Suite]]"
+WotC_ref: "[[18_Appendix B - Death House#12. Master Suite]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Master Suite]]"
 parent_region: "[[Haunted House]]"
 arcs:

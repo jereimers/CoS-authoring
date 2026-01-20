@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Composition
 
 A tarokka deck has fifty-four cards, each of which has its own name. Forty of them comprise the common deck, which is divided into four suits: swords, coins, stars, and glyphs.

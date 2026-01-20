@@ -1,1 +1,5 @@
+---
+tags:
+  - cos
+---
 [[Vallaki Lore]]

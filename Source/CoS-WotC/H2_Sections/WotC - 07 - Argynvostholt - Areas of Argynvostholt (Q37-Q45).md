@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Argynvostholt (Q37-Q45)
 
 ## Q37. Knights of the Order

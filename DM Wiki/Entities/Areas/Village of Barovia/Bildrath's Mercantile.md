@@ -4,7 +4,7 @@ name: Bildrath's Mercantile
 aliases:
 area_code: E1
 WotC_ref:
-  - "[[04_Chapter 3 - The Village of Barovia#E1. Bildrath's Mercantile]]"
+  - "[[03_Chapter 3 - The Village of Barovia#E1. Bildrath's Mercantile]]"
 CoS-R_ref:
 parent_region: "[[Village of Barovia]]"
 arcs:

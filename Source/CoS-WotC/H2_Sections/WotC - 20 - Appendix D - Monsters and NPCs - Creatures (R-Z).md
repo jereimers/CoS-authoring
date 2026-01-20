@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Creatures (R-Z) 
 
 ## Rahadin

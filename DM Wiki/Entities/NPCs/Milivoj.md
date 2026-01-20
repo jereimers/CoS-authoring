@@ -33,7 +33,7 @@ tags:
   - cos
 CoS-R_ref:
 WotC_ref:
-  - "[[06_Chapter 5 - The Town of Vallaki#Bones of St. Andral]]"
+  - "[[05_Chapter 5 - The Town of Vallaki#Bones of St. Andral]]"
 publish: false
 ---
 # Portrait

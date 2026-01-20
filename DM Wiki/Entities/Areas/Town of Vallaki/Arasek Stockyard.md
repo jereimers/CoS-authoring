@@ -4,7 +4,7 @@ name: Arasek Stockyard
 aliases:
 area_code: N5
 WotC_ref:
-  - "[[06_Chapter 5 - The Town of Vallaki#N5. Arasek Stockyard]]"
+  - "[[05_Chapter 5 - The Town of Vallaki#N5. Arasek Stockyard]]"
 CoS-R_ref:
 parent_region: "[[Town of Vallaki]]"
 arcs:

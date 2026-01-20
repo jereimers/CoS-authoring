@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Approaching the Mansion 
 
 A winding branch of the Old Svalich Road meanders up the forested slope of a mountain spur to the old mansion, which is perched on high ground overlooking the Svalich Woods and the Luna River valley.

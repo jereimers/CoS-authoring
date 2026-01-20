@@ -1,7 +1,7 @@
 ---
 belongs_to: "[[Ezmerelda d'Avenir]]"
 CoS-R_ref:
-WotC_ref: "[[21_Appendix D - Monsters and NPCs#Ezmerelda d'Avenir]]"
+WotC_ref: "[[20_Appendix D - Monsters and NPCs#Ezmerelda d'Avenir]]"
 current_location: "[[Ezmerelda d'Avenir|Ezmerelda's Wagon]]"
 tags:
   - ai_generated

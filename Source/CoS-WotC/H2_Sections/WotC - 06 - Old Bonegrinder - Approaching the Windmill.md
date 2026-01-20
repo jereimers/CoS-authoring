@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Approaching the Windmill
 
 The windmill's stone walls are easily climbed. Wooden floors separate the various levels. There are no lights within, since the hags have darkvision.

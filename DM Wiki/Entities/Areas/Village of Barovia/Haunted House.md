@@ -7,7 +7,7 @@ aliases:
   - Durst Manor
   - Haunted House
 area_code: E7
-WotC_ref: "[[19_Appendix B - Death House]]"
+WotC_ref: "[[18_Appendix B - Death House]]"
 CoS-R_ref: "[[Arc A - Escape From Death House]]"
 parent_region: "[[Barovia]]"
 arcs:

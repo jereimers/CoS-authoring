@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Argynvostholt (Q10-Q18)
 
 ## Q10. Kitchen

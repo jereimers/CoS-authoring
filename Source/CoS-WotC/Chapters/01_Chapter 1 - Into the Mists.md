@@ -1,3 +1,10 @@
+---
+source: "[[00_full-source#Chapter 1 Into the Mists]]"
+chapter: 1
+tags:
+  - cos
+  - source/chapter
+---
 # Chapter 1: Into the Mists 
 
 Eerie mists surround Barovia and bind its inhabitants there. This chapter gives you the information you need to prepare for the adventurers' journey into those mists. The chapter first outlines the history and goals of Count Strahd von Zarovich so that you are prepared for what awaits the characters. In the "Fortunes of Ravenloft" section, the chapter walks you through the tarokka card reading that helps set the stage for the adventure's action, and the chapter closes with adventure hooks that you can use to draw the characters into the horror of Barovia.

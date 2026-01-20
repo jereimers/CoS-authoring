@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Hill
 
 The following locations correspond to labels on the map of Yester Hill below.

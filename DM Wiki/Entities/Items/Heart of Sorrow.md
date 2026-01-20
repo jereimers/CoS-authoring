@@ -1,7 +1,7 @@
 ---
 belongs_to: "[[DM Wiki/Entities/NPCs/Strahd von Zarovich]]"
 CoS-R_ref:
-WotC_ref: "[[21_Appendix D - Monsters and NPCs#Heart of Sorrow]]"
+WotC_ref: "[[20_Appendix D - Monsters and NPCs#Heart of Sorrow]]"
 current_location: "[[Castle Ravenloft]]"
 tags:
   - ai_generated

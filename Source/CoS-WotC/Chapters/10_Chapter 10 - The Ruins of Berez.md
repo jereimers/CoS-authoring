@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 10 The Ruins of Berez]]"
+chapter: 10
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 10
+  - Ch. 10
+---
 # Chapter 10: The Ruins of Berez 
 
 Long before [[Ireena Kolyana]], there was a peasant from Berez named Marina.

@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Argynvostholt (Q28-Q36)
 
 ## Q28. Knights' Quarters

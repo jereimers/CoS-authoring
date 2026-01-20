@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Rooms of Weeping 
 
 Refer to map 5 of the castle for areas K35 through K46.

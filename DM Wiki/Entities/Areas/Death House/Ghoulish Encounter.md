@@ -3,7 +3,7 @@ type: Area
 name: Ghoulish Encounter
 aliases:
 area_code: E7-29
-WotC_ref: "[[19_Appendix B - Death House#29. Ghoulish Encounter]]"
+WotC_ref: "[[18_Appendix B - Death House#29. Ghoulish Encounter]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Ghoulish Encounter]]"
 parent_region: "[[Haunted House]]"
 arcs:

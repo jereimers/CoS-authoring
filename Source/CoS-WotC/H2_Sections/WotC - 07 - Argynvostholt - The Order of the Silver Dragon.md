@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # The Order of the Silver Dragon
 
 %% --- Page 176 --- %%

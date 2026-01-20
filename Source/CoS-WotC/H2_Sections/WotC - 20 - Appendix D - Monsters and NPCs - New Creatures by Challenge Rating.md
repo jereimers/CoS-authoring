@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # New Creatures by Challenge Rating
 
 | Creature                   |   CR    |

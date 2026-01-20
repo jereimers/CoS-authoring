@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Strahd von Zarovich
 
 Strahd von Zarovich, a vampire and wizard, has the statistics presented in appendix D. Although he can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading later in this chapter, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.

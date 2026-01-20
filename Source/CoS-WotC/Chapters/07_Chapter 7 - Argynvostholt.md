@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 7 Argynvostholt]]"
+chapter: 7
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 7
+  - Ch. 7
+---
 # Chapter 7: Argynvostholt 
 
 When Strahd drove his enemies into the valley long ago, determined to annihilate them, the last thing he expected to encounter was a silver dragon.

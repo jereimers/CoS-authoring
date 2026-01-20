@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Approaching the Den
 
 When the characters first approach the werewolf den, read:

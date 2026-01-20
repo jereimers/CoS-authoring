@@ -9,10 +9,12 @@ age:
 gender: male
 creature_type: humanoid
 origin:
-home_base:
-current_location:
+home_base: "[[Argynvostholt]]"
+current_location: "[[Argynvostholt]]"
 factions:
+  - "[[Order of the Silver Dragon]]"
 arc:
+  - "[[Arc M - The Dragon's Manor]]"
 first_appearance_session:
 first_appearance_date:
 status: alive
@@ -24,23 +26,23 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait:
-portrait_credit:
+  - "[[Sir Godfrey Gwilym]]"
+portrait: "[[20-012.vladimir-horngaard.png]]"
+portrait_credit: CoS-WotC
 handouts:
 tags:
   - npc
   - cos
-CoS-R_ref:
-WotC_ref:
-publish: false
+CoS-R_ref: "[[Arc M - The Dragon's Manor#^Profile-Vladimir-Horngaard]]"
+WotC_ref: "[[20_Appendix D - Monsters and NPCs#Vladimir Horngaard]]"
+publish: true
 ---
 # Who they are
 
-
-
+Commander of the [[Order of the Silver Dragon]]. 
 # What the party knows
 
-
+- Inexplicably commanded the revenants under his command to raise no arms against [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]], his allies, or his servants. Weird, considering the Order is supposed to oppose Strahd...
 
 # Personality
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Barovians
 
 After his armies occupied the valley and slew its inhabitants, Strahd repopulated the area with human subjects drawn from his other conquered lands. As a result, Barovians have a wide variety of ethnic backgrounds.

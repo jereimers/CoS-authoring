@@ -3,7 +3,7 @@ type: Area
 name: Larder
 aliases:
 area_code: E7-28
-WotC_ref: "[[19_Appendix B - Death House#28. Larder]]"
+WotC_ref: "[[18_Appendix B - Death House#28. Larder]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Larder]]"
 parent_region: "[[Haunted House]]"
 arcs:

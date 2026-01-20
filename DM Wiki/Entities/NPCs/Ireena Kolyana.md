@@ -38,7 +38,7 @@ tags:
   - vallaki
 CoS-R_ref: "[[Ireena Kolyana#Ireena Kolyana Profile]]"
 WotC_ref:
-  - "[[04_Chapter 3 - The Village of Barovia#Roleplaying Ireena]]"
+  - "[[03_Chapter 3 - The Village of Barovia#Roleplaying Ireena]]"
 publish: true
 ---
 # Portrait Gallery

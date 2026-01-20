@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Argynvostholt (Q19-Q27)
 
 #[[Q19. Ruined Bedchambers]]

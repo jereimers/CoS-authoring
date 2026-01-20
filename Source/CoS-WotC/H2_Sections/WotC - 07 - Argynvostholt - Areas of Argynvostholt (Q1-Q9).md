@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Argynvostholt (Q1-Q9)
 
 The following areas correspond to labels on the maps of Argynvostholt below.

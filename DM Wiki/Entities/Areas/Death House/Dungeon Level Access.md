@@ -3,7 +3,7 @@ type: Area
 name: Dungeon Level Access
 aliases:
 area_code: E7-22
-WotC_ref: "[[19_Appendix B - Death House#22. Dungeon Level Access]]"
+WotC_ref: "[[18_Appendix B - Death House#22. Dungeon Level Access]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Dungeon Level Access]]"
 parent_region: "[[Haunted House]]"
 arcs:

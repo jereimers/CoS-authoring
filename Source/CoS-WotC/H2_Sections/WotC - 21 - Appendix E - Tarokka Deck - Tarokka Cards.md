@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Tarokka Cards
 
 ## High Deck

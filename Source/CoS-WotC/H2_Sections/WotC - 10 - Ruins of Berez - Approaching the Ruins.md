@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Approaching the Ruins
 
 The following boxed text assumes that the characters approach Berez from the north, along the trail leading from the Old Svalich Road. If they approach from a different direction, don't read the first sentence.

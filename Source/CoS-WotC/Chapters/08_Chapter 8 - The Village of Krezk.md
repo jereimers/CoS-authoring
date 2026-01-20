@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 8 The Village of Krezk]]"
+chapter: 8
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 8
+  - Ch. 8
+---
 # Chapter 8: The Village of Krezk 
 
 The fortified village of Krezk lies near the edge of Strahd's domain, and the wall of mist that marks the border is clearly visible above the treeline. Yet even here there is no escaping the vampire. In fact, the villagers are so terrified of Strahd and his wolves that they never venture away from the village. Within their walls, they grow trees that provide ample wood to keep them warm on cold nights, and they draw water from a blessed pool. They have chickens, hares, and small pigs, as well as gardens of beets and turnips. The only thing they depend on from the outside world is wine. The burgomaster, Dmitri Krezkov, comes from a noble family and regularly has wine delivered from the nearby winery, the Wizard of Wines (chapter 12), to keep the locals' bellies warm and their spirits up.

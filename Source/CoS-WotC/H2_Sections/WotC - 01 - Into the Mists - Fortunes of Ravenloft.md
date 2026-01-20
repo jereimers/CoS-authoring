@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Fortunes of Ravenloft
 
 The events of this adventure are part of dark twists of fate that a fortuneteller can discern with the cards of a tarokka deck. Before you run this adventure, you must draw cards from a deck to determine the following elements of the adventure:

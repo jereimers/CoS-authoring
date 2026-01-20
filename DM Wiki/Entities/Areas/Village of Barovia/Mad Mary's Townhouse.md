@@ -3,7 +3,7 @@ type: Area
 name: Mad Mary's Townhouse
 aliases:
 area_code: E3
-WotC_ref: "[[04_Chapter 3 - The Village of Barovia#E3. Mad Mary's Townhouse]]"
+WotC_ref: "[[03_Chapter 3 - The Village of Barovia#E3. Mad Mary's Townhouse]]"
 CoS-R_ref: "[[Arc B - Welcome to Barovia#B5k. Mad Mary’s Townhouse]]"
 parent_region: "[[Village of Barovia]]"
 arcs:

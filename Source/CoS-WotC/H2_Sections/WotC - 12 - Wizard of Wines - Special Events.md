@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Special Events
 
 You can use one or both of the following special events after the characters have rid the winery of its current menace.

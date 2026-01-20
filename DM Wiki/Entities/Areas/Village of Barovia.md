@@ -5,7 +5,7 @@ aliases:
   - Barovia
   - Barovia Village
 area_code: E
-WotC_ref: "[[04_Chapter 3 - The Village of Barovia]]"
+WotC_ref: "[[03_Chapter 3 - The Village of Barovia]]"
 CoS-R_ref: "[[Arc B - Welcome to Barovia]]"
 parent_region: "[[Barovia]]"
 arcs:

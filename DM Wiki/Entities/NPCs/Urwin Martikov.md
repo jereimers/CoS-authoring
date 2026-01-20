@@ -42,7 +42,7 @@ tags:
   - needs_filling
 CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Urwin-Martikov]]"
 WotC_ref:
-  - "[[06_Chapter 5 - The Town of Vallaki#N2. Blue Water Inn]]"
+  - "[[05_Chapter 5 - The Town of Vallaki#N2. Blue Water Inn]]"
 publish: true
 ---
 # Portrait

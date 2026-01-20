@@ -3,7 +3,7 @@ type: Area
 name: Cult Leaders' Den
 aliases:
 area_code: E7-33
-WotC_ref: "[[19_Appendix B - Death House#33. Cult Leaders' Den]]"
+WotC_ref: "[[18_Appendix B - Death House#33. Cult Leaders' Den]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Cult Leaders' Den]]"
 parent_region: "[[Haunted House]]"
 arcs:

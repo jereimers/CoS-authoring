@@ -6,7 +6,7 @@ aliases:
   - Shorthand
 area_code: E6
 WotC_ref:
-  - "[[04_Chapter 3 - The Village of Barovia#E6. Cemetery]]"
+  - "[[03_Chapter 3 - The Village of Barovia#E6. Cemetery]]"
 CoS-R_ref:
 parent_region: "[[Village of Barovia]]"
 arcs:

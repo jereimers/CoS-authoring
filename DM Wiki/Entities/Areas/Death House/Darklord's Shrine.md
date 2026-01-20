@@ -3,7 +3,7 @@ type: Area
 name: Darklord's Shrine
 aliases:
 area_code: E7-31
-WotC_ref: "[[19_Appendix B - Death House#31. Darklord's Shrine]]"
+WotC_ref: "[[18_Appendix B - Death House#31. Darklord's Shrine]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Darklord's Shrine]]"
 parent_region: "[[Haunted House]]"
 arcs:

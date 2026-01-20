@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Magic Items
 
 The magic items described here, if they are found, can play significant roles in the adventure.

@@ -7,7 +7,7 @@ aliases:
   - Lucian's church
   - Church in Vallaki
 area_code: N1
-WotC_ref: "[[06_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church]]"
+WotC_ref: "[[05_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church]]"
 CoS-R_ref: "[[Arc D - St. Andral's Feast#D1. St. Andral's Church]]"
 parent_region: "[[Town of Vallaki]]"
 arcs:

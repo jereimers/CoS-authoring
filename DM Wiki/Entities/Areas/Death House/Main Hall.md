@@ -3,7 +3,7 @@ type: Area
 name: Main Hall
 aliases:
 area_code: E7-2
-WotC_ref: "[[19_Appendix B - Death House#2. Main Hall]]"
+WotC_ref: "[[18_Appendix B - Death House#2. Main Hall]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Main Hall]]"
 parent_region: "[[Haunted House]]"
 arcs:

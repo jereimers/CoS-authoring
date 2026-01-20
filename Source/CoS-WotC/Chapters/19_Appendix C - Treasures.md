@@ -1,3 +1,10 @@
+---
+source: "[[00_full-source#Appendix C Treasures]]"
+chapter: 19
+tags:
+  - cos
+  - source/chapter
+---
 # Appendix C: Treasures 
 
 Scattered throughout Barovia are ancient treasures that can be brought to bear against Strahd von Zarovich and his fell servants. The locations of three of them-the Tome of Strahd, the Holy Symbol of Ravenkind, and the Sunsword-are determined by the results of the card reading in chapter 1. The other items can be acquired as characters discover their whereabouts during the course of the adventure.

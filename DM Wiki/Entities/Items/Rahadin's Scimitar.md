@@ -1,7 +1,7 @@
 ---
 belongs_to: "[[Rahadin]]"
 CoS-R_ref:
-WotC_ref: "[[21_Appendix D - Monsters and NPCs#Rahadin]]"
+WotC_ref: "[[20_Appendix D - Monsters and NPCs#Rahadin]]"
 current_location: "[[Rahadin]]"
 tags:
   - ai_generated

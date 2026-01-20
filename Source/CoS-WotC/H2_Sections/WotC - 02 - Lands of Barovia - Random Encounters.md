@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Random Encounters
 
 Dangers abound in the land of Barovia. Check for a random encounter after every 30 minutes that the adventurers spend on the roads or in the wilderness (don't check if they have already had two random encounters outdoors in the past 12 hours):

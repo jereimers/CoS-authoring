@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Strahd Dies
 
 %% --- Page 287 --- %%

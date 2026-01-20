@@ -3,7 +3,7 @@ type: Area
 name: Upper Hall
 aliases:
 area_code: E7-6
-WotC_ref: "[[19_Appendix B - Death House#6. Upper Hall]]"
+WotC_ref: "[[18_Appendix B - Death House#6. Upper Hall]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Upper Hall]]"
 parent_region: "[[Haunted House]]"
 arcs:

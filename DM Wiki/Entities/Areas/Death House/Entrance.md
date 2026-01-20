@@ -3,7 +3,7 @@ type: Area
 name: Entrance
 aliases:
 area_code: E7-1
-WotC_ref: "[[19_Appendix B - Death House#1. Entrance]]"
+WotC_ref: "[[18_Appendix B - Death House#1. Entrance]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Entrance]]"
 parent_region: "[[Haunted House]]"
 arcs:

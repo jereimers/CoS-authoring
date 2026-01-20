@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Dungeon and Catacombs
 
 Refer to map 12 of the castle for areas K73 through K88.

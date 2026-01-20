@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Special Events 
 
 Two dusk elves are drawn to the Amber Temple for different reasons. You can use one or both of the following special events while the characters explore the temple.

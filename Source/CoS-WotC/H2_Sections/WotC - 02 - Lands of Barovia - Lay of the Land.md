@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Lay of the Land
 
 %% --- Page 29 --- %%

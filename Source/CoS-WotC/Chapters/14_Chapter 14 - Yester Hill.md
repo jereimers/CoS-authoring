@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 14 Yester Hill]]"
+chapter: 14
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 14
+  - Ch. 14
+---
 # Chapter 14: Yester Hill 
 
 ![img-99.jpeg](img-99.jpeg)

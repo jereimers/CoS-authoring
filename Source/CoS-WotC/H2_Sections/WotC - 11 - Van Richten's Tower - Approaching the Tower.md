@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Approaching the Tower
 
 The Svalich Woods have swallowed up the road that once led to the tower. Now only a wide dirt trail remains.

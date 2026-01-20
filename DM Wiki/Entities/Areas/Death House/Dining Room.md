@@ -3,7 +3,7 @@ type: Area
 name: Dining Room
 aliases:
 area_code: E7-5
-WotC_ref: "[[19_Appendix B - Death House#5. Dining Room]]"
+WotC_ref: "[[18_Appendix B - Death House#5. Dining Room]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Dining Room]]"
 parent_region: "[[Haunted House]]"
 arcs:

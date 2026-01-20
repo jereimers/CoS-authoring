@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Abbey (S19-S24)
 
 ## S19. Barracks

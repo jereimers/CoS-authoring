@@ -5,7 +5,7 @@ tags:
   - lore
 type: Lore
 WotC_ref:
-  - "[[03_Chapter 2 - The Lands of Barovia#Barovian Lore]]"
+  - "[[02_Chapter 2 - The Lands of Barovia#Barovian Lore]]"
 CoS-R_ref:
 factions:
 publish: false

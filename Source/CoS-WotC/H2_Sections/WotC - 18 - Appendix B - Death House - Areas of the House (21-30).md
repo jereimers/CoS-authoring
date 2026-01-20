@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the House (21-30)
 
 #[[Secret Stairs]]

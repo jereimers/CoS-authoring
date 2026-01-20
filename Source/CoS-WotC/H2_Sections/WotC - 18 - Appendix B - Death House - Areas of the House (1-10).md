@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the House (1-10)
 
 The following areas correspond to labels on the map of the house below.

@@ -5,7 +5,7 @@ tags:
   - lore
 type: Lore
 WotC_ref:
-  - "[[06_Chapter 5 - The Town of Vallaki#Vallaki Lore]]"
+  - "[[05_Chapter 5 - The Town of Vallaki#Vallaki Lore]]"
 CoS-R_ref:
 factions:
 publish: false

@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Den
 
 The following areas correspond to labels on the map of the werewolf den below.

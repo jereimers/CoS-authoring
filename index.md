@@ -22,7 +22,7 @@ publish: true
 ---
 
 # What Happened Last Session
-![[Session 09 - Walls Keep Out More Than Wolves]]
+![[Session 11]]
 
 
 ---

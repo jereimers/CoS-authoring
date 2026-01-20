@@ -33,7 +33,11 @@ an area is a location, place, region, etc. It can be as large as the Planes of E
 %%
 # Overview
 
+This is a mansion located west and south of [[Town of Vallaki|Vallaki]]. It is the headquarters of the [[Order of the Silver Dragon]].
+
 # What the party knows
+
+- To reach Argynvostholt, 
 
 # Notable places
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the House (31-38)
 
 ## 31. Darklord's Shrine

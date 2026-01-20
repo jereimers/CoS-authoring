@@ -1,3 +1,9 @@
+---
+source: WotC
+chapter: 0
+tags:
+  - cos
+---
 
 # Introduction 
 %% --- Page 0 --- %%
@@ -1535,6 +1541,8 @@ If the characters are walking along the road, they arrive at area B after 5 hour
 
 Two sets of these gates exist: one west of the village of Barovia and one east of the village.
 
+![[02-004.gates-of-barovia.png]]
+
 The fog spills out of the forest to swallow up the road behind you. Ahead, jutting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeds at their feet. They greet you only with silence.
 
 If the characters are traveling on foot, the gates swing open as they approach, screeching as the hinges move. The gates close behind the characters after they pass through. If the characters are riding in Vistani wagons, the gates open in front of the lead wagon and close when the rear one has entered.
@@ -1588,7 +1596,7 @@ The river is roughly 50 feet wide, with a depth ranging from 5 to 10 feet. Archi
 
 ### E. Village of Barovia
 
-Chapter 3 describes the village of Barovia and the gloomy folk who reside there.
+[[03_Chapter 3 - The Village of Barovia|Chapter 3]] describes the village of Barovia and the gloomy folk who reside there.
 
 ### F. River Ivlis Crossroads
 
@@ -1719,7 +1727,7 @@ A patch of green slime (see "Dungeon Hazards" in chapter 5 of the Dungeon Master
 
 ### K. Castle Ravenloft
 
-Chapter 4 explores Castle Ravenloft, lair of the vampire Strahd von Zarovich.
+[[04_Chapter 4 - Castle Ravenloft|Chapter 4]] explores Castle Ravenloft, lair of the vampire Strahd von Zarovich.
 
 ### L. Lake Zarovich
 
@@ -1764,11 +1772,7 @@ Believing that the characters aim to kill him, the Mad Mage unleashes his destru
 
 Under normal circumstances, a greater restoration spell cast on the Mad Mage would restore his wits and ends the madness, allowing him to remember that he is none other than Mordenkainen, an archmage of Oerth and the leader of a powerful group of adventurers called the Circle of Eight. But in this case, the Mad Mage has cast a mind blank spell on himself. As long as that spell remains in effect, his sanity can't be restored by any spell. If the characters surmise that powerful magic is preventing them from restoring the Mad Mage's wits, they can, with a successful DC 15 Charisma (Persuasion) check, convince the Mad Mage to divulge the reason why their spell failed. A character can also ascertain the cause of the spell's failure with a successful DC 18 Intelligence (Arcana) check. The Mad Mage's mind blank spell has a remaining duration of 3d6 hours, after which his madness can be cured normally.
 
-The Mad Mage has a different spell list from that of the archmage in the Monster Manual, and he has already used one 1st-level spell slot to cast maae armor on himself, one 4th-level spell slot to cast polymorph on himself, one 7th-level spell slot to cast Mordenkainen's magnificent mansion (see '
-
-%% --- Page 51 --- %%
-
-Mad Mage's Mansion''), and one 8th-level spell slot to cast *mind blank* on himself.
+The Mad Mage has a different spell list from that of the archmage in the Monster Manual, and he has already used one 1st-level spell slot to cast maae armor on himself, one 4th-level spell slot to cast polymorph on himself, one 7th-level spell slot to cast Mordenkainen's magnificent mansion (see '%% --- Page 51 --- %%Mad Mage's Mansion''), and one 8th-level spell slot to cast *mind blank* on himself.
 
 Cantrips (at will): *fire bolt, light, mage hand, prestidigitation, shocking grasp*
 
@@ -1808,11 +1812,11 @@ The *archmage* has never had his fortune read by Madam Eva and doesn't care to, 
 
 ### N. Town of Vallaki
 
-Chapter 5 describes the town of Vallaki.
+[[05_Chapter 5 - The Town of Vallaki|Chapter 5]] describes the town of Vallaki.
 
 ### O. Old Bonegrinder
 
-Chapter 6 details Old Bonegrinder, a decrepit windmill occupied by hags.
+[[06_Chapter 6 - Old Bonegrinder|Chapter 6]] details Old Bonegrinder, a decrepit windmill occupied by hags.
 
 ### P. Luna River Crossroads
 
@@ -1829,7 +1833,7 @@ The northwest branch of the crossroads climbs gently, becoming a dirt trail thro
 
 ### Q. Argynvostholt 
 
-Chapter 7 details the ruined mansion Argynvostholt, once a refuge of the Order of the Silver Dragon, which opposed Strahd and failed.
+[[07_Chapter 7 - Argynvostholt|Chapter 7]] details the ruined mansion Argynvostholt, once a refuge of the Order of the Silver Dragon, which opposed Strahd and failed.
 
 ### R. Raven River Crossroads
 
@@ -1844,36 +1848,36 @@ You see a weatherworn signpost next to the road. The three arms of the sign poin
 
 ### S. Village of Krezk
 
-Chapter 8 visits the village of Krezk and the nearby Abbey of Saint Markovia.
+[[08_Chapter 8 - The Village of Krezk|Chapter 8]] visits the village of Krezk and the nearby Abbey of Saint Markovia.
 
 ### T. Tsolenka Pass
 
-Chapter 9 explores the Tsolenka Pass, which hugs the side of Mount Ghakis.
+[[09_Chapter 9 - Tsolenka Pass|Chapter 9]] explores the Tsolenka Pass, which hugs the side of Mount Ghakis.
 
 ### U. Ruins of Berez
 
-Chapter 10 describes the ruins of Berez, a riverside village that is now home to the hag Baba Lysaga.
+[[10_Chapter 10 - The Ruins of Berez|Chapter 10]] describes the ruins of Berez, a riverside village that is now home to the hag Baba Lysaga.
 
 ### V. Van Richten's Tower
 
-Chapter 11 details Van Richten's Tower, a dilapidated structure that originally belonged to the wizard Khazan.
+[[11_Chapter 11 - Van Richten's Tower|Chapter 11]] details Van Richten's Tower, a dilapidated structure that originally belonged to the wizard Khazan.
 
 %% --- Page 53 --- %%
 ### W. The Wizard of Wines 
 
-Chapter 12 visits the Wizard of Wines, the vineyard and winery that provides Barovia much of its wine.
+[[12_Chapter 12 - The Wizard of Wines|Chapter 12]] visits the Wizard of Wines, the vineyard and winery that provides Barovia much of its wine.
 
 ### X. The Amber Temple
 
-Chapter 13 delves into the Amber Temple, the dungeon complex where Strahd gave himself to the Dark Powers.
+[[13_Chapter 13 - The Amber Temple|Chapter 13]] delves into the Amber Temple, the dungeon complex where Strahd gave himself to the Dark Powers.
 
 ### Y. Yester Hill
 
-Chapter 14 describes Yester Hill, a remote hilltop that belongs to druids who venerate Strahd as lord of the land.
+[[14_Chapter 14 - Yester Hill|Chapter 14]] describes Yester Hill, a remote hilltop that belongs to druids who venerate Strahd as lord of the land.
 
 ### Z. Werewolf Den
 
-Chapter 15 delves into the cave complex that is the main den of Barovia's werewolves.
+[[15_Chapter 15 - Werewolf Den|Chapter 15]] delves into the cave complex that is the main den of Barovia's werewolves.
 
 %% --- Page 54 --- %%
 # Chapter 3: The Village of Barovia 

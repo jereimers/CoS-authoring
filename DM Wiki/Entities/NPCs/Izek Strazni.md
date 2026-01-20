@@ -38,7 +38,7 @@ tags:
   - vallaki
 CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Izek-Strazni]]"
 WotC_ref:
-  - "[[21_Appendix D - Monsters and NPCs#Izek Strazni]]"
+  - "[[20_Appendix D - Monsters and NPCs#Izek Strazni]]"
 publish: true
 ---
 # Portrait

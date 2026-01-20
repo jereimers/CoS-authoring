@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 4 Castle Ravenloft]]"
+chapter: 4
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 4
+  - Ch. 4
+---
 # Chapter 4: Castle Ravenloft 
 
 Castle Ravenloft was built atop the ruin of an older fortress by artisans, wizards, and workers loyal to Strahd's family. Strahd rewarded the castle's genius architect, Artimus, with a crypt in the castle's catacombs. The castle was named after Strahd's mother, Ravenovia, who also lies entombed below.

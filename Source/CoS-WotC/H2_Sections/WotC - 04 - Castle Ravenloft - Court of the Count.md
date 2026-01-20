@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Court of the Count 
 
 Refer to map 4 of the castle for areas K25 through K34.

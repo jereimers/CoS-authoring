@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Village
 
 The following areas correspond to labels on the map of the village of Barovia below.

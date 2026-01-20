@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 13 The Amber Temple]]"
+chapter: 13
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 13
+  - Ch. 13
+---
 # Chapter 13: The Amber Temple 
 
 ![img-94.jpeg](img-94.jpeg)

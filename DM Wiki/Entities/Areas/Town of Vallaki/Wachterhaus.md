@@ -4,7 +4,7 @@ name: Wachterhaus
 aliases:
 area_code: N4
 WotC_ref:
-  - "[[06_Chapter 5 - The Town of Vallaki#N4. Wachterhaus]]"
+  - "[[05_Chapter 5 - The Town of Vallaki#N4. Wachterhaus]]"
 CoS-R_ref:
 parent_region: "[[Town of Vallaki]]"
 arcs:

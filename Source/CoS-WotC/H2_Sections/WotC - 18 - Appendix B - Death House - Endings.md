@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Endings
 
 The mists of Ravenloft continue to surround Death House until the characters stand atop the dais and either appease or defy the cultists. Strahd is satisfied either way, prompting the mists to recede.

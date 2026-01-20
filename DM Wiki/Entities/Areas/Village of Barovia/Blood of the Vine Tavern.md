@@ -4,7 +4,7 @@ name: Blood of the Vine Tavern
 aliases:
   - Blood on the Vine
 area_code: E2
-WotC_ref: "[[04_Chapter 3 - The Village of Barovia#E2. Blood of the Vine Tavern]]"
+WotC_ref: "[[03_Chapter 3 - The Village of Barovia#E2. Blood of the Vine Tavern]]"
 CoS-R_ref: "[[Arc B - Welcome to Barovia#B5c. The Blood of the Vine Tavern]]"
 parent_region: "[[Village of Barovia]]"
 arcs:

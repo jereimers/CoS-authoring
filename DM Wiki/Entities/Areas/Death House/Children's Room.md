@@ -3,7 +3,7 @@ type: Area
 name: Children's Room
 aliases:
 area_code: E7-20
-WotC_ref: "[[19_Appendix B - Death House#20. Children's Room]]"
+WotC_ref: "[[18_Appendix B - Death House#20. Children's Room]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Children's Room]]"
 parent_region: "[[Haunted House]]"
 arcs:

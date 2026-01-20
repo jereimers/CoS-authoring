@@ -4,7 +4,7 @@ name: Coffin Maker's Shop
 aliases:
   - Henrik's shop
 area_code: N6
-WotC_ref: "[[06_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop]]"
+WotC_ref: "[[05_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop]]"
 CoS-R_ref: "[[Arc D - St. Andral's Feast#D4. Coffin Maker's Shop]]"
 parent_region: "[[Town of Vallaki]]"
 arcs:

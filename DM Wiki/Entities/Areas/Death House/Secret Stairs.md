@@ -3,7 +3,7 @@ type: Area
 name: Secret Stairs
 aliases:
 area_code: E7-21
-WotC_ref: "[[19_Appendix B - Death House#21. Secret Stairs]]"
+WotC_ref: "[[18_Appendix B - Death House#21. Secret Stairs]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Secret Stairs]]"
 parent_region: "[[Haunted House]]"
 arcs:

@@ -4,7 +4,7 @@ name: Vistani Camp
 aliases:
 area_code: N9
 WotC_ref:
-  - "[[06_Chapter 5 - The Town of Vallaki#Vistani Camp]]"
+  - "[[05_Chapter 5 - The Town of Vallaki#Vistani Camp]]"
 CoS-R_ref:
 parent_region: "[[Town of Vallaki]]"
 arcs:

@@ -5,7 +5,7 @@ aliases:
   - toyshop
 area_code: N7
 WotC_ref:
-  - "[[06_Chapter 5 - The Town of Vallaki#Blinsky Toys]]"
+  - "[[05_Chapter 5 - The Town of Vallaki#Blinsky Toys]]"
 CoS-R_ref:
 parent_region: "[[Town of Vallaki]]"
 arcs:
@@ -57,6 +57,6 @@ This cramped shop has a dark entrance portico, above which hangs a wooden sign s
 
 
 # Descriptions
-![[06_Chapter 5 - The Town of Vallaki#N7. Blinsky Toys]]
+![[05_Chapter 5 - The Town of Vallaki#N7. Blinsky Toys]]
 
 %%

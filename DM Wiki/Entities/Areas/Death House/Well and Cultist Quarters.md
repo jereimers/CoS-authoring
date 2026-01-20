@@ -3,7 +3,7 @@ type: Area
 name: Well and Cultist Quarters
 aliases:
 area_code: E7-
-WotC_ref: "[[19_Appendix B - Death House#25. Well and Cultist Quarters]]"
+WotC_ref: "[[18_Appendix B - Death House#25. Well and Cultist Quarters]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Well and Cultist Quarters]]"
 parent_region: "[[Haunted House]]"
 arcs:

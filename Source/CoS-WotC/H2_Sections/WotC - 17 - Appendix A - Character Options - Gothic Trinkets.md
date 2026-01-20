@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Gothic Trinkets 
 
 When rolling for a trinket, consider using this table, which is designed for a gothic game.

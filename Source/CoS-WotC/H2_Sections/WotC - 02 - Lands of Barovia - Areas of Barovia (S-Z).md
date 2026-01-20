@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Barovia (S-Z)
 
 #[[S. Village of Krezk]]

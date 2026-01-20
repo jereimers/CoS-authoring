@@ -120,7 +120,7 @@ If the players agree not to spread his words beyond the church, [[Father Lucian 
 
 * The church is ordinarily hallowed ground, as though the building was protected by a *hallow* spell. This magical ward prevents fiends and undead from entering the church, and keeps them from magically charming, frightening, or possessing those within it.
 * The source of this protection is the crypt of Saint Andral, which has historically held the blessed bones of Andral himself, the founder of Vallaki's church and a great cleric of the Morninglord.
-* Originally, only [[Father Lucian Petrovich|Father Lucian]] knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with [[Yeska]], as described in [[06_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church]] (p. 97).
+* Originally, only [[Father Lucian Petrovich|Father Lucian]] knew of the bones' existence. However, after news the siege of Barovia reached Vallaki a few days ago, he shared the knowledge of the bones with [[Yeska]], as described in [[05_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church]] (p. 97).
 * To retain the church's protection, [[Father Lucian Petrovich|Father Lucian]] must invoke a particular rite of protection over Saint Andral's bones once every year, at dawn on the morning of Saint Andral's Feast—a holy day that memorializes Andral's life. 
 * If the rite cannot be carried out at that time, the wards will fall until the rite is completed on a subsequent dawn.
 * Last night, someone broke into the church's crypt and stole St. Andral's bones, damaging the floorboards behind the altar and escaping through a window. Without the bones, [[Father Lucian Petrovich|Father Lucian]] can't complete the protective rite, and the wards will fall at dawn on the day of St. Andral's Feast. 
@@ -148,7 +148,7 @@ While accompanying the party, [[Father Lucian Petrovich|Father Lucian]] fights a
 
 The fresh boards and nails were delivered by [[Henrik van der Voort|Henrik]]. The opening is barely wide enough to allow one person to enter, and descends into the crypt.
 
-The crypt is as described in [[06_Chapter 5 - The Town of Vallaki#Bones of St. Andral|Bones of St. Andral]] (p. 97), lying largely beneath the chapel's altar. If a player enters the crypt, read:
+The crypt is as described in [[05_Chapter 5 - The Town of Vallaki#Bones of St. Andral|Bones of St. Andral]] (p. 97), lying largely beneath the chapel's altar. If a player enters the crypt, read:
 
 <div class="description">
 <p>You descend into a small, dark, damp chamber, the walls made of rough-hewn stone blocks stained with age and moisture. At the center stands a lonely stone slab, an empty, circular depression carved neatly into its surface.</p>
@@ -227,9 +227,9 @@ If the players inform [[Milivoj]] that they want to speak with him about St. And
 
 [[Milivoj]] denies any knowledge of the bones or their theft if asked about them outright. However, he claims to have seen a cloaked figure watching the church two days ago from an alleyway. (The description of the cloaked figure coincidentally matches the appearance of Ernst Larnak, [[Lady Fiona Wachter|Fiona]]'s spy, though [[Milivoj]] doesn't know Ernst or the nature of his employment.) A successful DC 10 Wisdom (Insight) check reveals that he is speaking slightly too quickly.
 
-If the players accuse [[Milivoj]] of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, [[Milivoj]] admits to stealing them, as described in [[06_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church|N1. St. Andral's Church]] (p. 97). Players who confront [[Milivoj]] with evidence from the crypt automatically succeed. [[Milivoj]] can't take the players to the [[Coffin Maker's Shop]] himself, but notes that [[Father Lucian Petrovich|Father Lucian]] can lead them there.
+If the players accuse [[Milivoj]] of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, [[Milivoj]] admits to stealing them, as described in [[05_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church|N1. St. Andral's Church]] (p. 97). Players who confront [[Milivoj]] with evidence from the crypt automatically succeed. [[Milivoj]] can't take the players to the [[Coffin Maker's Shop]] himself, but notes that [[Father Lucian Petrovich|Father Lucian]] can lead them there.
 
-If asked his motive for stealing the bones, [[Milivoj]] shares the reasons described in [[06_Chapter 5 - The Town of Vallaki#Bones of St. Andral|Bones of St. Andral]] (p. 97). He can also share that, after his father—a former Vallakian guard—was wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, [[Milivoj]] sees himself as his siblings' sole means of avoiding total poverty. (If asked, [[Milivoj]] can provide a basic description of the effects of dream pastries, as described in [[03 - Village of Barovia - Dream Pastries|Dream Pastries]] (p. 125).)
+If asked his motive for stealing the bones, [[Milivoj]] shares the reasons described in [[05_Chapter 5 - The Town of Vallaki#Bones of St. Andral|Bones of St. Andral]] (p. 97). He can also share that, after his father—a former Vallakian guard—was wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, [[Milivoj]] sees himself as his siblings' sole means of avoiding total poverty. (If asked, [[Milivoj]] can provide a basic description of the effects of dream pastries, as described in [[03 - Village of Barovia - Dream Pastries|Dream Pastries]] (p. 125).)
 
 If informed that the bones may have been stolen to allow an attack upon the church, [[Milivoj]] dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that [[Henrik van der Voort|Henrik]] told him the bones were a powerless family heirloom, and that [[Henrik van der Voort|Henrik]] sought to recover them to honor his ancestor.
 
@@ -252,7 +252,7 @@ If the players suggest reporting the theft of the bones to the burgomaster, [[Fa
 # D3. Arasek Stockyard
 <em>This scene takes place in Chapter 5: Area N5.</em>
 
-Arasek Stockyard is largely as described in [[06_Chapter 5 - The Town of Vallaki#N5. Arasek Stockyard|N5. Arasek Stockyard]]. However, while [[Rictavio]]'s wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
+Arasek Stockyard is largely as described in [[05_Chapter 5 - The Town of Vallaki#N5. Arasek Stockyard|N5. Arasek Stockyard]]. However, while [[Rictavio]]'s wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
 
 If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
 
@@ -262,7 +262,7 @@ If the players successfully break the door to the wagon or pick its padlock, the
 # D4. [[Coffin Maker's Shop]]
 <em>This scene takes place in Chapter 5: Area N6.</em>
 
-The [[Coffin Maker's Shop]] is largely as described in [[06_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop|N6. Coffin Maker's Shop]] (p. 116). However, the crates in [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **[[Volenta Popofsky]]**, one of Strahd's vampiric brides. In addition, players who explore [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
+The [[Coffin Maker's Shop]] is largely as described in [[05_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop|N6. Coffin Maker's Shop]] (p. 116). However, the crates in [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **[[Volenta Popofsky]]**, one of Strahd's vampiric brides. In addition, players who explore [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
 > [!lore]+ **The Burned Pentagram**
 > The green pentagram is a remnant of [[Volenta Popofsky|Volenta]]'s use of the teleportation brazier in [[Brazier Room]] (p. 82). If asked, [[Henrik van der Voort|Henrik]] doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met [[Volenta Popofsky|Volenta]], a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) shortly thereafter.
@@ -276,22 +276,22 @@ The [[Coffin Maker's Shop]] is largely as described in [[06_Chapter 5 - The Town
 * In the evening, he prepares an evening meal in **N6d. Kitchen**.
 * At night, he sleeps in **N6e. [[Henrik van der Voort|Henrik]]'s Bedroom.**
 ## D4a. Entering the Shop
-The players cannot access the shop through persuasion, deception, or intimidation; in each case, [[Henrik van der Voort|Henrik]] will respond as described in **[[06_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop|N6. Coffin Maker's Shop]]**. 
+The players cannot access the shop through persuasion, deception, or intimidation; in each case, [[Henrik van der Voort|Henrik]] will respond as described in **[[05_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop|N6. Coffin Maker's Shop]]**. 
 
 Additionally, note that the windows are locked from the inside and the doors are barred. As such, the players cannot open a window or door by use of *thieves tools*. Instead, the players can enter the shop by either of the following means:
 
 * They can break down one or both of the barred doors with a successful DC 20 Strength (Athletics) check. Doing so alerts [[Henrik van der Voort|Henrik]], who comes to confront them. (Doing so doesn't alert [[Volenta Popofsky|Volenta]] or the **vampire spawn**, who merely assume [[Henrik van der Voort|Henrik]] has dropped a coffin or other wooden object.)
 * They can use magic (e.g., *mage hand* or *misty step*) to open the windows or doors from the inside. Doing so avoids alerting [[Henrik van der Voort|Henrik]], who remains in his current location.
 
-In either case, Henrik offers no resistance as soon as he sees that the players have entered the shop. Instead, he rightfully guesses that they have come to recover the bones and informs them of the bones' location and the danger of the vampire nest, as described in **[[06_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop|N6. Coffin Maker's Shop]]**. In exchange, he pleads with them to protect him from the vampires, who he rightfully fears will butcher him for his betrayal. He won't retrieve the bones alone, but will accompany the players upstairs if demanded.
+In either case, Henrik offers no resistance as soon as he sees that the players have entered the shop. Instead, he rightfully guesses that they have come to recover the bones and informs them of the bones' location and the danger of the vampire nest, as described in **[[05_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop|N6. Coffin Maker's Shop]]**. In exchange, he pleads with them to protect him from the vampires, who he rightfully fears will butcher him for his betrayal. He won't retrieve the bones alone, but will accompany the players upstairs if demanded.
 
 [[Henrik van der Voort|Henrik]] does not know that [[Volenta Popofsky|Volenta]] has secretly installed a poison needle trap and tripwire bell in the wardrobe secret compartment where the bones are kept. He assumes that the players will be able to quietly recover the bones, depart the shop, and escort him elsewhere to safety.
 
 > [!abstract]+ **Ambushing the Vampires**
-> Players who attempt to ambush the vampires in [[06_Chapter 5 - The Town of Vallaki#N6f. Vampire Nest|N6f. Vampire Nest]] (p. 118) before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
+> Players who attempt to ambush the vampires in [[05_Chapter 5 - The Town of Vallaki#N6f. Vampire Nest|N6f. Vampire Nest]] (p. 118) before recovering the bones must succeed on a DC 14 Dexterity (Stealth) check to approach a crate without awakening the nearby vampires, and a DC 14 Dexterity (Stealth) check with disadvantage to open it. A woken vampire attacks intruders on sight.
 > ^Abstract-Ambushing-the-Vampires
 ## D4b. Recovering the Bones
-The bones have been concealed as described in [[06_Chapter 5 - The Town of Vallaki#N6e. Henrik's Bedroom|N6e. Henrik's Bedroom]] (p. 117). However, [[Volenta Popofsky]] has added two additional safeguards to the secret compartment:
+The bones have been concealed as described in [[05_Chapter 5 - The Town of Vallaki#N6e. Henrik's Bedroom|N6e. Henrik's Bedroom]] (p. 117). However, [[Volenta Popofsky]] has added two additional safeguards to the secret compartment:
 
 * a [[Poison Needle (DMG)|Poison Needle]] trap (Dungeon Master's Guide, p. 123), which triggers unless a particular wooden panel is pushed before the compartment is opened, and
 * a hidden wire attached to the compartment's opening, which connects to a noisemaker at the base of the compartment shaped vaguely like the head of the toymaker Gadof Blinsky, including his jester’s cap and bells. 
@@ -314,7 +314,7 @@ Opening the compartment without disabling the wire or unsuccessfully attempting 
 > If the players successfully retrieve the bones without alerting the vampires, [[Volenta Popofsky|Volenta]] discovers the bones to be missing shortly after she awakens at dusk that night. If [[Henrik van der Voort|Henrik]] is still within the shop, she disembowels and beheads him, then leaves his head staked on a spear leaning against the statue at the center of N8. [[Town Square]] (p. 119). In either case, [[Volenta Popofsky|Volenta]] then departs Vallaki for Castle Ravenloft, slinking back to the keep in shame.
 > ^Abstract-Disabling-the-Noisemaker
 ## D4c. [[Volenta Popofsky|Volenta]]'s Trap
-If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal [[Vampire Spawn]] arise to confront them one round later, either by forcing their way into **N6d. [[Coffin Maker's Shop#N6d. Kitchen|Kitchen]]** or (if the players have already exited [[06_Chapter 5 - The Town of Vallaki#N6e. Henrik's Bedroom|N6e. Henrik's Bedroom]]) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with [[Volenta Popofsky|Volenta]] crouching upside-down on the ceiling behind them.
+If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta Popofsky|Volenta]] and her two loyal [[Vampire Spawn]] arise to confront them one round later, either by forcing their way into **N6d. [[Coffin Maker's Shop#N6d. Kitchen|Kitchen]]** or (if the players have already exited [[05_Chapter 5 - The Town of Vallaki#N6e. Henrik's Bedroom|N6e. Henrik's Bedroom]]) by obstructing the players' path down the stairs. When the vampires appear, they use their ***spider climb*** to clamber across the walls before dropping down to the players’ level, with [[Volenta Popofsky|Volenta]] crouching upside-down on the ceiling behind them.
 ![[volenta-popofsky.png]]
 	<span class="credit">"Volenta Popofsky" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
@@ -353,7 +353,7 @@ If the players allow the noisemaker to activate, [[Non-Player Characters#Volenta
 > * ***Six Players.*** Increase the number of vampire spawn to three.
 
 > [!warning]+ **Sunlight in Barovia**
-> Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in [[03_Chapter 2 - The Lands of Barovia#Sunlight in Barovia|Sunlight in Barovia]] (p. 24).
+> Remember that vampires and other creatures in Barovia are unaffected by Barovian daylight, as described in [[02_Chapter 2 - The Lands of Barovia#Sunlight in Barovia|Sunlight in Barovia]] (p. 24).
 > ^Warning-Sunlight-in-Barovia
 
 > [!warning]+ **Vampires Aren't Humanoid**

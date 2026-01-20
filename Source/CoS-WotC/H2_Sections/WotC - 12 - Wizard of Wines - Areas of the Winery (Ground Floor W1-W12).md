@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Winery (Ground Floor W1-W12)
 
 The following areas correspond to labels on the map of the winery below.

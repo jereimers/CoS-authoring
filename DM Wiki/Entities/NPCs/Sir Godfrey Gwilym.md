@@ -9,9 +9,9 @@ race:
 class:
 age:
 gender:
-creature_type:
+creature_type: undead
 origin:
-home_base:
+home_base: "[[Argynvostholt]]"
 current_location:
 factions:
 arc:
@@ -26,6 +26,7 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
+  - "[[Commander Vladimir Horngaard]]"
 portrait:
 portrait_credit:
 handouts:
@@ -33,17 +34,17 @@ tags:
   - npc
   - cos
   - needs_filling
-CoS-R_ref:
+CoS-R_ref: "[[Arc M - The Dragon's Manor#M3c. Chapel of Morning]]"
 WotC_ref:
 publish: true
 ---
 # Who they are
 
-
+Sir Godfrey is an officer of the [[Order of the Silver Dragon]].
 
 # What the party knows
 
-
+- [[Standimir]] said he can be found at [[Argynvostholt]] to the west, where he awaits those who would raise their swords against the darkness that lurks in [[Castle Ravenloft|the castle]]'s depths
 
 # Personality
 
@@ -57,7 +58,7 @@ publish: true
 # Sir Godfrey Gwilym Profile
 
 ## Portrait
-*No portrait available.*
+![[sir-godfrey-gwilym.png]]
 
 ## Roleplaying Information
 

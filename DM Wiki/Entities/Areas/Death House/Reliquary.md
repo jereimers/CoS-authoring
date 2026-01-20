@@ -3,7 +3,7 @@ type: Area
 name: Reliquary
 aliases:
 area_code: E7-35
-WotC_ref: "[[19_Appendix B - Death House#35. Reliquary]]"
+WotC_ref: "[[18_Appendix B - Death House#35. Reliquary]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Reliquary]]"
 parent_region: "[[Haunted House]]"
 arcs:

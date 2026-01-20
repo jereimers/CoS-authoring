@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Creatures (A-H)
 
 ## The Abbot

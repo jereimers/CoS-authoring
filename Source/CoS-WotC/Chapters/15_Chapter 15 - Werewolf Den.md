@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 15 Werewolf Den]]"
+chapter: 15
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 15
+  - Ch. 15
+---
 # Chapter 15: Werewolf Den 
 
 West of Lake Baratok is a cave complex that the werewolves of Barovia use as a den. Characters who interrogate captured werewolves can learn the den's location. Most of the werewolf pack is out hunting when the characters first arrive, including the pack's leader, Kiril Stoyanovich.

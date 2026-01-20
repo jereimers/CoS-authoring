@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 6 Old Bonegrinder]]"
+chapter: 6
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 6
+  - Ch. 6
+---
 # Chapter 6: Old Bonegrinder 
 
 Once a grain mill that served Vallaki, this slouching windmill is now home to three night hags: Morgantha and her wretched daughters, Bella Sunbane and Offalia Wormwiggle. The hags are trapped in Barovia, but they like it here. Using their Change Shape action to look like Barovian women - a frumpy mother and her two homely daughters - the hags snatch children, devour them, and use the windmill's grindstone to crush their little bones into powder. This powder is a key ingredient in the hags' dream pastries, which they offer to Barovian adults who are desperate to escape Strahd's domain.

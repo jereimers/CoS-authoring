@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Barovia (J-R) 
 
 ## J. Gates of Ravenloft

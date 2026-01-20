@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Marks of Horror
 
 A gust of air like the foul-smelling breath of some horrible monster greets the adventurers as they climb the steps of a tower in Castle Ravenloft. Nearing the top, they begin to hear the beating of a heart in the darkness above. Not a human heart, but the heart of something monstrous and horrible. Such is the nature of gothic horror: fear bred by anticipation and the dark realization that all will be truly and horribly revealed in time.

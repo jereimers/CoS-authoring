@@ -86,7 +86,7 @@ If one or more of your players are using the [[Running the Adventure#Adventure H
 
 ## A2a. The Arrival
 ### Entrance
-This scene takes place in [[19_Appendix B - Death House#1. Entrance]].
+This scene takes place in [[18_Appendix B - Death House#1. Entrance]].
 
 Read all players the following text:
 
@@ -403,7 +403,7 @@ A creature that is pushed over the edge of the balcony falls two stories, or twe
 > | 6 | Increase the armor's hit points to 48. |
 
 ### Master Suite
-[[19_Appendix B - Death House#12. Master Suite|Master Suite]]
+[[18_Appendix B - Death House#12. Master Suite|Master Suite]]
 
 When a player first approaches this door, read:
 
@@ -415,7 +415,7 @@ When a player first approaches this door, read:
 <p>And then, just as suddenly as it appeared, the shadow evaporates. The biting cold ebbs away, and the house's quiet sounds return once more.</p>
 </div>
 
-This room is largely as described in [[19_Appendix B - Death House#12. Master Suite|Master Suite]]. When the players enter this room, read:
+This room is largely as described in [[18_Appendix B - Death House#12. Master Suite|Master Suite]]. When the players enter this room, read:
 
 <div class="description">
 <p>You enter a dusty, cobweb-filled master bedroom with burgundy drapes covering the windows. A four-poster bed with embroidered curtains and tattered gossamer veils stands against the center wall.</p>
@@ -1198,13 +1198,13 @@ The apparitions are harmless and intangible figments that can't be damaged, turn
 # A3. Outside Death House
 When the players exit Death House, the storm overhead has slowed to a mere drizzle, and the mists around the house have disappeared. Night has long since fallen, and the waning moon is high in the sky.
 
-Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the [[Old Svalich Road]] (p. 33), rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with the [[03_Chapter 2 - The Lands of Barovia#Mists of Ravenloft|Mists of Ravenloft]] (p. 23).
+Most surprisingly, the players now find themselves in a dark forest clearing at the beginning of the [[Old Svalich Road]] (p. 33), rather than in the streets of Daggerford. The road travels west. To the east lie dark, endless woods filled with the [[02_Chapter 2 - The Lands of Barovia#Mists of Ravenloft|Mists of Ravenloft]] (p. 23).
 
 The house then collapses into the earth, leaving a dark and bottomless pit behind. If the players still have it, Elisabeth Durst's amber shard then crumbles into dust. The pit vanishes the first time the players depart the clearing.
 
 If they’re still possessing the players, [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] and [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]]’s spirits end their possessions. The children remark that the woods resembles the Svalich Woods, which once surrounded their home—Barovia. However, the children add that these particular woods are unfamiliar to them, and that they seem to be far from their family's original village.
 
-As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The architecture of the tower is as described in [[03_Chapter 2 - The Lands of Barovia#Will-o'-Wisp|Will-o'Wisp]] (p. 33), but the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
+As the players explore their surroundings, they can quickly see the top of an old, ruined stone tower poking up through the treetops. The architecture of the tower is as described in [[02_Chapter 2 - The Lands of Barovia#Will-o'-Wisp|Will-o'Wisp]] (p. 33), but the interior is not desecrated ground, there is no wooden chest on the ground, and there are no **zombies** or **will-o'-wisps** inside or around the tower.
 
 The players can easily surmise that this ruin appears to be a safe place to spend the night. Rose and Thorn offer to serve as sentries while the players rest, watching the woods and awakening the players should any threats emerge.
 

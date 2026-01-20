@@ -4,7 +4,7 @@ name: Town of Vallaki
 aliases:
   - Vallaki
 area_code: N
-WotC_ref: "[[06_Chapter 5 - The Town of Vallaki]]"
+WotC_ref: "[[05_Chapter 5 - The Town of Vallaki]]"
 CoS-R_ref:
 parent_region: "[[Barovia]]"
 arcs:
@@ -119,7 +119,7 @@ A 15-foot-high wall encloses the town, its vertical logs held together with thic
 # Notes
 # Sources
 ## _WotC_
-[[06_Chapter 5 - The Town of Vallaki]] describes the town of Vallaki.
+[[05_Chapter 5 - The Town of Vallaki]] describes the town of Vallaki.
 ## _CoS-R_
 [[Arc C - Into the Valley#C12. The Town of Vallaki]]
 [[Arc D - St. Andral's Feast]]

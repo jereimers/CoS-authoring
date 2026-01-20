@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Temple (X16-X25)
 
 #[[X16. West Scroll Repository]]

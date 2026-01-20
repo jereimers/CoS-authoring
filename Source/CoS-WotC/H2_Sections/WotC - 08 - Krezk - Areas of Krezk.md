@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Krezk
 
 %% --- Page 197 --- %%

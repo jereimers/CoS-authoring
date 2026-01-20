@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Tower
 
 The following areas correspond to labels on the map of Van Richten's Tower below.

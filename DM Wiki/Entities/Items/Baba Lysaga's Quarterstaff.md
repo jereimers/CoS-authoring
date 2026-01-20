@@ -1,7 +1,7 @@
 ---
 belongs_to: "[[Baba Lysaga]]"
 CoS-R_ref:
-WotC_ref: "[[21_Appendix D - Monsters and NPCs#Baba Lysaga]]"
+WotC_ref: "[[20_Appendix D - Monsters and NPCs#Baba Lysaga]]"
 current_location: "[[Baba Lysaga]]"
 tags:
   - ai_generated

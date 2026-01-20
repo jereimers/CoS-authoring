@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Special Events
 
 You can use one or both of the following special events while the characters are exploring Van Richten's Tower.

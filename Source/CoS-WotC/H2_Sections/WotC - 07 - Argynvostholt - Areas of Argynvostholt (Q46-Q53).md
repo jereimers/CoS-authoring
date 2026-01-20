@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Argynvostholt (Q46-Q53) 
 
 #[[Q46. Destroyed Ballista]]

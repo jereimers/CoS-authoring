@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Approaching the Winery 
 
 If the characters continue toward the winery, read:

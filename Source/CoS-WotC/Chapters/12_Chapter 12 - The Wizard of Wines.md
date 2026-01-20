@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 12 The Wizard of Wines]]"
+chapter: 12
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 12
+  - Ch. 12
+---
 # Chapter 12: The Wizard of Wines 
 
 Wine is the lifeblood of the Barovian people. It is one of the only indulgences left to them. Without it, many Barovians would lose their last shred of hope and succumb to utter despair.

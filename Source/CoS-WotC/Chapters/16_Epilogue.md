@@ -1,3 +1,10 @@
+---
+source: "[[00_full-source#Epilogue]]"
+chapter: 16
+tags:
+  - cos
+  - source/chapter
+---
 # Epilogue 
 
 Strahd is a deadly challenge for the characters. If they confront the vampire too soon, without the benefit of magic items such as the Holy Symbol of Ravenkind and the Sunsword, they will likely perish. Characters can improve their chances of survival by exploring the land of Barovia, defeating lesser evils, and gaining allies, magic items, and levels of experience.

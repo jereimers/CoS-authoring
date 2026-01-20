@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Adventure Hooks
 
 In the event that begins the adventure, the fates of Strahd and the adventurers are entwined as the characters are invited or forced into his domain. Different ways to get the adventurers to Barovia are described in the sections that follow. Use whichever one you favor.

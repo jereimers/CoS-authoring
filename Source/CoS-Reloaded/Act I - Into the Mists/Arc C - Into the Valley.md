@@ -46,7 +46,7 @@ As the players continue down the road, read:
 
 <div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
 
-While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See [[03_Chapter 2 - The Lands of Barovia#Strahd's Spies|Strahd's Spies]], pg. 29 for more information.)
+While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See [[02_Chapter 2 - The Lands of Barovia#Strahd's Spies|Strahd's Spies]], pg. 29 for more information.)
 
 If the players received the location of Van Richten’s hidden weapons cache from [[Doru]] in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
 
@@ -73,9 +73,9 @@ As the players approach this area, the drizzling rain stops. Read:
 
 <div class="description"><p>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.</p></div>
 
-The players have arrived at the River Ivlis Crossroads, which is largely as described in [[03_Chapter 2 - The Lands of Barovia#F. River Ivlis Crossroads|F. River Ivlis Crossroads]] (p. 35). Do not check for a random encounter when the players arrive.
+The players have arrived at the River Ivlis Crossroads, which is largely as described in [[02_Chapter 2 - The Lands of Barovia#F. River Ivlis Crossroads|F. River Ivlis Crossroads]] (p. 35). Do not check for a random encounter when the players arrive.
 
-This scene begins similarly to [[River Ivlis Crossroads]] (p. 35). However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in [[03_Chapter 2 - The Lands of Barovia#I. Black Carriage|I. Black Carriage]] (p. 37) and [[05_Chapter 4 - Castle Ravenloft#K4. Carriage House|K4. Carriage House]] (p. 54), comes into view.
+This scene begins similarly to [[River Ivlis Crossroads]] (p. 35). However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in [[02_Chapter 2 - The Lands of Barovia#I. Black Carriage|I. Black Carriage]] (p. 37) and [[04_Chapter 4 - Castle Ravenloft#K4. Carriage House|K4. Carriage House]] (p. 54), comes into view.
 ## C2a. Strahd’s Arrival
 The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in [[K49. Lounge]] (p. 70). If present, [[Ireena]] gasps at the sight of him, whispering that she thought that he was dead.
 
@@ -484,7 +484,7 @@ Give the players a few minutes away from the table to plan out their stories bef
 >
 > A spell of removal can also cure an afflicted lycanthrope, though those who accept the beast may fight it bitterly. As for those unfortunate souls born under the curse, they are doomed to bear their affliction for life. As far as my research has shown, there exists no cure, no respite for such individuals. They are caught in an eternal struggle, forever haunted by the wolf within.
 ### Stanimir’s Tale
-Stanimir goes first, delivering the same tale as described in [[02_Chapter 1 - Into the Mists#The Dancing Fire|The Dancing Fire]] (p. 20). However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
+Stanimir goes first, delivering the same tale as described in [[01_Chapter 1 - Into the Mists#The Dancing Fire|The Dancing Fire]] (p. 20). However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
 
 When his tale has ended and all participants have made their guesses—Eliza and Arturi going last, with Eliza voting “True” and Arturi voting “Half-True”—Stanimir reveals that his story was indeed a true tale of the Vistani people, and that the wounded prince lived on as a friend to the Vistani, even when his heart was led astray by shadows and mist. (If asked, Stanimir admits that the prince was [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd von Zarovich]] in the days before he came to Barovia, and that his promise to the Vistani is why they remain in the valley to this day, “without fear or favor.”)
 ### Eliza’s Tale
@@ -770,9 +770,9 @@ As the players depart this area, a player with a passive Wisdom (Perception) sco
 > [!lore]+ **The Watching Wolves**
 > The two wolves are **werewolves** in wolf form. Bloodthirsty brutes loyal to Kiril Stoyanovich and Strahd von Zarovich, they will reappear to stalk the players in [[#C11. The Werewolves' Hunt]].
 ## C7b. Tser Falls
-[[<em>This scene takes place in Chapter 2: Area H.</em>]]
+<em>This scene takes place in Chapter 2: Area H.</em>
 
-This area is largely as described in [[Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)]] standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
+This area is largely as described in [[02_Chapter 2 - The Lands of Barovia#H. Tser Falls|H. Tser Falls]] (p. 37). Additionally, when the players arrive, they can see a [[02_Chapter 2 - The Lands of Barovia#Revenant|Revenant]] (p. 31) standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
 
 ![[Source/CoS-Reloaded/Appendices/images/tser-falls-revenant.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
@@ -819,17 +819,17 @@ Before the players depart, the revenant warns them to beware "those who walk in 
 
 The revenant will not leave its post on the bridge under any circumstances.
 # C8. Black Carriage
-[[<em>This scene takes place in Chapter 2: Area I.</em>]]
+<em>This scene takes place in Chapter 2: Area I.</em>
 
-The journey from Tser Falls to the [[Black Carriage (p. 37)]] is one-and-a-half miles and takes thirty minutes. As the players make this journey, read:
+The journey from Tser Falls to the [[Black Carriage]] (p. 37) is one-and-a-half miles and takes thirty minutes. As the players make this journey, read:
 
 <div class="description"><p>You continue down the winding road, which climbs a short distance north before bending west to avoid a bald-headed peak on the right, its craggy cliffs bearing an array of sharp rocks that jut out over the roadway.</p>
 <p>It's not long before the road bends north once again, a second hill arising from the fog on your left. Twisted trees dot its steep slopes, their branches reaching out like gnarled fingers.</p>
 <p>As you travel deeper between the hills, the road narrows and the cliffs grow taller. Soon, though, the hills fall away once more, the road continuing forth into a small, fog-choked basin.</p></div>
 
-This area is as described in [[Black Carriage (p. 37)]]. (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
+This area is as described in [[02_Chapter 2 - The Lands of Barovia#I. Black Carriage|I. Black Carriage]] (p. 37). (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
 
-The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in [[Gates of Barovia (p. 33)]], but seen from the opposite side.
+The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in [[02_Chapter 2 - The Lands of Barovia#B. Gates of Barovia|B. Gates of Barovia]] (p. 33), but seen from the opposite side.
 
 > [!abstract]+ **Visiting Castle Ravenloft**
 > If the players decide to visit Castle Ravenloft (e.g., to investigate Gertruda's disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
@@ -1288,7 +1288,7 @@ If the players linger at [[Rictavio]]'s table, the Wachter brothers are happy (i
 - [[Baron Vargas Vallakovich|the Baron]]'s response to those who speak ill of the festivals, and
 - the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
 
-(See [[Vallaki Lore]] (p. 96). Once the players have won the brothers' trust, the conversation proceeds as described in [[06_Chapter 5 - The Town of Vallaki#N2c. Taproom|N2c. Taproom]] (p. 100).
+(See [[Vallaki Lore]] (p. 96). Once the players have won the brothers' trust, the conversation proceeds as described in [[05_Chapter 5 - The Town of Vallaki#N2c. Taproom|N2c. Taproom]] (p. 100).
 
 Through conversation, it becomes evident that the brothers have a deep, personal enmity toward [[Izek Strazni]] and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 20 Charisma (Persuasion) check.
 
@@ -1299,7 +1299,7 @@ At some point during the conversation, Danika approaches the table to clear away
 - Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
 - As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
 
-If the players ask [[Urwin Martikov|Urwin]] or [[Danika Dorakova|Danika]] about the Wachter brothers, Urwin can tell them the information listed in [[06_Chapter 5 - The Town of Vallaki#N2c. Taproom|N2c. Taproom]] (p. 100). If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
+If the players ask [[Urwin Martikov|Urwin]] or [[Danika Dorakova|Danika]] about the Wachter brothers, Urwin can tell them the information listed in [[05_Chapter 5 - The Town of Vallaki#N2c. Taproom|N2c. Taproom]] (p. 100). If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
 ### Eating Dinner
 Shortly after [[Rictavio]]'s story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
 
@@ -1376,7 +1376,7 @@ If he fails to detect the players, [[Rictavio]] uses his *hat of disguise* to as
 ### Exiting the Inn
 As the players depart the [[Blue Water Inn]] on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
 
-* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: [[Baron Vargas Vallakovich]] (as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family|Roleplaying the Vallakovich Family]], p. 105) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. [[Izek Strazni]] leads the procession. 
+* The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: [[Baron Vargas Vallakovich]] (as described in [[05_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family|Roleplaying the Vallakovich Family]], p. 105) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. [[Izek Strazni]] leads the procession. 
 * The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is [[Willemina Rikalova]], the mother of the imprisoned shoemaker [[Udo Lukovich]].)
 * [[Baron Vargas Vallakovich|The Baron]] angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with [[Baron Vargas Vallakovich|the Baron]] to release her son, Udo, claiming that he meant no harm with his “foolish joke.” 
 * [[Baron Vargas Vallakovich|The Baron]] insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 

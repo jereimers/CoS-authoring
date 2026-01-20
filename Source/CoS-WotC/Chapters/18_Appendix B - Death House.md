@@ -1,3 +1,10 @@
+---
+source: "[[00_full-source#Appendix B Death House]]"
+chapter: 18
+tags:
+  - cos
+  - source/chapter
+---
 # Appendix B: Death House 
 
 You can run Curse of Strahd for 1st-level characters with the help of this optional mini-adventure, which is designed to advance characters to 3rd level. Players creating 1st-level characters can use the haunted one character background in appendix A, or they can pick backgrounds from the Player's Handbook as normal.

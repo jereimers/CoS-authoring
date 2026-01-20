@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Temple (X1-X6) 
 
 The following areas correspond to labels on the maps of the Amber Temple below.

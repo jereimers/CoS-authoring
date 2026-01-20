@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Town Gates 
 
 Three tall gates made of iron bars lead into town:

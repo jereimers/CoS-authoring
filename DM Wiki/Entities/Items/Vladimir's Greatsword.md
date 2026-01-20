@@ -1,7 +1,7 @@
 ---
 belongs_to: "[[Vladimir Horngaard]]"
 CoS-R_ref:
-WotC_ref: "[[21_Appendix D - Monsters and NPCs#Vladimir Horngaard]]"
+WotC_ref: "[[20_Appendix D - Monsters and NPCs#Vladimir Horngaard]]"
 current_location: "[[Vladimir Horngaard]]"
 tags:
   - ai_generated

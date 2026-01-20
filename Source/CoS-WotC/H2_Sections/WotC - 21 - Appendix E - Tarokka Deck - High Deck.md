@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # High Deck
 
 The cards that compose the high deck aren't considered to be one suit, although they are often denoted with a crown icon to mark their importance. Rather, each card is an important power in its own right. If one of these cards comes out in a casting and seems to contradict the prediction of an earlier card, the Vistani always assume that this card takes precedence.

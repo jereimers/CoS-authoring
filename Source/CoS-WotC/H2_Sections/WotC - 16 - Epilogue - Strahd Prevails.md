@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Strahd Prevails
 
 Once he is done toying with the characters, Strahd sets out to defeat them utterly, having concluded that none of them is worthy to replace him as the lord of Barovia. He won't be satisfied until all the characters are dead or turned into his vampire spawn consorts.

@@ -22,9 +22,9 @@ It's also possible that Ireena can speak with the Baron when the party goes to v
 
 This begins when the players take the toy they purchased from Blinsky to the Vistani Camp, a half-hour's walk southwest of the village.
 
-1. Read the description of the Vistani Camp ([[06_Chapter 5 - The Town of Vallaki#N9. Vistani Camp|WOTC]]) and offer them a choice -- up the hill, or speak to one fo the guards
+1. Read the description of the Vistani Camp ([[05_Chapter 5 - The Town of Vallaki#N9. Vistani Camp|WOTC]]) and offer them a choice -- up the hill, or speak to one fo the guards
 2. **If up the hill:** [[E2a - The Vistani Encampment]], read what's happening in the tent, and the players have a conversation with Luvash, and he asks them for help with the ring, and he sends them to Kasimir to retrieve it.
-	1. **Investigate the site of her disappearance?** if the party wants to track Arabelle from the site of her disappearance, allow them to do it but be mindful of the time of day. If it's nighttime, run a random encounter when they reach [[03_Chapter 2 - The Lands of Barovia#P. Luna River Crossroads|P. Luna River Crossroads]]
+	1. **Investigate the site of her disappearance?** if the party wants to track Arabelle from the site of her disappearance, allow them to do it but be mindful of the time of day. If it's nighttime, run a random encounter when they reach [[02_Chapter 2 - The Lands of Barovia#P. Luna River Crossroads|P. Luna River Crossroads]]
 3. **If speak to guard:** They can direct the players up the hill (if they inquire about the Vistani) or to Kasimir's hovel. If Kasimir, they note that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
 4. [[E2c - Kasimir’s Hovel]] - read the description! Then introduce Kasimir "sitting on the green rug facing the fire, meditating". He is a "mutilated, grief-stricken dusk elf"
 

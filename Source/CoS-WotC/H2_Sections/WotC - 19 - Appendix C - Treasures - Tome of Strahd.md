@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Tome of Strahd
 
 ![img-109.jpeg](img-109.jpeg)

@@ -3,7 +3,7 @@ type: Area
 name: Bathroom
 aliases:
 area_code: E7-13
-WotC_ref: "[[19_Appendix B - Death House#13. Bathroom]]"
+WotC_ref: "[[18_Appendix B - Death House#13. Bathroom]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Bathroom]]"
 parent_region: "[[Haunted House]]"
 arcs:

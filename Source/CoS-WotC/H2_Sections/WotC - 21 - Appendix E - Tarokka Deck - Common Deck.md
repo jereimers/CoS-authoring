@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Common Deck 
 
 The four suits and their respective cards are described in more detail below.

@@ -3,7 +3,7 @@ type: Area
 name: Attic Hall
 aliases:
 area_code: E7-16
-WotC_ref: "[[19_Appendix B - Death House#16. Attic Hall]]"
+WotC_ref: "[[18_Appendix B - Death House#16. Attic Hall]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Attic Hall]]"
 parent_region: "[[Haunted House]]"
 arcs:

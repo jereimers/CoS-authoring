@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Temple (X26-X33)
 
 #[[X26. Secret Alcove]]

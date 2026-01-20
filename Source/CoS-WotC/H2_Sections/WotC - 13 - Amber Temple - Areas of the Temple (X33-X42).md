@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Temple (X33-X42)
 
 ## X33. Amber Vaults

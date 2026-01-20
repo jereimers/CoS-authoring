@@ -1,3 +1,10 @@
+---
+source: "[[00_full-source#Appendix E The Tarokka Deck]]"
+chapter: 21
+tags:
+  - cos
+  - source/chapter
+---
 The Vistani have long been masters of fortune-telling. In the hands of a Vistani seer, a deck of tarokka cards can tell tales of the future and provide answers to many a dark and mysterious question.
 
 Although the workmanship and artistic quality of the cards can vary from deck to deck, the ability of the cards to call forth information about the future is far more valuable than the monetary worth of a deck.

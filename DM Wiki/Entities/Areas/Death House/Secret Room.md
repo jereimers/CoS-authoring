@@ -3,7 +3,7 @@ type: Area
 name: Secret Room
 aliases:
 area_code: E7-9
-WotC_ref: "[[19_Appendix B - Death House#9. Secret Room]]"
+WotC_ref: "[[18_Appendix B - Death House#9. Secret Room]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Secret Room]]"
 parent_region: "[[Haunted House]]"
 arcs:

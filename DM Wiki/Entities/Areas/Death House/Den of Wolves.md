@@ -3,7 +3,7 @@ type: Area
 name: Den of Wolves
 aliases:
 area_code: E7-3
-WotC_ref: "[[19_Appendix B - Death House#3. Den of Wolves]]"
+WotC_ref: "[[18_Appendix B - Death House#3. Den of Wolves]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Den of Wolves]]"
 parent_region: "[[Haunted House]]"
 arcs:

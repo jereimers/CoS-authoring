@@ -3,7 +3,7 @@ type: Area
 name: Burgomaster's Mansion
 aliases:
 area_code: E4
-WotC_ref: "[[04_Chapter 3 - The Village of Barovia#E4. Burgomaster's Mansion]]"
+WotC_ref: "[[03_Chapter 3 - The Village of Barovia#E4. Burgomaster's Mansion]]"
 CoS-R_ref: "[[Arc B - Welcome to Barovia#B5d. The Burgomaster’s Mansion]]"
 parent_region: "[[Village of Barovia]]"
 arcs:

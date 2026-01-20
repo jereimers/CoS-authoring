@@ -3,7 +3,7 @@ type: Area
 name: Cult Initiates' Quarters
 aliases:
 area_code: E7-24
-WotC_ref: "[[19_Appendix B - Death House#24. Cult Initiates' Quarters]]"
+WotC_ref: "[[18_Appendix B - Death House#24. Cult Initiates' Quarters]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Cult Initiates' Quarters]]"
 parent_region: "[[Haunted House]]"
 arcs:

@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 3 The Village of Barovia]]"
+chapter: 3
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 3
+  - Ch. 3
+---
 # Chapter 3: The Village of Barovia 
 
 The village of Barovia is the saddest place in the land, its residents so terrified of Strahd that they rarely venture from their homes. The village lies in the shadow of Castle Ravenloft, buried under fog but still unable to hide from the vampire's sight.

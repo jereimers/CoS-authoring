@@ -1,3 +1,13 @@
+---
+source: "[[00_full-source#Chapter 9 Tsolenka Pass]]"
+chapter: 9
+tags:
+  - cos
+  - source/chapter
+aliases:
+  - Chapter 9
+  - Ch. 9
+---
 # Chapter 9: Tsolenka Pass 
 
 ![img-77.jpeg](img-77.jpeg)

@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Random Encounters
 
 The first time the characters enter a castle area that isn't otherwise occupied, check for a random encounter. Also check for a random encounter every 10 minutes the characters spend resting in the castle.

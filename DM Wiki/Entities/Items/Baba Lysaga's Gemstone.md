@@ -1,7 +1,7 @@
 ---
 belongs_to: "[[Baba Lysaga]]"
 CoS-R_ref:
-WotC_ref: "[[21_Appendix D - Monsters and NPCs#Baba Lysaga's Creeping Hut]]"
+WotC_ref: "[[20_Appendix D - Monsters and NPCs#Baba Lysaga's Creeping Hut]]"
 current_location: "[[Baba Lysaga's Creeping Hut]]"
 tags:
   - ai_generated

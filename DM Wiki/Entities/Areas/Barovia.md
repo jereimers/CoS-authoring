@@ -5,7 +5,7 @@ aliases:
   - Barovia Valley
   - Valley of Barovia
 area_code:
-WotC_ref: "[[03_Chapter 2 - The Lands of Barovia]]"
+WotC_ref: "[[02_Chapter 2 - The Lands of Barovia]]"
 CoS-R_ref:
 parent_region: "[[Domains of Dread]]"
 arcs:
@@ -48,7 +48,7 @@ publish: true
 
 %%
 # Map
-
+![[map-02.01-barovia.jpg]]
 
 # Images
 

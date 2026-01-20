@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Running the Adventure
 
 Curse of Strahd is a story of gothic horror, presented here as Dungeons \& Dragons roleplaying game adventure for a party of four to six adventurers of levels 1-10. A balance of character classes is helpful, since the adventurers will face a variety of challenges. Each character class will certainly have its moment to shine.

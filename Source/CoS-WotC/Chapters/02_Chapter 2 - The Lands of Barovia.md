@@ -1,3 +1,10 @@
+---
+source: "[[00_full-source#Chapter 2 The Lands of Barovia]]"
+chapter: 2
+tags:
+  - cos
+  - source/chapter
+---
 # Chapter 2: The Lands of Barovia 
 
 The idyllic valley nestled in the Balinok Mountains was a slice of heaven to those who knew of its existence before Strahd's arrival. The serenity of the place was forever shattered when Strahd led a bloody crusade against the enemies of his family that ended here with the slaughter of hundreds. Struck by the scenic beauty of his most recent conquest and eager to escape the shadow of his father's legacy, Strahd made the valley his home and named it Barovia after the late King Barov, his father.
@@ -550,6 +557,8 @@ If the characters are walking along the road, they arrive at area B after 5 hour
 ### B. Gates of Barovia 
 
 Two sets of these gates exist: one west of the village of Barovia and one east of the village.
+
+![[02-004.gates-of-barovia.png]]
 
 The fog spills out of the forest to swallow up the road behind you. Ahead, jutting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeds at their feet. They greet you only with silence.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # **Special Events**
 
 You can use one or both of the following events as the characters explore Argynvostholt.

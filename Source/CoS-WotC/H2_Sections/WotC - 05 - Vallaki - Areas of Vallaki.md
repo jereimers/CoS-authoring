@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of Vallaki 
 
 The following areas correspond to labels on the map of Vallaki above.

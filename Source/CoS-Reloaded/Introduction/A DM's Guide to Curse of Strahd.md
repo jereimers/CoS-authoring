@@ -122,7 +122,7 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 [[Arc S - A Sword of Sunlight]]. The players retrieve the broken *Sunsword* from the Amber Temple.
 [[Arc T - The Three Fanes]]. The players aid their Barovian friends in order to cleanse the land of Strahd's corruption.
 [[Arc U - Dreams of Dawn]]. The players must defeat the vampire Strahd von Zarovich, once and for all.
-[[17_Epilogue]]. Coming soon.
+[[16_Epilogue]]. Coming soon.
 ## Appendices
 [[Non-Player Characters]]. A compendium of every major NPC in the adventure.
 [[Amber Shards]]. A compendium of every amber shard that appears in the adventure.

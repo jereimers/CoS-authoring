@@ -1,3 +1,10 @@
+---
+source: "[[00_full-source#Appendix D Monsters and NPCs]]"
+chapter: 20
+tags:
+  - cos
+  - source/chapter
+---
 # Appendix D: Monsters and NPCs 
 
 Barovia is a land of vampires, ghosts, and werewolves. In addition, adventurers who explore this unholy realm encounter other things that go bump in the night, including creatures born out of Strahd's evil. The new monsters that appear in this adventure are described below, along with several of the vampire's allies and enemies-souls whose fates are entwined with those of the adventurers. Strahd himself appears here as well.

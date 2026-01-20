@@ -3,7 +3,7 @@ type: Area
 name: Family Crypts
 aliases:
 area_code: E7-23
-WotC_ref: "[[19_Appendix B - Death House#23. Family Crypts]]"
+WotC_ref: "[[18_Appendix B - Death House#23. Family Crypts]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Family Crypts]]"
 parent_region: "[[Haunted House]]"
 arcs:

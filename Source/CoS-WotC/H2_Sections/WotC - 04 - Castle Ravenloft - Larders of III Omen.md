@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Larders of III Omen
 
 Refer to map 11 of the castle for areas K61 through K72.

@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Windmill 
 
 The following areas correspond to labels on the map of Old Bonegrinder below.

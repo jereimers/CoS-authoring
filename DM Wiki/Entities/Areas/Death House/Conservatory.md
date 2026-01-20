@@ -3,7 +3,7 @@ type: Area
 name: Conservatory
 aliases:
 area_code: E7-10
-WotC_ref: "[[19_Appendix B - Death House#10. Conservatory]]"
+WotC_ref: "[[18_Appendix B - Death House#10. Conservatory]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Conservatory]]"
 parent_region: "[[Haunted House]]"
 arcs:

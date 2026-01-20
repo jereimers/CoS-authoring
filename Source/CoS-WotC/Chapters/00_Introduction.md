@@ -1,3 +1,10 @@
+---
+source: "[[00_full-source#Introduction]]"
+chapter: 0
+tags:
+  - cos
+  - source/chapter
+---
 # Introduction 
 
 Under raging storm clouds, a lone figure stands silhouetted against the ancient walls of Castle Ravenloft. The vampire Count Strahd von Zarovich stares down a sheer cliff at the village below. A cold, bitter wind spins dead leaves about him, billowing his cape in the darkness.

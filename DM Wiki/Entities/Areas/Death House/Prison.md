@@ -3,7 +3,7 @@ type: Area
 name: Prison
 aliases:
 area_code: E7-36
-WotC_ref: "[[19_Appendix B - Death House#36. Prison]]"
+WotC_ref: "[[18_Appendix B - Death House#36. Prison]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Prison]]"
 parent_region: "[[Haunted House]]"
 arcs:

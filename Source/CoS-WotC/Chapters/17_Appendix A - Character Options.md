@@ -1,3 +1,10 @@
+---
+source: "[[00_full-source#Appendix A Character Options]]"
+chapter: 17
+tags:
+  - cos
+  - source/chapter
+---
 # Appendix A: Character Options 
 
 During character creation, players can select the following background for their characters, with your approval. It is appropriate for any character or campaign associated with eeriness or horror.

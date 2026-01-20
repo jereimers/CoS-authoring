@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Walls of Ravenloft 
 
 ## K1. Front Courtyard

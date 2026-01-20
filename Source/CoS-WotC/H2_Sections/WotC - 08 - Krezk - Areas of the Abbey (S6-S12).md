@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Abbey (S6-S12)
 
 The following areas correspond to labels on the maps of the Abbey of Saint Markovia below.

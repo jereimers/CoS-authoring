@@ -3,7 +3,7 @@ type: Area
 name: Cult Leaders' Quarters
 aliases:
 area_code: E7-34
-WotC_ref: "[[19_Appendix B - Death House#34. Cult Leaders' Quarters]]"
+WotC_ref: "[[18_Appendix B - Death House#34. Cult Leaders' Quarters]]"
 CoS-R_ref: "[[Arc A - Escape From Death House#Cult Leaders' Quarters]]"
 parent_region: "[[Haunted House]]"
 arcs:

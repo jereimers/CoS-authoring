@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Abbey (S13-S18) 
 
 ## S13. Main Hall

@@ -1,3 +1,7 @@
+---
+tags:
+  - cos
+---
 # Areas of the Temple (X7-X15) 
 
 #[[X7. Secret Scroll Repository]]
