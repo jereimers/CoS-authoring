@@ -48,7 +48,7 @@ The adventurers' best hope of defeating Strahd is to learn his secrets, for he i
 
 Although the adventurers can escape by slaying Strahd, he can't be truly destroyed. Barovia is his prison, and not even death can free him from his curse.
 
-The adventure ends when either [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] or the characters are defeated. Your goal is to keep Strahd in play for as long as possible, using all the abilities and resources at his disposal.
+The adventure ends when either [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] or the characters are defeated. Your goal is to keep Strahd in play for as long as possible, using all the abilities and resources at his disposal.
 
 ### Adventure Structure
 

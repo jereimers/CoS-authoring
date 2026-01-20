@@ -303,7 +303,7 @@ Brom and Bray Martikova don't spend much time in this room. The toy box contains
 - A stuffed (real) bat on puppet strings
 
 A hidden trapdoor in the 8 -foot-high ceiling opens into a secret attic (area N2q).
-![[05-010.blinsky.png]]
+![[05-005.martikov-family.png]]
 
 #### N2p. Master Bedroom
 
@@ -317,7 +317,7 @@ A hidden trapdoor in the 8 -foot-high ceiling opens into a secret attic (area N2
 
 #### N2q. Secret Attic 
 
-This ten-foot-wide, thirty-five-foot-long attic has a ceiling that slants down toward the west, dropping from a height of eight feet to a height of five feet. Four straw nestsover the floor, and a locked iron strongbox sits against the north wall. A small square opening in the south wall leads outside. Two trapdoors with iron hinges are set into the floor.
+This ten-foot-wide, thirty-five-foot-long attic has a ceiling that slants down toward the west, dropping from a height of eight feet to a height of five feet. Four straw nests over the floor, and a locked iron strongbox sits against the north wall. A small square opening in the south wall leads outside. Two trapdoors with iron hinges are set into the floor.
 
 The Martikovs sleep here at night in hybrid form. The opening in the south wall is just big enough for a raven or other Tiny creature to pass through. The wereravens can use this opening as an escape route.
 
@@ -461,6 +461,7 @@ This handsomely appointed room contains a canopied bed, a low bookshelf, and a f
 Nothing about his bedroom betrays Victor's deviant nature or magical proclivities. The books include collections of Barovian fables and tomes abor mythology, heraldry, and other innocuous subjects.
 
 %% --- Page 146 --- %%
+#### N3l. Library
 Floor-to-ceiling shelves line every wall of this windowless room, and the number of books contained here is nothing short of astounding. A brass oil lamp sits atop a large desk in the center of the room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched into its back cushion.
 
 If the burgomaster has not been drawn elsewhere, he is here. Add:

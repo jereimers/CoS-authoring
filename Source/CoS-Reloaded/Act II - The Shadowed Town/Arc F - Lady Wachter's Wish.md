@@ -2,7 +2,7 @@ _An adventure for five 4th-level characters._
 
 In this arc, if the players defied [[Baron Vargas Vallakovich|the Baron]]’s will on their first morning after entering Vallaki, if they or [[Ireena Kolyana|Ireena]] were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of [[Baron Vargas Vallakovich|Baron Vallakovich]] with Nikolai or Karl Wachter at the [[Blue Water Inn]], the players receive a letter delivered by [[Ernst Larnak]], [[Lady Fiona Wachter]]’s courier and spy, which invites them to dine at Wachterhaus that evening.
 
-When the players arrive at Wachterhaus that night, [[Lady Fiona Wachter|Lady Wachter]] welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that [[Baron Vargas Vallakovich]] is a menace who must be deposed.
+When the players arrive at [[Wachterhaus]] that night, [[Lady Fiona Wachter|Lady Wachter]] welcomes them to Vallaki and proceeds to offer them wine, food, and conversation. Throughout the evening, she subtly interrogates the players as to their capabilities and goals, all while working to convince them that [[Baron Vargas Vallakovich]] is a menace who must be deposed.
 
 If [[Lady Fiona Wachter|Lady Wachter]] determines that the players are suitable allies, she asks them to kill [[Baron Vargas Vallakovich|the Baron]]’s right-hand man, [[Izek Strazni]], and to bring her his head. [[Lady Fiona Wachter|Lady Wachter]] promises the safety of the Barovian refugees, as well additional payment, should the players succeed.
 
@@ -346,9 +346,9 @@ While he is poisoned in this way, treat Izek’s passive Wisdom (Perception) sco
 
 If Izek is undisturbed, he leaves Lake Zarovich and returns to the burgomaster’s mansion approximately four hours later. If Izek is attacked, he defends himself, vowing to destroy the players for their insolence. Izek always begins combat using the statistics of his **first form**. Upon realizing his poisoned state at the end of his first turn in combat, Izek roars in rage and demands to know what the players have done to him.
 
-If the players ask the truth behind the [[authoring/DM Wiki/Entities/NPCs/Ireena Kolyana|Ireena]]-shaped doll, Izek snarls that the doll is none of their business.
+If the players ask the truth behind the [[Ireena Kolyana|Ireena]]-shaped doll, Izek snarls that the doll is none of their business.
 
-If [[authoring/DM Wiki/Entities/NPCs/Ireena Kolyana|Ireena]] has accompanied the players to the lake, Izek instructs her to stand aside while he "teaches these worms some manners." If defied, he snarls in rage.
+If [[Ireena Kolyana|Ireena]] has accompanied the players to the lake, Izek instructs her to stand aside while he "teaches these worms some manners." If defied, he snarls in rage.
 
 ![[lake-zarovich.jpg]]
 

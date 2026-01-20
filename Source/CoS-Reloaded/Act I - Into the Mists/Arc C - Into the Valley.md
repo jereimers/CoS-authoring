@@ -2,7 +2,7 @@
 
 In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
 
-Upon their arrival at the River Ivlis Crossroads, the players encounter [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool. 
+Upon their arrival at the River Ivlis Crossroads, the players encounter [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool. 
 
 On the way to Tser Pool, the players encounter a raven—the disguised **wereraven** Muriel Vinshaw—fleeing a monstrous **strix**, a scarecrow of the skies crafted by the swamp-witch Baba Lysaga. If the players defend Muriel from the strix’s onslaught, she joins them for the remainder of their journey to Vallaki, though without revealing her true identity.
 
@@ -172,7 +172,7 @@ Whether [[Ireena Kolyana|Ireena]] is with the party or not, add:
 > 
 > When the five rounds have elapsed, Strahd says, "Impressive determination—if ultimately futile." He adds, "Now, let us see how you fare when the true game begins." 
 > 
-> Assuming his [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich#The Mage|Mage]] form, Strahd casts ***telekinetic grasp*** each round to suspend the player in the air above him, and casts ***blindness/deafness*** as a reaction whenever the player makes a melee attack against him. The first time the player fails their saving throw against ***telekinetic grasp***, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
+> Assuming his [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich#The Mage|Mage]] form, Strahd casts ***telekinetic grasp*** each round to suspend the player in the air above him, and casts ***blindness/deafness*** as a reaction whenever the player makes a melee attack against him. The first time the player fails their saving throw against ***telekinetic grasp***, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
 > 
 > The first time the player succeeds their saving throw against ***telekinetic grasp***, Strahd applauds their tenacity, then asks whether they shall choose to continue to fight. (If they do, he continues to fight using his full Mage statblock.)
 > 
@@ -180,7 +180,7 @@ Whether [[Ireena Kolyana|Ireena]] is with the party or not, add:
 > 
 > If the player is knocked unconscious by Strahd's ***telekinetic grasp***, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
 ## C2b. The Conversation Begins
-If undiverted, [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
+If undiverted, [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him. 
 
@@ -195,7 +195,7 @@ If the players ask about Strahd's driver, Strahd introduces him as Escher, "my c
 > [!abstract]+ **Requesting Freedom**
 > If the players ask whether Strahd has intentionally trapped them in Barovia, he truthfully denies doing so. If asked to release them, however, he declines to do so. "Why should I release you," he says, with a wry smile, "when it amuses me to do otherwise?"
 ## C2c. Strahd's Questions
-During the conversation, at moments when it seems natural to do so, [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich#The Gentleman|Strahd]] poses the players the following questions (in no particular order):
+During the conversation, at moments when it seems natural to do so, [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich#The Gentleman|Strahd]] poses the players the following questions (in no particular order):
 
 * "Ismark Kolyanovich defied me by obstructing the justice I meted out unto his village. Why should I, as his lord, not punish him for his disloyalty?"
 * "I have claimed [[Ireena Kolyana]], and marked her as my own. Why should I not take her with me to Castle Ravenloft right now?"
@@ -207,7 +207,7 @@ If the players buried Walter's bones and put the spirits of Death House to rest,
 
 Strahd frames each of these questions as a hypothetical. In asking them, his tone is inquisitive, curious, and at least somewhat amused. If the players despair at the prospect of answering these questions at all, Strahd notes, "I am not an unreasonable man. If there is some reason or rationale that I might have missed, then by all means do enlighten me."
 ## C2d. Strahd's Concessions
-As the players attempt to answer his questions, [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich#The Gentleman|Strahd]] delights in playing Devil's advocate, pushing back against their responses and probing at the holes in their reasoning. Ultimately, though, if the players' points are at least reasonably well-argued, Strahd is willing to accept them. (It should be fairly clear to the players, however, that he is merely humoring them by accepting their responses.)
+As the players attempt to answer his questions, [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich#The Gentleman|Strahd]] delights in playing Devil's advocate, pushing back against their responses and probing at the holes in their reasoning. Ultimately, though, if the players' points are at least reasonably well-argued, Strahd is willing to accept them. (It should be fairly clear to the players, however, that he is merely humoring them by accepting their responses.)
 
 The players can push Strahd to make the following concessions:
 
@@ -774,7 +774,7 @@ As the players depart this area, a player with a passive Wisdom (Perception) sco
 
 This area is largely as described in [[Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)]] standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground. 
 
-![[Source/CoS-R/Appendices/images/tser-falls-revenant.png]]
+![[Source/CoS-Reloaded/Appendices/images/tser-falls-revenant.png]]
 <span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!lore]+ **Vladimir’s Fury**
@@ -1299,7 +1299,7 @@ At some point during the conversation, Danika approaches the table to clear away
 - Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
 - As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
 
-If the players ask [[Urwin]] or Danika about the Wachter brothers, [[Urwin]] can tell them the information listed in [[N2c. Taproom (p. 100)]]. If the players ask about their mother, or about their words about a "stupid Baron," [[Urwin]] becomes visibly uneasy, and promises to speak with the players further in the morning.
+If the players ask [[Urwin Martikov|Urwin]] or [[Danika Dorakova|Danika]] about the Wachter brothers, Urwin can tell them the information listed in [[06_Chapter 5 - The Town of Vallaki#N2c. Taproom|N2c. Taproom]] (p. 100). If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
 ### Eating Dinner
 Shortly after [[Rictavio]]'s story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.) 
 
@@ -1313,9 +1313,9 @@ If the players do not interrupt, Danika scolds the boys as follows:
 
 If the soup was spilled, Danika directs Bray to fetch a pail of water from [[Blue Water Inn#N2a. Well|the well]] outside, and Brom to fetch a mop from the kitchen to clean up the mess. If the soup wasn't spilled, Danika reminds the boys that they're supposed to be helping their father cook dinner, and shoos them into the kitchen.
 
-In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, [[Danika]] smiles fondly and says, "They can be a handful sometimes, but they're good boys."
+In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, [[Danika Dorakova|Danika]] smiles fondly and says, "They can be a handful sometimes, but they're good boys."
 
-If the players ask about the children's masks, Danika tells them that [[Urwin]] bought them from the local toymaker, Gadof Blinsky, who works at [[Blinsky Toys]] (p.118).
+If the players ask about the children's masks, Danika tells them that [[Urwin Martikov|Urwin]] bought them from the local toymaker, Gadof Blinsky, who works at [[Blinsky Toys]] (p.118).
 
 The taproom slowly clears out over the following two hours. Nikolai and Karl Wachter stumble outside and collapse in the inn's shed, too drunk to make their way home.
 
@@ -1340,7 +1340,7 @@ If the players ask whether [[Baron Vargas Vallakovich|the Baron]] has any enemie
 As [[Urwin Martikov|Urwin]]'s conversation draws to a close, [[Rictavio]] descends the stairs from [[Blue Water Inn#N2n. Private Guest Room|his private room]] and approaches the bar, greeting the players with a nod. [[Urwin Martikov|Urwin]] bids him good morning and removes a small parcel from beneath the counter, which [[Rictavio]] accepts and tucks into his cloak.
 
 > [!abstract]+ **What's In the Parcel?**
-> If asked, [[Urwin]] can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
+> If asked, [[Urwin Martikov|Urwin]] can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
 ### Following the Ringmaster
 If one or more players follow [[Rictavio]] out of the [[Blue Water Inn]], they can follow him to [[Blue Water Inn#N2f. Stable|N2f. Stable]] (p. 101) without difficulty.
 
@@ -1382,7 +1382,7 @@ As the players depart the [[Blue Water Inn]] on their first morning in Vallaki, 
 * [[Baron Vargas Vallakovich|The Baron]] insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye. 
 * Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her. 
 * As the old woman is hauled away, [[Baron Vargas Vallakovich|the Baron]] turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
-![[Source/CoS-R/Appendices/images/izek-strazni.png]]
+![[Source/CoS-Reloaded/Appendices/images/izek-strazni.png]]
 <span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 > [!profile]+ **Profile: [[Baron Vargas Vallakovich]]**
@@ -1445,7 +1445,7 @@ If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Pet
 
 The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” [[Baron Vargas Vallakovich|The Baron]] nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
 
-If [[Ireena Kolyana|Ireena]] is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches [[Ireena Kolyana|Ireena]]’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving [[Ireena Kolyana|Ireena]] feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
+If [[Ireena Kolyana|Ireena]] is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent [[Izek Strazni|Izek]] from noticing her, he catches [[Ireena Kolyana|Ireena]]’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving [[Ireena Kolyana|Ireena]] feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
 
 If asked, [[Ireena Kolyana|Ireena]] notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
 

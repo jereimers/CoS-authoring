@@ -2,17 +2,19 @@
 type: NPC
 name: Karl Wachter
 aliases:
+  - Karl
 pronouns: he/him
 race: Human
 class:
 age:
 gender: male
 creature_type: humanoid
-origin:
-home_base:
+origin: "[[Town of Vallaki|Vallaki]]"
+home_base: "[[Wachterhaus]]"
 current_location:
 factions:
 arc:
+  - "[[Arc C - Into the Valley]]"
 first_appearance_session: 9
 first_appearance_date: 2 Neyavr 735
 status: alive
@@ -35,21 +37,25 @@ CoS-R_ref:
 WotC_ref:
 publish: false
 ---
-# Who they are
+# Portrait
 
+![[karl-wachter.png]]
+# Who they are
+The younger son of [[Lady Fiona Wachter]] and a generally drunk rapscallion. Can usually be found in the [[Blue Water Inn]], drinking with his brother [[Nikolai Wachter|Nikolai]]
 
 
 # What the party knows
-
+- Opposes [[Baron Vargas Vallakovich|Baron Vallakovich]]
 
 
 # Personality
-
+- Doesn't say much, usually parrots his brother
+- Prone to outbursts of reckless speech
 
 
 # Where we've seen them
 
-*To be updated during play.*
+- Asked for a story about a "stupid Baron" in [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 9]]
 
 %%
 # Karl Wachter Profile

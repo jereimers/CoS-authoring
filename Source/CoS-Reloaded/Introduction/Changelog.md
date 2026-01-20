@@ -145,12 +145,12 @@
 * Added details of Godfrey being ordered by Vladimir to not speak to players upon their return in [[Arc Q - A Shining Beacon]]
 * Amended Muriel's stat block and added a reminder on NPC allies falling to death saves in [[Arc C - Into the Valley]]
 * Removed Resurrection Madness mechanics from the guide in [[Lore of Barovia]]
-* Amended all vampire bite attacks and HP recovery mechanics to be in line with Strahd's in [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]]
+* Amended all vampire bite attacks and HP recovery mechanics to be in line with Strahd's in [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]]
 * Added necrotic resistance to the Abbot's stat blocks in [[Arc Q - A Shining Beacon]]
 # Hotfix 2.0.10.2 (December 20, 2024)
 * Amended the bodaks' combat strategy in [[Arc R - Trials of the Mountain]]
 # Hotfix 2.0.10.1 (December 19, 2024)
-* Removed Strahd's *Father of the Night* ability from [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] 
+* Removed Strahd's *Father of the Night* ability from [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] 
 # Version 2.0.10 (December 16, 2024)
 * Added [[Act IV Summary]]
 * Added [[Arc R - Trials of the Mountain]]
@@ -278,7 +278,7 @@
 * Reworked [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] such that the players now arrive immediately before the night day of Strahd's siege and the first night that Strahd visits Ireena.
 * Added additional artwork by artist [Caleb Cleveland](https://www.patreon.com/calebisdrawing/posts).
 * Added an additional line regarding creature alignments to the campaign contract in [[Session Zero]]
-* Updated Strahd's goals in [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
+* Updated Strahd's goals in [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] to note that Strahd requires a scapegoat sacrifice (i.e., Rahadin) to escape during the Grand Conjunction
 * Revised the flesh mound's second phase in [[Arc A - Escape From Death House]] to allow for an automatic critical hit against the mound when its ***innocent heart*** is damaged.
 * Replaced Madam Eva's invitation in [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] with a request by Ismark Kolyanovich for the players to seek Eva's guidance on how to defeat Strahd
 * Moved the March of the Dead from [[Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]] to [[Arc C - Into the Valley|Arc C - Into the Valley]]
@@ -347,7 +347,7 @@
 [[History of Barovia]]
 * Added additional backstory to Khazan, the Radanavich family, and Rudolph van Ricten's revenge against the Radanaviches.
 
-[[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]]
+[[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]]
 * Gave Strahd Insight proficiency
 * Clarified ***fog bank*** does not block sunlight
 

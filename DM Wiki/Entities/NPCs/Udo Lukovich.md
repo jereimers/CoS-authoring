@@ -36,11 +36,11 @@ publish: false
 ---
 # Who they are
 
-
+Son of [[Willemina Rikalova]] and the cobbler for the [[Town of Vallaki]].
 
 # What the party knows
 
-
+- Imprisoned for speaking out against [[Baron Vargas Vallakovich|The Baron]] at the Wolf's Head Jamboree. He has not been seen in days.
 
 # Personality
 

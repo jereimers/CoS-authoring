@@ -35,7 +35,7 @@ Vallakians cannot agree on basic facts:
 - Some say the Grinch is eight feet tall; others insist he's hunched and small
 - Some claim he eats children; others say he only takes their toys
 - Some believe he can be reasoned with; others say he kills on sight
-- Some think he serves [[Strahd von Zarovich|Strahd]]; others believe [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]] himself fears the mountain
+- Some think he serves [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]]; others believe [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]] himself fears the mountain
 
 ## What Children Believe
 

@@ -2,17 +2,21 @@
 type: NPC
 name: Danika Dorakova
 aliases:
-pronouns: he/him
+  - Danika
+pronouns: she/her
 race: Human
-class:
-age:
+class: Wereraven
+age: 47
 gender: female
 creature_type: humanoid
-origin:
-home_base:
-current_location:
+origin: "[[Town of Vallaki]]"
+home_base: "[[Blue Water Inn]]"
+current_location: "[[Blue Water Inn]]"
 factions:
+  - "[[Keepers of the Feather]]"
+  - "[[Vallakians]]"
 arc:
+  - "[[Arc C - Into the Valley]]"
 first_appearance_session: 9
 first_appearance_date: 2 Neyavr 735
 status: alive
@@ -24,15 +28,22 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait:
-portrait_credit:
+  - "[[Urwin Martikov]]"
+  - "[[Bray Martikov]]"
+  - "[[Brom Martikov]]"
+  - "[[Rictavio]]"
+  - "[[Szoldar Szoldarovich]]"
+  - "[[Yevgeni Krushkin]]"
+portrait: "[[danika-dorakova.png]]"
+portrait_credit: ChatGPT
 handouts:
 tags:
   - npc
   - cos
   - vallaki
-CoS-R_ref:
+CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Danika-Dorakova]]"
 WotC_ref:
+  - "[[06_Chapter 5 - The Town of Vallaki#N2. Blue Water Inn]]"
 publish: true
 ---
 # Portrait

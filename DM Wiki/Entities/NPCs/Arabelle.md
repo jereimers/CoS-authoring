@@ -37,14 +37,13 @@ publish: true
 ---
 # Who they are
 
-
+[[Madam Eva]]'s great grand-niece. Her birthday is coming up!
 
 # What the party knows
 
-
+- Lives with her father [[Luvash]] in the [[Vistani Camp]] west of [[Town of Vallaki|Vallaki]]
 
 # Personality
-
 
 
 # Where we've seen them

@@ -92,7 +92,7 @@ Despite the burgomaster's interference, Vallakians maintain quieter traditions:
 %%
 # Why Strahd Tolerates This Observance
 
-[[Strahd von Zarovich]] is aware of the Long Night and its traditions. He tolerates it for several reasons:
+[[DM Wiki/Entities/NPCs/Strahd von Zarovich]] is aware of the Long Night and its traditions. He tolerates it for several reasons:
 
 1. **Amusement:** The sight of Barovians clinging to hope entertains him. Their defiance is futile, and he knows it.
 2. **Control:** A population with *some* hope is easier to manage than one in total despair. Despair breeds recklessness; hope breeds complacency.

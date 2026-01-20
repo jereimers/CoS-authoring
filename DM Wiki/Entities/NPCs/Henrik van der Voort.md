@@ -36,23 +36,25 @@ tags:
 CoS-R_ref:
 WotC_ref:
   - "[[06_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop]]"
-publish: false
+publish: true
 ---
+# Portrait
+![[05-009.henrik.png]]
 # Who they are
-
+Coffin-maker and carpenter for the town of [[Town of Vallaki|Vallaki]]
 
 
 # What the party knows
-
+- Paid [[Milivoj]] to steal the bones of St. Andral from their resting place in the crypt under the [[St. Andral's Church|church]]
+- Claims to be a descendant of St. Andral who wants the remains returned so they can reside among family. 
 
 
 # Personality
-
+- Terse, crotchety.
 
 
 # Where we've seen them
-
-*To be updated during play.*
+- [[Session 11]]
 
 %%
 # Henrik van der Voort Profile
@@ -75,7 +77,7 @@ publish: false
 
 
 ### Vocal Notes
-
+Gruff, terse, low. Rowlf the Dog, Jawbone from Fantasy High.
 
 ### Signature Lines
 

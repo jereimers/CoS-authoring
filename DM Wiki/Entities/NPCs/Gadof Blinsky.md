@@ -34,23 +34,27 @@ tags:
   - vallaki
 CoS-R_ref:
 WotC_ref:
-publish: false
+publish: true
 ---
+# Portrait
+
+![[05-010.blinsky.png]]
 # Who they are
 
-
+Vallaki's resident toymaker and certified weirdo. Owner and proprietor of [[Blinsky Toys]]. Current caretaker of Piccolo the monkey. 
 
 # What the party knows
 
+- (Reluctantly, fearfully) takes commissions on the reg from [[Izek Strazni]] to make dolls depicting a redheaded woman who looks uncannily like [[Ireena Kolyana|Ireena]]. He insists these dolls are not for public sale, that he's never before seen the woman whose likeness Izek describes, and he begs the party not to do anything to bring Izek's wrath down on the toymaker's shop.
 
 
 # Personality
 
-
+- Kooky, 
 
 # Where we've seen them
 
-*To be updated during play.*
+- [[Session 11#Blinsky Toys|Session 11]]
 
 %%
 # Gadof Blinsky Profile

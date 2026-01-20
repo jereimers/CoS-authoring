@@ -4,6 +4,10 @@ CoS-R_ref: "[[Character Creation#Redemption—The Angel's Feather]]"
 WotC_ref: N/A
 current_location: "[[Fig Fleetfoot]]"
 publish: true
+tags:
+  - cos
+  - item
+  - barovian-relic
 ---
 # Description
 A player seeking **redemption** begins the campaign with the *angel's feather*, a large, snow-white feather. When viewed beneath the light of the morning sun, the feather's barbs glimmer like gold.

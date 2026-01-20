@@ -119,7 +119,7 @@ In combat, the Grinch fights with savage cunning—using gadgets, traps, and his
 - **[[Max]]:** His only companion. The Grinch would die for Max without hesitation. This bond is the key to his redemption.
 - **[[Gadof Blinsky]]:** The Grinch despises Blinsky's cheerful toymaking—a painful reminder of joy he cannot share. He has stolen from Blinsky's shop.
 - **[[Vallaki]]:** Views the town with contempt. Their festivals disgust him.
-- **[[Strahd von Zarovich]]:** Aware of Strahd but considers him irrelevant. "Another monster. At least I'm honest about what I am."
+- **[[DM Wiki/Entities/NPCs/Strahd von Zarovich]]:** Aware of Strahd but considers him irrelevant. "Another monster. At least I'm honest about what I am."
 
 ### Knowledge
 - Knows the layout of Mt. Crumpit intimately

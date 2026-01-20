@@ -3,21 +3,25 @@ type: NPC
 name: Urwin Martikov
 aliases:
   - Urwin
-pronouns:
-race:
-class:
-age:
-gender:
-creature_type:
-origin:
-home_base:
-current_location:
+pronouns: he/him
+race: Human
+class: Wereraven
+age: 50
+gender: male
+creature_type: humanoid
+origin: "[[The Wizard of Wines]]"
+home_base: "[[Blue Water Inn]]"
+current_location: "[[Blue Water Inn]]"
 factions:
+  - "[[Keepers of the Feather]]"
+  - "[[Vallakians]]"
 arc:
-first_appearance_session:
-first_appearance_date:
-status:
-cr:
+  - "[[Arc C - Into the Valley]]"
+  - "[[Arc G - The Strazni Siblings]]"
+first_appearance_session: 9
+first_appearance_date: 2 Neyavr 735
+status: alive
+cr: 2
 resonance:
 emotions:
 motivations:
@@ -25,18 +29,24 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait:
-portrait_credit:
+  - "[[Danika Dorakova]]"
+  - "[[Brom Martikov]]"
+  - "[[Bray Martikov]]"
+  - "[[Muriel Vinshaw]]"
+portrait: "[[urwin-martikov.png]]"
+portrait_credit: ChatGPT
 handouts:
 tags:
   - npc
   - cos
   - needs_filling
-CoS-R_ref:
+CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Urwin-Martikov]]"
 WotC_ref:
+  - "[[06_Chapter 5 - The Town of Vallaki#N2. Blue Water Inn]]"
 publish: true
 ---
 # Portrait
+
 ![[urwin-martikov.png]]
 
 # Who they are
@@ -45,6 +55,8 @@ He owns and runs the [[Blue Water Inn]], along with his wife, [[Danika Dorakova]
 
 # What the party knows
 - Urwin's family owns and operates the winery from which Purple Grapemash No. 3 and Red Dragon Crush originate.
+- Urwin knows about the brutish nature and terrible strength of [[Baron Vargas Vallakovich|the Baron]]'s henchman, [[Izek Strazni]]: *"Many have tried to test his strength. All have failed."*
+- Recommended the players use flattery to get their way with the Baron, and also mentioned they might seek out [[Lady Fiona Wachter]], a wealthy noblewoman who is an outspoken critic of the Vallakovich regime. She lives in a large manor on the north side of town, with her two sons and her daughter.
 
 
 # Personality
@@ -52,8 +64,8 @@ He owns and runs the [[Blue Water Inn]], along with his wife, [[Danika Dorakova]
 
 
 # Where we've seen them
-
-*To be updated during play.*
+- [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 09]]
+- [[Session 11#Morning at the Blue Water Inn|Session 11]]
 
 %%
 # Urwin Martikov Profile

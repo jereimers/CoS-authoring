@@ -6,14 +6,16 @@ aliases:
 pronouns: he/him
 race: Human
 class:
-age:
+age: 26
 gender: male
 creature_type: humanoid
-origin:
-home_base:
+origin: "[[Town of Vallaki|Vallaki]]"
+home_base: "[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion]]"
 current_location:
 factions:
+  - "[[Vallakoviches]]"
 arc:
+  - "[[Arc G - The Strazni Siblings]]"
 first_appearance_session: 11
 first_appearance_date: 3 Neyavr 735
 status: alive
@@ -27,7 +29,7 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait: "[[Source/CoS-R/Appendices/images/izek-strazni.png]]"
+portrait: "[[Source/CoS-Reloaded/Appendices/images/izek-strazni.png]]"
 portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
 tags:
@@ -37,23 +39,29 @@ tags:
 CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Izek-Strazni]]"
 WotC_ref:
   - "[[21_Appendix D - Monsters and NPCs#Izek Strazni]]"
-publish: false
+publish: true
 ---
+# Portrait
+
+![[Source/homebrew/images/izek-strazni.png]]
 # Who they are
 
-
+Captain of the [[Town of Vallaki|Vallaki]] city watch, personal bodyguard of [[Baron Vargas Vallakovich|Baron Vallakovich]], and probably the second- or third-scariest dude you've met so far.
 
 # What the party knows
 
-
+- Enjoys shoving old ladies and beating on helpless refugees.
+- The upsettingly accurate [[Ireena Kolyana|Ireena]] doll at [[Blinsky Toys]] was personally commissioned by Izek, and it's not the first. Apparently, he stands there and describes the likeness to [[Gadof Blinsky|Blinsky]] like it's a fucking police sketch.
 
 # Personality
 
+- Psychopathic.
 
 
 # Where we've seen them
 
-*To be updated during play.*
+- [[Session 11#Outside the Inn|Session 11]]
+- 
 
 %%
 # Izek Strazni Profile

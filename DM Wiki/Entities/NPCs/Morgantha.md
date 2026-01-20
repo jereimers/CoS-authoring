@@ -31,26 +31,32 @@ handouts:
 tags:
   - npc
   - cos
-  - needs_filling
+  - vallaki
+  - old-bonegrinder
 CoS-R_ref:
 WotC_ref:
 publish: true
 ---
+# Portrait
+
+![[morgantha.png]]
 # Who they are
 
-
+Morgantha is a totally benign, perfectly kind old woman with a cart she pushes up and down the [[Old Svalich Road]], from which she peddles her wares: [[Dream Pastry|dream pastries]]!
 
 # What the party knows
 
-
+- Lives at the grain mill known locally as [[Old Bonegrinder]] with her two daughters
+- Current target demographic: desperate Barovian refugees gathered outside [[Town of Vallaki|Vallaki]]'s Mourning (eastern) Gate. Although, she has no regrets about selling to the impoverished folk dwelling *within* the town walls, either.
 
 # Personality
 
-
+- Polite, sweet, but she ain't takin' no shit.
 
 # Where we've seen them
 
-*To be updated during play.*
+- [[Session 03 - Kolyan's Burial]] — she sold a pastry to [[Varnish Gothorn|Varnish]]
+- [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three#The Old Bonegrinder and Morgantha|Session 8]]
 
 %%
 # Morgantha Profile

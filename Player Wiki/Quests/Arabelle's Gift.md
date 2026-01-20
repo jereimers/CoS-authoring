@@ -26,6 +26,7 @@ Purchase a gift for [[Arabelle]] at [[Blinsky Toys]] in [[Town of Vallaki|Vallak
 
 # Appearance in Sessions
 - [[Session 07 - The Tarokka Reading]]
+- [[Session 11]] — picked up the toy!
 
 %%
 # Secrets

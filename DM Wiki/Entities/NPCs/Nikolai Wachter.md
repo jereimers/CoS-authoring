@@ -2,19 +2,24 @@
 type: NPC
 name: Nikolai Wachter
 aliases:
-pronouns:
-race:
-class:
-age:
-gender:
+  - Nikolai
+pronouns: he/him
+race: Human
+class: Noble
+age: 23
+gender: male
 creature_type:
-origin:
-home_base:
+origin: "[[Town of Vallaki|Vallaki]]"
+home_base: "[[Wachterhaus]]"
 current_location:
 factions:
+  - "[[Wachters]]"
 arc:
-first_appearance_session:
-first_appearance_date:
+  - "[[Arc C - Into the Valley]]"
+  - "[[Arc F - Lady Wachter's Wish]]"
+  - "[[Arc H - The Lost Soul]]"
+first_appearance_session: 9
+first_appearance_date: 2 Neyavr 735
 status:
 cr:
 resonance:
@@ -30,25 +35,30 @@ handouts:
 tags:
   - npc
   - cos
+  - vallaki
 CoS-R_ref:
 WotC_ref:
-publish: false
+publish: true
 ---
-# Who they are
+# Portrait
 
+![[nikolai-wachter.png]]
+
+# Who they are
+The elder son of [[Lady Fiona Wachter]] and a generally drunk rapscallion. Can usually be found in the [[Blue Water Inn]], drinking with his brother [[Karl Wachter|Karl]]
 
 
 # What the party knows
-
+- Opposes [[Baron Vargas Vallakovich|Baron Vallakovich]]
 
 
 # Personality
-
+- Cheeky, entitled, thinks he's smarter than he is.
 
 
 # Where we've seen them
 
-*To be updated during play.*
+- Karate-chopped in the throat by [[Arden Nalero|Arden]] in [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 9]]
 
 %%
 # Nikolai Wachter Profile

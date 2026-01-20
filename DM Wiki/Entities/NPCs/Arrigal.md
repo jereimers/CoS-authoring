@@ -80,7 +80,7 @@ When playing Arrigal, channel Loki (*Thor*), Littlefinger (*A Game of Thrones*),
 ## Character Information
 
 ### Persona
-To the world, Arrigal is Luvash’s enforcer and adviser: a cautious, cheerful, and curious man who prefers to remain aloof from the troubles of others. To those he trusts, Arrigal is a dedicated uncle, a fierce advocate for the Vistani, and a duelist with a slew of deadly skills. Only Arrigal knows that he serves [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] faithfully as one of his spies—and that he would go to great lengths to serve the vampire’s will in exchange for the prosperity of his family and people.
+To the world, Arrigal is Luvash’s enforcer and adviser: a cautious, cheerful, and curious man who prefers to remain aloof from the troubles of others. To those he trusts, Arrigal is a dedicated uncle, a fierce advocate for the Vistani, and a duelist with a slew of deadly skills. Only Arrigal knows that he serves [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] faithfully as one of his spies—and that he would go to great lengths to serve the vampire’s will in exchange for the prosperity of his family and people.
 
 ### Morale
 In a fight, Arrigal would act with ruthless cunning, retreating as necessary before striking from the shadows, using deceit, manipulation, or dirty tricks to ensure an advantage.

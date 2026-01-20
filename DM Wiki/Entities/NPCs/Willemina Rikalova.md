@@ -35,14 +35,16 @@ WotC_ref:
 publish: true
 ---
 # Who they are
+
 Kind old lady, Vallakian resident, congregant at [[St. Andral's Church]]. 
 
 # What the party knows
+
 - Met her en route to the [[St. Andral's Church|Church]] as she was on her way to pray for her son, [[Udo Lukovich|Udo]], who'd been jailed for the crime of speaking out against [[Baron Vargas Vallakovich|The Baron]] at last week's *Wolf's Head Jamboree*
 
 # Personality
 
-
+- Kindly, mothering, but recently (and understandably) troubled.
 
 # Where we've seen them
 - [[Session 09 - Walls Keep Out More Than Wolves]]

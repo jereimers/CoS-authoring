@@ -162,7 +162,7 @@ The players can convince [[Baron Vargas Vallakovich|Vargas]] and his guards to s
 ## R2b. The Lord of Barovia
 
 > [!info]+ **The Tyrant**
-> At the beginning of this arc, Strahd’s persona changes from the Gentleman to the Tyrant. See [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] for more information about roleplaying the Tyrant.
+> At the beginning of this arc, Strahd’s persona changes from the Gentleman to the Tyrant. See [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] for more information about roleplaying the Tyrant.
 ### Strahd’s Descent
 On initiative count 10 of the first round of combat, or shortly after the players convince Vargas and his guards to stand down, Strahd von Zarovich descends upon the crossroads. (If the players don’t encounter [[Baron Vargas Vallakovich|Vargas]] in [[#R2a. The Baron’s Revenge]], Strahd arrives immediately when the players reach the crossroads.) Read:
 

@@ -89,7 +89,7 @@ You can [[Using This Guide|click here]] to learn how to use and read this guide.
 ## Chapter 2 - The Land of Barovia
 [[Lore of Barovia]]. A compendium of the magic, geography, culture, factions, and religions of Barovia.
 [[History of Barovia]]. A narrative history of Barovia and the Von Zarovich family.
-[[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
+[[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]]. A guide to Strahd's personality, relationships, goals, allies, and tactics.
 ## Chapter 3 - Running the Game
 [[Adventure Summary]]. Summaries of the campaign's six narrative acts.
 [[Running the Adventure]]. A guide to reading—and running—this guide.

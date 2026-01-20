@@ -35,6 +35,7 @@ publish: false
 
 ## Summary of the Day
 - [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] observed
+- Feast day of St. Andral
 
 ## Scenes
 

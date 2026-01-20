@@ -7,6 +7,7 @@ current_location:
 tags:
   - cos
   - item
+  - barovian-relic
 publish: true
 ---
 

@@ -173,7 +173,7 @@ If the players choose to interview [[Yeska]], [[Non-Player Characters#Father Luc
 
 If one of the players asks [[Yeska]] whether he has told anyone else about the bones, he truthfully denies doing so. However, if the players ask whether anyone might have overheard his conversation with [[Father Lucian Petrovich|Father Lucian]], [[Yeska]] shares that [[Milivoj]] was also in the church at that time. ([[Yeska]], though alarmed by the direction of the conversation, can also be persuaded to share that [[Milivoj]]'s tales of Strahd potentially attacking the church encouraged him to ask [[Father Lucian Petrovich|Father Lucian]] about the church's protection in the first place.)
 
-![[Source/CoS-R/Appendices/images/yeska.png]]
+![[Source/CoS-Reloaded/Appendices/images/yeska.png]]
 <span class="credit">"Yeska" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 # D2. [[Milivoj]]’s House
 [[Milivoj]]’s house is located in the impoverished northwest quarter of Vallaki, a short walk from St. Andral’s Church. 
@@ -229,7 +229,7 @@ If the players inform [[Milivoj]] that they want to speak with him about St. And
 
 If the players accuse [[Milivoj]] of stealing the bones and succeed on a DC 15 Charisma (Intimidation) check, [[Milivoj]] admits to stealing them, as described in [[06_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church|N1. St. Andral's Church]] (p. 97). Players who confront [[Milivoj]] with evidence from the crypt automatically succeed. [[Milivoj]] can't take the players to the [[Coffin Maker's Shop]] himself, but notes that [[Father Lucian Petrovich|Father Lucian]] can lead them there.
 
-If asked his motive for stealing the bones, [[Milivoj]] shares the reasons described in [[06_Chapter 5 - The Town of Vallaki]] (p. 97). He can also share that, after his father—a former Vallakian guard—was  wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, [[Milivoj]] sees himself as his siblings' sole means of avoiding total poverty. (If asked, [[Milivoj]] can provide a basic description of the effects of dream pastries, as described in [[03 - Village of Barovia - Dream Pastries|Dream Pastries]] (p. 125).)
+If asked his motive for stealing the bones, [[Milivoj]] shares the reasons described in [[06_Chapter 5 - The Town of Vallaki#Bones of St. Andral|Bones of St. Andral]] (p. 97). He can also share that, after his father—a former Vallakian guard—was wounded in a recent wolf attack, both of his parents began regularly purchasing dream pastries from the peddler Morgantha outside of the gates. With both parents addicted to Morgantha's wares, [[Milivoj]] sees himself as his siblings' sole means of avoiding total poverty. (If asked, [[Milivoj]] can provide a basic description of the effects of dream pastries, as described in [[03 - Village of Barovia - Dream Pastries|Dream Pastries]] (p. 125).)
 
 If informed that the bones may have been stolen to allow an attack upon the church, [[Milivoj]] dismisses the idea, insisting that the bones are just a "moldy old relic" and that "he doesn't have time to believe in fairy tales." He can also share that [[Henrik van der Voort|Henrik]] told him the bones were a powerless family heirloom, and that [[Henrik van der Voort|Henrik]] sought to recover them to honor his ancestor.
 
@@ -252,7 +252,7 @@ If the players suggest reporting the theft of the bones to the burgomaster, [[Fa
 # D3. Arasek Stockyard
 <em>This scene takes place in Chapter 5: Area N5.</em>
 
-Arasek Stockyard is largely as described in [[Arasek Stockyard]]. However, while [[Rictavio]]'s wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
+Arasek Stockyard is largely as described in [[06_Chapter 5 - The Town of Vallaki#N5. Arasek Stockyard|N5. Arasek Stockyard]]. However, while [[Rictavio]]'s wagon is mostly covered by old and faded paint, the Carnival of Wonders sign on its side is brand new and fresh-painted.
 
 If one of the players expresses an interest in breaking into the wagon, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian]] discourages them from doing so if he is present.
 
@@ -262,7 +262,7 @@ If the players successfully break the door to the wagon or pick its padlock, the
 # D4. [[Coffin Maker's Shop]]
 <em>This scene takes place in Chapter 5: Area N6.</em>
 
-The [[Coffin Maker's Shop]] is largely as described in [[Coffin Maker's Shop]] (p. 116). However, the crates in [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **[[Volenta Popofsky]]**, one of Strahd's vampiric brides. In addition, players who explore [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
+The [[Coffin Maker's Shop]] is largely as described in [[06_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop|N6. Coffin Maker's Shop]] (p. 116). However, the crates in [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) have been replaced by three coffins packed with grave dirt from Castle Ravenloft, which contain two **vampire spawn** and **[[Volenta Popofsky]]**, one of Strahd's vampiric brides. In addition, players who explore [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) find a faded green-tinged pentagram 5 feet in diameter burned onto the floor at the edge of the room, just beyond the vampires' coffins.
 
 > [!lore]+ **The Burned Pentagram**
 > The green pentagram is a remnant of [[Volenta Popofsky|Volenta]]'s use of the teleportation brazier in [[Brazier Room]] (p. 82). If asked, [[Henrik van der Voort|Henrik]] doesn't know what it signifies. However, he can share with the players that, one night shortly after he first met [[Volenta Popofsky|Volenta]], a sickly green light flashed through the shop, with her two **vampire spawn** companions exiting from [[Coffin Maker's Shop#N6f. Vampire Nest|Vampire Nest]] (p. 118) shortly thereafter.

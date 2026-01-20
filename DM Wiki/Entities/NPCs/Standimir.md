@@ -28,7 +28,7 @@ vocal_notes:
 signature_lines:
 relationships:
   - "[[Sir Godfrey Gwilym]]"
-portrait: "[[Source/CoS-R/Appendices/images/tser-falls-revenant.png]]"
+portrait: "[[Source/CoS-Reloaded/Appendices/images/tser-falls-revenant.png]]"
 portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
 tags:
@@ -39,7 +39,7 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
-![[Source/CoS-R/Appendices/images/tser-falls-revenant.png]]
+![[Source/CoS-Reloaded/Appendices/images/tser-falls-revenant.png]]
 # Who they are
 
 

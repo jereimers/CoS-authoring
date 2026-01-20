@@ -2,20 +2,21 @@
 type: NPC
 name: Milivoj
 aliases:
-pronouns:
-race:
+  - Milo
+pronouns: he/him
+race: Human
 class: "[[Commoner]]"
-age:
-gender:
-creature_type:
-origin:
+age: 19
+gender: male
+creature_type: humanoid
+origin: "[[Town of Vallaki|Vallaki]]"
 home_base:
 current_location:
 factions:
-arc:
-first_appearance_session:
-first_appearance_date:
-status:
+arc: "[[Arc D - St. Andral's Feast]]"
+first_appearance_session: 11
+first_appearance_date: 3 Neyavr 735
+status: alive
 cr: 0
 resonance:
 emotions:
@@ -35,21 +36,25 @@ WotC_ref:
   - "[[06_Chapter 5 - The Town of Vallaki#Bones of St. Andral]]"
 publish: false
 ---
+# Portrait
+![[05-002.milivoj.png]]
 # Who they are
-
+A brawny lad with a perpetually furrowed brow, the broad-shouldered and black-haired Milivoj is groundskeeper for [[St. Andral's Church]]. 
 
 
 # What the party knows
-
-
+- He lives in a modest house in the poor, northwestern quarter of [[Town of Vallaki|Vallaki]], along with his parents and 8 younger siblings.
+- His parents have become addicted to [[Dream Pastry|dream pastries]], leaving Milivoj to be the primary caretaker and provider for his siblings. 
+- Physical evidence at the scene points to Milivoj being the culprit for the theft of St. Andral's bones. 
+- Milivoj was unaware of the bones' importance to the church's sanctification. He was offered payment by [[Henrik van der Voort|Henrik]] to steal them and deliver them to the coffin-maker.
 
 # Personality
-
+- Gruff, cynical, and stubborn.
+- Hardworking
 
 
 # Where we've seen them
-
-*To be updated during play.*
+- [[Session 11]]
 
 %%
 # Milivoj Profile

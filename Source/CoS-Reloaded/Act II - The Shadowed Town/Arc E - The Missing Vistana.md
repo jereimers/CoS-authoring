@@ -59,7 +59,7 @@ If the players return to Vallaki, confront [[Rictavio]], and persuade him that t
 # E1. Blinsky Toys
 <em>This scene takes place in Chapter 5: Area N7.</em>
 
-After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, [[Arabelle]], the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking [[Urwin Martikov]], [[Danika Dorakova]], or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in [[Town Square]] (p. 119).
+After receiving Madam Eva’s request in [[Arc C - Into the Valley]] to purchase and deliver a toy for her great grand-niece, [[Arabelle]], the players can get directions to Vallaki’s local toy shop, Blinsky Toys, by asking [[Urwin Martikov]], [[Danika Dorakova]], or most native Vallakians for directions. Blinsky Toys can now be found on the northern edge of Vallaki's town square, which is as described in [[06_Chapter 5 - The Town of Vallaki#N8. Town Square|N8. Town Square]] (p. 119).
 
 
 > [!profile]+ **Profile: Gadof Blinsky**
@@ -86,7 +86,7 @@ Blinsky Toys is as described in [[06_Chapter 5 - The Town of Vallaki#N7. Blinsky
 
 If the players ask Blinsky about the doll resembling [[Ireena Kolyana]] (see [[06_Chapter 5 - The Town of Vallaki#Creepy Toys|Creepy Toys]], p. 118), he anxiously insists that it is not for sale and asks them to choose another toy. If the players demand an explanation for its eerie resemblance, they can coax a fearful Blinsky to share what he knows with a successful DC 10 Charisma (Persuasion or Intimidation) check or by taking the doll for themselves. Blinsky is clearly terrified of Izek’s wrath, and will do anything to ensure that the doll is delivered on time.
 
-If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.
+If the players ask Blinsky about Piccolo, he can inform them that he received the monkey just over three months ago, from a traveling scholar named Alanik Ray.  
 
 As the characters exit Blinsky Toys, they can see [[Izek Strazni]] and two **guards** arrive to post new proclamations, as described in [[06_Chapter 5 - The Town of Vallaki#N8. Town Square|N8. Town Square]] (p. 119).
 
@@ -169,16 +169,17 @@ Luvash believes that the sigil on the signet ring may lead him to [[Arabelle]]�
 
 Luvash asks the players to recover the ring from Kasimir, then research its sigil in [[Baron Vargas Vallakovich|Baron Vallakovich]]’s library. Should the players return to him with actionable information about [[Arabelle]]’s whereabouts—or, better yet, [[Arabelle]] herself—Luvash promises to give them a valuable reward. (If pressed, Luvash can promise the players a sum of 500 gp—or an assortment of treasure worth as much or more.)
 
-If the players accept Luvash’s mission, he directs them to **E2b. Dusk Elf Hovels** to meet with Kasimir.
+If the players accept Luvash’s mission, he directs them to **[[06_Chapter 5 - The Town of Vallaki#N9b. Dusk Elf Hovels|N9b. Dusk Elf Hovels]]** to meet with Kasimir.
 
 > [!abstract]+ **Tracking [[Arabelle]]**
-> If the players offer to track [[Arabelle]] from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of [[P. Luna River Crossroads]] (p. 40). As the players travel there, they pass through [[#E5a. Luna River Bridge]] and [[#E5b. Luna River Crossroads]].
+> If the players offer to track [[Arabelle]] from the place she disappeared, Luvash can direct them to a point near the Luna River, about a mile south of [[03_Chapter 2 - The Lands of Barovia#P. Luna River Crossroads|P. Luna River Crossroads]] (p. 40). As the players travel there, they pass through [[#E5a. Luna River Bridge]] and [[#E5b. Luna River Crossroads]].
 > 
 > A player who searches the area where [[Arabelle]] disappeared and makes a DC 15 Wisdom (Survival) check can identify three sets of adult-sized footprints in the muddy grass nearby. One of the sets comes from the north and ends in the grass; the second set comes from the north, then continues to the southwest and ends at the base of a tree trunk thirty feet away; and the third set comes from the western woods and continues toward the river bank, where it ends. No tracks continue from the opposite side of the river.
 > 
 > A player who inspects the footprints and makes a DC 15 Intelligence (Investigation) check can discern, from the pattern of movement and bloodstains on the grass, that the first and third individual briefly fought, and the first one died. The second individual then fled, vanishing into the canopy of the trees. The third individual, carrying something heavy—perhaps the weight of a child—then waded into the river.
 > 
 > Because the river has washed any traces away, the third individual's trail can't be followed any further. (Searching the entire length of the Luna River for the third individual's precise exit point is a fool's errand, and an impossible task.)
+> ^Abstract-Tracking-Arabelle
 ## E2b. Dusk Elf Hovels
 The dusk elf hovels are as described in [[Vistani Camp#N9b. Dusk Elf Hovels|N9b. Dusk Elf Hovels]] (p. 121). The dusk elves themselves are as described in [[06_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves|Roleplaying the Vistani and the Elves]] (p. 119). If the players approach one of the guards and inquire about the Vistani, the guard directs them to the ring of wagons at the top of the hill. 
 
@@ -233,7 +234,7 @@ Kasimir welcomes the players warmly, though obviously with some discomfort. If t
 ![[signet-ring.png]]
 <span class="credit">"Khazan's Ring" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The symbol on the signet ring resembles the connected series of lines depicted on [[V2. Tower Door]] (WotC p. 169), but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. 
+The symbol on the signet ring resembles the connected series of lines depicted on [[12_Chapter 11 - Van Richten's Tower#V2. Tower Door|V2. Tower Door]] (WotC p. 169), but rotated counterclockwise such that the shape is vertically symmetrical. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. 
 
 Kasimir notes that the runes are the symbols of the evocation (left) and necromancy (right) schools of magic, respectively, but confesses that the ring has shown no reaction to any kind of magic.
 
@@ -241,28 +242,33 @@ If the players ask Kasimir about his injuries, he claims that he had been hiking
 
 If the players ask Kasimir about the history of the dusk elves, Kasimir shares the following tale:
 
-<div class="description">
-<p>Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was a mere century old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.</p>
-<p>It was not Strahd that shattered the peace, but his father, King Barov von Zarovich II. In those days, our people dwelled in Othrondil, the Forest of Twilight. A council of princes ruled us, led by Erevan Löwenhart, my uncle and a master in the art of bladesong. When King Barov's eyes fell upon our lands, he demanded our fealty—our tribute to the borders of old Zarovia, the kingdom his ancestors once ruled. Erevan, who practiced the style of the lion and bore the lion's sigil, was never one to bow, however, and refused. His act of defiance ignited the fires of war.</p>
-<p>Barov's conquest was swift and brutal. His forces, joined by [[Rahadin]], my cousin, and a traitor to our people, laid waste to our kingdom. I was a mage and scribe in Erevan's court—I saw [[Rahadin]] shatter Erevan’s blade and execute his family, marking the end of the royal line. My people were subjugated; those that resisted were hunted like rabbits.</p>
-<p>Barov ruled over us with an iron fist—and when he died and his son, Strahd, came to power, we rose in rebellion, leading the charge for freedom. But Strahd was even more cunning and cruel than his sire. He quashed our revolt in a matter of days, and slaughtered our people in a genocide that left less than a hundred alive. He left us, the survivors, to the mercies of the Vistani, who took us into their caravans and led us to sanctuary in this valley.</p>
-<p>Strahd's hunger for conquest, however, was endless. Within a year, the last of his enemies had fallen, and he had claimed the valley for his own, naming it "Barovia." We found ourselves trapped, imprisoned in the heart of our conqueror's new empire. By then, however, we had built a home here, and chose to remain—hoping, in our heart of hearts, that the Vistani's kindness would keep us safe. And so here we have remained ever since.</p>
-</div>
-
+> [!lore]+ Kasimir's Tale
+> Even now, nearly five centuries past, the memories are sharp and clear in my mind, like shards of broken glass. I was a mere century old when my people lost their freedom—when the tyranny of the von Zarovich clan rose like a shadow across the land.
+> 
+> It was not Strahd that shattered the peace, but his father, King Barov von Zarovich II. In those days, our people dwelled in Othrondil, the Forest of Twilight. A council of princes ruled us, led by Erevan Löwenhart, my uncle and a master in the art of bladesong. When King Barov's eyes fell upon our lands, he demanded our fealty—our tribute to the borders of old Zarovia, the kingdom his ancestors once ruled. Erevan, who practiced the style of the lion and bore the lion's sigil, was never one to bow, however, and refused. His act of defiance ignited the fires of war.
+> 
+> Barov's conquest was swift and brutal. His forces, joined by [[Rahadin]], my cousin, and a traitor to our people, laid waste to our kingdom. I was a mage and scribe in Erevan's court—I saw [[Rahadin]] shatter Erevan’s blade and execute his family, marking the end of the royal line. My people were subjugated; those that resisted were hunted like rabbits.
+> 
+> Barov ruled over us with an iron fist—and when he died and his son, Strahd, came to power, we rose in rebellion, leading the charge for freedom. But Strahd was even more cunning and cruel than his sire. He quashed our revolt in a matter of days, and slaughtered our people in a genocide that left less than a hundred alive. He left us, the survivors, to the mercies of the Vistani, who took us into their caravans and led us to sanctuary in this valley.
+> 
+> Strahd's hunger for conquest, however, was endless. Within a year, the last of his enemies had fallen, and he had claimed the valley for his own, naming it "Barovia." We found ourselves trapped, imprisoned in the heart of our conqueror's new empire. By then, however, we had built a home here, and chose to remain—hoping, in our heart of hearts, that the Vistani's kindness would keep us safe. And so here we have remained ever since.
+> ^Lore-Kasimirs-Tale
+> 
 # E3. Burgomaster’s Mansion
 <em>This scene takes place in Chapter 5: Area N3.</em>
 
-The burgomaster's mansion is largely as described in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion]] (p. 103). However, the magic mirror in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p]] (p. 108) has been modified and moved to [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109). See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
+The burgomaster's mansion is largely as described in [[06_Chapter 5 - The Town of Vallaki#N3. Burgomaster's Mansion|N3. Burgomaster's Mansion]] (p. 103). However, the magic mirror in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p]] (p. 108) has been modified and moved to [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109). See [[#E3c. Speaking with Victor]] below, or [[Arc H - The Lost Soul]] for more information about the mirror.
 
-If the players visit the burgomaster’s mansion openly, they are greeted by Claudia, [[Baron Vargas Vallakovich|the Baron]]’s maid, and led to the den as described in N3. Burgomaster's Mansion (p. 103) and [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3e. Den|N3e. Den]] (p. 106). [[Baron Vargas Vallakovich|The Baron]] arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107)**.
+If the players visit the burgomaster’s mansion openly, they are greeted by Claudia, [[Baron Vargas Vallakovich|the Baron]]’s maid, and led to the den as described in [[06_Chapter 5 - The Town of Vallaki#N3. Burgomaster's Mansion|N3. Burgomaster's Mansion]] (p. 103) and [[06_Chapter 5 - The Town of Vallaki#N3e. Den|N3e. Den]] (p. 106). [[Baron Vargas Vallakovich|The Baron]] arrives to speak with them a few minutes later, joined by his twin **mastiffs** named Fang and Claw, as described in [[06_Chapter 5 - The Town of Vallaki#N3l. Library|N3l. Library]] (p. 107)**.
 ## E3a. Entering the Mansion
+
 If [[Ireena Kolyana]] has already visited the mansion alone and obtained an audience with [[Baron Vargas Vallakovich|the Baron]] regarding the Barovian refugees, [[Non-Player Characters#Baron Vargas Vallakovich|the Baron]] is glad to grant her and her companions access to his library. Otherwise, the players can attempt to persuade [[Baron Vargas Vallakovich|the Baron]] to grant them entry, or try to gain access by subterfuge if all else fails. 
 
 If the players visit the library, proceed to [[#E3b. Searching the Library]] below.
 ### 1. Persuading [[Baron Vargas Vallakovich|the Baron]]
 Upon first greeting the players, [[Baron Vargas Vallakovich|the Baron]] inquires as to their excitement for the upcoming Festival of the Blazing Sun. After pointing out the bundles of twigs piled about the mansion's grand foyer, he boasts of his plan to make burned offerings to the Morninglord in a giant wicker sun—cured meats, incense, jewelry, and so on. "The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
 
-If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without [[Ireena]]’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
+If the players then ask [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vallakovich]] for access to the library without [[Ireena Kolyana|Ireena]]’s aid, he demands to know their background, their purpose in Vallaki, and their intentions for using his library. 
 
 While he is not generally inclined to grant their request, if the players indicate that they are adventurers, mages, clerics, scholars, or otherwise up to the task, [[Baron Vargas Vallakovich|Vargas]] is willing to allow them entry into the library if they agree to resolve a problem his household has been facing. He can share with them the following information:
 
@@ -303,12 +309,13 @@ The NPCs in the mansion behave as follows:
 > If Izek and the guards confront the players and defeat them in combat, they confiscate the players' weapons and throw them out of town, leaving them as food for the wolves of the Svalich Wood. The players awaken west of Vallaki, on the Old Svalich Road, stripped of their armor and any non-hidden weapons, equipment, or valuables. 
 > 
 > To recover their possessions, the players must first sneak back into Vallaki, avoiding the twelve **guards** patrolling the walls and gates around the city. The players can find their belongings stored in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3m. Locked Closet|N3m. Locked Closet]] (p. 107), near the chained [[Udo Lukovich]].
+> ^Abstract-Banishment-from-Vallaki
 ## E3b. Searching the Library
 <em>This scene takes place in Chapter 5: Area N3l.</em>
 
 If the players gain access to [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3l. Library|N3l. Library]] (p. 107), they can attempt to search the shelves for information regarding the platinum signet ring. With a full hour spent searching, the players can confirm that no books contain any information about the ring. 
 
-In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: [[Ireena]] Strazni, the younger sister of [[Izek Strazni]] and the daughter of Grygori and Fatima Strazni. According to the records, however, [[Ireena]] Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while [[Ireena]]’s cause of death is marked as *Unknown (presumed devoured by wolves).*
+In the course of the players’ search, one of the players identifies a familiar name in a genealogical tome archiving births and deaths to Vallakian families: [[Ireena Kolyana|Ireena]] Strazni, the younger sister of [[Izek Strazni]] and the daughter of Grygori and Fatima Strazni. According to the records, however, [[Ireena Kolyana|Ireena]] Strazni died more than eighteen years ago at the age of four, with Grygori and Fatima dying shortly thereafter. Grygori and Fatima’s deaths are marked as *Suicide by hanging*, while [[Ireena Kolyana|Ireena]]’s cause of death is marked as *Unknown (presumed devoured by wolves).*
 
 Shortly after the players discover these records, however, they are interrupted by the arrival of [[Victor Vallakovich]], who has come to the library in search of a particular book: *Ethereal Entities: Denizens of the Unseen Realm,* written by the archmage Mordenkainen. 
 ![[victor-vallakovich.png]]
@@ -333,11 +340,11 @@ Shortly after the players discover these records, however, they are interrupted 
 > ***Relationships.*** Victor is the only child of [[Baron Vargas Vallakovich]] (whom he dislikes) and Baroness Lydia Petrovna (whom he cares for, but finds irritating). He is a close friend to Stella Wachter, and a friendly (though wary) acquaintance to the ghost of Erasmus van Richten. Victor despises and fears [[Izek Strazni]], who killed Victor’s childhood cat, Murka, by kicking it across a room when it wandered into his path two years ago. (Victor has since reanimated Murka’s skeleton through the use of his *animate dead* spell.)
 > ^Profile-Victor-Vallakovich
 
-Victor, who is largely as described in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
+Victor, who is largely as described in [[06_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), is carrying his spellbook with him. The players can easily see that the cover of the book displays the same symbol as the platinum signet ring.
 
 If the players ask about Victor’s spellbook, he demands to know their names and purpose. The players can persuade him to aid them by sharing the story of [[Arabelle]]’s disappearance or by making a successful DC 15 Charisma (Persuasion) check. 
 
-If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] to speak further. He won’t share any information outside of his workroom.
+If Victor agrees to aid the players by sharing information about his spellbook, he first obtains *Ethereal Entities* from one of the shelves, then invites the players upstairs to [[06_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] to speak further. He won’t share any information outside of his workroom.
 
 > [!lore]+ **Ethereal Entities**
 >
@@ -376,27 +383,31 @@ If Victor agrees to aid the players by sharing information about his spellbook, 
 > Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
 >
 > To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
+> ^Lore-Ethereal-Entities
 ## E3c. Speaking with Victor
 <em>This scene takes place in Chapter 5: Area N3t.</em>
 
-Victor’s workroom is largely as described in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
+Victor’s workroom is largely as described in [[06_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109), except that the *glyph of warding* on the door, rather than dealing lightning damage, casts _fear_ in a 30-foot cone away from the door when activated. Additionally, Victor’s spellbook contains the *sending* and *fear* spells and does not contain *remove curse.*
 
 > [!Warning]+ Counterspell 2024
 > 
 > This guide was written for the use of 2014 spells. If using 2024 spells, add a spell called *abjure spell* to Victor’s spellbook. The spell functions as a 5th-level *counterspell* following the 2014 rules (Basic Rules, p. 228) for the combat in [[Arc H - The Lost Soul#Battle with the Hags|Arc H - The Lost Soul]].
+> ^Warning-Counterspell-2024
 
 
-Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3p. Bridal Gown and Spirit Mirror|N3p. Bridal Gown and Spirit Mirror]] (p. 108) against the wall beside the rug.
+Additionally, Victor has only one skeleton **cat**, which is the animated remains of his childhood cat, Murka. Victor’s teleportation circle is perfectly constructed, there are no bones on Victor's bookshelf, and Victor has leaned the full-length mirror from [[06_Chapter 5 - The Town of Vallaki#N3p. Bridal Gown and Spirit Mirror|N3p. Bridal Gown and Spirit Mirror]] (p. 108) against the wall beside the rug.
 
 The mirror is a *spirit mirror*, a magical item that reflects both the Material Plane and creatures in the Border Ethereal. Upon entering the room, a player who looks into the mirror sees a flash of a young woman’s silhouette that swiftly vanishes. (This is the spirit of [[Stella Wachter]].)
 
 > [!abstract]+ **Meeting Victor**
-> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109) if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
+> If the players have not already met [[Non-Player Characters#Victor Vallakovich|Victor]], he casts *greater invisibility* as described in [[06_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom|N3t. Victor's Workroom]] (p. 109) if alerted to their arrival, but clumsily knocks over a pile of parchment as the players enter the room in his haste to hide. A player who inspects the parchment sees that they are covered with elaborate diagrams of teleportation circles.
 >
 > Shortly after the players enter the room, they can hear the sound of a sneeze from the corner where Victor is hiding. Victor then reveals himself—including his spellbook and the recognizable sigil upon it—and proceeds to speak with the players as described in [[#E3b. Searching the Library]] above.
+> ^Abstract-Meeting-Victor
 
 > [!info]+ **The Tome of Strahd**
 > A previous version of this guide placed the *Tome of Strahd* within Victor's workroom. If the *Tome of Strahd* is located within Victor’s workroom, it can be found atop Victor’s desk among his other papers. If the players attempt to pick up the *Tome of Strahd*, Victor immediately casts *mage hand* to retrieve it, revealing his position.
+> ^Info-The-Tome-of-Strahd
 
 If persuaded to aid the players in finding [[Arabelle]], Victor can share the following information:
 
@@ -409,8 +420,9 @@ If the players agree to investigate Khazan’s tower and give Victor any artifac
 > [!info]+ **What Victor Knows**
 > If asked about the different factions and locations throughout Barovia, Victor can provide the following information:
 > * ***The Amber Temple.*** Victor flips through his spellbook, then shares that, according to its pages, Khazan once sought out the secrets of power at a temple "forged of amber." "According to his notes, it was previously guarded by an order of knights in the service of a dragon," he adds curiously. "But when Strahd conquered the valley, he slaughtered them all."
+> ^Info-What-Victor-Knows
 
-Victor isn’t sure how to get to Lake Baratok from [[Vallaki]]. However, he does know someone who will: [[Szoldar Szoldarovich]], one of the town’s most skilled hunters. (Last year, in an effort to encourage Victor to develop more masculine hobbies and traits, [[Vargas]] forced him to accompany [[Szoldar]] on a hunting trip in the woods by Vallaki’s walls. Victor detested the experience, but came away with a healthy respect for Szoldar’s knowledge of Barovia’s wilderness.)
+Victor isn’t sure how to get to Lake Baratok from [[Town of Vallaki|Vallaki]]. However, he does know someone who will: [[Szoldar Szoldarovich]], one of the town’s most skilled hunters. (Last year, in an effort to encourage Victor to develop more masculine hobbies and traits, [[Baron Vargas Vallakovich|Vargas]] forced him to accompany [[Szoldar Szoldarovich|Szoldar]] on a hunting trip in the woods by Vallaki’s walls. Victor detested the experience, but came away with a healthy respect for Szoldar’s knowledge of Barovia’s wilderness.)
 
 If the players are interested in speaking with Szoldar, Victor directs them to a ramshackle hut at the mouth of the Luna River to the west, which Szoldar and his partner, [[Yevgeni Krushkin]], have turned into a dressing shack for skinning, gutting, and butchering their kills. To get there, the players should travel north, past Vallaki’s Zarovich Gate, and then travel west along the shores of Lake Zarovich.
 
@@ -424,6 +436,7 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 > If caught in an evident lie, Victor confesses that the noises are likely caused by a spirit that haunts the house, but begs the players not to tell anyone for fear that [[Baron Vargas Vallakovich|the Baron]] might see fit to exorcise it. Victor promises to ensure the spirit keeps quiet, insisting that she likely didn't know that she was disturbing anyone. (Victor declines to introduce the spirit if asked, claiming that she's shy.) 
 > 
 > Victor doesn't reveal the spirit's true identity (Stella Wachter) or origins. See [[Arc H - The Lost Soul]] for more information.
+> ^Abstract-The-Haunting
 
 > [!lore]+ **Khazan’s Staff**
 >
@@ -431,7 +444,8 @@ Victor can tell the players that, while Szoldar and Yevgeni spend most mornings 
 >
 > According to the spellbook, a magical binding allowed Khazan to summon it by merely speaking his own name. With the aid of Khazan’s staff, Victor believes he may be able to rescue Stella’s soul from the Ethereal Plane and restore it to her body.
 >
-> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in [[K84. Catacombs#Crypt 15|Crypt 15]] (p. 88) in Castle Ravenloft. See [[Arc P - Ravenloft Heist]] for more information about Khazan's staff.
+> Victor is, however, mistaken. Unlike the archmage’s spellbook, Strahd recovered Khazan’s staff from the remnants of his body. It is now concealed in [[Catacombs#Crypt 15|Crypt 15]] (p. 88) in Castle Ravenloft. See [[Arc P - Ravenloft Heist]] for more information about Khazan's staff.
+> ^Lore-Khazans-Staff
 
 # E4. Lake Zarovich
 <em>This scene takes place in Chapter 2: Area L.</em>
@@ -446,9 +460,9 @@ As the players journey west toward Szoldar’s shack, read:
 <p>A small, crudely built shack stands tucked away near the water's edge, its timbers worn and weathered with age. Not far away, an old stone stele stands atop a circular foundation tightly packed with moss-covered stones.</p>
 </div>
 
-If the players arrive between the hours of noon and dusk, [[Szoldar]] and [[Yevgeni]] can be found inside. Szoldar is cleaning the blood from an old rusted hunting trap, while Yevgeni is halfway finished with skinning a large dead wolf.
+If the players arrive between the hours of noon and dusk, [[Szoldar Szoldarovich|Szoldar]] and [[Yevgeni Krushkin|Yevgeni]] can be found inside. Szoldar is cleaning the blood from an old rusted hunting trap, while Yevgeni is halfway finished with skinning a large dead wolf.
 
-When [[Szoldar]] and [[Yevgeni]] are away, the door to the shack is locked with a padlock. (Both wolf hunters carry a key.) If either wolf hunter is inside, the door is unlocked and hangs ajar.
+When [[Szoldar Szoldarovich|Szoldar]] and [[Yevgeni Krushkin|Yevgeni]] are away, the door to the shack is locked with a padlock. (Both wolf hunters carry a key.) If either wolf hunter is inside, the door is unlocked and hangs ajar.
 
 If the players choose to investigate the slab, they find that it bears a carving of a butterfly, the grooves lined with lichen and moss. (The slab is an ancient monument to [[History of Barovia#The Ancient Era (3,000 BU–0 BC)|the Dreamer]], the divine sister of the Ladies Three. Szoldar and Yevgeni don't know what the carving means.)
 

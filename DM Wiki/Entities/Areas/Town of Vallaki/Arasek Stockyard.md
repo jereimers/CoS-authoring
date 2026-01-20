@@ -24,11 +24,13 @@ encounter:
 item(s):
 handouts:
 loot:
-publish: false
+publish: true
 ---
 # Overview
 
+This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads "Arasek Stockyard."
 
+Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words "[[Rictavio]]'s Carnival of Wonders."
 
 # What the party knows
 

@@ -35,14 +35,17 @@ WotC_ref:
 publish: true
 ---
 # Portrait
+
 ![[Source/homebrew/images/yeska.png]]
 
 # Who they are
-Yeska is a timid and fearful child, recently orphaned, who looks to [[Father Lucian Petrovich|Father Lucian]] for safety and comfort. He lives at the [[St. Andral's Church|Church]] and serves as its altar boy.
+
+Yeska is a timid and fearful child, recently orphaned and still emotionally fragile, who looks to [[Father Lucian Petrovich|Father Lucian]] for safety and comfort. He lives at the [[St. Andral's Church|Church]] and serves as its altar boy.
 
 
 # What the party knows
 
+- [[Milivoj]] had been the one who frightened the boy with tales of the devil Strahd and the dangers lurking in the dark, which in turn led to Yeska seeking comfort from [[Father Lucian Petrovich|Father Lucian]]. Yeska truthfully denied sharing his knowledge of the bones with anyone, but recalled that Milivoj had been in the church at the time of the conversation and could have overheard them.
 
 
 # Personality
@@ -51,7 +54,7 @@ Yeska is a timid and fearful child, recently orphaned, who looks to [[Father Luc
 
 # Where we've seen them
 
-*To be updated during play.*
+- [[Session 11#St. Andral's Church]]
 
 %%
 # Yeska Profile

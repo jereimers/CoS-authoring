@@ -33,7 +33,7 @@ The greatsword's hilt is sculpted to resemble **silver dragon wings**, spreading
 As wielded by Vladimir Horngaard:
 - **Attack:** +9 to hit, reach 5 ft., one target
 - **Hit:** 20 (4d6 + 6) slashing damage
-- **Special:** Against [[Strahd von Zarovich]], Vladimir deals an extra 14 (4d6) slashing damage with this weapon
+- **Special:** Against [[DM Wiki/Entities/NPCs/Strahd von Zarovich]], Vladimir deals an extra 14 (4d6) slashing damage with this weapon
 
 ## Dragon's Vengeance
 The blade carries Vladimir's burning hatred for Strahd. When Vladimir strikes the vampire, the sword deals devastating additional damage—a manifestation of his all-consuming desire for vengeance against the one who destroyed the Order of the Silver Dragon and slew [[Argynvost]].

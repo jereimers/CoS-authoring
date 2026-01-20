@@ -26,7 +26,7 @@ encounter:
 item(s):
 handouts:
 loot:
-publish: true
+publish: false
 ---
 
 %% an area is a location, place, region, etc. It can be as large as the Planes of Existence and as small as a room inside a building inside a town inside a region inside a domain inside a continent/plane. Areas have types, are encountered by the party at a particular time/place, and can be home to multiple NPCs, items, etc. %%
@@ -49,11 +49,3 @@ publish: true
 # Notes
 
 %%
-
-
-
-# WotC source:
-
-# O. Old Bonegrinder
-
-Chapter 6 details Old Bonegrinder, a decrepit windmill occupied by hags.

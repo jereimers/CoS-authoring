@@ -19,7 +19,7 @@ Consider *Curse of Strahd: Reloaded* your all-in-one guide to running this campa
 > 
 > You'll be able to grant these scenes greater depth and intent, of course, if you read ahead in the guide and original module. **If you're just preparing to start the campaign and have limited time**, though, you only need to read [[Character Creation]], [[Session Zero]], and [[Arc A - Escape From Death House]] before you begin. 
 > 
-> If you have the time, you can—and probably should—also read [[History of Barovia]], [[Lore of Barovia]], and [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] before beginning the campaign in earnest, just to provide context. However, you don't need to finish reading those until after the players have completed [[Arc A - Escape From Death House]].
+> If you have the time, you can—and probably should—also read [[History of Barovia]], [[Lore of Barovia]], and [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]] before beginning the campaign in earnest, just to provide context. However, you don't need to finish reading those until after the players have completed [[Arc A - Escape From Death House]].
 
 As you read through this guide, make sure you have access to the following resources:
 

@@ -28,7 +28,7 @@ According to vampire lore and the stat block for vampires:
 
 > **Stake to the Heart.** If a piercing weapon made of wood is driven into a vampire's heart while it is incapacitated in its coffin, the vampire is paralyzed until the stake is removed.
 
-This is one of the key weaknesses of vampires, including [[Strahd von Zarovich]].
+This is one of the key weaknesses of vampires, including [[DM Wiki/Entities/NPCs/Strahd von Zarovich]].
 
 ## Image
 

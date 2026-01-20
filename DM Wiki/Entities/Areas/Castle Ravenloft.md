@@ -22,10 +22,11 @@ encounter:
 item(s):
 handouts:
 loot:
-publish: false
+publish: true
 ---
 # Overview
 
+Big scary castle where the big scary vampire lord lives.
 
 
 # What the party knows

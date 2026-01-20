@@ -827,7 +827,7 @@ A player who inspects the castle’s surroundings from outside the tower can con
 > * In his third phase, increase his ***Unarmed Strike*** attack to 1d8+5 piercing damage and 5d6 necrotic damage. Increase his ***Bats' Frenzy*** to 4d8 necrotic damage. Increase his ***Predator's Fury*** to 2d12+5 force damage.
 
 > [!info]+ **Strahd’s Statistics**
-> See [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich#Strahd’s Tactics|Strahd’s Tactics]] for more information about Strahd’s statistics and tactics in battle.
+> See [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich#Strahd’s Tactics|Strahd’s Tactics]] for more information about Strahd’s statistics and tactics in battle.
 
 > [!info]+ **The Heart of Sorrow**
 > The Heart of Sorrow can’t be moved and is immune to all damage while Strahd lives. It’s held aloft by the will of Strahd, and isn’t affected by *dispel magic* or similar magic. In addition, it has the following properties while channeling its stores of power:

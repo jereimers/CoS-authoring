@@ -15,7 +15,7 @@ publish: false
 # Baba Lysaga's Quarterstaff
 
 ## Description
-A gnarled **quarterstaff** wielded by [[Baba Lysaga]], the ancient witch who claims to be [[Strahd von Zarovich]]'s true mother. Despite her advanced age and hunched appearance, Baba Lysaga wields this staff with surprising strength and ferocity, capable of making three attacks per round.
+A gnarled **quarterstaff** wielded by [[Baba Lysaga]], the ancient witch who claims to be [[DM Wiki/Entities/NPCs/Strahd von Zarovich]]'s true mother. Despite her advanced age and hunched appearance, Baba Lysaga wields this staff with surprising strength and ferocity, capable of making three attacks per round.
 
 The staff likely serves as both a walking aid and a focus for her dark magic, befitting a witch who has lived for centuries through the blessings of Mother Night.
 

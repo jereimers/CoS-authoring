@@ -23,11 +23,13 @@ encounter:
 item(s):
 handouts:
 loot:
-publish: false
+publish: true
 ---
 # Overview
 
+The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. At the north end of the square stands a row of stocks, locked in which are several men, women, and children wearing crude, plaster donkey heads.
 
+Standing tall at the center of the fountain is a gray statue of an impressive man facing west.
 
 # What the party knows
 

@@ -62,8 +62,8 @@ To strangers, Volenta is a manic, impulsive, and trigger-happy sadist with a fla
 In a fight, Volenta would gleefully relish the opportunity to test her custom-made weapons on hostile subjects—and, when pushed far enough, to tear those subjects apart with her bare hands and teeth.
 
 ### Relationships
-Volenta is fanatically loyal to [[Source/CoS-R/Chapter 2 - The Land of Barovia/Strahd von Zarovich]], and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
-***Relationships.*** Volenta is fanatically loyal to [[Strahd von Zarovich]], and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+Volenta is fanatically loyal to [[Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/Strahd von Zarovich]], and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
+***Relationships.*** Volenta is fanatically loyal to [[DM Wiki/Entities/NPCs/Strahd von Zarovich]], and views his other brides and consorts—especially Anastrasya, Ludmilla, and Escher—with deep resentment, jealousy, and suspicion.
 # #statblock
 ### First Encounter
 ![[volenta_first_form.png]]

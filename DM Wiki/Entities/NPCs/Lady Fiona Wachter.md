@@ -64,14 +64,16 @@ tags:
 CoS-R_ref: "[[Arc F - Lady Wachter's Wish#^Profile-Lady-Fiona-Wachter]]"
 WotC_ref:
   - "[[06_Chapter 5 - The Town of Vallaki#N4. Wachterhaus]]"
-publish: false
+publish: true
 ---
 # Who they are
-
+A wealthy Vallakian matriarch and an outspoken opponent of the [[Baron Vargas Vallakovich|Baron Vallakovich]]'s rule.
 
 
 # What the party knows
-
+- Lives in a large manor called [[Wachterhaus]] on the north side of [[Town of Vallaki|Vallaki]]
+- Has two young adult sons—[[Nikolai Wachter|Nikolai]] and [[Karl Wachter|Karl]]—who are known to be troublemakers around town.
+- Also has a teen daughter, [[Stella Wachter|Stella]], who has been recently kept cloistered on the house grounds for mysterious reasons.
 
 
 # Personality
@@ -79,8 +81,7 @@ publish: false
 
 
 # Where we've seen them
-
-*To be updated during play.*
+- Mentioned by [[Urwin Martikov]] in [[Session 11#Morning at the Blue Water Inn|Session 11]]
 
 %%
 # Lady Fiona Wachter Profile

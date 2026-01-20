@@ -57,7 +57,7 @@ If [[Non-Player Characters#Ireena Kolyana|Ireena]] was at the inn when Izek arri
 
 If [[Ireena Kolyana|Ireena]] was at [[St. Andral's Church]] when Izek visited the inn, she visits the inn the following morning and sees the aftermath herself.
 
-***[[Ireena Kolyana|Ireena]]'s Choice.*** Whether [[Ireena Kolyana|Ireena]] was at the inn or church during Izek's attack, she is filled with guilt, rage, and frustration upon learning of it. With a tremble in her voice, she demands that the players allow her to accompany them should they decide to put a stop to Izek's rampage. [[Ireena Kolyana|Ireena]] doesn't care about Izek's motivation; she simply wants others to stop suffering for their decisions to protect her.
+***Ireena's Choice.*** Whether [[Ireena Kolyana|Ireena]] was at the inn or church during Izek's attack, she is filled with guilt, rage, and frustration upon learning of it. With a tremble in her voice, she demands that the players allow her to accompany them should they decide to put a stop to Izek's rampage. [[Ireena Kolyana|Ireena]] doesn't care about Izek's motivation; she simply wants others to stop suffering for their decisions to protect her.
 
 If the players insist that she remain at the inn, [[Ireena Kolyana|Ireena]] asks if they truly believe her to be "helpless and incompetent." "Am I a piece of porcelain, to be sealed away so that it can never be chipped?" she demands furiously. "Am I a princess, to be locked away in a tower so that no dragon can snatch me? Did you forget that my father and brother trained me to wield a sword? Or do you mean to take this decision from me, just as Strazni and the Devil do?"
 
@@ -72,6 +72,7 @@ If the players insist that she remain at the inn, [[Ireena Kolyana|Ireena]] asks
 > - Strange figures have been seen going in and out of Wachterhaus, the home of [[Lady Fiona Wachter]], one of [[Baron Vargas Vallakovich|the Baron]]’s fiercest political enemies. Rumor has it that one of her servants has been shadowing Izek around town for the past two weeks. She might have aid to offer.
 > 
 > If the players journey to [[Lady Fiona Wachter|Lady Wachter]]’s estate to seek her assistance, they begin [[Arc F - Lady Wachter's Wish]].
+> ^Abstract-Urwins-Aid
 
 # G2. The Streets of Vallaki
 One day after his visit to the [[Blue Water Inn]], Izek directs the town guards to begin publishing posters requesting information regarding the location of a woman matching [[Ireena Kolyana|Ireena]]’s description. Each poster includes a sketch that roughly matches [[Ireena Kolyana|Ireena]]’s appearance and offers a reward of five gold pieces for information delivered to [[Izek Strazni]] at [[Baron Vargas Vallakovich|the Baron]]’s mansion.
@@ -105,7 +106,7 @@ The NPCs in the mansion ordinarily behave as follows:
 * Baroness Lydia Petrovna can generally be found in <span class="citation">N3c. Dining Room (p. 106)</span> during the day and in <span class="citation">N3o. Master Bedroom (p. 108)</span> at night. If she finds the players trespassing during the day, she assumes that they are guests of her husband, [[Baron Vargas Vallakovich|Vargas]], and greets them accordingly; otherwise, she screams, then faints. 
 * [[Non-Player Characters#Victor Vallakovich|Victor Vallakovich]] can generally be found in <span class="citation">N3t. Victor's Workroom (p. 109)</span> both day and night. If he finds the players trespassing, he greets them warily and demands to know their names and business. (He won’t raise the alarm if his curiosity is satisfied.)
 * Tereska, the cook, can generally be found in <span class="citation">N3g. Kitchen (p. 106)</span> during the day, and in <span class="citation">N3f. Servants' Quarters (p. 106)</span> at night. If she finds the players trespassing, she raises the alarm unless they agree to leave.
-* Clavdia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in <span class="citation">N3f. Servants’ Quarters (p. 106)</span> at night. If she finds the players trespassing, she immediately raises the alarm.
+* Claudia, the maid, can generally be found on the second floor during the morning, on the first floor during the afternoon, and in <span class="citation">N3f. Servants’ Quarters (p. 106)</span> at night. If she finds the players trespassing, she immediately raises the alarm.
 
 [[Non-Player Characters#Izek Strazni|Izek]] remains in his bedroom with [[Ireena]] at all times and refuses to allow anyone else to enter, including [[Baron Vargas Vallakovich|the Baron]] and the household staff. If the players loot Izek’s body following his death, they can recover his silvered battleaxe, a pouch containing 35 gp, and an amber shard of Seriach, the Hell Hound Whisperer. (See the **Amber Shard** appendix for more information about amber shards.)
 

@@ -45,19 +45,29 @@ WotC_ref:
 publish: true
 ---
 # Portrait
+
 ![[father-lucian.png]]
 # Who they are
+
 Father Lucian is a warm-hearted man who serves as high priest of the Morninglord at [[St. Andral's Church]] in [[Town of Vallaki|Vallaki]]. 
 
 
 # What the party knows
+
 - Father Lucian personally confirmed the hallowed nature of the church grounds, assuring them of [[Ireena Kolyana|Ireena]]'s safety.
+- Performs an annual protective rite involving the bones of St. Andral, which serves to sanctify the church grounds and provides sanctuary against the forces of darkness.
+- Holds the holy symbol of Tasha Petrovna, an ancestor of his and a mighty cleric under Saint Markovia. He ain't afraid of no dark spirits.
+- He's a good dude who really loves and cares for his congregation, even the fuck-ups.
 
 # Personality
+
 Father Lucian is a serene, humble, and compassionate priest who is always happy to share a word of praise or a few pearls of wisdom, preferably over a hot cup of jasmine tea.
 
 # Where we've seen them
+
 - [[Session 09 - Walls Keep Out More Than Wolves]]
+- [[Session 11#Outside the Inn|Session 11]] - intervened on [[Willemina Rikalova|Willemina]]'s (and the party's) behalf to [[Baron Vargas Vallakovich|The Baron]]
+- [[Session 11#St. Andral's Church|Session 11]] 
 
 %%
 # Father Lucian Petrovich Profile

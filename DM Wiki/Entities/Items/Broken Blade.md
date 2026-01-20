@@ -4,6 +4,10 @@ CoS-R_ref: "[[Character Creation#Justice—The Broken Blade]]"
 WotC_ref: N/A
 current_location: "[[Arden Nalero]]"
 publish: true
+tags:
+  - cos
+  - item
+  - barovian-relic
 ---
 # Description
 A player seeking **justice** begins the campaign with the *broken blade*, the shattered tip of an elven longsword. The blade is engraved with the sigil of a lion rampant, which seems to roar when the light of dusk touches it.

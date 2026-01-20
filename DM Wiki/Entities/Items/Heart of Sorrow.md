@@ -1,5 +1,5 @@
 ---
-belongs_to: "[[Strahd von Zarovich]]"
+belongs_to: "[[DM Wiki/Entities/NPCs/Strahd von Zarovich]]"
 CoS-R_ref:
 WotC_ref: "[[21_Appendix D - Monsters and NPCs#Heart of Sorrow]]"
 current_location: "[[Castle Ravenloft]]"
@@ -17,7 +17,7 @@ publish: false
 # Heart of Sorrow
 
 ## Description
-The **Heart of Sorrow** is a giant crystal heart hidden inside [[Castle Ravenloft]], serving as a powerful defensive mechanism for [[Strahd von Zarovich]]. This massive, pulsing crystal absorbs damage that would otherwise harm the vampire lord, allowing him to fight with terrifying boldness.
+The **Heart of Sorrow** is a giant crystal heart hidden inside [[Castle Ravenloft]], serving as a powerful defensive mechanism for [[DM Wiki/Entities/NPCs/Strahd von Zarovich]]. This massive, pulsing crystal absorbs damage that would otherwise harm the vampire lord, allowing him to fight with terrifying boldness.
 
 The heart is located in **area K20** of Castle Ravenloft.
 
@@ -29,7 +29,7 @@ The heart is located in **area K20** of Castle Ravenloft.
 - **Attunement:** N/A (connected to Strahd)
 
 ## Damage Absorption
-Any damage that [[Strahd von Zarovich]] takes is transferred to the Heart of Sorrow instead. This includes all types of damage from any source.
+Any damage that [[DM Wiki/Entities/NPCs/Strahd von Zarovich]] takes is transferred to the Heart of Sorrow instead. This includes all types of damage from any source.
 
 - If the Heart absorbs damage that reduces it to 0 hit points, it is **destroyed**, and Strahd takes any leftover damage
 - The Heart restores to 50 hit points each dawn, provided it has at least 1 hit point remaining
