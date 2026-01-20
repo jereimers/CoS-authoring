@@ -3,7 +3,6 @@ aliases:
 tags:
   - cos
   - lore
-  - needs_filling
 type: Lore
 WotC_ref:
   - "[[06_Chapter 5 - The Town of Vallaki#Vallaki Lore]]"

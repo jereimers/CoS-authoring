@@ -15,7 +15,6 @@ first_appearance_date:
 tags:
   - area
   - cos
-  - needs_filling
 key_factions:
   - "[[Order of the Silver Dragon]]"
 area_code: Q

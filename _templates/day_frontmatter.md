@@ -3,7 +3,7 @@ type: barovian_day
 tags:
   - timeline
   - barovia/date
-  - needs_filling
+  - new
 barovian_date_key:
 barovian_date:
 month:
@@ -21,5 +21,6 @@ major_events:
 factions_active:
   - 
 party_presence:
-  -
+  - 
+publish:
 ---

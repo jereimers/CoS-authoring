@@ -3,7 +3,6 @@ aliases:
 tags:
   - cos
   - lore
-  - needs_filling
 type: Lore
 WotC_ref:
   - "[[03_Chapter 2 - The Lands of Barovia#Barovian Lore]]"

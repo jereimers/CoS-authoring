@@ -17,5 +17,6 @@ first_appearance_session:
 tags:
   - cos
   - faction
-  - needs_filling
+  - new
+publish:
 ---

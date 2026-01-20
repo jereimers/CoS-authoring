@@ -24,7 +24,8 @@ handouts:
 tags:
   - npc
   - cos
-  - needs_filling
+  - new
 CoS-R_ref:
 WotC_ref:
+publish:
 ---

@@ -28,6 +28,7 @@ tags:
 play_date_key: 2026-01-15
 status: played
 barovian_date_key: 0735-11-03
+publish: true
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
 

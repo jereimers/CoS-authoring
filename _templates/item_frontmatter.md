@@ -4,7 +4,8 @@ CoS-R_ref:
 WotC_ref:
 current_location:
 tags:
-  - needs_filling
   - cos
   - item
+  - new
+publish:
 ---

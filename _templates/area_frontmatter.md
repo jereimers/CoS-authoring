@@ -15,7 +15,7 @@ first_appearance_date:
 tags:
   - area
   - cos
-  - needs_filling
+  - new
 key_factions:
 area_code:
 area_type:
@@ -25,4 +25,5 @@ encounter:
 item(s):
 handouts:
 loot:
+publish:
 ---

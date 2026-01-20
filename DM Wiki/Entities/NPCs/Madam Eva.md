@@ -30,10 +30,14 @@ handouts:
 tags:
   - npc
   - cos
+  - needs_filling
 CoS-R_ref:
 WotC_ref:
 publish: true
 ---
+# Portrait
+
+
 # Who they are
 
 

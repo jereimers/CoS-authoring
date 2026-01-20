@@ -1,10 +1,11 @@
 ---
 status:
 tags:
-  - needs_filling
   - cos
   - quest
+  - new
 giver:
 location(s):
 NPCs_involved:
+publish:
 ---

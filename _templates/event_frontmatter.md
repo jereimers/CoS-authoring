@@ -10,4 +10,5 @@ WotC_ref:
 CoS-R_ref:
 arcs:
 notable_npcs:
+publish:
 ---

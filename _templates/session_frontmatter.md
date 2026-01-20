@@ -7,10 +7,11 @@ combat?:
 has_recap?:
 play_date:
 tags:
-  - needs_filling
   - cos
   - session
+  - new
 play_date_key:
 status:
 barovian_date_key:
+publish:
 ---

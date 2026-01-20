@@ -16,7 +16,7 @@ has_recap?: true
 play_date:
 tags:
   - cos
-  - needs_filling
+  - session
 publish: true
 ---
 

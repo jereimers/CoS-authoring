@@ -6,7 +6,6 @@ WotC_ref:
   - "[[WotC - 06 - Old Bonegrinder - Dream Pastries]]"
 current_location:
 tags:
-  - needs_filling
   - cos
   - item
 publish: true

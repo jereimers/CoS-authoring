@@ -5,9 +5,10 @@ party_presence:
 tags:
   - encounter
   - cos
-  - needs_filling
+  - new
 loot:
 location(s):
 arc(s):
 barovian_date(s):
+publish:
 ---
