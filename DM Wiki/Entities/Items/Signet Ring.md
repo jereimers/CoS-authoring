@@ -4,9 +4,10 @@ CoS-R_ref:
 WotC_ref:
 current_location:
 tags:
-  - needs_filling
+  - ai_generated
   - cos
   - item
+publish: true
 ---
 
 
@@ -14,13 +15,18 @@ tags:
 
 
 # Description
-This ring of silver has a broad, flat face on which a connected series of lines and multiple symbols have been etched. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. 
+
+This ring of silver has a broad, flat face on which a connected series of lines and multiple symbols have been etched. A tiny arcane rune has been carved into the metal above each of the two unconnected ends of the series of lines. The design appears to be some kind of map or pathway, though its meaning remains unclear.
+
+# What the party knows
+
+The party has not yet encountered this item.
 
 # Image
+
 ![[signet-ring.png]]
 
 # Notes
-
 
 %%
 

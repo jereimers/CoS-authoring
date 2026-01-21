@@ -3,11 +3,11 @@ type: NPC
 name: Muriel Vinshaw
 aliases:
   - Blue-Winged Raven
-pronouns:
-race:
-class:
+pronouns: she/her
+race: Human
+class: Wereraven
 age:
-gender:
+gender: female
 creature_type:
 origin:
 home_base:
@@ -25,23 +25,24 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait:
-portrait_credit:
+portrait: "[[muriel-vinshaw.png]]"
+portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
 tags:
   - npc
   - cos
-CoS-R_ref:
+CoS-R_ref: "[[Arc J - The Stolen Gem#^Profile-Muriel-Vinshaw]]"
 WotC_ref:
 publish: true
 ---
 # Who they are
 
-
+You first encountered this raven with blue-tipped wings and an inquisitive attitude in the [[Village of Barovia]] while preparing to defend the eastern barricade. Since then, it has accompanied you periodically during your journey.
 
 # What the party knows
 
-
+- [[Ismark Kolyanovich|Ismark]] told you that ravens are a good omen.
+- [[Madam Eva]] regarded the blue-winged raven with an emotion nearly resembling fondness; She stroked its wings and notes that she once had a beloved pet raven named Turul long ago.
 
 # Personality
 
@@ -49,7 +50,12 @@ publish: true
 
 # Where we've seen them
 
-*To be updated during play.*
+- [[Session 03 - Kolyan's Burial]] — this raven watched you put the body of [[Kolyan Indirovich]] to rest.
+- [[Session 04 - Defending the Eastern Barricade]] — this raven watched you slaughter countless undead, and alerted you to Ismark's peril once the eastern barricade was confirmed to be defended.
+- [[Session 05 - Out of Barovia#The Strix & the Blue-Winged Raven|Session 5]] — y'all saved this raven from certain death at the hands of a greater strix.
+- [[Session 06 - The Game of Stories]] — [[Madam Eva]] remarked about this raven's beauty and nobility
+- [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three#The Svalich Road and the Raven Shrine|Session 8]] — this raven was among the many observing you at the standing stone near the western [[Gates of Barovia]]
+- [[Session 09 - Walls Keep Out More Than Wolves]] — this raven accompanied you all the way to the [[Blue Water Inn]] in [[Town of Vallaki|]]
 
 %%
 # Muriel Vinshaw Profile

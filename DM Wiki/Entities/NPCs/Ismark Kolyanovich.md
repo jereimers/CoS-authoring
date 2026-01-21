@@ -7,14 +7,17 @@ aliases:
 pronouns: he/him
 race: Human
 class:
-age: 18
+age: 32
 gender: male
 creature_type: humanoid
-origin:
-home_base:
-current_location:
+origin: "[[Village of Barovia]]"
+home_base: "[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster's Mansion]]"
+current_location: "[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster's Mansion]]"
 factions:
+  - "[[Barovian Villagers]]"
 arc:
+  - "[[Arc B - Welcome to Barovia]]"
+  - "[[Arc C - Into the Valley]]"
 first_appearance_session: 2
 first_appearance_date:
 status: alive
@@ -26,32 +29,47 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
+  - "[[Kolyan Indirovich]]"
+  - "[[Ireena Kolyana]]"
+  - "[[Doru]]"
 portrait: "[[03-002.ismark-kolyanovich.png]]"
 portrait_credit: CoS-WotC
 handouts:
 tags:
   - npc
   - cos
-  - vallaki
-CoS-R_ref:
+  - barovia
+  - burgomaster
+CoS-R_ref: "[[Arc B - Welcome to Barovia#^Profile-Ismark-Kolyanovich]]"
 WotC_ref:
+  - "[[03_Chapter 3 - The Village of Barovia#Roleplaying Ismark]]"
 publish: true
 ---
+# Portrait
+
+![[03-002.ismark-kolyanovich.png]]
+![[ismark.png]]
+![[ismark-noir.png]]
 # Who they are
 
-
+Son of the late [[Kolyan Indirovich]], brother to [[Ireena Kolyana]], and recently sworn-in burgomaster of [[Village of Barovia|Barovia]].
 
 # What the party knows
 
-
+- He is sometimes mockingly called "Ismark the Lesser" — a direct comparison to his great-grandfather, Ismark Antonovich "the Great", who was a a mighty warrior and the burgomaster of the village of Barovia. 
+	- In Ismark the Great's prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor.
+- After [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]]'s forces began assaulting the [[Village of Barovia|village]], Ismark coordinated the village defenses and fought on the front line.
 
 # Personality
 
-
+To the world, Ismark is a courageous, reliable, and compassionate leader. To those he trusts, Ismark is a self-doubting, struggling warrior desperate to keep his loved ones safe.
 
 # Where we've seen them
 
-*To be updated during play.*
+- [[Session 02 - Out of Death House]] — Met him at the [[Blood of the Vine Tavern]]
+- [[Session 03 - Kolyan's Burial]] — Helped him bury his father, then he gave you a tour of the town
+- [[Session 04 - Defending the Eastern Barricade#Coming to Ismark's Aid|Session 04]] — Came to his aid against a [[Zombie Plague Spreader (VRGR)|zombie plague spreader]] in the Barovia village center.
+- [[Session 05 - Out of Barovia#Morning in the Mansion|Session 05]] — He gave you a [[Ismark's Letter of Introduction|letter of introduction]] as he bade you farewell and safe travels through the [[Barovia|Valley of Barovia]]
 
 %%
 # Ismark Kolyanovich Profile

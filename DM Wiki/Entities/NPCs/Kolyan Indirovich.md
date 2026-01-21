@@ -32,65 +32,31 @@ tags:
   - cos
   - barovia
   - burgomaster
-CoS-R_ref:
+CoS-R_ref: "[[Arc B - Welcome to Barovia#^Profile-Kolyan-Indirovich]]"
 WotC_ref:
 publish: true
 ---
-# Who they are
+# Who they ~~are~~ were
 
-
+Former burgomaster of the [[Village of Barovia]], grandson of Ismark Antonovich the Great, and father to [[Ismark Kolyanovich]] and [[Ireena Kolyana]]. 
 
 # What the party knows
 
-
+- He was the one who found Ireena when she was a young girl, by the edge of the [[Svalich Woods]] near the Pillarstone of Ravenloft. 
 
 # Personality
 
-
+- You never met him, but he was apparently a steely, strong-willed, yet compassionate leader respected by all in the village.
 
 # Where we've seen them
 
-*To be updated during play.*
+- He wrote and sent [[Kolyan's Letter]], which you found on the corpse of Dalvan Olensky in [[Session 01 - Arrivals]]
+- Y'all helped bury his body in [[Session 03 - Kolyan's Burial#Burying Kolyan|Session 3]]
 
 %%
 # Kolyan Indirovich Profile
 
-## Portrait
-*No portrait available.*
-
-## Roleplaying Information
-
-### Resonance
-
-
-### Emotions
-
-
-### Motivations
-
-
-### Inspirations
-
-
-### Vocal Notes
-
-
-### Signature Lines
-
-
-## Character Information
-
-### Persona
-
-
-### Morale
-
-
-### Relationships
-
-
-### Knowledge
-
+![[Arc B - Welcome to Barovia#^Profile-Kolyan-Indirovich]]
 
 # Statblock
 # Notes

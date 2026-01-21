@@ -122,6 +122,8 @@ Whether [[Ireena Kolyana|Ireena]] is with the party or not, add:
 >* **Embrace Unpredictability.** In each scene before [[Arc R - Trials of the Mountain]], Strahd has no particular goal, and won't be disappointed if events unfold differently than he expected. Release any obligation you feel to make the scene conclude in a particular way.
 >* **Explore Darkness.** Strahd provides a risk-free opportunity to explore and relish darker emotions, such as (justified) arrogance, (quiet) cruelty, and (subtle) contempt. Savor those emotions and the impact they have on your players.
 
+^7bfed1
+
 > [!abstract]+ **The Players Misbehave**
 >
 >  If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
@@ -379,7 +381,7 @@ If Muriel is with the players in raven form, Madam Eva regards her with an emoti
 
 If the players ask Eva about [[Arc B - Welcome to Barovia#B3. Svalich Woods|Dalvan Olensky's corpse]], she shares only that he was a Barovian named Dalvan Olensky who came to her tent in the aftermath of Strahd’s siege on the village of Barovia, and that he insisted upon hearing— and then defying—his fate, a choice with tragic consequences. (As with Strahd, Eva can’t disclose the nature or content of Dalvan’s foretelling.)
 
-If the players ask Madam Eva to read their fortunes, or request her guidance on how to defeat Strahd, her face darkens, and she says, "You stand upon a precipice of a cliff whose base you cannot yet see. Do you understand what you ask of me?"
+If the players ask [[Madam Eva]] to read their fortunes, or request her guidance on how to defeat Strahd, her face darkens, and she says, "You stand upon a precipice of a cliff whose base you cannot yet see. Do you understand what you ask of me?"
 
 Regardless of the players' response, Madam Eva replies, shaking her head: "I will not do this thing for you—not yet. If you wish to pursue this path, however, come to the River Ivlis crossroads at midnight tonight. I shall await you there, by the gallows. Come alone—and do not allow yourselves to be followed." Madam Eva refuses to elaborate, and dismisses the players from her tent if they attempt to protest.
 

@@ -35,23 +35,28 @@ handouts:
 tags:
   - npc
   - cos
-  - vallaki
+  - barovia
+  - noble
 CoS-R_ref: "[[Ireena Kolyana#Ireena Kolyana Profile]]"
 WotC_ref:
   - "[[03_Chapter 3 - The Village of Barovia#Roleplaying Ireena]]"
 publish: true
 ---
-# Portrait Gallery
+# Portrait
+
 ![[ireena-kolyana.png]]
 
 
 ![[03-004.ireena.png]]
 
 # Who they are
+
 Ireena is the adopted daughter of [[Kolyan Indirovich]] and adopted brother of [[Ismark Kolyanovich]], having lived with them since she was a child—as long as she can remember. She is a fierce, capable, and adroit Barovian woman.
 
 
 # What the party knows
+
+- Ireena was found when she was a young girl, wandering by the edge of the Svalich Woods near the Pillarstone of Ravenloft. Ireena doesn't remember anything of her past before then, but is grateful to her parents for taking her in and loving her dearly.
 - For reasons unclear, Ireena has become the especial target of [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]], having been visited (and bitten) by him at least once while dwelling with her brother in the [[Village of Barovia]].
 
 # Personality
@@ -64,6 +69,7 @@ Ireena is the adopted daughter of [[Kolyan Indirovich]] and adopted brother of [
 - [[Session 07 - The Tarokka Reading]]
 - [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three]]
 - [[Session 09 - Walls Keep Out More Than Wolves]]
+- [[Session 11]]
 
 %%
 # Ireena Kolyana Profile

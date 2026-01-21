@@ -1,8 +1,6 @@
 ---
 publish: false
 ---
-# WotC source:
-[[WotC - 03 - Village of Barovia - Special Events]]
 # Dream Pastries
 
 This event occurs as the characters make their way through the village.

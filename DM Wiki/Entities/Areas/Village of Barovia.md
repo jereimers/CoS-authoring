@@ -11,6 +11,13 @@ parent_region: "[[Barovia]]"
 arcs:
 connected_locations:
 notable_npcs:
+  - "[[Ismark Kolyanovich]]"
+  - "[[Ireena Kolyana]]"
+  - "[[Kolyan Indirovich]]"
+  - "[[Parriwimple]]"
+  - "[[Bildrath Cantemir]]"
+  - "[[Doru]]"
+  - "[[Father Donavich]]"
 threat_level:
 first_appearance_date:
 tags:

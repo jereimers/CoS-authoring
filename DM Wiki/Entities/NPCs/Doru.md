@@ -3,19 +3,20 @@ type: NPC
 name: Doru
 aliases:
 pronouns: he/him
-race: Human
+race: Human (Vampire Spawn)
 class:
 age: 21
 gender: male
-creature_type: humanoid
-origin:
-home_base:
-current_location:
+creature_type: undead
+origin: "[[Village of Barovia]]"
+home_base: "[[Church]]"
+current_location: "[[Church]]"
 factions:
 arc:
+  - "[[Arc B - Welcome to Barovia]]"
 first_appearance_session: 3
 first_appearance_date: 27 Octyavr 735
-status: alive
+status: undead
 cr:
 resonance:
 emotions:
@@ -24,32 +25,40 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
+  - "[[Father Donavich]]"
+  - "[[Gertruda]]"
 portrait: "[[03-006.doru.png]]"
 portrait_credit: CoS-WotC
 handouts:
 tags:
   - npc
   - cos
-  - vallaki
-  - needs_filling
+  - barovia-village
 CoS-R_ref:
 WotC_ref:
 publish: true
 ---
 # Who they are
 
-
+Doru is the son of [[Father Donavich]], the priest of the [[Village of Barovia]]. Once a young man full of hope, Doru was among those who joined a failed rebellion against [[Strahd von Zarovich|Strahd]]. He was captured and turned into a vampire spawn, then returned to his father's church as a cruel reminder of the futility of resistance. Now he lurks in the undercroft beneath the church, tormented by his unnatural hunger and desperate to avoid harming those he loves.
 
 # What the party knows
 
-
+- Doru is [[Father Donavich]]'s son, now transformed into a vampire spawn
+- He resides in the undercroft beneath the church in the [[Village of Barovia]]
+- He struggles against his vampiric nature and the hunger that consumes him
+- He was betrothed to [[Gertruda]] before his transformation
 
 # Personality
 
-
+- Wracked with guilt and shame over what he has become
+- Desperately fighting against his bloodlust to protect his father and others
+- Speaks with the broken cadence of someone who has lost everything
+- Occasionally slips into inhuman mannerisms before catching himself
 
 # Where we've seen them
-[[Church]]
+
+- [[Session 03 - Kolyan's Burial#Meeting Doru|Session 03]] - Met in the church undercroft
 
 %%
 # Doru Profile

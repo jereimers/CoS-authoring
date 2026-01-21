@@ -36,6 +36,7 @@ WotC_ref:
 publish: false
 ---
 # Portrait
+
 ![[ernst-larnak.png]]
 # Who they are
 

@@ -10,6 +10,7 @@ The following morning, Ismark asks the players to help bring their father’s re
 
 > [!design]+ **Design Note: Arrival in Barovia**
 > The players’ arrival in the village of Barovia has been substantially reworked to create a strong inciting incident for the campaign, ensuring they have an immediate and concrete reason to seek out Madam Eva’s Tarokka reading, an opportunity to form relationships with the villagers of Barovia, and personalized stakes in seeing Strahd defeated.
+> ^Design-Note-Arrival-in-Barovia
 # B1. Old Svalich Road
 <span class="citation"><em>This scene takes place in Chapter 2: Area A.</em></span>
 
@@ -42,9 +43,11 @@ Dalvan's hand holding the compass is splayed out in the direction of a nearby tr
 > A terrified, desperate, and delirious Dalvan repeated the loop thirteen times, his stolen horse expiring from exhaustion halfway through. It wasn't long before Dalvan succumbed to the effects of the Barovian fog as well—though not before inscribing his own epitaph in the form of the carving on the fourth tree.
 >
 > Madam Eva regrets Dalvan's fate—but as the avatar of the Seeker, she is bound to read the future when asked, and knows that no efforts to escape can unravel a future that she has foreseen.
+> ^Lore-What-Happened-to-Dalvan
 
 >[!info]+ **Dalvan's Compass**
 >Like all compasses in Barovia, Dalvan's compass behaves strangely as it approaches the vicinity of the edge of the Barovian valley—such as by Yester Hill in [[Arc J - The Stolen Gem]] or toward the peak of Mount Ghakis in [[Arc S - A Sword of Sunlight]]. Because there is no true "magnetic north" beyond the Mists that encircle Barovia, the needle of a compass that approaches the edge of the valley begins to tremble and eventually spin wildly the closer it gets. (This strange behavior ends when the compass is removed from the edge of the valley.)
+>^Info-Dalvans-Compass
 
 If the players follow the footpath in the direction of the arrow, they soon come to a second tree, which bears another thirteen tally marks and an arrow that points further along the direction of the footpath. The edge of the footpath here bears the corpse of a **horse**, which is in a similar state of decay to Dalvan's.
 
@@ -69,7 +72,8 @@ If the players then leave Dalvan's corpse and return, they find that both his an
 > [!design]+ **Design Note: Dalvan’s Fate**
 > Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
 >
-> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
+> Dalvan and his horse will later reappear as the skeletal rider described in [[02_Chapter 2 - The Lands of Barovia#Skeletal Rider|Skeletal Rider]] in [[Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
+> ^Design-Note-Dalvans-Fate
 # B4. Barovian Overlook
 <span class="citation"><em>This scene takes place in Chapter 2: Area D.</em></span>
 
@@ -87,6 +91,7 @@ The journey from here to the outskirts of the village is two miles long and take
 
 > [!info]+ **The Fortified Village**
 > The village of Barovia has been heavily fortified to defend against Strahd’s nightly siege. Barricades composed of logs, planks, and broken furniture have been erected at every major entrance into the settlement, with additional obstructions raised in every alleyway or gap between the villagers’ homes. A trench has been dug around the village and planted with sharp stakes, and archers patrol the rooftops at all hours of day and night.
+> ^Info-the-Fortified-Village
 ## B5a. The Barricade
 This scene largely unfolds as described in <span class="citation">Approaching the Village (p. 41)</span>. However, modify the description as follows:
 
@@ -98,7 +103,9 @@ This scene largely unfolds as described in <span class="citation">Approaching th
 
 ![[ismark.png]]
 <span class="credit">"Ismark Kolyanovich" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The man is Ismark Kolyanovich, who is largely as described in <span class="citation">E2. Blood of the Vine Tavern (p. 43)</span>. The raven is Muriel, a disguised **wereraven** and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two **scouts** bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian **commoners** make repairs to the barricade.
+
+The man is Ismark Kolyanovich, who is largely as described in [[03_Chapter 3 - The Village of Barovia#E2. Blood of the Vine Tavern|E2. Blood of the Vine Tavern]] (p. 43). The raven is Muriel, a disguised [[Wereraven (VRGR)|Wereraven (VRGR)]] and member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]]. Two [[Scout|scouts]] bearing light crossbows (+4 to hit, range 80/320 ft., one target, *Hit:* 6 (1d8 + 2) piercing damage) and named Kereza and Korga stand watch on the rooftops nearby, while six Barovian [[Commoner|commoners]]
+make repairs to the barricade.
 
 > [!profile]+ **Profile: Ismark Kolyanovich**
 >
@@ -134,12 +141,14 @@ After confirming that the barricade is nearly repaired, Ismark invites the playe
 If the players agree, Muriel follows them to the town square, staying aloft in the air overhead and watching with keen interest.
 
 > [!abstract]+ **The Raven**
-> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in <span class="citation">Beliefs and Superstitions (p. 28)</span>. (This superstition is shared by all Barovians, not just Vistani.)
+> Ismark doesn’t know that the blue-winged raven is a wereraven, and doesn’t know whether anyone has given it a name. He believes the raven’s presence is a good omen, however, and can share the superstition about ravens described in [[02_Chapter 2 - The Lands of Barovia#Beliefs and Superstitions|Beliefs and Superstitions]] (p. 28). (This superstition is shared by all Barovians, not just Vistani.)
+> ^Abstract-The-Raven
 
 > [!design]+ **Design Note: Entering the Village**
 > This scene has been written to immediately convey the villagers’ wariness, establish Ismark as a sympathetic ally, and introduce the **wereraven** Muriel Vinshaw and the ravens of Barovia, thereby foreshadowing the Keepers of the Feather. 
 >
 > Muriel will later reappear in [[Arc C - Into the Valley#C3. The Strix|Arc C - Into the Valley]], fleeing a **greater strix** after eavesdropping on Strahd’s meeting with Madam Eva, and will accompany the players to the town of Vallaki throughout the remainder of Arc C. Muriel will also appear in her human form and persona in [[Arc J - The Stolen Gem#Meeting Muriel|Arc J - The Stolen Gem]] to accompany the players as they journey to the Wizard of Wines winery, and will reveal her true lycanthropic nature at [[Arc J - The Stolen Gem#Ludmilla's Provocations|Yester Hill]].
+> ^Design-Note-Entering-the-Village
 ## B5b. The Town Square
 As the players and Ismark pass through the village streets, read:
 
@@ -209,6 +218,7 @@ The tavern immediately falls silent, and Ismark's eyes crease with worry. He giv
 > If the players offer to assist the search party in locating Gertruda, Ismark thanks them for their generosity, but assures them that the hunters and trappers he plans to organize know the local roads and woods far better than they, and should be able to skirt alongside the edges of the undead horde without risking much trouble. "The more who accompany them, however," he says apologetically, "the more likely the horde notices their movements and attacks."
 > 
 > "If you'd like to help, however," he adds, "we can use all hands to organize tonight's defense here." Ismark then makes the request given in [[#Ismark’s Request]].
+> ^Abstract-Search-Party
 
 As he does, Bildrath snarls and spits, "More empty promises, Kolyanovich?" He turns to the players, glowering. "Have you lot ever seen something so cruel?"
 
@@ -235,6 +245,7 @@ Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comfor
 > Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Vallaki the morning of the players' arrival, seeking to get aid from the Burgomaster. Gertruda, however, never made it to Vallaki. As she made her way through the Svalich Woods, Strahd’s black carriage came upon her—and the Devil himself stepped out. Terrified, but unwilling to show fear, Gertruda politely demanded Strahd allow supplies to be delivered to Barovia so that the villagers could rebuild.
 > Strahd appeared amused by Gertruda’s courage and invited her to Castle Ravenloft to “discuss reparations further." Realizing that this was an invitation she couldn’t refuse, Gertruda reluctantly agreed to accompany him.
 > Since then, Gertruda has remained an “honored guest" in the castle, though it’s become clear that Strahd has no intention of allowing her to leave her chambers—much less the keep itself. 
+> ^Lore-Wheres-Gertruda
 ### Ismark’s Request
 After Mary departs, Ismark asks them to aid in defending the village’s eastern barricade that night. “Like it or not, we’re all in this together," he says somberly. “The more hands, the better. I don’t know if I can promise coin, but I can promise it’ll help all of us survive the night—yourselves included." In exchange for the players’ aid, Ismark is glad to offer them room and board at his family’s home. (The Blood of the Vine Tavern doesn't have rooms for rent.) 
 
@@ -296,6 +307,7 @@ The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commone
 > Alenka is the sister of Anton Konstantinovich, a Barovian man married to Dezdrelda Konstaninova. Two nights ago, Anton and Dezdrelda mysteriously vanished in the middle of the night during the siege; their bodies were never found. Their loss has driven Alenka to grief and paranoia, and given her a desperate need to seek an end to the siege by any means possible.
 >
 > Unbeknownst to Alenka, Anton and Dezdrelda are prisoners of [[Volenta Popofsky]], one of Strahd’s vampiric brides, in Castle Ravenloft. The players will later encounter Anton as a masked servant in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]].
+> ^Lore-Alenkas-Grief
 
 Driven to desperation by Strahd’s attacks on the village, Alenka and the mob believe that a sacrifice or offering is needed to appease the vampire and soothe his rage. The following conversation unfolds if the players don’t intervene:
 
@@ -318,11 +330,13 @@ If combat breaks out, Ireena joins the players in defending the mansion while Ko
 
 > [!info]+ **Nonlethal Damage**
 > Wanton death to the Barovian commoners will alienate the villagers and the members of Ismark’s family. Players who wish to avoid killing the Barovians can incapacitate their opponents as described in <span class="citation">Knocking a Creature Out (*Player's Handbook*, p. 198)</span>. If players choose not to do so, allow unconscious members of the mob to make death saving throws as described in <span class="citation">Monsters and Death (*Player's Handbook*, p. 198)</span>. 
+> ^Info-Nonlethal-Damage
 
 If the players successfully disperse the mob, Kolyan and Ireena invite them into the manor with gratitude.
 
 > [!design]- **Design Note: The Mob**
 > This scene has been added to communicate Ireena’s origins to the players, foreshadow Strahd’s interest in her, offer a dramatic question while the players visit the mansion, and endear Ireena and Kolyan to the players before Strahd’s arrival during the siege later that night.
+> ^Design-Note-The-Mob
 ### Within the Mansion
 This area is largely as described in <span class="citation">E4. Burgomaster’s Mansion (p. 44)</span>. However, remove the last sentence in this area’s description (referring to Kolyan’s corpse).
 
