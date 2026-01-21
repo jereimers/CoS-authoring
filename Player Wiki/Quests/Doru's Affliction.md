@@ -27,7 +27,7 @@ Help [[Father Donavich]] find a way to save—or destroy—[[Doru]], his son who
 - The traveling scholar "Alanik Ray" who accompanied Doru's rebellion may know more about vampires and their weaknesses—if he survived.
 
 # Appearance in Sessions
-- [[Session 02 - Arrival at Barovia]]
+- [[Session 02 - Out of Death House]]
 
 %%
 # Secrets

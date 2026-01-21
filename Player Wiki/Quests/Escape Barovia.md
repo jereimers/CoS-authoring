@@ -27,8 +27,8 @@ Escape this accursed domain and return home, by any means necessary.
 - The Order of the Silver Dragon at [[Argynvostholt]] may have knowledge of how to oppose Strahd.
 
 # Appearance in Sessions
-- [[Session 01 - Death House]]
-- [[Session 02 - Arrival at Barovia]]
+- [[Session 01 - Arrivals]]
+- [[Session 02 - Out of Death House]]
 - [[Session 07 - The Tarokka Reading]]
 
 %%

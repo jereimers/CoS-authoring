@@ -83,7 +83,8 @@ Descended from the original founders of the settlement, Vargas Vallakovich is an
 # Baron Vargas Vallakovich Profile
 
 ## Portrait
-![[baron-vargas-vallakovich.png]]
+![[05-006.baroness-baron.png]]
+
 
 ## Roleplaying Information
 
@@ -103,7 +104,9 @@ When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of T
 
 
 ### Signature Lines
-
+"All will be well!"
+"The heavens will see our joy and wealth and look favorably upon us," he crows. "Through our good spirits, we shall move ever-closer to our freedom from this fell darkness."
+he cares little for the plight of a “Vistani whelp.”
 
 ## Character Information
 

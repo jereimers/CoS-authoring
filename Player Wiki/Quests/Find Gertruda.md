@@ -30,7 +30,7 @@ Find [[Gertruda]], who disappeared from the [[Village of Barovia]] and was last 
 - The road between Barovia and Vallaki passes through dangerous territory, including the River Ivlis Crossroads and the Svalich Woods.
 
 # Appearance in Sessions
-- [[Session 02 - Arrival at Barovia]]
+- [[Session 02 - Out of Death House]]
 
 %%
 # Secrets

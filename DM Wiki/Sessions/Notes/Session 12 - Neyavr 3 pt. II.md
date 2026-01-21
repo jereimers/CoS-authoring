@@ -1,3 +1,24 @@
+---
+barovian_date(s): "[[Neyavr 3]]"
+location(s):
+  - "[[Coffin Maker's Shop]]"
+NPCs_met:
+arc(s):
+  - "[[Arc D - St. Andral's Feast]]"
+  - "[[Arc E - The Missing Vistana]]"
+combat?: true
+has_recap?:
+play_date:
+tags:
+  - cos
+  - session
+play_date_key: 2026-01-21
+status: planning
+barovian_date_key: 0735-11-03
+publish:
+---
+%% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
+
 We pick up with the party just outside the coffin-maker's shop.
 
 3. [[D4 - Coffin Maker's Shop]] - general description of the shop, including Henrik's schedule
@@ -30,10 +51,17 @@ This begins when the players take the toy they purchased from Blinsky to the Vis
 
 <div class="description">
 <p>
-He is thin in the way of men who have survived history rather than lived through it. His skin is ashen, drawn tight over sharp cheekbones, and his long, dark hair—once carefully kept—now hangs loose and streaked with premature silver, as though grief itself has begun to bleach him. His violet dusk-elf eyes are alert but hollow, fixed not quite on you, not quite on the present, as if he is listening to something buried far below the moment.</p>
+He is thin in the way of men who have survived history rather than lived through it. His dusky skin is ashen, drawn tight over sharp cheekbones, and his long, dark hair—once carefully kept—now hangs loose and is streaked with silver. His violet eyes are alert but hollow, fixed not quite on you, not quite on the present, as if he is listening to something beyond your perception.</p>
 <p> His right hand and forearm are a pale bluish-white, with much of the skin puffy and blistered.
 </div>
 
 4. Kasimir can share some additional lore if asked: [[Arc E - The Missing Vistana#^Info-What-Kasimir-Knows|What Kasimir Knows]]. He can also relate the full story of the dusk elves [[Kasimir's Tale]]
-5. Then they shall go to the Burgomaster's Mansion! Ireena's desire to converse with the Baron about the plight of the Barovian refugees might be a good cover. If Ireena occupies the Baron with her conversation, the players can attempt to visit the library by subterfuge. Or, they can appeal to him directly — Ireena wants to talk, the rest want to peruse the library. They're greeted by Claudia, the baron's maid.
+5. Don't forget to give them the ring! ![[signet-ring.png]]
+6. Then they shall go to the Burgomaster's Mansion! Ireena's desire to converse with the Baron about the plight of the Barovian refugees might be a good cover. If Ireena occupies the Baron with her conversation, the players can attempt to visit the library by subterfuge. Or, they can appeal to him directly — Ireena wants to talk, the rest want to peruse the library. They're greeted by Claudia, the baron's maid. **The players' goal is to get to the library.** After a full hour searching, they won't find anything about the ring. But they will find something about Ireena's heritage...
+
+![[05_Chapter 5 - The Town of Vallaki#N3l. Library]]
+
+7. In the library they'll meet [[Victor Vallakovich|Victor]] and see that his spellbook bears the same symbol as the signet ring. 
+
+
 

@@ -3,11 +3,12 @@ barovian_date(s):
   - 2 Neyavr 735
 location(s):
   - "[[Tser Falls]]"
-  - "[[I. Black Carriage]]"
   - "[[Old Bonegrinder]]"
   - "[[Old Svalich Road]]"
   - "[[Lake Zarovich]]"
   - "[[Refugee Camp]]"
+  - "[[Black Carriage]]"
+  - "[[Gates of Barovia]]"
 NPCs_met:
   - "[[Morgantha]]"
   - "[[Standimir]]"

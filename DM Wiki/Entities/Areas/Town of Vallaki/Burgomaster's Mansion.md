@@ -16,6 +16,7 @@ first_appearance_date:
 tags:
   - area
   - cos
+  - vallaki
 key_factions:
 area_type:
 first_appearance_session:
@@ -28,13 +29,49 @@ publish: false
 ---
 # Overview
 
+# Areas of the Mansion
 
+## Entrance Hall and Vestibule
+
+## Parlor
+
+## Dining Room
+
+## Preparation Room
+
+## Den
+
+## Servants' Quarters
+
+## Kitchen
+
+## Pantry
+
+## Upstairs Gallery 
+
+## Izek's Bedroom 
+
+## Victor's Bedroom 
+
+## Library
+
+## Locked Closet
+
+## Master Bedroom Closet
+
+## Master Bedroom
+
+## Bridal Gown and Spirit Mirror
+
+## Bathroom
+
+## Attic Room
+
+## Attic Storage
+
+## Victor's Workroom
 
 # What the party knows
-
-
-
-# Notable places
 
 
 

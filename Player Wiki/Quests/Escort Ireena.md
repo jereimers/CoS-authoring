@@ -29,7 +29,7 @@ Escort [[Ireena Kolyana]] safely from the [[Village of Barovia]] to [[St. Andral
 - The roads between Barovia and Vallaki are dangerous, with wolves, werewolves, and other threats stalking travelers.
 
 # Appearance in Sessions
-- [[Session 02 - Arrival at Barovia]]
+- [[Session 02 - Out of Death House]]
 - [[Session 07 - The Tarokka Reading]]
 
 %%
