@@ -13,6 +13,7 @@ NPCs_involved:
   - "[[Henrik van der Voort]]"
   - "[[Yeska]]"
   - "[[Volenta Popofsky]]"
+publish: true
 ---
 # Objective
 
