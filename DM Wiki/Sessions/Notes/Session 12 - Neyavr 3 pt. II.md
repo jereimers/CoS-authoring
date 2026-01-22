@@ -63,5 +63,21 @@ He is thin in the way of men who have survived history rather than lived through
 
 7. In the library they'll meet [[Victor Vallakovich|Victor]] and see that his spellbook bears the same symbol as the signet ring. 
 
+# Who I'm gonna be in this session
+
+- IREENA
+- Father Lucian
+- Henrik
+- Volenta
+- Luvash
+- Arrigal
+- Alexei
+- Kasimir
+- Random dusk elf guards
+- Baron Vargas
+- Burgomaster house staff: Claudia (primary maid), Tereska (cook)
+- (Possibly) Baroness Lydia (if the players wanna go into the dining room)
+- Victor
+
 
 
