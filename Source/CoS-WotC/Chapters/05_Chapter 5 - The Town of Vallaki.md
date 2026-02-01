@@ -505,7 +505,7 @@ Cloaks, coats, gowns, and other fancy apparel hang from hooks in this closet. Ar
 
 #### N3o. Master Bedroom
 
-Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in
+Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in the ceiling.
 
 %% --- Page 147 --- %%
 The baron and the baroness sleep in one bed at night. Nothing of value is kept here.
@@ -692,14 +692,13 @@ The stairs connect the servants' closet (area N4f) with the cellar (area N4s). L
 
 The furnishing in this room are bereft of imagination: four simple beds with equally austere wooden chests.
 
-Lady Wachter's four servants ( N male and female commoners) sleep here at night. They include a cook named Dhavit, two maids named Madalena and Amalthia, and a valet named Haliq. The servants know Lady Wachter's secrets, but they would sooner die than betray her.
+Lady Wachter's four servants (N male and female commoners) sleep here at night. They include a cook named Dhavit, two maids named Madalena and Amalthia, and a valet named Haliq. The servants know Lady Wachter's secrets, but they would sooner die than betray her.
 
 #### N4i. Parlor
 
 Lady Wachter greets her guests here, under the watchful eyes of her dead husband.
 
-[^0]
-[^0]:    Here three elegant couches surround an oval table made of black glass. All are set in front of a blazing hearth, above which hangs the portrait of a smirking nobleman sporting a broken nose and a tangle of hair graying at the temples. Several smaller portraits hang on the north wall.
+Here three elegant couches surround an oval table made of black glass. All are set in front of a blazing hearth, above which hangs the portrait of a smirking nobleman sporting a broken nose and a tangle of hair graying at the temples. Several smaller portraits hang on the north wall.
 
 %% --- Page 153 --- %%
 The portrait above the mantel depicts Lord Nikolai Wachter, Fiona's late husband (of whom his sons are the spitting image). The other portraits depict Lady Wachter, her sons, her daughter, and various deceased family members.
@@ -922,7 +921,7 @@ The wardrobe in the southeast corner has a secret compartment in its base, requi
 
 This large, drafty room is strung with cobwebs and takes up most of the upper floor. Stacks of wooden planks lie amid several crates marked "JUNK."
 
-The two southernmost crates contain old junk that Henrik has accumulated over the years. The six crates in the northern part of the room are packed with earth and serve as resting places for the six vampire spawn that lair here. If the characters open one of the occupied crates, all of the vampire spa-
+The two southernmost crates contain old junk that Henrik has accumulated over the years. The six crates in the northern part of the room are packed with earth and serve as resting places for the six vampire spawn that lair here. If the characters open one of the occupied crates, all of the vampire spawn
 
 %% --- Page 160 --- %%
 burst forth and attack.

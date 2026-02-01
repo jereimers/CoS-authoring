@@ -73,7 +73,7 @@ A 15-foot-high wall encloses the town, its vertical logs held together with thic
 ![[map-05.01-vallaki.jpg]]
 
 # What the party knows
-- The burgomaster, [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vargas Vallakovich]], has decreed that the [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] will be held in the town square ([[Town Square]]) on Neyavr 7. The previous festival, which he called the Wolf's Head Jamboree, was less than a week ago.
+- The burgomaster, [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vargas Vallakovich]], has decreed that the [[Festival of the Blazing Sun|Festival of the Blazing Sun]] will be held in the town square ([[Town Square]]) on Neyavr 7. The previous festival, which he called the Wolf's Head Jamboree, was less than a week ago.
 - Vallaki has endured at least one festival every week for the past several years. Some Vallakians believe that the festivals keep the devil [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]] at bay. Others think they provide no protection or benefit whatsoever. Most consider them dismal affairs.
 - Those who speak ill of the festivals are declared by the burgomaster to be in league with the devil Strahd and arrested. Some are thrown in the stocks in the [[Town Square]], while others (like [[Willemina Rikalova|Willemina's]] son [[Udo Lukovich]])
 - The burgomaster's henchman, [[Izek Strazni]], has a history of violence as well as a fiendish deformity: a monstrous arm with which he can conjure fire. Fear of lzek keeps [[Baron Vargas Vallakovich|the baron]]'s enemies at bay.

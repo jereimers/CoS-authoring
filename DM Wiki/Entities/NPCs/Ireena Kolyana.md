@@ -69,7 +69,7 @@ Ireena is the adopted daughter of [[Kolyan Indirovich]] and adopted brother of [
 - [[Session 07 - The Tarokka Reading]]
 - [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three]]
 - [[Session 09 - Walls Keep Out More Than Wolves]]
-- [[Session 11]]
+- [[Session 11 - No Bones About It]]
 
 %%
 # Ireena Kolyana Profile

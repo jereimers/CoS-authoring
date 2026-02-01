@@ -1,6 +1,10 @@
 ---
 barovian_date(s):
+  - "[[Octyavr 28]]"
 location(s):
+  - "[[Village of Barovia]]"
+  - "[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster's Mansion]]"
+  - "[[Church]]"
 NPCs_met:
 arc(s):
 combat?:
@@ -9,6 +13,8 @@ play_date:
 tags:
   - needs_filling
   - cos
+  - session
+  - barovia
 publish: true
 ---
 

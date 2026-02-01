@@ -57,7 +57,7 @@ They are known as storytellers, fortune-tellers, and keepers of ancient traditio
 
 - [[Session 06 - The Game of Stories|Session 06]] - Met the Vistani at [[Tser Pool Encampment]], played the Game of Stories
 - [[Session 07 - The Tarokka Reading|Session 07]] - Received the Tarokka reading from [[Madam Eva]] at the [[River Ivlis Crossroads|crossroads]] cemetery
-- [[Session 11]] - Visited the [[Vistani Camp]] near [[Town of Vallaki|Vallaki]] (referenced in session frontmatter)
+- [[Session 11 - No Bones About It]] - Visited the [[Vistani Camp]] near [[Town of Vallaki|Vallaki]] (referenced in session frontmatter)
 
 %%
 # Notes

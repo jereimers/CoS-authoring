@@ -62,7 +62,7 @@ publish: false
 ---
 # Who they are
 
-
+The son of [[Baron Vargas Vallakovich|Baron Vallakovich]].
 
 # What the party knows
 
@@ -116,6 +116,15 @@ Victor is the only child of [[Baron Vargas Vallakovich]] and Baroness Lydia Petr
 ### Knowledge
 If persuaded to aid the players in finding [[Arabelle]], Victor can share the following information:
 
+* Three years ago, he found an old spellbook in his father’s library. He’s used it to study magic ever since.
+* The original owner of the spellbook was a mage named [[Khazan]]. The symbol on the cover of the spellbook was his personal sigil.
+* Long ago, Khazan built a wizard’s tower, which he imbued with powerful enchantments, including a protective field that prevented any other spellcasters from using magic within its reach.
+
+![[Arc E - The Missing Vistana#^Info-What-Victor-Knows]]
+
+![[Arc E - The Missing Vistana#^Abstract-The-Haunting]]
+
+![[Arc E - The Missing Vistana#^Lore-Khazans-Staff]]
 # Statblock
 
 

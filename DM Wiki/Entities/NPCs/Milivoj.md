@@ -54,7 +54,7 @@ A brawny lad with a perpetually furrowed brow, the broad-shouldered and black-ha
 
 
 # Where we've seen them
-- [[Session 11]]
+- [[Session 11 - No Bones About It]]
 
 %%
 # Milivoj Profile

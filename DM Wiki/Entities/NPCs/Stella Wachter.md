@@ -53,7 +53,7 @@ The only daughter of [[Lady Fiona Wachter]], she has recently been kept cloister
 
 # Where we've seen them
 
-- Mentioned by [[Urwin Martikov|Urwin]] in [[Session 11#Morning at the Blue Water Inn|Session 11]]
+- Mentioned by [[Urwin Martikov|Urwin]] in [[Session 11 - No Bones About It#Morning at the Blue Water Inn|Session 11]]
 
 %%
 # Stella Wachter Profile

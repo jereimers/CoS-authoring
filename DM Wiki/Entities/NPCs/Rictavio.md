@@ -57,7 +57,7 @@ Rictavio, the lone guest of the Blue Water Inn besides the party, is a colorfull
 
 # Where we've seen them
 - [[Session 09 - Walls Keep Out More Than Wolves]] — he shared the story of Count Belasco (see [[The Ringmaster's Tale]])
-- [[Session 11]] — he retrieved a parcel from [[Urwin Martikov|Urwin]] in the morning, then departed to tend his horse. 
+- [[Session 11 - No Bones About It]] — he retrieved a parcel from [[Urwin Martikov|Urwin]] in the morning, then departed to tend his horse. 
 
 %%
 # Rictavio Profile

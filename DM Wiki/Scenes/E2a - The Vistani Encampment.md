@@ -14,11 +14,14 @@ tags:
   - ai_generated
 publish: false
 ---
-
 %% a scene is a chunk of role-playing not requiring initiative -- it has NPCs, a setting, party members present, etc. %%
 
 # E2a. The Vistani Encampment
 
 ## Vignette
+
+## Details
+
+![[Arc E - The Missing Vistana#E2a. The Vistani Encampment]]
 
 

@@ -1211,7 +1211,7 @@ Before [[Urwin Martikov|Urwin]] can reply to the players, [[Danika Dorakova|Dani
 
 Danika then tells the players the rates for room and board, as listed in [[Blue Water Inn]]. (Both the large guest room, [[Blue Water Inn#N2m. Guest Room|N2m]], as well as the two small guest rooms, [[Blue Water Inn#N2I. Guest Rooms|N2l]], are available for rent.) When [[Urwin Martikov|Urwin]] returns, he offers to take the players' orders for dinner, assuming they're hungry. 
 
-The players then have a few minutes to talk with [[Urwin]] and Danika or amongst themselves. During this conversation, [[Urwin Martikov|Urwin]] and Danika can provide the players with information about [[Rictavio]], the [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] (which will take place in five days at noon), and the nearby [[Vistani Camp|Vistani camp]], as described in [[Vallaki Lore]]. 
+The players then have a few minutes to talk with [[Urwin]] and Danika or amongst themselves. During this conversation, [[Urwin Martikov|Urwin]] and Danika can provide the players with information about [[Rictavio]], the [[Festival of the Blazing Sun|Festival of the Blazing Sun]] (which will take place in five days at noon), and the nearby [[Vistani Camp|Vistani camp]], as described in [[Vallaki Lore]]. 
 
 Both [[Urwin Martikov|Urwin]] and Danika can provide directions to any major landmark inside of Vallaki, including [[St. Andral's Church]], [[Arasek Stockyard]], and [[Town Square]]. If the players ask about the inn's other guest, [[Urwin Martikov|Urwin]] and Danika can also share information about [[Rictavio]], which is largely as described in [[Blue Water Inn#N2c. Taproom|N2c]], except that [[Rictavio]] first arrived that same morning.
 

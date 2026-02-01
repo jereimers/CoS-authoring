@@ -1,14 +1,18 @@
 ---
 barovian_date(s):
+  - "[[Octyavr 28]]"
 location(s):
+  - "[[Village of Barovia]]"
 NPCs_met:
 arc(s):
-combat?:
+combat?: true
 has_recap?:
 play_date:
 tags:
   - needs_filling
   - cos
+  - barovia
+  - session
 publish: true
 ---
 

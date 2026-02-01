@@ -1,5 +1,5 @@
 ---
-status: active
+status: complete
 tags:
   - cos
   - quest
@@ -34,7 +34,8 @@ Find and return the Bones of St. Andral to the crypt beneath [[St. Andral's Chur
 
 # Appearance in Sessions
 
-- [[Session 11]] - Quest given!
+- [[Session 11 - No Bones About It]] — Quest given!
+- [[Session 12 - Into the Bone Zone]] — Quest completed!
 
 
 

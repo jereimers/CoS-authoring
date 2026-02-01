@@ -54,7 +54,7 @@ Coffin-maker and carpenter for the town of [[Town of Vallaki|Vallaki]]
 
 
 # Where we've seen them
-- [[Session 11]]
+- [[Session 11 - No Bones About It]]
 
 %%
 # Henrik van der Voort Profile

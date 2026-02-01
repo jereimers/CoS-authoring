@@ -38,6 +38,9 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
+# Portrait
+
+![[eliza.png]]
 # Who they are
 
 Eliza is a [[Vistani]] traveler who appeared at the [[Tser Pool Encampment]] alongside [[Arturi Radanavich]]. She presents herself as friendly and inviting, though the party strongly suspects she is the "shadow" servant of [[Strahd von Zarovich|Strahd]] that [[Madam Eva]] warned them about.

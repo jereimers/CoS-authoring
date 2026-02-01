@@ -22,7 +22,7 @@ publish: true
 ---
 
 # What Happened Last Session
-![[Session 11]]
+![[Session 11 - No Bones About It]]
 
 
 ---

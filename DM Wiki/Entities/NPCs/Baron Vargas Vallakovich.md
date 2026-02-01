@@ -72,14 +72,18 @@ Descended from the original founders of the settlement, Vargas Vallakovich is an
 # What the party knows
 
 - Ever since [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]]’s awakening three months ago, he has instituted weekly festivals and made attendance mandatory. 
-- He has decreed that the [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] will be held in the town square ([[Town Square]]) on [[Neyavr 7]]. The previous festival, which he called the Wolf's Head Jamboree, was less than a week ago.
+- He has decreed that the [[Festival of the Blazing Sun|Festival of the Blazing Sun]] will be held in the town square ([[Town Square]]) on [[Neyavr 7]]. The previous festival, which he called the Wolf's Head Jamboree, was less than a week ago.
 - He lives with his wife and two large dogs in a mansion on the south side of town.
 
 # Where we've seen them
 
-- [[Session 11#Outside the Inn|Session 11]]
+- [[Session 11 - No Bones About It#Outside the Inn|Session 11]]
 
 %%
+
+# Notes
+
+The baron wears a signet ring and carries three keys: one that unlocks the outside door in area N3g ([[05_Chapter 5 - The Town of Vallaki#N3g. Kitchen]]), and two keys for the door and the manacles in area N3m ([[05_Chapter 5 - The Town of Vallaki#N3m. Locked Closet]]).
 # Baron Vargas Vallakovich Profile
 
 ## Portrait
@@ -101,7 +105,8 @@ Vargas wants to secure his power free from Strahd's influence and lead Vallaki t
 When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
 
 ### Vocal Notes
-
+*I'm playing him like Russell Edgington (True Blood) and Uncle Baby Billy (The Righteous Gemstones)*
+- *says "vamper" and "spurrit"*
 
 ### Signature Lines
 "All will be well!"
@@ -128,10 +133,6 @@ Can share with players during scene in his library:
 * The Baron's cook, a doughty woman named Tereska, has seen the spirit most recently, and nearly quit her job before the Baron convinced her to stay by (reluctantly) increasing her pay.
 
 # Statblock
-
-
-# Notes
-
 
 # Gallery
 *No images available.*

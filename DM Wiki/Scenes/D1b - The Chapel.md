@@ -23,5 +23,5 @@ publish: false
 ![[Arc D - St. Andral's Feast#D1b. The Chapel]]
 
 ## Vignette
-![[Vignette D1 - St Andrals Church.png]]
+![[{{originalname}}-2.png]]
 

@@ -60,7 +60,7 @@ Captain of the [[Town of Vallaki|Vallaki]] city watch, personal bodyguard of [[B
 
 # Where we've seen them
 
-- [[Session 11#Outside the Inn|Session 11]]
+- [[Session 11 - No Bones About It#Outside the Inn|Session 11]]
 - 
 
 %%

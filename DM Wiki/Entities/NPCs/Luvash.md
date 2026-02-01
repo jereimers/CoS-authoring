@@ -2,9 +2,10 @@
 type: NPC
 name: Luvash
 aliases:
-pronouns:
-race:
-class:
+  - Arabelle's father
+pronouns: he/him
+race: Human
+class: "[[Bandit]]"
 age:
 gender:
 creature_type:
@@ -30,13 +31,20 @@ handouts:
 tags:
   - npc
   - cos
-CoS-R_ref:
+  - vistani
+  - vallaki
+CoS-R_ref: "[[Arc E - The Missing Vistana#^Profile-Luvash]]"
 WotC_ref:
+  - "[[05_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves]]"
 publish: true
 ---
+# Portrait
+
+![[05-011.luvash.png]]
+
 # Who they are
 
-
+Father to [[Arabelle]] and leader of the [[Vistani Camp]] outside [[Town of Vallaki|Vallaki]]
 
 # What the party knows
 
@@ -89,6 +97,12 @@ Luvash is the elder brother of Arrigal, one of Strahd’s spies. (Luvash doesn�
 
 ### Knowledge
 
+- One day before the players’ arrival in Vallaki, Luvash’s nephew, Alexei, was tasked with watching [Arabelle](app://obsidian.md/Arabelle) play in the nearby woods while Luvash mediated a dispute between two Vistani families.
+- Instead of watching [Arabelle](app://obsidian.md/Arabelle), Alexei got drunk on wine. When he woke up, [Arabelle](app://obsidian.md/Arabelle) was gone.
+- Alexei claims that Yan, a long-time member of the encampment, gave him the wine and had vanished when Alexei awoke.
+- Luvash led the search for [Arabelle](app://obsidian.md/Arabelle), joining more than a dozen Vistani and nearly that many dusk elf scouts from the hovels below the hill. Luvash himself had to return to the encampment after his right leg was caught in a wolf trap, leaving him too wounded to walk.
+- The search parties haven’t yet found [Arabelle](app://obsidian.md/Arabelle). However, a dusk elf named Savid found Yan’s decapitated body lying in bloody grass near the Luna River, surrounded by signs of a fight.
+- Savid also found a strange signet ring lying in the grass, which seemed to have been dropped in the struggle. Luvash gave it to Kasimir, the dusk elves’ leader and foremost scholar, to identify, but hasn’t received any useful news or information.
 
 # Statblock
 

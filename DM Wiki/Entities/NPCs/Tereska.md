@@ -2,6 +2,7 @@
 type: NPC
 name: Tereska
 aliases:
+  - the cook
 pronouns:
 race:
 class:
@@ -30,22 +31,26 @@ handouts:
 tags:
   - npc
   - cos
+  - vallaki
 CoS-R_ref:
 WotC_ref:
-publish: false
+publish: true
 ---
+# Portrait
+
+![[tereska.png]]
 # Who they are
 
-
+Household chef at [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Vallakovich Manor]] in [[Town of Vallaki|Vallaki]].
 
 # What the party knows
 
-
+- She's the last person to have witnessed the spirit (see [[The Haunting at Vallakovich Manor]])
 
 # Personality
 
-
-
+- Rough-hewn, no-nonsense.
+- Wears her heart on her sleeve.
 # Where we've seen them
 
 *To be updated during play.*

@@ -25,16 +25,31 @@ inspirations:
 vocal_notes:
 signature_lines:
 relationships:
-portrait:
-portrait_credit:
+portrait: "[[volenta-popofsky.png]]"
+portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
 tags:
   - npc
   - cos
-CoS-R_ref:
+CoS-R_ref: "[[Arc D - St. Andral's Feast#^Profile-Volenta-Popofsky]]"
 WotC_ref:
 publish: false
 ---
+# Portrait
+
+![[volenta_first_form.png]]
+
+# Who they are
+
+Volenta is one of [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]]'s vampiric brides. She *loves* pain and gore, and is always inventing new alchemical devices to cause suffering in ever-more creative ways. 
+# Personality
+
+- Manic, sadistic, impulsive, eccentric, flirtatious. Major crazy-ex vibes.
+# Where we've seen them
+
+- [[Session 12 - Into the Bone Zone#A Dance with Volenta|Session 12]]
+
+%%
 # Volenta Popofsky
 **Roleplaying Information**
 ***Resonance.*** Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.

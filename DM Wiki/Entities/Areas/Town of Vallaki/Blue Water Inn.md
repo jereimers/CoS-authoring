@@ -55,7 +55,7 @@ Gray smoke issues from the chimney of this large, two-story wooden building with
 
 # Visits
 - [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 09]]
-- [[Session 11#Morning at the Blue Water Inn|Session 11]]
+- [[Session 11 - No Bones About It#Morning at the Blue Water Inn|Session 11]]
 
 
 %%

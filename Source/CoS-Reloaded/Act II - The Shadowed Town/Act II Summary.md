@@ -62,7 +62,7 @@ While the players are away, if the players haven't defeated [[Izek Strazni]] in 
 ## Neyavr 7
 If the players have not restored the bones of St. Andral to [[St. Andral's Church]], the church's protective wards fail at dawn.
 
-If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in <span class="citation">N8. Town Square (p. 119)</span> as described in [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun (p. 123)]]. If Izek kidnapped Ireena in [[Arc G - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at noon.
+If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in <span class="citation">N8. Town Square (p. 119)</span> as described in [[Festival of the Blazing Sun|Festival of the Blazing Sun (p. 123)]]. If Izek kidnapped Ireena in [[Arc G - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at noon.
 
 At sundown, the parishioners of [[St. Andral's Church]] attend a service observing the holiday of St. Andral's Feast. 
 

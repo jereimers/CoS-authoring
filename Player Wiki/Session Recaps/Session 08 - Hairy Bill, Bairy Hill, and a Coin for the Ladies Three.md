@@ -1,6 +1,6 @@
 ---
 barovian_date(s):
-  - 2 Neyavr 735
+  - "[[Neyavr 2]]"
 location(s):
   - "[[Tser Falls]]"
   - "[[Old Bonegrinder]]"
@@ -18,6 +18,9 @@ combat?: true
 has_recap?: true
 tags:
   - cos
+  - session
+  - svalich-road
+  - werewolf
 publish: true
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. 

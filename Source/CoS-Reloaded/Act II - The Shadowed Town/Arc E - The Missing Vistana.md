@@ -187,7 +187,7 @@ If the players inquire about Luvash’s mission, the guard directs them to Kasim
 ## E2c. Kasimir’s Hovel
 <em>This scene takes place in Chapter 5: Area N9a.</em>
 
-Kasimir’s hovel is largely as described in [[Vistani Camp#N9a. Kasimir's Hovel|N9a. Kasimir's Hovel]] (p. 121). If the players enter it, read:
+Kasimir’s hovel is largely as described in [[05_Chapter 5 - The Town of Vallaki#N9a. Kasimir's Hovel|N9a. Kasimir's Hovel]] (p. 121). If the players enter it, read:
 
 <div class="description">
 <p>You enter into a small, cozy vestibule several degrees warmer than the chill mists outside. The walls of this small chamber are decorated with hanging sketches and portraits of proud and wise-looking elves with dark skin, tree-borne spires carved of dark wood, and artistic depictions of constellations and celestial bodies. Two curtains of dark brown fabric obscure the entrance to another chamber beyond.</p>
@@ -412,7 +412,7 @@ The mirror is a *spirit mirror*, a magical item that reflects both the Material 
 If persuaded to aid the players in finding [[Arabelle]], Victor can share the following information:
 
 * Three years ago, he found an old spellbook in his father’s library. He’s used it to study magic ever since.
-* The original owner of the spellbook was a mage named [[Khazan]]. The symbol on the cover of the spellbook was his personal sigil.
+* The original owner of the spellbook was a mage named Khazan. The symbol on the cover of the spellborok was his personal sigil.
 * Long ago, Khazan built a wizard’s tower, which he imbued with powerful enchantments, including a protective field that prevented any other spellcasters from using magic within its reach.
 
 If the players agree to investigate Khazan’s tower and give Victor any artifacts they find, he tells them where the tower can be found: a gravel causeway on Lake Baratok, to the west. 
@@ -500,7 +500,7 @@ If the players retrieve the scrap of material, they find it to be a small, soake
 ## E5b. Luna River Crossroads
 <em>This scene takes place in Chapter 2: Area P.</em>
 
-The Luna River Crossroads are largely as described in [[P. Luna River Crossroads]] (p. 40). 
+The Luna River Crossroads are largely as described in [[02_Chapter 2 - The Lands of Barovia#P. Luna River Crossroads|P. Luna River Crossroads]] (p. 40). 
 
 If this is the first time that the players have visited the Luna River Crossroads, four **twig blights** and two **scarecrows** are lying in wait here. Modify the area description as follows:
 

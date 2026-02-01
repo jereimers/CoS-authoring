@@ -34,7 +34,7 @@ publish: false
 # 7 Neyavr, 735 — Vallaki
 
 ## Summary of the Day
-- [[05 - Vallaki - Festival of the Blazing Sun|Festival of the Blazing Sun]] observed
+- [[Festival of the Blazing Sun|Festival of the Blazing Sun]] observed
 - Feast day of St. Andral
 
 ## Scenes

@@ -34,7 +34,7 @@ The envelope contains the following letter, with the blank filled with the name 
 <p>Lady Fiona Wachter</p>
 </div>
 
-If the players ask [[Urwin Martikov|Urwin]] about [[Lady Fiona Wachter|Lady Wachter]], he can share all of the information about her described in [[Vallaki Lore]] (p. 96). He can also share that, according to town legend, [[Lady Fiona Wachter|Lady Wachter]]’s parents and elder brother were killed in a mysterious accident when she was a teenager. ([[Urwin Martikov|Urwin]], who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
+If the players ask [[Urwin Martikov|Urwin]] about [[Lady Fiona Wachter|Lady Wachter]], he can share13 all of the information about her described in [[Vallaki Lore]] (p. 96). He can also share that, according to town legend, [[Lady Fiona Wachter|Lady Wachter]]’s parents and elder brother were killed in a mysterious accident when she was a teenager. ([[Urwin Martikov|Urwin]], who only relocated to Vallaki ten years ago, can’t confirm or deny the story.)
 # F2. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 

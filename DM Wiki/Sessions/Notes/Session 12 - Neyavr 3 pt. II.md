@@ -57,7 +57,7 @@ He is thin in the way of men who have survived history rather than lived through
 
 4. Kasimir can share some additional lore if asked: [[Arc E - The Missing Vistana#^Info-What-Kasimir-Knows|What Kasimir Knows]]. He can also relate the full story of the dusk elves [[Kasimir's Tale]]
 5. Don't forget to give them the ring! ![[signet-ring.png]]
-6. Then they shall go to the Burgomaster's Mansion! Ireena's desire to converse with the Baron about the plight of the Barovian refugees might be a good cover. If Ireena occupies the Baron with her conversation, the players can attempt to visit the library by subterfuge. Or, they can appeal to him directly — Ireena wants to talk, the rest want to peruse the library. They're greeted by Claudia, the baron's maid. **The players' goal is to get to the library.** After a full hour searching, they won't find anything about the ring. But they will find something about Ireena's heritage...
+6. Then they shall go to the Burgomaster's Mansion! Ireena's desire to converse with the Baron about the plight of the Barovian refugees might be a good cover. If Ireena occupies [[Baron Vargas Vallakovich|The Baron]] with her conversation, the players can attempt to visit the library by subterfuge. Or, they can appeal to him directly — Ireena wants to talk, the rest want to peruse the library. They're greeted by Claudia, the baron's maid. **The players' goal is to get to the library.** After a full hour searching, they won't find anything about the ring. But they will find something about Ireena's heritage...
 
 ![[05_Chapter 5 - The Town of Vallaki#N3l. Library]]
 

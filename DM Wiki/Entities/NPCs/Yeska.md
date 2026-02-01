@@ -42,19 +42,13 @@ publish: true
 
 Yeska is a timid and fearful child, recently orphaned and still emotionally fragile, who looks to [[Father Lucian Petrovich|Father Lucian]] for safety and comfort. He lives at the [[St. Andral's Church|Church]] and serves as its altar boy.
 
-
 # What the party knows
 
 - [[Milivoj]] had been the one who frightened the boy with tales of the devil Strahd and the dangers lurking in the dark, which in turn led to Yeska seeking comfort from [[Father Lucian Petrovich|Father Lucian]]. Yeska truthfully denied sharing his knowledge of the bones with anyone, but recalled that Milivoj had been in the church at the time of the conversation and could have overheard them.
 
-
-# Personality
-
-
-
 # Where we've seen them
 
-- [[Session 11#St. Andral's Church]]
+- [[Session 11 - No Bones About It#St. Andral's Church|Session 11]]
 
 %%
 # Yeska Profile

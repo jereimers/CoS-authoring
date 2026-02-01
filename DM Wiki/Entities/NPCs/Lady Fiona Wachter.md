@@ -67,21 +67,23 @@ WotC_ref:
 publish: true
 ---
 # Who they are
+
 A wealthy Vallakian matriarch and an outspoken opponent of the [[Baron Vargas Vallakovich|Baron Vallakovich]]'s rule.
 
 
 # What the party knows
+
 - Lives in a large manor called [[Wachterhaus]] on the north side of [[Town of Vallaki|Vallaki]]
 - Has two young adult sons—[[Nikolai Wachter|Nikolai]] and [[Karl Wachter|Karl]]—who are known to be troublemakers around town.
 - Also has a teen daughter, [[Stella Wachter|Stella]], who has been recently kept cloistered on the house grounds for mysterious reasons.
-
-
 # Personality
 
 
 
 # Where we've seen them
-- Mentioned by [[Urwin Martikov]] in [[Session 11#Morning at the Blue Water Inn|Session 11]]
+
+- Mentioned by [[Urwin Martikov]] in [[Session 11 - No Bones About It#Morning at the Blue Water Inn|Session 11]]
+- Invited you to dinner at her house via courier in [[Session 12 - Into the Bone Zone]]
 
 %%
 # Lady Fiona Wachter Profile

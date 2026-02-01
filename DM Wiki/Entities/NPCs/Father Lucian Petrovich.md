@@ -66,8 +66,8 @@ Father Lucian is a serene, humble, and compassionate priest who is always happy 
 # Where we've seen them
 
 - [[Session 09 - Walls Keep Out More Than Wolves]]
-- [[Session 11#Outside the Inn|Session 11]] - intervened on [[Willemina Rikalova|Willemina]]'s (and the party's) behalf to [[Baron Vargas Vallakovich|The Baron]]
-- [[Session 11#St. Andral's Church|Session 11]] 
+- [[Session 11 - No Bones About It#Outside the Inn|Session 11]] - intervened on [[Willemina Rikalova|Willemina]]'s (and the party's) behalf to [[Baron Vargas Vallakovich|The Baron]]
+- [[Session 11 - No Bones About It#St. Andral's Church|Session 11]] 
 
 %%
 # Father Lucian Petrovich Profile

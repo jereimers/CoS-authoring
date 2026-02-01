@@ -38,6 +38,9 @@ CoS-R_ref:
 WotC_ref:
 publish: true
 ---
+# Portrait
+
+![[arturi_radanavich.png]]
 # Who they are
 
 Arturi Radanavich is a dark and brooding [[Vistani]] traveler who bears a terrible curse: each night, he is hunted by the undead. Despite his grim circumstances, he remains surprisingly philosophical, viewing his plight through the lens of allegory and hard-won wisdom.

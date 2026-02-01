@@ -54,7 +54,7 @@ Vallaki's resident toymaker and certified weirdo. Owner and proprietor of [[Blin
 
 # Where we've seen them
 
-- [[Session 11#Blinsky Toys|Session 11]]
+- [[Session 11 - No Bones About It#Blinsky Toys|Session 11]]
 
 %%
 # Gadof Blinsky Profile

@@ -64,7 +64,7 @@ He owns and runs the [[Blue Water Inn]], along with his wife, [[Danika Dorakova]
 
 # Where we've seen them
 - [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 09]]
-- [[Session 11#Morning at the Blue Water Inn|Session 11]]
+- [[Session 11 - No Bones About It#Morning at the Blue Water Inn|Session 11]]
 
 %%
 # Urwin Martikov Profile

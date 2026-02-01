@@ -1,6 +1,6 @@
 ---
 barovian_date(s):
-  - 2 Neyavr 735
+  - "[[Neyavr 2]]"
 location(s):
   - "[[Refugee Camp]]"
   - "[[Town of Vallaki]]"
@@ -22,6 +22,8 @@ combat?: false
 has_recap?: true
 tags:
   - cos
+  - session
+  - vallaki
 play_date: 12/3/25
 publish: true
 ---

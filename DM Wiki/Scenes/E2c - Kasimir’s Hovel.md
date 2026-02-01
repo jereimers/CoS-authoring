@@ -14,10 +14,11 @@ tags:
   - ai_generated
 publish: false
 ---
-
 %% a scene is a chunk of role-playing not requiring initiative -- it has NPCs, a setting, party members present, etc. %%
-# E2c. Kasimir’s Hovel
 
+# Description
+
+![[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel]]
 ## Vignette
 
 
