@@ -12,3 +12,4 @@ publish: true
 9. 12/3/25 - [[Session 09 - Walls Keep Out More Than Wolves]]
 10. 1/1/26 - [[Session 10 - The Grinchident]]
 11. 1/15/26 - [[Session 11 - No Bones About It]]
+12. 1/21/26 - [[Session 12 - Into the Bone Zone]]
