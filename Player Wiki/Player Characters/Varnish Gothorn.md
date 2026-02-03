@@ -4,13 +4,18 @@ aliases:
 species: Dward
 class: Bard
 subclass: College of Lore
-level: 4
+level: 5
 player: Cody
 character_sheet: https://www.dndbeyond.com/characters/151521951
 tags:
   - cos
+  - pc
 publish: true
 ---
+# Portrait
+
+![[varnish.png]]
+
 # At a glance
 
 | **Species**    | Dwarf                                  |

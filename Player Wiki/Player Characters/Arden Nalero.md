@@ -4,13 +4,18 @@ aliases:
 species: Dark Elf (Drow)
 class: Paladin
 subclass: Oath of Vengeance
-level: 4
+level: 5
 player: Taylor
 character_sheet: https://www.dndbeyond.com/characters/111588271
 tags:
   - cos
+  - pc
 publish: true
 ---
+# Portrait
+
+![[arden.png]]
+
 # At a glance
 
 

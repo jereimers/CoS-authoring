@@ -4,13 +4,17 @@ aliases:
 species: Human
 class: Sorcerer
 subclass: Divine Heart
-level: 4
+level: 5
 player: Travis
 character_sheet: https://www.dndbeyond.com/characters/151522122
 tags:
   - cos
+  - pc
 publish: true
 ---
+# Portrait
+
+![[choppy.jpeg]]
 # At a glance
 
 | **Species**    | Human                   |
