@@ -32,7 +32,7 @@ Should the players successfully obtain a heartstone through assault or negotiati
 > 
 > Neither Stella nor Victor could have known it, but the Mists of Barovia formed a unique metaphysical barrier against Victor’s teleportation circle. The spell failed—and the psychic backlash briefly exposed Stella’s soul to the raw energies of the Ethereal Plane.
 > 
-> There, the vengeful spirit of Leo Dilisnya, a **gallows speaker** lured by the magical beacon of Victor’s spell, sensed the presence of its ancient enemy and struck, severing Stella’s soul from her body.
+> There, the vengeful spirit of Leo Dilisnya, a [[Gallows Speaker (VRGR)|gallows speaker]] lured by the magical beacon of Victor’s spell, sensed the presence of its ancient enemy and struck, severing Stella’s soul from her body.
 > 
 > Before Leo could kill her, however, the ghost of Erasmus van Richten swiftly swept her away, concealing her from sight.
 > 

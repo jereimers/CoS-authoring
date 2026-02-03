@@ -25,63 +25,22 @@ encounter:
 item(s):
 handouts:
 loot:
-publish: false
+publish: true
 ---
 # Overview
 
-# Areas of the Mansion
+This mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion's double entrance doors.
 
-## Entrance Hall and Vestibule
-
-## Parlor
-
-## Dining Room
-
-## Preparation Room
-
-## Den
-
-## Servants' Quarters
-
-## Kitchen
-
-## Pantry
-
-## Upstairs Gallery 
-
-## Izek's Bedroom 
-
-## Victor's Bedroom 
-
-## Library
-
-## Locked Closet
-
-## Master Bedroom Closet
-
-## Master Bedroom
-
-## Bridal Gown and Spirit Mirror
-
-## Bathroom
-
-## Attic Room
-
-## Attic Storage
-
-## Victor's Workroom
+People come and go from the mansion at all hours during the day. Guards bring criminals cited for "malicious unhappiness." 
 
 # What the party knows
 
-
-
-# Notable figures
-
-
+- Haunted, of late, according to [[Baron Vargas Vallakovich|Baron Vallakovich]] (see [[The Haunting at Vallakovich Manor]])
+- Men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer until the construction of the wicker sun for the Festival of the Blazing Sun gets under way.
 
 # Visits
 
-*To be updated during play.*
+- [[Session 12 - Into the Bone Zone#Beseeching the Baron|Session 12]]
 
 %%
 # Map

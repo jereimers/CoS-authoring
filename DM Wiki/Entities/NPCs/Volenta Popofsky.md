@@ -4,18 +4,20 @@ name: Volenta Popofsky
 aliases:
   - Volenta
 pronouns: she/her
-race:
-class:
+race: Human (formerly)
+class: Vampire Spawn (w/ mods)
 age:
-gender:
-creature_type:
-origin:
+gender: female
+creature_type: undead
+origin: "[[Castle Ravenloft]]"
 home_base:
 current_location:
 factions:
+  - "[[Strahd's Spies]]"
 arc:
-first_appearance_session:
-first_appearance_date:
+  - "[[Arc D - St. Andral's Feast]]"
+first_appearance_session: 12
+first_appearance_date: 3 Neyavr 735
 status:
 cr:
 resonance:
@@ -33,7 +35,8 @@ tags:
   - cos
 CoS-R_ref: "[[Arc D - St. Andral's Feast#^Profile-Volenta-Popofsky]]"
 WotC_ref:
-publish: false
+  - "[[04_Chapter 4 - Castle Ravenloft#K49. Lounge]]"
+publish: true
 ---
 # Portrait
 
