@@ -2,33 +2,39 @@
 type: Area
 name: Gates of Barovia
 aliases:
-  - Gates
+- Gates
 WotC_ref:
-  - "[[02_Chapter 2 - The Lands of Barovia#B. Gates of Barovia]]"
-CoS-R_ref:
-parent_region: "[[Barovia]]"
+- '[[02_Chapter 2 - The Lands of Barovia#B. Gates of Barovia]]'
+CoS-R_ref: null
+parent_region: '[[Barovia]]'
 arcs:
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc I - The Walls of Krezk]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc T - The Three Fanes]]'
 connected_locations:
-  - 
+- null
 notable_npcs:
-  - 
-threat_level:
+- null
+threat_level: null
 first_appearance_date: 27 Octyavr 735
 tags:
-  - area
-  - cos
-key_factions:
+- area
+- cos
+key_factions: null
 area_code: B
 area_type: landmark
 first_appearance_session: 1
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: true
 ---
-
 %% an area is a location, place, region, etc. It can be as large as the Planes of Existence and as small as a room inside a building inside a town inside a region inside a domain inside a continent/plane. Areas have types, are encountered by the party at a particular time/place, and can be home to multiple NPCs, items, etc. %%
 # Overview
 

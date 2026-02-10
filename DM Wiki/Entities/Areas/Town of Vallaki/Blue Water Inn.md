@@ -2,38 +2,51 @@
 type: Area
 name: Blue Water Inn
 aliases:
-  - Blue Water Inn
+- Blue Water Inn
 area_code: N2
-WotC_ref: "[[WotC - 05 - Vallaki - Areas of Vallaki#N2. Blue Water Inn]]"
-CoS-R_ref: "[[Arc C - Into the Valley#C12b. The Blue Water Inn]]"
-parent_region: "[[Town of Vallaki]]"
+WotC_ref: '[[WotC - 05 - Vallaki - Areas of Vallaki#N2. Blue Water Inn]]'
+CoS-R_ref: '[[Arc C - Into the Valley#C12b. The Blue Water Inn]]'
+parent_region: '[[Town of Vallaki]]'
 arcs:
-  - "[[Arc C - Into the Valley]]"
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc J - The Stolen Gem]]'
 connected_locations:
-  - "[[The Wizard of Wines]]"
+- '[[The Wizard of Wines]]'
 notable_npcs:
-  - "[[Danika Dorakova]]"
-  - "[[Nikolai Wachter]]"
-  - "[[Karl Wachter]]"
-  - "[[Rictavio]]"
-  - "[[Urwin Martikov]]"
-  - "[[Yevgeni Krushkin]]"
-  - "[[Szoldar Szoldarovich]]"
+- '[[Szoldar Szoldarovich]]'
+- '[[Danika Dorakova]]'
+- '[[Rictavio]]'
+- '[[Yevgeni Krushkin]]'
+- '[[Karl Wachter]]'
+- '[[Urwin Martikov]]'
+- '[[Nikolai Wachter]]'
 threat_level: none
 first_appearance_date: 2 Neyavr 735
 tags:
-  - area
-  - cos
-  - vallaki
+- area
+- cos
+- vallaki
 key_factions:
-  - "[[Keepers of the Feather]]"
+- '[[Keepers of the Feather]]'
 area_type: residence
 first_appearance_session: 9
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: true
 ---
 # Overview

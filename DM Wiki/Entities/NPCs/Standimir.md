@@ -2,41 +2,48 @@
 type: NPC
 name: Standimir
 aliases:
-  - Revenant
-pronouns:
+- Revenant
+pronouns: null
 race: Human
 class: Revenant
-age:
-gender:
+age: null
+gender: null
 creature_type: undead
-origin: "[[Argynvostholt]]"
-home_base:
-current_location: "[[Tser Falls]]"
+origin: '[[Argynvostholt]]'
+home_base: null
+current_location: '[[Tser Falls]]'
 factions:
-  - "[[Order of the Silver Dragon]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
+- '[[Order of the Silver Dragon]]'
+arcs:
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc I - The Walls of Krezk]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 8
 first_appearance_date: 2 Neyavr 735
-status:
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+status: null
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Sir Godfrey Gwilym]]"
-portrait: "[[Source/CoS-Reloaded/Appendices/images/tser-falls-revenant.png]]"
+- '[[Sir Godfrey Gwilym]]'
+portrait: '[[Source/CoS-Reloaded/Appendices/images/tser-falls-revenant.png]]'
 portrait_credit: Caleb Cleveland @calebisdrawing
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 ![[Source/CoS-Reloaded/Appendices/images/tser-falls-revenant.png]]
 # Who they are

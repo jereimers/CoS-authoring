@@ -1,27 +1,31 @@
 ---
 type: Area
 name: Tower Door
-aliases:
+aliases: null
 area_code: V2
-WotC_ref:
-CoS-R_ref:
-parent_region: "[[Van Richten's Tower]]"
+WotC_ref: null
+CoS-R_ref: null
+parent_region: '[[Van Richten''s Tower]]'
 arcs:
-connected_locations:
-notable_npcs:
-threat_level:
-first_appearance_date:
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc E - The Missing Vistana]]'
+connected_locations: null
+notable_npcs: null
+threat_level: null
+first_appearance_date: null
 tags:
-  - area
-  - cos
-key_factions:
-area_type:
-first_appearance_session:
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+- area
+- cos
+key_factions: null
+area_type: null
+first_appearance_session: null
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: false
 ---
 # Overview

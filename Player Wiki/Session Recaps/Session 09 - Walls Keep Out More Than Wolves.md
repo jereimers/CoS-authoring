@@ -1,29 +1,29 @@
 ---
-barovian_date(s):
-  - "[[Neyavr 2]]"
-location(s):
-  - "[[Refugee Camp]]"
-  - "[[Town of Vallaki]]"
-  - "[[St. Andral's Church]]"
-  - "[[Blue Water Inn]]"
+barovian_dates:
+- '[[Neyavr 2]]'
+locations:
+- '[[Refugee Camp]]'
+- '[[Town of Vallaki]]'
+- '[[St. Andral''s Church]]'
+- '[[Blue Water Inn]]'
 NPCs_met:
-  - "[[Emeric]]"
-  - "[[Magda]]"
-  - "[[Willemina Rikalova]]"
-  - "[[Father Lucian Petrovich]]"
-  - "[[Rictavio]]"
-  - "[[Danika Dorakova]]"
-  - "[[Urwin Martikov]]"
-  - "[[Nikolai Wachter]]"
-  - "[[Karl Wachter]]"
-arc(s):
-  - "[[Arc C - Into the Valley]]"
-combat?: false
-has_recap?: true
+- '[[Emeric]]'
+- '[[Magda]]'
+- '[[Willemina Rikalova]]'
+- '[[Father Lucian Petrovich]]'
+- '[[Rictavio]]'
+- '[[Danika Dorakova]]'
+- '[[Urwin Martikov]]'
+- '[[Nikolai Wachter]]'
+- '[[Karl Wachter]]'
+arcs:
+- '[[Arc C - Into the Valley]]'
+combat: false
+has_recap: true
 tags:
-  - cos
-  - session
-  - vallaki
+- cos
+- session
+- vallaki
 play_date: 12/3/25
 publish: true
 ---

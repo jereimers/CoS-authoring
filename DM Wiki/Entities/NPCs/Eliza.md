@@ -1,42 +1,44 @@
 ---
 type: NPC
 name: Eliza
-aliases:
+aliases: null
 pronouns: she/her
 race: Vistani
-class:
+class: null
 age: Adult
 gender: female
 creature_type: humanoid
-origin:
-home_base:
-current_location: "[[Tser Pool Encampment]]"
+origin: null
+home_base: null
+current_location: '[[Tser Pool Encampment]]'
 factions:
-  - "[[Vistani]]"
-  - "[[Strahd's Spies]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
+- '[[Vistani]]'
+- '[[Strahd''s Spies]]'
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 6
 first_appearance_date: 1 Neyavr 735
 status: alive
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Arturi Radanavich]]"
-portrait:
-portrait_credit:
-handouts:
+- '[[Arturi Radanavich]]'
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Portrait
 

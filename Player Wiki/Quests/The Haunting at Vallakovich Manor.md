@@ -1,16 +1,16 @@
 ---
 status: active
 tags:
-  - cos
-  - quest
-giver: "[[Baron Vargas Vallakovich]]"
-location(s):
-  - "[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Vallakovich Manor]]"
+- cos
+- quest
+giver: '[[Baron Vargas Vallakovich]]'
+locations:
+- '[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster''s Mansion|Vallakovich Manor]]'
 NPCs_involved:
-  - "[[Baron Vargas Vallakovich|Vargas]]"
-  - "[[Victor Vallakovich|Victor]]"
-  - "[[Stella Wachter|Stella]]"
-  - "[[Tereska]]"
+- '[[Baron Vargas Vallakovich|Vargas]]'
+- '[[Victor Vallakovich|Victor]]'
+- '[[Stella Wachter|Stella]]'
+- '[[Tereska]]'
 publish: true
 ---
 # Objective

@@ -1,30 +1,39 @@
 ---
 type: Area
 name: Burgomaster's Mansion
-aliases:
+aliases: null
 area_code: E4
-WotC_ref: "[[03_Chapter 3 - The Village of Barovia#E4. Burgomaster's Mansion]]"
-CoS-R_ref: "[[Arc B - Welcome to Barovia#B5d. The Burgomaster’s Mansion]]"
-parent_region: "[[Village of Barovia]]"
+WotC_ref: '[[03_Chapter 3 - The Village of Barovia#E4. Burgomaster''s Mansion]]'
+CoS-R_ref: '[[Arc B - Welcome to Barovia#B5d. The Burgomaster’s Mansion]]'
+parent_region: '[[Village of Barovia]]'
 arcs:
-connected_locations:
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc T - The Three Fanes]]'
+connected_locations: null
 notable_npcs:
-  - "[[Ismark Kolyanovich]]"
-  - "[[Ireena Kolyana]]"
-  - "[[Kolyan Indirovich]]"
-threat_level:
-first_appearance_date:
+- '[[Baron Vargas Vallakovich]]'
+- '[[Izek Strazni]]'
+- '[[Kolyan Indirovich]]'
+- '[[Ismark Kolyanovich]]'
+- '[[Ireena Kolyana]]'
+threat_level: null
+first_appearance_date: null
 tags:
-  - area
-  - cos
-key_factions:
-area_type:
-first_appearance_session:
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+- area
+- cos
+key_factions: null
+area_type: null
+first_appearance_session: null
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: false
 ---
 # Overview

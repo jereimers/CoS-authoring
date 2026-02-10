@@ -1,15 +1,15 @@
 ---
-party_presence:
-npc_presence:
-arc:
-location:
-session:
-party_level:
+party_presence: null
+npc_presence: null
+arcs: null
+locations: null
+session: null
+party_level: null
 combat_possible?: false
 has_vignette: false
 tags:
-  - cos
-  - scene
-  - new
-publish:
+- cos
+- scene
+- new
+publish: null
 ---

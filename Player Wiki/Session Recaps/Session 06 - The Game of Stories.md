@@ -1,20 +1,20 @@
 ---
-barovian_date(s):
-  - "[[Neyavr 1]]"
-location(s):
-  - "[[Tser Pool Encampment]]"
+barovian_dates:
+- '[[Neyavr 1]]'
+locations:
+- '[[Tser Pool Encampment]]'
 NPCs_met:
-  - "[[Arturi Radanavich]]"
-  - "[[Eliza]]"
-arc(s):
-combat?: false
-has_recap?: true
-play_date:
+- '[[Arturi Radanavich]]'
+- '[[Eliza]]'
+arcs: null
+combat: false
+has_recap: true
+play_date: null
 tags:
-  - cos
-  - session
-  - tser-pool
-  - vistani
+- cos
+- session
+- tser-pool
+- vistani
 publish: true
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%

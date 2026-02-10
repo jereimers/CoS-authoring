@@ -1,15 +1,19 @@
 ---
-belongs_to: "[[Arden Nalero]]"
-CoS-R_ref: "[[Arc B - Welcome to Barovia#]]"
-WotC_ref:
-current_location:
+belongs_to: '[[Arden Nalero]]'
+CoS-R_ref: '[[Arc B - Welcome to Barovia#]]'
+WotC_ref: null
+current_location: null
 tags:
-  - cos
-  - item
-  - letter
+- cos
+- item
+- letter
+- text
 publish: true
 aliases:
-  - letter of introduction
+- letter of introduction
+type: Item
+arcs:
+- '[[Arc B - Welcome to Barovia]]'
 ---
 %% An item is an artifact, relic, piece of equipment or gear that players can obtain and/or interact with. Items have owners, locations, histories, and optional magical qualities and/or stat blocks. %%
 # Description

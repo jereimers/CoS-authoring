@@ -1,18 +1,18 @@
 ---
 status: complete
 tags:
-  - cos
-  - quest
-  - vallaki
-giver: "[[Father Lucian Petrovich|Father Lucian]]"
-location(s):
-  - "[[St. Andral's Church]]"
+- cos
+- quest
+- vallaki
+giver: '[[Father Lucian Petrovich|Father Lucian]]'
+locations:
+- '[[St. Andral''s Church]]'
 NPCs_involved:
-  - "[[Father Lucian Petrovich|Father Lucian]]"
-  - "[[Milivoj]]"
-  - "[[Henrik van der Voort]]"
-  - "[[Yeska]]"
-  - "[[Volenta Popofsky]]"
+- '[[Father Lucian Petrovich|Father Lucian]]'
+- '[[Milivoj]]'
+- '[[Henrik van der Voort]]'
+- '[[Yeska]]'
+- '[[Volenta Popofsky]]'
 publish: true
 ---
 # Objective

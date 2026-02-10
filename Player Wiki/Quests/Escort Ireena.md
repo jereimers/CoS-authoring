@@ -1,16 +1,16 @@
 ---
 status: active
 tags:
-  - cos
-  - quest
-giver: "[[Ismark Kolyanovich]]"
-location(s):
-  - "[[Village of Barovia]]"
-  - "[[Town of Vallaki]]"
-  - "[[St. Andral's Church]]"
+- cos
+- quest
+giver: '[[Ismark Kolyanovich]]'
+locations:
+- '[[Village of Barovia]]'
+- '[[Town of Vallaki]]'
+- '[[St. Andral''s Church]]'
 NPCs_involved:
-  - "[[Ireena Kolyana]]"
-  - "[[Ismark Kolyanovich]]"
+- '[[Ireena Kolyana]]'
+- '[[Ismark Kolyanovich]]'
 publish: true
 ---
 # Objective

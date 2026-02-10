@@ -1,14 +1,14 @@
 ---
 status: active
 tags:
-  - cos
-  - quest
-giver: "[[Arturi Radanavich]]"
-location(s):
-  - "[[Tser Pool Encampment]]"
+- cos
+- quest
+giver: '[[Arturi Radanavich]]'
+locations:
+- '[[Tser Pool Encampment]]'
 NPCs_involved:
-  - "[[Arturi Radanavich]]"
-  - "[[Rictavio|Rudolph van Richten]]"
+- '[[Arturi Radanavich]]'
+- '[[Rictavio|Rudolph van Richten]]'
 publish: true
 ---
 # Objective

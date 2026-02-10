@@ -1,39 +1,41 @@
 ---
 type: NPC
 name: Gallows Speaker
-aliases:
+aliases: null
 pronouns: he/him
-race:
-class:
+race: null
+class: null
 age: 18
 gender: male
-creature_type:
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
+creature_type: null
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc H - The Lost Soul]]'
+first_appearance_session: null
+first_appearance_date: null
 status: alive
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[gallows-speaker.png]]"
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[gallows-speaker.png]]'
 portrait_credit: Caleb Cleveland @calebisdrawing
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Who they are
 

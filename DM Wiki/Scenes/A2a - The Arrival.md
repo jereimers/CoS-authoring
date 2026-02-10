@@ -1,17 +1,17 @@
 ---
-party_presence:
-npc_presence:
-arc: "[[Arc A - Escape From Death House]]"
-CoS-R_Ref: "[[Arc A - Escape From Death House#A2a. The Arrival]]"
-location:
-session:
-party_level:
+party_presence: null
+npc_presence: null
+arcs: '[[Arc A - Escape From Death House]]'
+CoS-R_Ref: '[[Arc A - Escape From Death House#A2a. The Arrival]]'
+locations: null
+session: null
+party_level: null
 combat_possible?: false
 has_vignette: false
 tags:
-  - cos
-  - scene
-  - ai_generated
+- cos
+- scene
+- ai_generated
 publish: false
 ---
 %%

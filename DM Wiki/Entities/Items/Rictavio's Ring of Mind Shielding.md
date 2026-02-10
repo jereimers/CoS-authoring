@@ -1,17 +1,17 @@
 ---
-belongs_to: "[[Rudolph van Richten|Rictavio]]"
-CoS-R_ref:
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Rictavio]]"
-current_location: "[[Rudolph van Richten|Rictavio]]"
+belongs_to: '[[Rudolph van Richten|Rictavio]]'
+CoS-R_ref: null
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Rictavio]]'
+current_location: '[[Rudolph van Richten|Rictavio]]'
 tags:
-  - ai_generated
-  - cos
-  - item
-  - magic-item
-  - ring
+- ai_generated
+- cos
+- item
+- magic-item
+- ring
 publish: false
+type: Item
 ---
-
 <!-- DM-Only Start -->
 # Rictavio's Ring of Mind Shielding
 

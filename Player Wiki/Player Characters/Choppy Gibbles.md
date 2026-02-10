@@ -53,4 +53,5 @@ Choppy comes from a noble family, though the details of their past are shrouded 
 # Session Highlights
 
 # Character Arc Threads
+
 ## Barovian Relic - [[Stone Crest]]

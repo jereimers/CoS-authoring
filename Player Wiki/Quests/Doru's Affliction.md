@@ -1,14 +1,14 @@
 ---
 status: active
 tags:
-  - cos
-  - quest
-giver: "[[Father Donavich]]"
-location(s):
-  - "[[Church]]"
+- cos
+- quest
+giver: '[[Father Donavich]]'
+locations:
+- '[[Church]]'
 NPCs_involved:
-  - "[[Doru]]"
-  - "[[Father Donavich]]"
+- '[[Doru]]'
+- '[[Father Donavich]]'
 publish: true
 ---
 # Objective

@@ -1,29 +1,34 @@
 ---
 type: Area
 name: Dining Hall
-aliases:
+aliases: null
 area_code: E7-27
-WotC_ref: "[[18_Appendix B - Death House#27. Dining Hall]]"
-CoS-R_ref: "[[Arc A - Escape From Death House#Dining Hall]]"
-parent_region: "[[Haunted House]]"
+WotC_ref: '[[18_Appendix B - Death House#27. Dining Hall]]'
+CoS-R_ref: '[[Arc A - Escape From Death House#Dining Hall]]'
+parent_region: '[[Haunted House]]'
 arcs:
-connected_locations:
-notable_npcs:
-threat_level:
-first_appearance_date:
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc A - Escape From Death House]]'
+- '[[Arc S - A Sword of Sunlight]]'
+connected_locations: null
+notable_npcs: null
+threat_level: null
+first_appearance_date: null
 tags:
-  - area
-  - cos
-  - death_house
+- area
+- cos
+- death_house
 key_factions:
-  - "[[Death House Cult]]"
+- '[[Death House Cult]]'
 area_type: room
-first_appearance_session:
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+first_appearance_session: null
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: false
 ---
 # Overview

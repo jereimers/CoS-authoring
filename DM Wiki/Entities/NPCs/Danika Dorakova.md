@@ -2,49 +2,74 @@
 type: NPC
 name: Danika Dorakova
 aliases:
-  - Danika
+- Danika
 pronouns: she/her
 race: Human
 class: Wereraven
 age: 47
 gender: female
 creature_type: humanoid
-origin: "[[Town of Vallaki]]"
-home_base: "[[Blue Water Inn]]"
-current_location: "[[Blue Water Inn]]"
+origin: '[[Town of Vallaki]]'
+home_base: '[[Blue Water Inn]]'
+current_location: '[[Blue Water Inn]]'
 factions:
-  - "[[Keepers of the Feather]]"
-  - "[[Vallakians]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
+- '[[Keepers of the Feather]]'
+- '[[Vallakians]]'
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 9
 first_appearance_date: 2 Neyavr 735
 status: alive
-cr:
-resonance:
+cr: null
+resonance: 'Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude
+  for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her
+  fierce dedication to her family, home, and guests.
+
+  >'
 emotions:
+- fond
+- satisfied
+- congenial
+- determined
+- defiant
+- affectionate
 motivations:
+- keep her family safe
+- run a successful business
+- ensure that her children one day see sunlight over Barovia
 inspirations:
-vocal_notes:
-signature_lines:
+- 'Tenzin (Avatar: The Legend of Korra)'
+- Bob Belcher (Bob's Burgers)
+- Garnet (Steven Universe)
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Urwin Martikov]]"
-  - "[[Bray Martikov]]"
-  - "[[Brom Martikov]]"
-  - "[[Rictavio]]"
-  - "[[Szoldar Szoldarovich]]"
-  - "[[Yevgeni Krushkin]]"
-portrait: "[[danika-dorakova.png]]"
+- '[[Urwin Martikov]]'
+- '[[Bray Martikov]]'
+- '[[Brom Martikov]]'
+- '[[Rictavio]]'
+- '[[Szoldar Szoldarovich]]'
+- '[[Yevgeni Krushkin]]'
+portrait: '[[danika-dorakova.png]]'
 portrait_credit: ChatGPT
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Danika-Dorakova]]"
+- npc
+- cos
+- vallaki
+CoS-R_ref: '[[Arc C - Into the Valley#^Profile-Danika-Dorakova]]'
 WotC_ref:
-  - "[[05_Chapter 5 - The Town of Vallaki#N2. Blue Water Inn]]"
+- '[[05_Chapter 5 - The Town of Vallaki#N2. Blue Water Inn]]'
 publish: true
+region: Vallaki
 ---
 # Portrait
 ![[danika-dorakova.png]]

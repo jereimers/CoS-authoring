@@ -2,38 +2,65 @@
 type: NPC
 name: Rahadin
 aliases:
-  - Kinslayer
+- Kinslayer
 pronouns: he/him
 race: Dusk Elf
-class:
-age:
+class: null
+age: null
 gender: male
 creature_type: humanoid
-origin:
-home_base:
-current_location:
-factions:
-arc:
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc H - The Lost Soul]]'
 first_appearance_session: 5
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 5
-resonance:
+resonance: 'Rahadin should inspire anger for his condescension and unease for his deadly calm and undying
+  devotion to carrying out Strahd’s will.
+
+  >'
 emotions:
+- calm
+- disdainful
+- satisfied
+- bored
+- or irritated
 motivations:
+- serve Strahd’s will as his faithful
+- ever-loyal servant—no matter the cost to himself or others
 inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+- Tywin Lannister (*Game of Thrones*)
+- Severus Snape (*Harry Potter*)
+- Agent Smith (*The Matrix*)
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Who they are
 

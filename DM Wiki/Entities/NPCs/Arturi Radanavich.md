@@ -2,41 +2,45 @@
 type: NPC
 name: Arturi Radanavich
 aliases:
-  - Arturi
+- Arturi
 pronouns: he/him
 race: Vistani
-class:
+class: null
 age: Adult
 gender: male
 creature_type: humanoid
-origin:
+origin: null
 home_base: Wanderer
-current_location: "[[Tser Pool Encampment]]"
+current_location: '[[Tser Pool Encampment]]'
 factions:
-  - "[[Vistani]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
+- '[[Vistani]]'
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc Q - A Shining Beacon]]'
 first_appearance_session: 6
 first_appearance_date: 1 Neyavr 735
 status: alive (cursed)
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Eliza]]"
-portrait:
-portrait_credit:
-handouts:
+- '[[Eliza]]'
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Portrait
 

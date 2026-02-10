@@ -1,34 +1,34 @@
 ---
 type: barovian_day
 tags:
-  - timeline
-  - barovia/date
+- timeline
+- barovia/date
 barovian_date_key: 0735-11-07
 barovian_date:
-  - 7 Neyavr, 735
+- 7 Neyavr, 735
 month: Neyavr
 day_of_month: 7
 moon_phase: waxing_gibbous
 primary_location: Vallaki
 act: Act II
-arc(s):
-  - "[[Arc D - St. Andral's Feast]]"
-  - "[[Arc G - The Strazni Siblings]]"
+arcs:
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc G - The Strazni Siblings]]'
 sessions:
-  - 
-  - 
+- null
+- null
 party_level: 5
 major_events:
-  - Festival of the Blazing Sun preparations
-  - 
-factions_active:
+- Festival of the Blazing Sun preparations
+- null
+factions_active: null
 party_presence:
-  - Arden
-  - Fig
-  - Choppy
-  - Varnish
-  - Ireena
-  - Parriwimple
+- Arden
+- Fig
+- Choppy
+- Varnish
+- Ireena
+- Parriwimple
 publish: false
 ---
 # 7 Neyavr, 735 — Vallaki

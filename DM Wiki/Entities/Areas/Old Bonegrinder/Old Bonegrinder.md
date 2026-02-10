@@ -2,37 +2,45 @@
 type: Area
 name: Old Bonegrinder
 aliases:
-  - Durst Mill
-  - The Windmill
-WotC_ref:
-CoS-R_ref:
-parent_region: "[[Barovia]]"
+- Durst Mill
+- The Windmill
+WotC_ref: null
+CoS-R_ref: null
+parent_region: '[[Barovia]]'
 arcs:
-  - "[[Arc C - Into the Valley]]"
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc A - Escape From Death House]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc T - The Three Fanes]]'
 connected_locations:
-  - "[[Old Svalich Road]]"
-  - "[[Lake Zarovich]]"
+- '[[Old Svalich Road]]'
+- '[[Lake Zarovich]]'
 notable_npcs:
-  - "[[Morgantha]]"
+- '[[Morgantha]]'
 threat_level: Deadly
 first_appearance_date: 2 Neyavr 735
 tags:
-  - area
-  - cos
-  - ai_generated
-key_factions:
+- area
+- cos
+- ai_generated
+key_factions: null
 area_code: O
 area_type: Structure
 first_appearance_session: 8
-scene:
-encounter:
-item(s):
-  - "[[Dream Pastry]]"
-handouts:
-loot:
+scenes: null
+encounters: null
+items:
+- '[[Dream Pastry]]'
+handouts: null
+loot: null
 publish: true
 ---
-
 %% an area is a location, place, region, etc. It can be as large as the Planes of Existence and as small as a room inside a building inside a town inside a region inside a domain inside a continent/plane. Areas have types, are encountered by the party at a particular time/place, and can be home to multiple NPCs, items, etc. %%
 # Overview
 

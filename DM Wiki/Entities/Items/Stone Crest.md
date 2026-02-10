@@ -1,17 +1,21 @@
 ---
-belongs_to: "[[Choppy Gibbles]]"
-CoS-R_ref: "[[Character Creation#Harmony—The Stone Crest]]"
+belongs_to: '[[Choppy Gibbles]]'
+CoS-R_ref: '[[Character Creation#Harmony—The Stone Crest]]'
 WotC_ref:
-  - N/A
-current_location:
+- N/A
+current_location: null
 tags:
-  - cos
-  - item
-  - barovian-relic
+- cos
+- item
+- barovian-relic
 publish: true
+type: Item
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc A - Escape From Death House]]'
+- '[[Arc P - Ravenloft Heist]]'
 ---
-
-
 %% An item is an artifact, relic, piece of equipment or gear that players can obtain and/or interact with. Items have owners, locations, histories, and optional magical qualities and/or stat blocks. %%
 
 # Description

@@ -1,27 +1,39 @@
 ---
 type: Area
 name: Bedroom
-aliases:
+aliases: null
 area_code: O3
-WotC_ref:
-CoS-R_ref:
-parent_region: "[[Old Bonegrinder]]"
+WotC_ref: null
+CoS-R_ref: null
+parent_region: '[[Old Bonegrinder]]'
 arcs:
-connected_locations:
-notable_npcs:
-threat_level:
-first_appearance_date:
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc L - The Den of Wolves]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc A - Escape From Death House]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc J - The Stolen Gem]]'
+connected_locations: null
+notable_npcs: null
+threat_level: null
+first_appearance_date: null
 tags:
-  - area
-  - cos
-key_factions:
-area_type:
-first_appearance_session:
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+- area
+- cos
+key_factions: null
+area_type: null
+first_appearance_session: null
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: false
 ---
 # Overview

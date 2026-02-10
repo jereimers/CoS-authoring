@@ -1,26 +1,26 @@
 ---
-barovian_date(s):
-  - "[[Neyavr 2]]"
-location(s):
-  - "[[Tser Falls]]"
-  - "[[River Ivlis Crossroads]]"
-  - "[[Old Svalich Road]]"
+barovian_dates:
+- '[[Neyavr 2]]'
+locations:
+- '[[Tser Falls]]'
+- '[[River Ivlis Crossroads]]'
+- '[[Old Svalich Road]]'
 NPCs_met:
-  - "[[Madam Eva]]"
-  - "[[Arturi Radanavich]]"
-  - "[[Eliza]]"
-  - "[[Stanimir]]"
-arc(s):
-  - "[[Arc C - Into the Valley]]"
-combat?: true
-has_recap?: true
-play_date:
+- '[[Madam Eva]]'
+- '[[Arturi Radanavich]]'
+- '[[Eliza]]'
+- '[[Stanimir]]'
+arcs:
+- '[[Arc C - Into the Valley]]'
+combat: true
+has_recap: true
+play_date: null
 tags:
-  - cos
-  - session
-  - tser-pool
-  - svalich-road
-  - vistani
+- cos
+- session
+- tser-pool
+- svalich-road
+- vistani
 publish: true
 ---
 %%

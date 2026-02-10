@@ -2,43 +2,59 @@
 type: NPC
 name: Madam Eva
 aliases:
-  - Eva
+- Eva
 pronouns: she/her
 race: Vistani
 class: Seer
 age: Ancient
 gender: female
 creature_type: humanoid
-origin: "[[Tser Pool Encampment]]"
-home_base: "[[Tser Pool Encampment]]"
-current_location: "[[Tser Pool Encampment]]"
+origin: '[[Tser Pool Encampment]]'
+home_base: '[[Tser Pool Encampment]]'
+current_location: '[[Tser Pool Encampment]]'
 factions:
-  - "[[Vistani]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
+- '[[Vistani]]'
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc L - The Den of Wolves]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 6
 first_appearance_date: 1 Neyavr 735
 status: alive
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Arabelle]]"
-  - "[[Luvash]]"
-  - "[[Arrigal]]"
-portrait: "[[madam_eva.png]]"
+- '[[Arabelle]]'
+- '[[Luvash]]'
+- '[[Arrigal]]'
+portrait: '[[madam_eva.png]]'
 portrait_credit: ChatGPT
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Portrait
 

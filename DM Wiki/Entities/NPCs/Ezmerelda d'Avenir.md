@@ -1,38 +1,44 @@
 ---
 type: NPC
 name: Ezmerelda d'Avenir
-aliases:
+aliases: null
 pronouns: he/him
 race: Human
-class:
-age:
+class: null
+age: null
 gender: female
 creature_type: humanoid
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
+first_appearance_date: null
 status: alive
 cr: 5
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[20-004.ezmerelda-d'avenir.png]]"
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[20-004.ezmerelda-d''avenir.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Who they are
 

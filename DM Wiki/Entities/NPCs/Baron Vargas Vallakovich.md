@@ -2,65 +2,73 @@
 type: NPC
 name: Baron Vargas Vallakovich
 aliases:
-  - Vargas
-  - The Baron
-  - Baron Vallakovich
-  - Vargas Vallakovich
+- Vargas
+- The Baron
+- Baron Vallakovich
+- Vargas Vallakovich
 pronouns: he/him
 race: Human
 class: Noble
 age: 64
 gender: male
 creature_type: humanoid
-origin: "[[Town of Vallaki]]"
-home_base: "[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion]]"
-current_location: "[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion]]"
+origin: '[[Town of Vallaki]]'
+home_base: '[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster''s Mansion]]'
+current_location: '[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster''s Mansion]]'
 factions:
-  - "[[Vallakoviches]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
-  - "[[Arc E - The Missing Vistana]]"
-  - "[[Arc F - Lady Wachter's Wish]]"
-  - "[[Arc G - The Strazni Siblings]]"
-  - "[[Arc H - The Lost Soul]]"
-  - "[[Arc D - St. Andral's Feast]]"
+- '[[Vallakoviches]]'
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc I - The Walls of Krezk]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 10
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 2
-resonance: Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
+resonance: Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance,
+  and mild amusement for his utter and ridiculous self-assurance.
 emotions:
-  - annoyed
-  - offended
-  - satisfied
-  - outraged
-  - impatient
-  - smug
+- annoyed
+- offended
+- satisfied
+- outraged
+- impatient
+- smug
 motivations:
-  - Secure his power free from Strahd's influence
-  - Lead Vallaki to escape the Mists by forcing everyone in town to be happy.
+- Secure his power free from Strahd's influence
+- Lead Vallaki to escape the Mists by forcing everyone in town to be happy.
 inspirations:
-  - Lord Farquaad (Shrek)
-  - Joffrey Baratheon (Game of Thrones)
-  - Governor Ratcliffe (Pocahontas)
-vocal_notes:
+- Lord Farquaad (Shrek)
+- Joffrey Baratheon (Game of Thrones)
+- Governor Ratcliffe (Pocahontas)
+vocal_notes: null
 signature_lines:
-  - All will be well!
+- All will be well!
 relationships:
-  - "[[Victor Vallakovich]]"
-  - "[[Izek Strazni]]"
-portrait: "[[05-006.baroness-baron.png]]"
+- '[[Victor Vallakovich]]'
+- '[[Izek Strazni]]'
+portrait: '[[05-006.baroness-baron.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - vallaki
-  - cos
-  - noble
-CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Baron-Vargas-Vallakovich]]"
+- npc
+- vallaki
+- cos
+- noble
+CoS-R_ref: '[[Arc C - Into the Valley#^Profile-Baron-Vargas-Vallakovich]]'
 WotC_ref:
-  - "[[05_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family]]"
+- '[[05_Chapter 5 - The Town of Vallaki#Roleplaying the Vallakovich Family]]'
 publish: true
+region: Vallaki
 ---
 # Portrait
 

@@ -1,40 +1,42 @@
 ---
 type: NPC
 name: Magda
-aliases:
-pronouns:
-race:
-class:
-age:
-gender:
-creature_type:
-origin:
-home_base:
-current_location:
+aliases: null
+pronouns: null
+race: null
+class: null
+age: null
+gender: null
+creature_type: null
+origin: null
+home_base: null
+current_location: null
 factions:
-  - "[[Barovian Villagers]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
+- '[[Barovian Villagers]]'
+arcs:
+- '[[Arc C - Into the Valley]]'
+- '[[Arc H - The Lost Soul]]'
 first_appearance_session: -2
-first_appearance_date:
-status:
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+first_appearance_date: null
+status: null
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Who they are
 This young woman is one of two leaders of the refugees driven from [[Village of Barovia]] by Strahd's nightly undead onslaughts, along with [[Emeric]].

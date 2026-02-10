@@ -1,14 +1,14 @@
 ---
 status: active
 tags:
-  - cos
-  - quest
+- cos
+- quest
 giver: The Mists
-location(s):
-  - "[[Barovia]]"
+locations:
+- '[[Barovia]]'
 NPCs_involved:
-  - "[[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd von Zarovich]]"
-  - "[[Madam Eva]]"
+- '[[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd von Zarovich]]'
+- '[[Madam Eva]]'
 publish: true
 ---
 # Objective

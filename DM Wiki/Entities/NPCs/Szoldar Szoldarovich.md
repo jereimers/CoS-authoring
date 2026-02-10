@@ -2,38 +2,43 @@
 type: NPC
 name: Szoldar Szoldarovich
 aliases:
-  - Szoldar
+- Szoldar
 pronouns: he/him
 race: Human
-class: "[[Scout]]"
-age:
-gender:
-creature_type:
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
-status:
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+class: '[[Scout]]'
+age: null
+gender: null
+creature_type: null
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc H - The Lost Soul]]'
+first_appearance_session: null
+first_appearance_date: null
+status: null
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Portrait
 

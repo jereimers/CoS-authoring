@@ -1,41 +1,43 @@
 ---
 type: NPC
 name: Commander Vladimir Horngaard
-aliases:
+aliases: null
 pronouns: he/him
-race:
-class:
-age:
+race: null
+class: null
+age: null
 gender: male
 creature_type: humanoid
-origin:
-home_base: "[[Argynvostholt]]"
-current_location: "[[Argynvostholt]]"
+origin: null
+home_base: '[[Argynvostholt]]'
+current_location: '[[Argynvostholt]]'
 factions:
-  - "[[Order of the Silver Dragon]]"
-arc:
-  - "[[Arc M - The Dragon's Manor]]"
-first_appearance_session:
-first_appearance_date:
+- '[[Order of the Silver Dragon]]'
+arcs:
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc Q - A Shining Beacon]]'
+first_appearance_session: null
+first_appearance_date: null
 status: alive
 cr: 5
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Sir Godfrey Gwilym]]"
-portrait: "[[20-012.vladimir-horngaard.png]]"
+- '[[Sir Godfrey Gwilym]]'
+portrait: '[[20-012.vladimir-horngaard.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref: "[[Arc M - The Dragon's Manor#^Profile-Vladimir-Horngaard]]"
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Vladimir Horngaard]]"
+- npc
+- cos
+CoS-R_ref: '[[Arc M - The Dragon''s Manor#^Profile-Vladimir-Horngaard]]'
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Vladimir Horngaard]]'
 publish: true
+region: Wilderness
 ---
 # Who they are
 

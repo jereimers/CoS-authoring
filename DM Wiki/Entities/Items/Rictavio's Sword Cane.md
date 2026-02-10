@@ -1,16 +1,16 @@
 ---
-belongs_to: "[[Rudolph van Richten|Rictavio]]"
-CoS-R_ref:
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Rictavio]]"
-current_location: "[[Rudolph van Richten|Rictavio]]"
+belongs_to: '[[Rudolph van Richten|Rictavio]]'
+CoS-R_ref: null
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Rictavio]]'
+current_location: '[[Rudolph van Richten|Rictavio]]'
 tags:
-  - ai_generated
-  - cos
-  - item
-  - weapon
+- ai_generated
+- cos
+- item
+- weapon
 publish: false
+type: Item
 ---
-
 <!-- DM-Only Start -->
 # Rictavio's Sword Cane
 

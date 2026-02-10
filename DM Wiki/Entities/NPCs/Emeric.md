@@ -1,39 +1,42 @@
 ---
 type: NPC
 name: Emeric
-aliases:
+aliases: null
 pronouns: he/him
 race: Human
-class:
-age:
+class: null
+age: null
 gender: male
 creature_type: humanoid
-origin:
-home_base:
-current_location:
-factions:
-arc:
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc C - Into the Valley]]'
+- '[[Arc H - The Lost Soul]]'
 first_appearance_session: 9
 first_appearance_date: 2 Neyavr 735
 status: alive
 cr: -3
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Who they are
 This middle-aged man is one of two leaders of the refugees driven from [[Village of Barovia]] by Strahd's nightly undead onslaughts, along with [[Magda]].

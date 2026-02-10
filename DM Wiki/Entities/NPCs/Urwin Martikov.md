@@ -2,47 +2,73 @@
 type: NPC
 name: Urwin Martikov
 aliases:
-  - Urwin
+- Urwin
 pronouns: he/him
 race: Human
 class: Wereraven
 age: 50
 gender: male
 creature_type: humanoid
-origin: "[[The Wizard of Wines]]"
-home_base: "[[Blue Water Inn]]"
-current_location: "[[Blue Water Inn]]"
+origin: '[[The Wizard of Wines]]'
+home_base: '[[Blue Water Inn]]'
+current_location: '[[Blue Water Inn]]'
 factions:
-  - "[[Keepers of the Feather]]"
-  - "[[Vallakians]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
-  - "[[Arc G - The Strazni Siblings]]"
+- '[[Vallakians]]'
+- '[[Keepers of the Feather]]'
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 9
 first_appearance_date: 2 Neyavr 735
 status: alive
 cr: 2
-resonance:
+resonance: 'Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel
+  and support, and comfort from his compassion and sincerity.
+
+  >'
 emotions:
+- amused
+- satisfied
+- cheerful
+- thoughtful
+- concerned
+- hopeful
 motivations:
+- raise his children well
+- serve guests with hospitality
+- skill
+- see the people of Barovia freed from Strahd’s tyranny
 inspirations:
-vocal_notes:
-signature_lines:
+- Vander (Arcane)
+- Greg Universe (Steven Universe)
+- Linda Belcher (Bob's Burgers)
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Danika Dorakova]]"
-  - "[[Brom Martikov]]"
-  - "[[Bray Martikov]]"
-  - "[[Muriel Vinshaw]]"
-portrait: "[[urwin-martikov.png]]"
+- '[[Danika Dorakova]]'
+- '[[Brom Martikov]]'
+- '[[Bray Martikov]]'
+- '[[Muriel Vinshaw]]'
+portrait: '[[urwin-martikov.png]]'
 portrait_credit: ChatGPT
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Urwin-Martikov]]"
+- npc
+- cos
+CoS-R_ref: '[[Arc C - Into the Valley#^Profile-Urwin-Martikov]]'
 WotC_ref:
-  - "[[05_Chapter 5 - The Town of Vallaki#N2. Blue Water Inn]]"
+- '[[05_Chapter 5 - The Town of Vallaki#N2. Blue Water Inn]]'
 publish: true
+region: Vallaki
 ---
 # Portrait
 

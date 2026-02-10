@@ -1,26 +1,25 @@
 ---
 aliases:
-  - Blinsky Robbery
-  - The Toy Theft
+- Blinsky Robbery
+- The Toy Theft
 tags:
-  - cos
-  - event
-  - ai_generated
-  - vallaki
+- cos
+- event
+- ai_generated
+- vallaki
 type: Special Event
-barovian_date(s): Variable (before The Long Night)
-location(s):
-  - "[[Town of Vallaki|Vallaki]]"
-WotC_ref:
-CoS-R_ref:
-arcs:
+barovian_dates: Variable (before The Long Night)
+locations:
+- '[[Town of Vallaki|Vallaki]]'
+WotC_ref: null
+CoS-R_ref: null
+arcs: null
 notable_npcs:
-  - "[[Gadof Blinsky]]"
-  - "[[The Grinch]]"
-  - "[[Max]]"
+- '[[Gadof Blinsky]]'
+- '[[The Grinch]]'
+- '[[Max]]'
 publish: false
 ---
-
 # The Theft at Blinsky's Toys
 
 A peculiar incident at [[Gadof Blinsky|Blinsky's]] toy shop—merchandise stolen, the workshop ransacked, and no clear culprit. The theft is an isolated event, not part of any larger conspiracy, but it provides a hook for investigating [[The Grinch]] and [[Mt Crumpit]].

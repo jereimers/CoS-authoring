@@ -1,41 +1,53 @@
 ---
-barovian_date(s):
-  - "[[Neyavr 4]]"
-location(s):
-  - "[[Blue Water Inn]]"
-  - "[[Vistani Camp]]"
-  - "[[Wachterhaus]]"
-NPCs_met:
-arc(s):
-  - "[[Arc D - St. Andral's Feast]]"
-  - "[[Arc E - The Missing Vistana]]"
-combat?: false
-has_recap?:
-play_date:
+barovian_dates:
+- '[[Neyavr 4]]'
+locations:
+- '[[Blue Water Inn]]'
+- '[[Vistani Camp]]'
+- '[[Wachterhaus]]'
+NPCs_met: null
+arcs:
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc E - The Missing Vistana]]'
+combat: false
+has_recap: null
+play_date: null
 tags:
-  - cos
-  - session
-  - vallaki
+- cos
+- session
+- vallaki
 play_date_key: 2026-02-04
 status: planning
 barovian_date_key: 0735-11-03
-publish:
+publish: null
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
 
 We pick up at the Blue Water Inn on the morning of Neyavr 4. Note that today is Arabelle's nameday.
 
+# Erasmus' Plea
+
+![[Arc H - The Lost Soul#H1. Erasmus' Plea]]
+
 # Going to the Vistani camp
 
 This begins when the players take the toy they purchased from Blinsky to the Vistani Camp, a half-hour's walk southwest of the village.
 
-1. Read the description of the Vistani Camp ([[05_Chapter 5 - The Town of Vallaki#N9. Vistani Camp|WOTC]]) and offer them a choice -- up the hill, or speak to one fo the guards
+1. Read the description of the Vistani Camp ([[05_Chapter 5 - The Town of Vallaki#N9. Vistani Camp|WOTC]]) and offer them a choice -- up the hill, or speak to one fo the guards:
+
+The woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but you can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves. Atop the hill, above the fog, is a ring of barrel-topped wagons that surround a large tent with a column of smoke pouring out through a hole in the top. The tent is brightly lit from within. Even at this distance, you can smell the odors of wine and horses that emanate from this central area.
+
 2. **If up the hill:** [[E2a - The Vistani Encampment]], read what's happening in the tent, and the players have a conversation with Luvash, and he asks them for help with the ring, and he sends them to Kasimir to retrieve it.
-	1. **Investigate the site of her disappearance?** if the party wants to track Arabelle from the site of her disappearance, allow them to do it but be mindful of the time of day. If it's nighttime, run a random encounter ([[02_Chapter 2 - The Lands of Barovia#Random Encounters]]) when they reach [[02_Chapter 2 - The Lands of Barovia#P. Luna River Crossroads|P. Luna River Crossroads]]
-	2.  ![[Arc E - The Missing Vistana#^Abstract-Tracking-Arabelle]] 
-3. **If speak to guard:** They can direct the players up the hill (if they inquire about the Vistani) or to Kasimir's hovel. If Kasimir, they note that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
+## Speaking with Luvash
+
+![[Arc E - The Missing Vistana#E2a. The Vistani Encampment]]
+
+1. **Investigate the site of her disappearance?** if the party wants to track Arabelle from the site of her disappearance, allow them to do it but be mindful of the time of day. If it's nighttime, run a random encounter ([[02_Chapter 2 - The Lands of Barovia#Random Encounters]]) when they reach [[02_Chapter 2 - The Lands of Barovia#P. Luna River Crossroads|P. Luna River Crossroads]]
+2. **If speak to guard:** They can direct the players up the hill (if they inquire about the Vistani) or to Kasimir's hovel. If Kasimir, they note that Kasimir has recently returned from a long and arduous journey and that the players must not disturb him beyond what is reasonably necessary.
 
 ## Speaking with Kasimir
+
+![[Arc E - The Missing Vistana#E2c. Kasimir’s Hovel]]
 
 1. [[E2c - Kasimir’s Hovel]] - read the description! Then introduce Kasimir "sitting on the green rug facing the fire, meditating". He is a "mutilated, grief-stricken dusk elf"
 
@@ -75,15 +87,37 @@ The kitchen is largely as described in [[05_Chapter 5 - The Town of Vallaki#N3g.
 If the players express an interest in investigating the attic, Tereska provides them with directions to the entrance in [[05_Chapter 5 - The Town of Vallaki#N3o. Master Bedroom|N3o. Master Bedroom]] (p. 108). She also prepares a small plate of bread and cheese, which she asks them to bring to Victor. 
 
 # Dinner at [[Wachterhaus]]
+## Welcome to Wachterhaus
 
 ![[Arc F - Lady Wachter's Wish#F2a. Welcome to Wachterhaus]]
 
+## Meet the Wachters
 ![[Arc F - Lady Wachter's Wish#F2b. Meet the Wachters]]
 
+## Drinks in the Parlor
 ![[Arc F - Lady Wachter's Wish#F2c. Drinks in the Parlor]]
+
+## The Vallakovich Problem
+
 ![[Arc F - Lady Wachter's Wish#F2d. The Vallakovich Problem]]
+
+## The Wachter Conspiracy
+
 ![[Arc F - Lady Wachter's Wish#F2e. The Wachter Conspiracy]]
+
+## The Traitor
+
 ![[Arc F - Lady Wachter's Wish#F2f. The Traitor]]
+
+# Pursuing Arabelle (next day?)
+## Lake Zarovich
+
+![[Arc E - The Missing Vistana#E4. Lake Zarovich]]
+
+## The Svalich Road
+
+![[Arc E - The Missing Vistana#E5. The Svalich Road]]
+
 # Who I'm gonna be in this session
 
 - Ireena

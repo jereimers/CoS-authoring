@@ -2,39 +2,39 @@
 type: Area
 name: Mt. Crumpit
 aliases:
-  - Mount Crumpit
-  - The Grinch's Mountain
-  - The Crooked Peak
-area_code:
+- Mount Crumpit
+- The Grinch's Mountain
+- The Crooked Peak
+area_code: null
 WotC_ref:
-  - N/A
+- N/A
 CoS-R_ref: N/A
-parent_region: "[[Barovia]]"
+parent_region: '[[Barovia]]'
 arcs:
-  - N/A
+- N/A
 connected_locations:
-  - "[[Vallaki]]"
+- '[[Vallaki]]'
 notable_npcs:
-  - "[[The Grinch]]"
-  - "[[Max]]"
+- '[[The Grinch]]'
+- '[[Max]]'
 threat_level: High (CR 8 encounter)
-first_appearance_date:
+first_appearance_date: null
 tags:
-  - area
-  - cos
-  - ai_generated
-  - vallaki
+- area
+- cos
+- ai_generated
+- vallaki
 key_factions:
-  - "[[Vallakians]]"
+- '[[Vallakians]]'
 area_type: Lair / Dungeon
-first_appearance_session:
-scene:
-encounter:
-item(s):
-  - "[[Sleigh Boots]]"
-  - "[[Snap-Trap Net]]"
-handouts:
-loot:
+first_appearance_session: null
+scenes: null
+encounters: null
+items:
+- '[[Sleigh Boots]]'
+- '[[Snap-Trap Net]]'
+handouts: null
+loot: null
 publish: false
 ---
 # Overview

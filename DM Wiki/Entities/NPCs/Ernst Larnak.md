@@ -1,39 +1,45 @@
 ---
 type: NPC
 name: Ernst Larnak
-aliases:
+aliases: null
 pronouns: he/him
 race: Human
-class:
-age:
+class: null
+age: null
 gender: male
 creature_type: humanoid
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
+origin: null
+home_base: '[[Town of Vallaki]]'
+current_location: null
+factions: null
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
+first_appearance_date: null
 status: alive
 cr: -2
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Portrait
 

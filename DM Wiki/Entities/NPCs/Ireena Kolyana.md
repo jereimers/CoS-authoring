@@ -2,45 +2,89 @@
 type: NPC
 name: Ireena Kolyana
 aliases:
-  - Ireena
-  - Lady Kolyana
+- Ireena
+- Lady Kolyana
 pronouns: she/her
 race: Human
 class: Expert
 age: -2
 gender: female
 creature_type: humanoid
-origin: "[[Town of Vallaki|Vallaki]]"
-home_base: "[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster's Mansion]]"
+origin: '[[Town of Vallaki|Vallaki]]'
+home_base: '[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster''s Mansion]]'
 current_location: with party
-factions:
-arc:
+factions: null
+arcs:
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc L - The Den of Wolves]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc A - Escape From Death House]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc M - The Dragon''s Manor]]'
 first_appearance_session: 3
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 5
-resonance:
+resonance: 'Ireena should inspire flattery with her genuine interest in the players'' goals and interests,
+  sympathy for her sense of guilt and fear of Strahd, endearment for her determination to continue moving
+  forward, and gratitude for her efforts to help the players succeed.
+
+  >'
 emotions:
+- curious
+- thoughtful
+- melancholy
+- guilty
+- stubborn
+- joyful
+- determined
+- defiant
+- anxious
 motivations:
+- keep her fellow Barovians
+- Ismark safe
+- honor her parents' memory
+- learn new stories
+- one day explore distant lands
 inspirations:
-vocal_notes:
-signature_lines:
+- Belle (*Beauty
+- the Beast*)
+- Elizabeth Swann (*Pirates of the Caribbean*)
+- Eowyn (*Lord of the Rings*)
+- Hermione Granger (*Harry Potter*)
+- Katniss Everdeen (*The Hunger Games*)
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Ismark Kolyanovich]]"
-  - "[[Kolyan Indirovich]]"
-  - "[[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd von Zarovich]]"
-portrait: "[[03-004.ireena.png]]"
+- '[[Ismark Kolyanovich]]'
+- '[[Kolyan Indirovich]]'
+- '[[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd von Zarovich]]'
+portrait: '[[03-004.ireena.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - barovia
-  - noble
-CoS-R_ref: "[[Ireena Kolyana#Ireena Kolyana Profile]]"
+- npc
+- cos
+- barovia
+- noble
+CoS-R_ref: '[[Ireena Kolyana#Ireena Kolyana Profile]]'
 WotC_ref:
-  - "[[03_Chapter 3 - The Village of Barovia#Roleplaying Ireena]]"
+- '[[03_Chapter 3 - The Village of Barovia#Roleplaying Ireena]]'
 publish: true
+region: Vallaki
 ---
 # Portrait
 
@@ -145,11 +189,11 @@ Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) si
   </tbody>
 </table>
 <hr>
-<strong>Skills</strong> Deception + 5, History +3, Insight +4, Investigation +3, Medicine +3, Perception +4, Persuasion +5, Stealth +3<br>
+<strong>Skills</strong> Deception +6, History +4, Insight +5, Investigation +4, Medicine +4, Perception +5, Persuasion +6, Stealth +4<br>
 <strong>Senses</strong> Passive Perception 12<br>
 <strong>Languages</strong> Common<br>
 <strong>Challenge</strong> 1/2 <br>
-<strong>Proficiency Bonus</strong> +2<br>
+<strong>Proficiency Bonus</strong> +3<br>
 <hr>
 <p>Ireena has the statistics of an <strong><em>expert sidekick (Tasha's Cauldron of Everything, p. 142)</em></strong>, using the base stat block of a <strong><em>noble</em></strong>. She also has the <strong><em>Healer</em></strong> feat:</p>
 <p><strong><em>Battle Medic.</em></strong> If you have a <ins>Healer’s Kit</ins>, you can expend one use of it and tend to a creature within 5 feet of yourself as a <ins>Utilize</ins> action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.</p>
@@ -158,8 +202,8 @@ Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) si
 <p>Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the <ins>Dash</ins>, <ins>Disengage</ins>, or <ins>Hide</ins> action.</p>
 <div class="break"></div>
 <h3>Actions</h3>
-<p><strong><em>Rapier.</em></strong> <em>Melee Weapon Attack:</em> +3 to hit, range 5 ft., one target. <em>Hit:</em> 5 (1d8 + 1) piercing damage.</p>
-<p><strong><em>Light Crossbow.</em></strong> <em>Ranged Weapon Attack</em> +3 to hit, 80/320 ft., one target. <em>Hit:</em> 5 (1d8 + 2) piercing damage.</p>
+<p><strong><em>Rapier.</em></strong> <em>Melee Weapon Attack:</em> +4 to hit, range 5 ft., one target. <em>Hit:</em> 5 (1d8 + 1) piercing damage.</p>
+<p><strong><em>Light Crossbow.</em></strong> <em>Ranged Weapon Attack</em> +4 to hit, 80/320 ft., one target. <em>Hit:</em> 5 (1d8 + 2) piercing damage.</p>
 <h3>Reactions</h3>
 <p><strong><em>Parry.</em></strong> <i>Trigger:</i> Ireena is hit by a melee attack while holding a weapon. <i>Response:</i> Ireena adds 2 to her AC against that attack, possibly causing it to miss.
 </div>

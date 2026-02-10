@@ -1,17 +1,17 @@
 ---
-party_presence:
-npc_presence:
-arc: "[[Arc G - The Strazni Siblings]]"
-CoS-R_Ref: "[[Arc G - The Strazni Siblings#G4b. Storming the Manor]]"
-location:
-session:
-party_level:
+party_presence: null
+npc_presence: null
+arcs: '[[Arc G - The Strazni Siblings]]'
+CoS-R_Ref: '[[Arc G - The Strazni Siblings#G4b. Storming the Manor]]'
+locations: null
+session: null
+party_level: null
 combat_possible?: false
 has_vignette: false
 tags:
-  - cos
-  - scene
-  - ai_generated
+- cos
+- scene
+- ai_generated
 publish: false
 ---
 %% a scene is a chunk of role-playing not requiring initiative -- it has NPCs, a setting, party members present, etc. %%

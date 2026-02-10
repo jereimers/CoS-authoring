@@ -1,16 +1,16 @@
 ---
-belongs_to: "[[Baba Lysaga]]"
-CoS-R_ref:
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Baba Lysaga]]"
-current_location: "[[Baba Lysaga]]"
+belongs_to: '[[Baba Lysaga]]'
+CoS-R_ref: null
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Baba Lysaga]]'
+current_location: '[[Baba Lysaga]]'
 tags:
-  - ai_generated
-  - cos
-  - item
-  - weapon
+- ai_generated
+- cos
+- item
+- weapon
 publish: false
+type: Item
 ---
-
 <!-- DM-Only Start -->
 # Baba Lysaga's Quarterstaff
 

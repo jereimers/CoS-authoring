@@ -2,29 +2,47 @@
 type: Area
 name: Svalich Woods
 aliases:
-  - woods
-  - forest
+- woods
+- forest
 area_code: C
-WotC_ref: "[[02_Chapter 2 - The Lands of Barovia#C. Svalich Woods]]"
-CoS-R_ref:
-parent_region: "[[Barovia]]"
+WotC_ref: '[[02_Chapter 2 - The Lands of Barovia#C. Svalich Woods]]'
+CoS-R_ref: null
+parent_region: '[[Barovia]]'
 arcs:
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc I - The Walls of Krezk]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc L - The Den of Wolves]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc A - Escape From Death House]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc J - The Stolen Gem]]'
 connected_locations:
-  - "[[Old Svalich Road]]"
-notable_npcs:
-threat_level:
-first_appearance_date:
+- '[[Old Svalich Road]]'
+notable_npcs: null
+threat_level: null
+first_appearance_date: null
 tags:
-  - area
-  - cos
-key_factions:
+- area
+- cos
+key_factions: null
 area_type: wilderness
-first_appearance_session:
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+first_appearance_session: null
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: false
 ---
 # Overview

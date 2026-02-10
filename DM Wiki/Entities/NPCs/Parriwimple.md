@@ -1,41 +1,43 @@
 ---
 type: NPC
 name: Parriwimple
-aliases:
+aliases: null
 pronouns: he/him
 race: Human
-class: "[[Gladiator]]"
+class: '[[Gladiator]]'
 age: 19
 gender: male
 creature_type: humanoid
-origin: "[[Village of Barovia]]"
-home_base: "[[Bildrath's Mercantile]]"
-current_location: "[[Refugee Camp]]"
+origin: '[[Village of Barovia]]'
+home_base: '[[Bildrath''s Mercantile]]'
+current_location: '[[Refugee Camp]]'
 factions:
-  - "[[Barovian Villagers]]"
-arc:
-  - "[[Arc B - Welcome to Barovia]]"
-  - "[[Arc C - Into the Valley]]"
+- '[[Barovian Villagers]]'
+arcs:
+- '[[Arc C - Into the Valley]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc Q - A Shining Beacon]]'
 first_appearance_session: 4
 first_appearance_date: 27 Octyavr 735
 status: alive (infected with lycanthropy)
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[Parriwimple_transparent.png]]"
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[Parriwimple_transparent.png]]'
 portrait_credit: Caleb Cleveland @calebisdrawing
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Barovia
 ---
 # Portrait Gallery
 ![[parriwimple_cartoonish_gladiator_avatar.png]]

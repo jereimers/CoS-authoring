@@ -1,27 +1,30 @@
 ---
 type: Area
 name: Ground Floor
-aliases:
+aliases: null
 area_code: O1
-WotC_ref:
-CoS-R_ref:
-parent_region: "[[Old Bonegrinder]]"
+WotC_ref: null
+CoS-R_ref: null
+parent_region: '[[Old Bonegrinder]]'
 arcs:
-connected_locations:
-notable_npcs:
-threat_level:
-first_appearance_date:
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc R - Trials of the Mountain]]'
+connected_locations: null
+notable_npcs: null
+threat_level: null
+first_appearance_date: null
 tags:
-  - area
-  - cos
-key_factions:
-area_type:
-first_appearance_session:
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+- area
+- cos
+key_factions: null
+area_type: null
+first_appearance_session: null
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: false
 ---
 # Overview

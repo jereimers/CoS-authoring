@@ -1,42 +1,47 @@
 ---
 type: NPC
 name: Cyrus Belview
-aliases:
+aliases: null
 pronouns: he/him
-race:
-class:
-age:
+race: null
+class: null
+age: null
 gender: male
-creature_type:
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
+creature_type: null
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc H - The Lost Soul]]'
+first_appearance_session: null
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 5
-resonance:
+resonance: null
 emotions:
-  - curious
-  - frustrated
-  - anxious
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+- curious
+- frustrated
+- anxious
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Who they are
 

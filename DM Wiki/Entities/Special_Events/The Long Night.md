@@ -1,32 +1,31 @@
 ---
 aliases:
-  - Winter Solstice
-  - Midwinter Festival
-  - The Longest Night
-  - Festival of the Enduring Light
+- Winter Solstice
+- Midwinter Festival
+- The Longest Night
+- Festival of the Enduring Light
 tags:
-  - cos
-  - event
-  - ai_generated
-  - vallaki
-  - homebrew
+- cos
+- event
+- ai_generated
+- vallaki
+- homebrew
 type: Special Event
-barovian_date(s): Winter Solstice (varies by calendar)
-location(s):
-  - "[[Village of Barovia]]"
-  - "[[Town of Vallaki|Vallaki]]"
-  - "[[DM Wiki/Entities/Areas/Village of Krezk|Krezk]]"
+barovian_dates: Winter Solstice (varies by calendar)
+locations:
+- '[[Village of Barovia]]'
+- '[[Town of Vallaki|Vallaki]]'
+- '[[DM Wiki/Entities/Areas/Village of Krezk|Krezk]]'
 WotC_ref: N/A
 CoS-R_ref: N/A
 arcs:
-  - "[[Arc X - The Long Night & the Grinch of Mt. Crumpit]]"
+- '[[Arc X - The Long Night & the Grinch of Mt. Crumpit]]'
 notable_npcs:
-  - "[[Baron Vargas Vallakovich]]"
-  - "[[Gadof Blinsky]]"
-  - "[[The Grinch]]"
+- '[[Baron Vargas Vallakovich]]'
+- '[[Gadof Blinsky]]'
+- '[[The Grinch]]'
 publish: false
 ---
-
 # The Long Night
 
 The Long Night is Barovia's observance of the winter solstice—the longest, darkest night of the year. In a land where the sun rarely pierces the perpetual gray and hope is a scarce commodity, this night holds special significance. It is a time when Barovians acknowledge the darkness... and choose, however briefly, to defy it.

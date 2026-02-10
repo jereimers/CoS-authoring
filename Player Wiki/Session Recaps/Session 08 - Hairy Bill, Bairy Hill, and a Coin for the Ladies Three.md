@@ -1,26 +1,26 @@
 ---
-barovian_date(s):
-  - "[[Neyavr 2]]"
-location(s):
-  - "[[Tser Falls]]"
-  - "[[Old Bonegrinder]]"
-  - "[[Old Svalich Road]]"
-  - "[[Lake Zarovich]]"
-  - "[[Refugee Camp]]"
-  - "[[Black Carriage]]"
-  - "[[Gates of Barovia]]"
+barovian_dates:
+- '[[Neyavr 2]]'
+locations:
+- '[[Tser Falls]]'
+- '[[Old Bonegrinder]]'
+- '[[Old Svalich Road]]'
+- '[[Lake Zarovich]]'
+- '[[Refugee Camp]]'
+- '[[Black Carriage]]'
+- '[[Gates of Barovia]]'
 NPCs_met:
-  - "[[Morgantha]]"
-  - "[[Standimir]]"
-arc(s):
-  - "[[Arc C - Into the Valley]]"
-combat?: true
-has_recap?: true
+- '[[Morgantha]]'
+- '[[Standimir]]'
+arcs:
+- '[[Arc C - Into the Valley]]'
+combat: true
+has_recap: true
 tags:
-  - cos
-  - session
-  - svalich-road
-  - werewolf
+- cos
+- session
+- svalich-road
+- werewolf
 publish: true
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. 

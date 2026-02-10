@@ -1,15 +1,17 @@
 ---
-belongs_to: "[[Arden Nalero]]"
-CoS-R_ref: "[[Arc F - Lady Wachter's Wish#F1. The Blue Water Inn]]"
+belongs_to: '[[Arden Nalero]]'
+CoS-R_ref: '[[Arc F - Lady Wachter''s Wish#F1. The Blue Water Inn]]'
 WotC_ref:
-  - N/A
-current_location:
+- N/A
+current_location: null
 tags:
-  - cos
-  - item
-  - letter
-  - vallaki
+- cos
+- item
+- letter
+- vallaki
+- text
 publish: true
+type: Item
 ---
 %% An item is an artifact, relic, piece of equipment or gear that players can obtain and/or interact with. Items have owners, locations, histories, and optional magical qualities and/or stat blocks. %%
 

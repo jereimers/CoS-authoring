@@ -2,29 +2,42 @@
 type: Area
 name: Old Svalich Road
 aliases:
-  - High Road
-WotC_ref: "[[02_Chapter 2 - The Lands of Barovia#A. Old Svalich Road]]"
-CoS-R_ref:
-parent_region: "[[Barovia]]"
+- High Road
+WotC_ref: '[[02_Chapter 2 - The Lands of Barovia#A. Old Svalich Road]]'
+CoS-R_ref: null
+parent_region: '[[Barovia]]'
 arcs:
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc I - The Walls of Krezk]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc A - Escape From Death House]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc J - The Stolen Gem]]'
 connected_locations:
-  - 
+- null
 notable_npcs:
-  - 
-threat_level:
-first_appearance_date:
+- null
+threat_level: null
+first_appearance_date: null
 tags:
-  - area
-  - cos
-key_factions:
+- area
+- cos
+key_factions: null
 area_code: A
 area_type: route
-first_appearance_session:
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+first_appearance_session: null
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: true
 ---
 %%

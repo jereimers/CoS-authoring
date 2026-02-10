@@ -1,30 +1,30 @@
 ---
-barovian_date(s):
-  - "[[Neyavr 3]]"
-location(s):
-  - "[[Blue Water Inn]]"
-  - "[[Blinsky Toys]]"
-  - "[[St. Andral's Church]]"
-  - "[[Vistani Camp]]"
+barovian_dates:
+- '[[Neyavr 3]]'
+locations:
+- '[[Blue Water Inn]]'
+- '[[Blinsky Toys]]'
+- '[[St. Andral''s Church]]'
+- '[[Vistani Camp]]'
 NPCs_met:
-  - "[[Milivoj]]"
-  - "[[Henrik van der Voort]]"
-  - "[[Yeska]]"
-  - "[[Baron Vargas Vallakovich|Baron Vallakovich]]"
-  - "[[Izek Strazni]]"
-  - "[[Gadof Blinsky]]"
-  - "[[Rictavio]]"
-  - "[[Urwin Martikov|Urwin]]"
-arc(s):
-  - "[[Arc D - St. Andral's Feast]]"
-  - "[[Arc E - The Missing Vistana]]"
-combat?: true
-has_recap?: true
+- '[[Milivoj]]'
+- '[[Henrik van der Voort]]'
+- '[[Yeska]]'
+- '[[Baron Vargas Vallakovich|Baron Vallakovich]]'
+- '[[Izek Strazni]]'
+- '[[Gadof Blinsky]]'
+- '[[Rictavio]]'
+- '[[Urwin Martikov|Urwin]]'
+arcs:
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc E - The Missing Vistana]]'
+combat: true
+has_recap: true
 play_date: 1/15/26
 tags:
-  - cos
-  - session
-  - vallaki
+- cos
+- session
+- vallaki
 play_date_key: 2026-01-15
 status: played
 barovian_date_key: 0735-11-03

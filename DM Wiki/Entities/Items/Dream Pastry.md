@@ -1,14 +1,20 @@
 ---
-belongs_to:
-CoS-R_ref:
+belongs_to: null
+CoS-R_ref: null
 WotC_ref:
-  - "[[03 - Village of Barovia - Dream Pastries]]"
-  - "[[WotC - 06 - Old Bonegrinder - Dream Pastries]]"
-current_location:
+- '[[03 - Village of Barovia - Dream Pastries]]'
+- '[[WotC - 06 - Old Bonegrinder - Dream Pastries]]'
+current_location: null
 tags:
-  - cos
-  - item
+- cos
+- item
 publish: true
+type: Item
+arcs:
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
 ---
 %% An item is an artifact, relic, piece of equipment or gear that players can obtain and/or interact with. Items have owners, locations, histories, and optional magical qualities and/or stat blocks. %%
 # Description

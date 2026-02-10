@@ -1,8 +1,8 @@
 ---
 type: barovian_day
 tags:
-  - timeline
-  - barovia/date
+- timeline
+- barovia/date
 barovian_date_key: 0735-11-03
 barovian_date: 3 Neyavr, 735
 month: Neyavr
@@ -10,24 +10,24 @@ day_of_month: 3
 moon_phase: waxing_crescent
 primary_location: Vallaki
 act: Act II
-arc:
+arcs: null
 sessions:
-  - 
-  - 
-time_of_day_focus:
+- null
+- null
+time_of_day_focus: null
 party_level: 5
 major_events:
-  - Festival of the Blazing Sun preparations
-  - 
+- Festival of the Blazing Sun preparations
+- null
 factions_active:
-  - Vistani (Town Camp)
+- Vistani (Town Camp)
 party_presence:
-  - Arden
-  - Fig
-  - Choppy
-  - Varnish
-  - Ireena
-  - Parriwimple
+- Arden
+- Fig
+- Choppy
+- Varnish
+- Ireena
+- Parriwimple
 publish: false
 ---
 # 3 Neyavr, 735 — Vallaki

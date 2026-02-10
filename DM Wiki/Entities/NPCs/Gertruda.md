@@ -1,39 +1,46 @@
 ---
 type: NPC
 name: Gertruda
-aliases:
+aliases: null
 pronouns: he/him
 race: Human
-class:
+class: Commoner
 age: 21
 gender: female
 creature_type: humanoid
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
+origin: null
+home_base: '[[Castle Ravenloft]]'
+current_location: null
+factions: null
+arcs:
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
+first_appearance_date: null
 status: alive
 cr: 5
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[04-006.gertruda.png]]"
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[04-006.gertruda.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Who they are
 

@@ -2,43 +2,52 @@
 type: NPC
 name: Sir Godfrey Gwilym
 aliases:
-  - Sir Godfrey
-  - Godfrey
+- Sir Godfrey
+- Godfrey
 pronouns: he/him
 race: Human (formerly)
 class: Knight
 age: Centuries dead
 gender: male
 creature_type: undead
-origin: "[[Argynvostholt]]"
-home_base: "[[Argynvostholt]]"
-current_location: "[[Argynvostholt]]"
+origin: '[[Argynvostholt]]'
+home_base: '[[Argynvostholt]]'
+current_location: '[[Argynvostholt]]'
 factions:
-  - "[[Order of the Silver Dragon]]"
-arc:
-  - "[[Arc M - The Dragon's Manor]]"
-first_appearance_session:
-first_appearance_date:
+- '[[Order of the Silver Dragon]]'
+arcs:
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
+first_appearance_date: null
 status: undead
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Commander Vladimir Horngaard]]"
-portrait:
-portrait_credit:
-handouts:
+- '[[Commander Vladimir Horngaard]]'
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - ai_generated
-CoS-R_ref: "[[Arc M - The Dragon's Manor#M3c. Chapel of Morning]]"
-WotC_ref:
+- npc
+- cos
+- ai_generated
+CoS-R_ref: '[[Arc M - The Dragon''s Manor#M3c. Chapel of Morning]]'
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Who they are
 

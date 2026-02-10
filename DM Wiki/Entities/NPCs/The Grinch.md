@@ -2,55 +2,58 @@
 type: NPC
 name: The Grinch
 aliases:
-  - The Green Devil
-  - The Beast of Mt. Crumpit
-  - The Thief of Joy
+- The Green Devil
+- The Beast of Mt. Crumpit
+- The Thief of Joy
 pronouns: he/him
 race: Unknown (Mist-touched humanoid)
 class: Barbarian / Artificer
 age: Unknown (appears middle-aged)
 gender: male
 creature_type: humanoid
-origin: "[[Mt Crumpit]]"
-home_base: "[[Mt Crumpit]]"
-current_location: "[[Mt Crumpit]]"
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
+origin: '[[Mt Crumpit]]'
+home_base: '[[Mt Crumpit]]'
+current_location: '[[Mt Crumpit]]'
+factions: null
+arcs: null
+first_appearance_session: null
+first_appearance_date: null
 status: alive
 cr: 8
-resonance: The Grinch should evoke pity beneath the menace—a creature warped by isolation and bitterness, yet not beyond redemption.
+resonance: The Grinch should evoke pity beneath the menace—a creature warped by isolation and bitterness,
+  yet not beyond redemption.
 emotions:
-  - bitter
-  - lonely
-  - suspicious
-  - grudgingly curious
+- bitter
+- lonely
+- suspicious
+- grudgingly curious
 motivations:
-  - To punish those who celebrate while he suffers in solitude
-  - To protect Max, his only companion
+- To punish those who celebrate while he suffers in solitude
+- To protect Max, his only companion
 inspirations:
-  - The Grinch (Dr. Seuss, 2000 film portrayal)
-  - Frankenstein's Monster (Mary Shelley)
-  - Quasimodo (Victor Hugo)
-vocal_notes: Low, gravelly voice with sudden shifts to mocking falsetto. Speaks in clipped, bitter sentences. Occasionally mutters to himself or to Max.
+- The Grinch (Dr. Seuss, 2000 film portrayal)
+- Frankenstein's Monster (Mary Shelley)
+- Quasimodo (Victor Hugo)
+vocal_notes: Low, gravelly voice with sudden shifts to mocking falsetto. Speaks in clipped, bitter sentences.
+  Occasionally mutters to himself or to Max.
 signature_lines:
-  - Joy? In Barovia? How... *nauseating*.
-  - Max, fetch me the sack. The big one.
-  - You think your little festival matters? Nothing matters here. Nothing *ever* changes.
+- Joy? In Barovia? How... *nauseating*.
+- Max, fetch me the sack. The big one.
+- You think your little festival matters? Nothing matters here. Nothing *ever* changes.
 relationships:
-  - "[[Max]]"
-portrait:
-portrait_credit:
-handouts:
+- '[[Max]]'
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - ai_generated
-  - vallaki
+- npc
+- cos
+- ai_generated
+- vallaki
 CoS-R_ref: N/A
-WotC_ref:
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Who they are
 

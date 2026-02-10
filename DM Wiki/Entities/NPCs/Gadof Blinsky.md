@@ -2,39 +2,49 @@
 type: NPC
 name: Gadof Blinsky
 aliases:
-  - Blinsky
+- Blinsky
 pronouns: he/him
 race: Human
-class:
-age:
+class: Commoner
+age: null
 gender: male
 creature_type: humanoid
-origin: "[[Town of Vallaki|Vallaki]]"
-home_base: "[[Blinsky Toys]]"
-current_location: "[[Blinsky Toys]]"
-factions:
-arc:
-  - "[[Arc E - The Missing Vistana]]"
+origin: '[[Town of Vallaki|Vallaki]]'
+home_base: '[[Blinsky Toys]]'
+current_location: '[[Blinsky Toys]]'
+factions: null
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc L - The Den of Wolves]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 10
 first_appearance_date: 3 Neyavr 735
 status: alive
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[05-010.blinsky.png]]"
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[05-010.blinsky.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Vallaki
 ---
 # Portrait
 

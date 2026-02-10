@@ -1,15 +1,15 @@
 ---
 status: active
 tags:
-  - cos
-  - quest
-giver: "[[Madam Eva]]"
-location(s):
-  - "[[Blinsky Toys]]"
-  - "[[Vistani Camp]]"
+- cos
+- quest
+giver: '[[Madam Eva]]'
+locations:
+- '[[Blinsky Toys]]'
+- '[[Vistani Camp]]'
 NPCs_involved:
-  - "[[Arabelle]]"
-  - "[[Gadof Blinsky]]"
+- '[[Arabelle]]'
+- '[[Gadof Blinsky]]'
 publish: true
 ---
 # Objective

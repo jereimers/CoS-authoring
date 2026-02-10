@@ -2,50 +2,53 @@
 type: NPC
 name: Max
 aliases:
-  - The Grinch's Dog
-  - The Loyal Hound
+- The Grinch's Dog
+- The Loyal Hound
 pronouns: he/him
 race: Dog (Mist-touched)
-class:
+class: null
 age: Unknown
 gender: male
 creature_type: construct (Steel Defender analogue)
-origin: "[[Mt Crumpit]]"
-home_base: "[[Mt Crumpit]]"
-current_location: "[[Mt Crumpit]]"
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
+origin: '[[Mt Crumpit]]'
+home_base: '[[Mt Crumpit]]'
+current_location: '[[Mt Crumpit]]'
+factions: null
+arcs: null
+first_appearance_session: null
+first_appearance_date: null
 status: alive
 cr: 1
-resonance: Max should inspire immediate sympathy—a loyal creature bound to a troubled master, embodying unconditional love in a land that has forgotten it.
+resonance: Max should inspire immediate sympathy—a loyal creature bound to a troubled master, embodying
+  unconditional love in a land that has forgotten it.
 emotions:
-  - loyal
-  - anxious
-  - hopeful
-  - protective
+- loyal
+- anxious
+- hopeful
+- protective
 motivations:
-  - Stay close to the Grinch
-  - Earn affection from anyone who offers it
+- Stay close to the Grinch
+- Earn affection from anyone who offers it
 inspirations:
-  - Max (How the Grinch Stole Christmas)
-  - Loyal hounds in gothic fiction
-vocal_notes: Max does not speak. He communicates through whines, barks, tail wags, and expressive eyes. His body language is exaggerated and readable.
-signature_lines:
+- Max (How the Grinch Stole Christmas)
+- Loyal hounds in gothic fiction
+vocal_notes: Max does not speak. He communicates through whines, barks, tail wags, and expressive eyes.
+  His body language is exaggerated and readable.
+signature_lines: null
 relationships:
-  - "[[The Grinch]]"
-portrait:
-portrait_credit:
-handouts:
+- '[[The Grinch]]'
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - ai_generated
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- ai_generated
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Who they are
 

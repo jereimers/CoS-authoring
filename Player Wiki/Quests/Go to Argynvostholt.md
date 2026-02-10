@@ -1,14 +1,14 @@
 ---
 status: active
 tags:
-  - cos
-  - quest
-giver: "[[Revenant]] at Tser Falls"
-location(s):
-  - "[[Tser Falls]]"
-  - "[[Argynvostholt]]"
+- cos
+- quest
+giver: '[[Revenant]] at Tser Falls'
+locations:
+- '[[Tser Falls]]'
+- '[[Argynvostholt]]'
 NPCs_involved:
-  - "[[Sir Godfrey Gwilym]]"
+- '[[Sir Godfrey Gwilym]]'
 publish: true
 ---
 # Objective

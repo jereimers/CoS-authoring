@@ -1,8 +1,8 @@
 ---
 type: barovian_day
 tags:
-  - timeline
-  - barovia/date
+- timeline
+- barovia/date
 barovian_date_key: 0735-11-04
 barovian_date: 4 Neyavr, 735
 month: Neyavr
@@ -10,28 +10,28 @@ day_of_month: 4
 day_of_week: Moonday
 primary_location: Vallaki
 act: Act II
-arc: Arc D - St. Andral's Feast
+arcs: Arc D - St. Andral's Feast
 sessions:
-  - 
-  - 
+- null
+- null
 session_notes:
-  - - - 
-  - - - 
-time_of_day_focus:
+- - - null
+- - - null
+time_of_day_focus: null
 party_level: 5
 major_events:
-  - Festival of the Blazing Sun preparations
-  - 
+- Festival of the Blazing Sun preparations
+- null
 factions_active:
-  - Wachter Cult
-  - Vistani (Town Camp)
+- Wachter Cult
+- Vistani (Town Camp)
 party_presence:
-  - Arden
-  - Fig
-  - Choppy
-  - Varnish
-  - Ireena
-  - Parriwimple
+- Arden
+- Fig
+- Choppy
+- Varnish
+- Ireena
+- Parriwimple
 publish: false
 ---
 # 4 Neyavr, 735 — Vallaki

@@ -2,40 +2,54 @@
 type: NPC
 name: The Abbot
 aliases:
-  - Ithuriel
-  - Abbot
-  - the Abbot
-pronouns:
-race:
-class:
-age:
-gender:
-creature_type:
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
-status:
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+- Ithuriel
+- Abbot
+- the Abbot
+pronouns: null
+race: null
+class: null
+age: null
+gender: null
+creature_type: null
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc L - The Den of Wolves]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc I - The Walls of Krezk]]'
+first_appearance_session: null
+first_appearance_date: null
+status: null
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Who they are
 

@@ -2,41 +2,46 @@
 type: Area
 name: Tser Pool Encampment
 aliases:
-  - Tser Pool
-  - Vistani Camp (Tser Pool)
-WotC_ref:
-CoS-R_ref:
-parent_region: "[[Barovia]]"
+- Tser Pool
+- Vistani Camp (Tser Pool)
+WotC_ref: null
+CoS-R_ref: null
+parent_region: '[[Barovia]]'
 arcs:
-  - "[[Arc C - Into the Valley]]"
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc J - The Stolen Gem]]'
 connected_locations:
-  - "[[River Ivlis Crossroads]]"
-  - "[[Tser Falls]]"
-  - "[[Old Svalich Road]]"
+- '[[River Ivlis Crossroads]]'
+- '[[Tser Falls]]'
+- '[[Old Svalich Road]]'
 notable_npcs:
-  - "[[Madam Eva]]"
-  - "[[Stanimir]]"
-  - "[[Arturi Radanavich]]"
-  - "[[Eliza]]"
+- '[[Eliza]]'
+- '[[Stanimir]]'
+- '[[Madam Eva]]'
+- '[[Arturi Radanavich]]'
 threat_level: Safe
 first_appearance_date: 1 Neyavr 735
 tags:
-  - area
-  - cos
-  - ai_generated
+- area
+- cos
+- ai_generated
 key_factions:
-  - "[[Vistani]]"
+- '[[Vistani]]'
 area_code: G
 area_type: Settlement
 first_appearance_session: 6
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: true
 ---
-
 %%
 an area is a location, place, region, etc. It can be as large as the Planes of Existence and as small as a room inside a building inside a town inside a region inside a domain inside a continent/plane. Areas have types, are encountered by the party at a particular time/place, and can be home to multiple NPCs, items, etc. %%
 # Overview

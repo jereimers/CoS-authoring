@@ -2,59 +2,79 @@
 type: Area
 name: Town of Vallaki
 aliases:
-  - Vallaki
+- Vallaki
 area_code: N
-WotC_ref: "[[05_Chapter 5 - The Town of Vallaki]]"
-CoS-R_ref:
-parent_region: "[[Barovia]]"
+WotC_ref: '[[05_Chapter 5 - The Town of Vallaki]]'
+CoS-R_ref: null
+parent_region: '[[Barovia]]'
 arcs:
-  - "[[Arc C - Into the Valley]]"
-connected_locations:
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc L - The Den of Wolves]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc I - The Walls of Krezk]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc J - The Stolen Gem]]'
+connected_locations: null
 notable_npcs:
-  - "[[Urwin Martikov]]"
-  - "[[Danika Dorakova]]"
-  - "[[Rictavio]]"
-  - "[[Father Lucian Petrovich]]"
-  - "[[Baron Vargas Vallakovich]]"
-  - "[[Lady Fiona Wachter]]"
-  - "[[Milivoj]]"
-  - "[[Izek Strazni]]"
-  - "[[Gadof Blinsky]]"
-  - "[[Stella Wachter]]"
-  - "[[Luvash]]"
-  - "[[Arrigal]]"
-  - "[[Kasimir Velikov]]"
-  - "[[Szoldar Szoldarovich]]"
-  - "[[Yevgeni Krushkin]]"
-  - "[[Emeric]]"
-  - "[[Magda]]"
-  - "[[Nikolai Wachter]]"
-  - "[[Karl Wachter]]"
-  - "[[Willemina Rikalova]]"
-  - "[[Henrik van der Voort]]"
-  - "[[Volenta Popofsky]]"
-  - "[[Ernst Larnak]]"
+- '[[Stella Wachter]]'
+- '[[Yeska]]'
+- '[[Yevgeni Krushkin]]'
+- '[[Udo Lukovich]]'
+- '[[Milivoj]]'
+- '[[Karl Wachter]]'
+- '[[Emeric]]'
+- '[[Szoldar Szoldarovich]]'
+- '[[Gadof Blinsky]]'
+- '[[Henrik van der Voort]]'
+- '[[Father Lucian Petrovich]]'
+- '[[Arrigal]]'
+- '[[Nikolai Wachter]]'
+- '[[Willemina Rikalova]]'
+- '[[Kasimir Velikov]]'
+- '[[Ernst Larnak]]'
+- '[[Magda]]'
+- '[[Lady Fiona Wachter]]'
+- '[[Danika Dorakova]]'
+- '[[Rictavio]]'
+- '[[Volenta Popofsky]]'
+- '[[Baron Vargas Vallakovich]]'
+- '[[Luvash]]'
+- '[[Izek Strazni]]'
+- '[[Urwin Martikov]]'
 threat_level: 4-7
 first_appearance_date: 2 Neyavr 735
 tags:
-  - area
-  - cos
-  - vallaki
+- area
+- cos
+- vallaki
 key_factions:
-  - "[[Keepers of the Feather]]"
-  - "[[Vallakoviches]]"
-  - "[[Wachters]]"
-  - "[[Church of the Morninglord]]"
-  - "[[Strahd's Spies]]"
-  - "[[Vistani]]"
-  - "[[Dusk Elves]]"
+- '[[Keepers of the Feather]]'
+- '[[Vallakoviches]]'
+- '[[Wachters]]'
+- '[[Church of the Morninglord]]'
+- '[[Strahd''s Spies]]'
+- '[[Vistani]]'
+- '[[Dusk Elves]]'
 area_type: settlement
 first_appearance_session: 8
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: true
 ---
 # Overview

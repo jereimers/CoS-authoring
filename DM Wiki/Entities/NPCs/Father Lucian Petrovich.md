@@ -2,47 +2,71 @@
 type: NPC
 name: Father Lucian Petrovich
 aliases:
-  - Lucian
-  - Father Lucian
-  - Lucian Petrovich
-  - Father Petrovich
+- Lucian
+- Father Lucian
+- Lucian Petrovich
+- Father Petrovich
 pronouns: he/him
 race: Human
 class: Priest
-age:
+age: null
 gender: male
 creature_type: humanoid
-origin: "[[Town of Vallaki|Vallaki]]"
-home_base: "[[St. Andral's Church]]"
-current_location: "[[St. Andral's Church]]"
+origin: '[[Town of Vallaki|Vallaki]]'
+home_base: '[[St. Andral''s Church]]'
+current_location: '[[St. Andral''s Church]]'
 factions:
-  - "[[Church of the Morninglord]]"
-arc:
-  - "[[Arc D - St. Andral's Feast]]"
+- '[[Church of the Morninglord]]'
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 9
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 5
-resonance:
+resonance: 'Father Lucian should inspire gratitude with his hospitality, flattery with his willingness
+  to listen and empathize, comfort with his warmth, serenity, and wisdom, and sympathy for his anxiety
+  regarding the missing bones and the safety of his congregation.
+
+  >'
 emotions:
-  - curious
-  - frustrated
-  - anxious
+- curious
+- frustrated
+- anxious
 motivations:
+- keep Vallaki's spirits up
+- to keep the church a place of sanctuary
+- comfort
+- to raise [[Yeska]] as best he can
 inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[father-lucian-petrovich.png]]"
+- 'Uncle Iroh (*Avatar: The Last Airbender*)'
+- Michael Carpenter
+- Father Forthill (*The Dresden Files*)
+- Mr
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[father-lucian-petrovich.png]]'
 portrait_credit: Caleb Cleveland @calebisdrawing
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Vallaki
 ---
 # Portrait
 

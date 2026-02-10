@@ -1,17 +1,17 @@
 ---
-party_presence:
-npc_presence:
-arc: "[[Arc B - Welcome to Barovia]]"
-CoS-R_Ref: "[[Arc B - Welcome to Barovia#B5. The Village of Barovia]]"
-location:
-session:
-party_level:
+party_presence: null
+npc_presence: null
+arcs: '[[Arc B - Welcome to Barovia]]'
+CoS-R_Ref: '[[Arc B - Welcome to Barovia#B5. The Village of Barovia]]'
+locations: null
+session: null
+party_level: null
 combat_possible?: false
 has_vignette: false
 tags:
-  - cos
-  - scene
-  - ai_generated
+- cos
+- scene
+- ai_generated
 publish: false
 ---
 %%

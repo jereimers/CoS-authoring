@@ -529,7 +529,7 @@ Lake Baratok is as described in [[11_Chapter 11 - Van Richten's Tower#Approachin
 <em>This scene takes place in Chapter 11: Area V1.</em>
 
 ### Outside the Wagon
-Ezmerelda’s wagon is largely as described in [[V1. Ezmerelda's Magic Wagon]] (p. 168). However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
+Ezmerelda’s wagon is largely as described in [[11_Chapter 11 - Van Richten's Tower#V1. Ezmerelda's Magic Wagon|V1. Ezmerelda's Magic Wagon]] (p. 168). However, the door is locked with a padlock, and can be opened with a successful DC 20 Dexterity (Thieves' Tools) check or a successful DC 20 Strength check. 
 
 In addition, rather than a single wooden sign, a trio of wooden signs has been arranged in a haphazard diagonal across the back door. The signs read, in order: “Keep out!”, “Home & Property of Ezmerelda d’Avenir,” and “Trespassers will be immediately incinerated.” Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
 
@@ -576,13 +576,13 @@ If the players enter the wagon by means of the door instead of the trapdoor, Ezm
 ### 1. The Tower Door
 <em>This scene takes place in Chapter 11: Area V2.</em>
 
-The tower door is largely as described in V2. Tower Door (p. 169). However, modify the descriptive text as follows:
+The tower door is largely as described in [[11_Chapter 11 - Van Richten's Tower#V2. Tower Door|V2. Tower Door]] (p. 169). However, modify the descriptive text as follows:
 
 <div class="description">
 <p>The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed, blank red seal. Carved into the lintel above the door is a word: Khazan.</p>
 </div>
 
-The seal appears to be blank. However, if a character approaches within 5 feet of the door, eight fist-sized buttons grow from its waxlike surface in the same positions as the stick figures depicted in V2. Tower Door (p. 169). If the character then moves away from the door, the buttons vanish once more. The buttons emerge in different places each time, but the order of the buttons as they move around the seal always stays the same.
+The seal appears to be blank. However, if a character approaches within 5 feet of the door, eight fist-sized buttons grow from its waxlike surface in the same positions as the stick figures depicted in [[11_Chapter 11 - Van Richten's Tower#V2. Tower Door|V2. Tower Door]] (p. 169). If the character then moves away from the door, the buttons vanish once more. The buttons emerge in different places each time, but the order of the buttons as they move around the seal always stays the same.
 ![[tower-door.png]]
 Each of the eight buttons depicts a different arcane rune. A player with proficiency in Arcana, or who makes a successful DC 10 Intelligence (Arcana) check, identifies the runes as the symbols of the eight schools of magic. The order of the symbols, moving counterclockwise around the seal, is always: illusion, abjuration, necromancy, conjuration, divination, enchantment, transmutation, evocation.
 
@@ -609,9 +609,8 @@ If eight different symbols are pressed in an incorrect sequence, their lights br
 ### 2. The Scaffolding
 <em>This scene takes place in Chapter 11: Area V3.</em>
 
-The scaffolding is as described in V3. Rickety Scaffolding (p. 170). If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
+The scaffolding is as described in [[11_Chapter 11 - Van Richten's Tower#V3. Rickety Scaffolding|V3. Rickety Scaffolding]] (p. 170). If a creature climbs the scaffolding to the second floor, the four **gargoyles** on the roof come to life and attack. (Remember that the scaffolding leads to a hole in the wall on the third floor, not the second floor.) Use the #statblock below for the **gargoyles**, rather than the one in the _Monster Manual._
 
-#statblock
 <div class="statblock">
 <h2>Gargoyle</h2>
 <em>Medium Elemental, Chaotic Evil</em>
@@ -669,7 +668,7 @@ If able, a gargoyle that has grappled a player flies 15 feet up on its turn and 
 ### 3. Inside the Tower
 <em>This scene takes place in Chapter 11: Areas V4, V5, V6, V7 & V8.</em>
 
-The interior of the tower is largely as described in V4. Tower, First Floor, V5. Tower, Second Floor, V6. Tower, Third Floor, and V7. Tower, Fourth Floor (pp. 170-71). 
+The interior of the tower is largely as described in [[11_Chapter 11 - Van Richten's Tower#V4. Tower, First Floor|V4. Tower, First Floor]], [[11_Chapter 11 - Van Richten's Tower#V5. Tower, Second Floor|V5. Tower, Second Floor]], [[11_Chapter 11 - Van Richten's Tower#V6. Tower, Third Floor|V6. Tower, Third Floor]], and [[11_Chapter 11 - Van Richten's Tower#V7. Tower, Fourth Floor|V7. Tower, Fourth Floor]] (pp. 170-71). 
 
 **The Third Floor.** The third floor also contains an old, rotted crib.
 
@@ -681,10 +680,10 @@ The interior of the tower is largely as described in V4. Tower, First Floor, V5.
 
 A successful DC 15 Intelligence (Investigation) check or a ten-minute search of the fourth floor reveals two clues:
 
-* A colorful beaded bracelet with several wooden charms sized for a child, wrapped around a silvered dagger and a Tarokka card (the **Hooded One**). (A player who makes a successful DC 13 Intelligence (History or Arcana) check recalls that the Hooded One represents mysteries, newcomers, and hidden identities.)
+* A colorful beaded bracelet with several wooden charms sized for a child, wrapped around a silvered dagger and a Tarokka card (the [[21-022.hooded-one.png|Hooded One]]). (A player who makes a successful DC 13 Intelligence (History or Arcana) check recalls that the Hooded One represents mysteries, newcomers, and hidden identities.)
 * Two burned pieces of parchment amidst a pile of charred ashes in the stove, including a burned page from Van Richten's journal and a singed sketch of a sign proclaiming *[[Rictavio]]’s Carnival of Wonders.* (The sketch appears to have been made far more recently than the journal entry.)
 ![[rictavio's-carnival-sign.png]]
-<span class="credit">"[[Rictavio]]'s Carnival Poster" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Rictavio's Carnival Poster" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 As the players search the room, any character who looks out one of the windows toward Lake Baratok notices something odd: a patch of lily pads approximately fifteen feet from the shore stained a bright, flamboyant yellow, at clear odds with the muted greens of the lily pads nearby. 
 
@@ -706,7 +705,7 @@ The handwriting matches the handwriting of the excerpt of *Van Richten's Guide t
 # E7. The Road Back
 The players’ activities at Lake Baratok attract the attention of a pair of **werewolves**, who lurk in the woods east of the lake, silently waiting for the players to return to the road.
 
-When the players begin the trek back to Vallaki—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form. The scene unfolds largely as described in Werewolves (p. 32), but revise the descriptive text as follows: 
+When the players begin the trek back to Vallaki—either by the northern path or the Old Svalich Road to the south—the werewolves follow. Fifteen minutes after the players depart the lake, they encounter the two werewolves in human form. The scene unfolds largely as described in [[02_Chapter 2 - The Lands of Barovia#Werewolves|Werewolves]] (p. 32), but revise the descriptive text as follows: 
 
 <div class="description">
 <p>A deep voice calls out, "Who goes there?" Through the chill mist you see a large man in drab clothing wearing a tattered gray cloak. He has shaggy, black hair and thick mutton chops. He leans heavily on a spear and has a small bundle of animal pelts slung over his shoulder.</p>
@@ -738,7 +737,7 @@ Otherwise, if no characters show that they’re carrying silvered weapons or amm
 > * ***Six Players.*** Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
 > ^Combat-Balancing-the-Werewolves
 
-Use the statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
+Use the #statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
 
 <div class="statblock">
 <h2>Werewolf</h2>

@@ -2,33 +2,42 @@
 type: Faction
 name: Vistani
 aliases:
-  - The Vistani
-WotC_ref:
-CoS-R_ref:
-home_base:
-acts:
-  - Act I
-  - Act II
+- The Vistani
+WotC_ref: null
+CoS-R_ref: null
+home_base: null
 arcs:
-  - "[[Arc C - Into the Valley]]"
-  - "[[Arc E - The Missing Vistana]]"
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc L - The Den of Wolves]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc E - The Missing Vistana]]'
 connected_locations:
-  - "[[Tser Pool Encampment]]"
-  - "[[Vistani Camp]]"
+- '[[Tser Pool Encampment]]'
+- '[[Vistani Camp]]'
 notable_npcs:
-  - "[[Madam Eva]]"
-  - "[[Stanimir]]"
-  - "[[Arturi Radanavich]]"
-  - "[[Eliza]]"
-  - "[[Arabelle]]"
-  - "[[Luvash]]"
-  - "[[Arrigal]]"
+- '[[Arrigal]]'
+- '[[Eliza]]'
+- '[[Arabelle]]'
+- '[[Luvash]]'
+- '[[Madam Eva]]'
+- '[[Stanimir]]'
+- '[[Arturi Radanavich]]'
 threat_level: Varies
 first_appearance_date: 1 Neyavr 735
 first_appearance_session: 6
 tags:
-  - cos
-  - faction
+- cos
+- faction
 publish: true
 ---
 %% A faction is a group of people connected by common ethnicity, political cause, or other mission/identity/goal. They can be organized to varying degrees. %%

@@ -2,41 +2,47 @@
 type: NPC
 name: Henrik van der Voort
 aliases:
-  - Henrik
-  - coffin-maker
+- Henrik
+- coffin-maker
 pronouns: he/him
 race: Human
-class:
-age:
+class: null
+age: null
 gender: male
 creature_type: humanoid
-origin: "[[Town of Vallaki]]"
-home_base: "[[Coffin Maker's Shop]]"
-current_location: "[[Coffin Maker's Shop]]"
-factions:
-arc:
-  - "[[Arc D - St. Andral's Feast]]"
-first_appearance_session:
+origin: '[[Town of Vallaki]]'
+home_base: '[[Coffin Maker''s Shop]]'
+current_location: '[[Coffin Maker''s Shop]]'
+factions: null
+arcs:
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: -3
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[05-009.henrik.png]]"
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[05-009.henrik.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
+- npc
+- cos
+CoS-R_ref: null
 WotC_ref:
-  - "[[05_Chapter 5 - The Town of Vallaki#N6. Coffin Maker's Shop]]"
+- '[[05_Chapter 5 - The Town of Vallaki#N6. Coffin Maker''s Shop]]'
 publish: true
+region: Vallaki
 ---
 # Portrait
 ![[05-009.henrik.png]]

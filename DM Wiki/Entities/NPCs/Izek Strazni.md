@@ -2,44 +2,69 @@
 type: NPC
 name: Izek Strazni
 aliases:
-  - Izek
+- Izek
 pronouns: he/him
 race: Human
-class:
+class: null
 age: 26
 gender: male
 creature_type: humanoid
-origin: "[[Town of Vallaki|Vallaki]]"
-home_base: "[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion]]"
-current_location:
+origin: '[[Town of Vallaki|Vallaki]]'
+home_base: '[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster''s Mansion]]'
+current_location: null
 factions:
-  - "[[Vallakoviches]]"
-arc:
-  - "[[Arc G - The Strazni Siblings]]"
+- '[[Vallakoviches]]'
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 11
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 5
 emotions:
+- irritated
+- enraged
+- impatient
+- sadistic
+- obsessed
+- or bored
 motivations:
+- serve [[Baron Vargas Vallakovich|the Baron]] faithfully—and
+- far more importantly
+- find
+- possess the woman he's been dreaming of
 inspirations:
-  - Ser Gregor Clegane (Game of Thrones)
-  - Fenrir Greyback (Harry Potter)
-  - Kratos (God of War)
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[Source/CoS-Reloaded/Appendices/images/izek-strazni.png]]"
+- Ser Gregor Clegane (Game of Thrones)
+- Fenrir Greyback (Harry Potter)
+- Kratos (God of War)
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[Source/CoS-Reloaded/Appendices/images/izek-strazni.png]]'
 portrait_credit: Caleb Cleveland @calebisdrawing
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref: "[[Arc C - Into the Valley#^Profile-Izek-Strazni]]"
+- npc
+- cos
+- vallaki
+CoS-R_ref: '[[Arc C - Into the Valley#^Profile-Izek-Strazni]]'
 WotC_ref:
-  - "[[20_Appendix D - Monsters and NPCs#Izek Strazni]]"
+- '[[20_Appendix D - Monsters and NPCs#Izek Strazni]]'
 publish: true
+region: Vallaki
+resonance: 'Izek should inspire disgust with his cruelty and indifference to human life, and discomfort
+  with his unnerving interest in Ireena Kolyana.
+
+  >'
 ---
 # Portrait
 

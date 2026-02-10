@@ -1,23 +1,19 @@
 ---
 type: Faction
 name: Dusk Elves
-aliases:
-WotC_ref:
-CoS-R_ref:
-home_base:
-acts:
-  - 
-arcs:
-  - 
+aliases: null
+WotC_ref: null
+CoS-R_ref: null
+home_base: null
+arcs: []
 connected_locations:
-  - 
-notable_npcs:
-  - 
-threat_level:
-first_appearance_date:
-first_appearance_session:
+- null
+notable_npcs: []
+threat_level: null
+first_appearance_date: null
+first_appearance_session: null
 tags:
-  - cos
-  - faction
+- cos
+- faction
 publish: false
 ---

@@ -1,18 +1,18 @@
 ---
-belongs_to: "[[Vladimir Horngaard]]"
-CoS-R_ref:
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Vladimir Horngaard]]"
-current_location: "[[Vladimir Horngaard]]"
+belongs_to: '[[Vladimir Horngaard]]'
+CoS-R_ref: null
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Vladimir Horngaard]]'
+current_location: '[[Vladimir Horngaard]]'
 tags:
-  - ai_generated
-  - cos
-  - item
-  - magic-item
-  - weapon
-  - order-of-the-silver-dragon
+- ai_generated
+- cos
+- item
+- magic-item
+- weapon
+- order-of-the-silver-dragon
 publish: false
+type: Item
 ---
-
 <!-- DM-Only Start -->
 # Vladimir's Greatsword
 

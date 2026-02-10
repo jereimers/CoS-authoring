@@ -1,38 +1,46 @@
 ---
 type: NPC
 name: Yeska
-aliases:
+aliases: null
 pronouns: he/him
 race: Human
 class: noncombatant
 age: 11
 gender: male
 creature_type: humanoid
-origin:
-home_base:
-current_location:
-factions:
-arc:
+origin: null
+home_base: '[[Town of Vallaki]]'
+current_location: null
+factions: null
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 5
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 5
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Portrait
 

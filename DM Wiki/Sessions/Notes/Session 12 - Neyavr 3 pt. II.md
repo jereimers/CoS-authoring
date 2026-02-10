@@ -1,21 +1,21 @@
 ---
-barovian_date(s): "[[Neyavr 3]]"
-location(s):
-  - "[[Coffin Maker's Shop]]"
-NPCs_met:
-arc(s):
-  - "[[Arc D - St. Andral's Feast]]"
-  - "[[Arc E - The Missing Vistana]]"
-combat?: true
-has_recap?:
-play_date:
+barovian_dates: '[[Neyavr 3]]'
+locations:
+- '[[Coffin Maker''s Shop]]'
+NPCs_met: null
+arcs:
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc E - The Missing Vistana]]'
+combat: true
+has_recap: null
+play_date: null
 tags:
-  - cos
-  - session
+- cos
+- session
 play_date_key: 2026-01-21
 status: planning
 barovian_date_key: 0735-11-03
-publish:
+publish: null
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
 

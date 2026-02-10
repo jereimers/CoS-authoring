@@ -1,39 +1,49 @@
 ---
 type: NPC
 name: Dr. Rudolph van Richten
-aliases:
+aliases: null
 pronouns: he/him
 race: Human
-class:
-age:
+class: null
+age: null
 gender: male
 creature_type: humanoid
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc K - The Fallen Abbey]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc L - The Den of Wolves]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
+first_appearance_date: null
 status: alive
 cr: 5
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[20-010.rictavio.png]]"
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[20-010.rictavio.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Who they are
 

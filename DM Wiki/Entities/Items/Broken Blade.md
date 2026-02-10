@@ -1,15 +1,21 @@
 ---
-belongs_to: "[[Arden Nalero]]"
-CoS-R_ref: "[[Character Creation#Justice—The Broken Blade]]"
+belongs_to: '[[Arden Nalero]]'
+CoS-R_ref: '[[Character Creation#Justice—The Broken Blade]]'
 WotC_ref: N/A
-current_location: "[[Arden Nalero]]"
+current_location: '[[Arden Nalero]]'
 publish: true
 tags:
-  - cos
-  - item
-  - barovian-relic
+- cos
+- item
+- barovian-relic
+type: Item
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc A - Escape From Death House]]'
 ---
 # Description
+
 A player seeking **justice** begins the campaign with the *broken blade*, the shattered tip of an elven longsword. The blade is engraved with the sigil of a lion rampant, which seems to roar when the light of dusk touches it.
 
 # Image
@@ -17,6 +23,14 @@ A player seeking **justice** begins the campaign with the *broken blade*, the sh
 # Notes
 
 The player who possesses the *broken blade* should have strong, vivid reasons to believe that their ancestors were refugees, driven forth from their ancestral lands and persecuted, and that the blade will one day deliver justice to the traitor who destroyed them.
+
+[[Kasimir Velikov]] recognized this blade and related its history before greeting [[Arden Nalero|Arden]] as family.
+
+This blade once belonged to Erevan Löwenhart, a dusk elf prince. Erevan, a master bladesinger, practiced the style of the lion, which he also used as his personal sigil. However, Erevan refused to pay tribute to King Barov von Zarovich, a powerful warlord and the father of Strahd von Zarovich.
+
+[[Rahadin]], a dusk elf who had spurned Erevan's rule, helped King Barov conquer the dusk elf kingdom. [[Rahadin]] then broke Erevan's blade and personally executed Erevan and his family as punishment for his defiance.
+
+
 
 %%
 Unbeknownst to the player, the blade once belonged to Erevan, a dusk elf prince. Erevan, a master bladesinger, practiced the style of the lion, which he also used as his personal sigil. However, Erevan refused to pay tribute to King Barov von Zarovich, a powerful warlord and the father of Strahd von Zarovich.

@@ -1,39 +1,65 @@
 ---
 type: NPC
 name: Arrigal
-aliases:
+aliases: null
 pronouns: he/him
 race: Human
-class:
-age:
+class: Assassin
+age: null
 gender: male
 creature_type: humanoid
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
+origin: null
+home_base: '[[Town of Vallaki]]'
+current_location: null
+factions: null
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
+first_appearance_date: null
 status: alive
 cr: 5
-resonance:
+resonance: 'Arrigal should make the players feel insulted by his slight condescension, unnerved by his
+  intense curiosity and veneer of cheerful courtesy, and—when they learn of it—both disgusted by and sympathetic
+  to his decision to serve Strahd.
+
+  >'
 emotions:
+- curious
+- suspicious
+- frustrated
+- resentful
+- relaxed
+- or amused
 motivations:
+- protect his family
+- ensure a bright future for Barovia’s Vistani
+- free of the resentments of the small-minded Barovians—a goal which he intends to accomplish by serving
+  Strahd
 inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+- Loki (*Thor*)
+- Littlefinger (*A Game of Thrones*)
+- Hannibal Lecter (*The Silence of the Lambs*)
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Who they are
 

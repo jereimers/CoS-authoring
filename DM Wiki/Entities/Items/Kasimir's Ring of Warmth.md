@@ -1,17 +1,17 @@
 ---
-belongs_to: "[[Kasimir Velikov]]"
-CoS-R_ref:
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Kasimir Velikov]]"
-current_location: "[[Kasimir Velikov]]"
+belongs_to: '[[Kasimir Velikov]]'
+CoS-R_ref: null
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Kasimir Velikov]]'
+current_location: '[[Kasimir Velikov]]'
 tags:
-  - ai_generated
-  - cos
-  - item
-  - magic-item
-  - ring
+- ai_generated
+- cos
+- item
+- magic-item
+- ring
 publish: false
+type: Item
 ---
-
 <!-- DM-Only Start -->
 # Kasimir's Ring of Warmth
 

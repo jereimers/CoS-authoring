@@ -2,48 +2,56 @@
 type: NPC
 name: Ismark Kolyanovich
 aliases:
-  - Ismark
-  - Ismark the Lesser
+- Ismark
+- Ismark the Lesser
 pronouns: he/him
 race: Human
-class:
+class: null
 age: 32
 gender: male
 creature_type: humanoid
-origin: "[[Village of Barovia]]"
-home_base: "[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster's Mansion]]"
-current_location: "[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster's Mansion]]"
+origin: '[[Village of Barovia]]'
+home_base: '[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster''s Mansion]]'
+current_location: '[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster''s Mansion]]'
 factions:
-  - "[[Barovian Villagers]]"
-arc:
-  - "[[Arc B - Welcome to Barovia]]"
-  - "[[Arc C - Into the Valley]]"
+- '[[Barovian Villagers]]'
+arcs:
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 2
-first_appearance_date:
+first_appearance_date: null
 status: alive
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Kolyan Indirovich]]"
-  - "[[Ireena Kolyana]]"
-  - "[[Doru]]"
-portrait: "[[03-002.ismark-kolyanovich.png]]"
+- '[[Kolyan Indirovich]]'
+- '[[Ireena Kolyana]]'
+- '[[Doru]]'
+portrait: '[[03-002.ismark-kolyanovich.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - barovia
-  - burgomaster
-CoS-R_ref: "[[Arc B - Welcome to Barovia#^Profile-Ismark-Kolyanovich]]"
+- npc
+- cos
+- barovia
+- burgomaster
+CoS-R_ref: '[[Arc B - Welcome to Barovia#^Profile-Ismark-Kolyanovich]]'
 WotC_ref:
-  - "[[03_Chapter 3 - The Village of Barovia#Roleplaying Ismark]]"
+- '[[03_Chapter 3 - The Village of Barovia#Roleplaying Ismark]]'
 publish: true
+region: Vallaki
 ---
 # Portrait
 

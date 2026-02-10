@@ -2,41 +2,46 @@
 type: NPC
 name: Bildrath Cantemir
 aliases:
-  - Bildrath
-  - Uncle Bill
-  - Uncle Bildrath
+- Bildrath
+- Uncle Bill
+- Uncle Bildrath
 pronouns: he/him
 race: Human
-class:
-age:
+class: Commoner
+age: null
 gender: male
 creature_type: humanoid
-origin: "[[Village of Barovia]]"
-home_base: "[[Bildrath's Mercantile]]"
-current_location: "[[Cemetery]]"
+origin: '[[Village of Barovia]]'
+home_base: '[[Bildrath''s Mercantile]]'
+current_location: '[[Cemetery]]'
 factions:
-  - "[[Barovian Villagers]]"
-arc:
+- '[[Barovian Villagers]]'
+arcs:
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc J - The Stolen Gem]]'
 first_appearance_session: 3
 first_appearance_date: 3 Neyavr 735
 status: dead
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[bildrath.png]]"
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[bildrath.png]]'
 portrait_credit: Caleb Cleveland @calebisdrawing
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Barovia
 ---
 # Who they are
 

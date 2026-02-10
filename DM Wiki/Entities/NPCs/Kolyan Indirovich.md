@@ -1,40 +1,43 @@
 ---
 type: NPC
 name: Kolyan Indirovich
-aliases:
+aliases: null
 pronouns: he/him
 race: Human
 class: Noble
-age:
+age: null
 gender: male
 creature_type: humanoid
-origin: "[[Village of Barovia]]"
-home_base: "[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster's Mansion]]"
-current_location: "[[Cemetery]]"
-factions:
-arc:
+origin: '[[Village of Barovia]]'
+home_base: '[[DM Wiki/Entities/Areas/Village of Barovia/Burgomaster''s Mansion]]'
+current_location: '[[Cemetery]]'
+factions: null
+arcs:
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc B - Welcome to Barovia]]'
 first_appearance_session: 5
 first_appearance_date: 27 Octyavr 735
 status: dead
 cr: -4
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - barovia
-  - burgomaster
-CoS-R_ref: "[[Arc B - Welcome to Barovia#^Profile-Kolyan-Indirovich]]"
-WotC_ref:
+- npc
+- cos
+- barovia
+- burgomaster
+CoS-R_ref: '[[Arc B - Welcome to Barovia#^Profile-Kolyan-Indirovich]]'
+WotC_ref: null
 publish: true
+region: Vallaki
 ---
 # Who they ~~are~~ were
 

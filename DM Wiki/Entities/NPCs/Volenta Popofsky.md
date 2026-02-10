@@ -2,41 +2,70 @@
 type: NPC
 name: Volenta Popofsky
 aliases:
-  - Volenta
+- Volenta
 pronouns: she/her
 race: Human (formerly)
 class: Vampire Spawn (w/ mods)
-age:
+age: null
 gender: female
 creature_type: undead
-origin: "[[Castle Ravenloft]]"
-home_base:
-current_location:
+origin: '[[Castle Ravenloft]]'
+home_base: null
+current_location: null
 factions:
-  - "[[Strahd's Spies]]"
-arc:
-  - "[[Arc D - St. Andral's Feast]]"
+- '[[Strahd''s Spies]]'
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc O - Dinner with the Devil]]'
 first_appearance_session: 12
 first_appearance_date: 3 Neyavr 735
-status:
-cr:
-resonance:
+status: null
+cr: null
+resonance: 'Volenta should inspire revulsion with her obsession with pain and gore, discomfort with her
+  sadistic and psychotic personality, and a strange sort of flattery with her flirtatious—if eccentric—attitude.
+
+  >'
 emotions:
+- amused
+- curious
+- irritated
+- bored
+- fascinated
+- enraged
+- gleeful
 motivations:
+- impress Strahd
+- earn her place as foremost among his brides
+- to satisfy her frequent sadistic urges
+- to find novel ways to cause suffering
+- pain through tinkering
+- innovation
 inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[volenta-popofsky.png]]"
+- Jinx (*Arcane*)
+- 'Ty Lee (*Avatar: The Last Airbender*)'
+- Harley Quinn (*Batman*)
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[volenta-popofsky.png]]'
 portrait_credit: Caleb Cleveland @calebisdrawing
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref: "[[Arc D - St. Andral's Feast#^Profile-Volenta-Popofsky]]"
+- npc
+- cos
+CoS-R_ref: '[[Arc D - St. Andral''s Feast#^Profile-Volenta-Popofsky]]'
 WotC_ref:
-  - "[[04_Chapter 4 - Castle Ravenloft#K49. Lounge]]"
+- '[[04_Chapter 4 - Castle Ravenloft#K49. Lounge]]'
 publish: true
+region: Wilderness
 ---
 # Portrait
 

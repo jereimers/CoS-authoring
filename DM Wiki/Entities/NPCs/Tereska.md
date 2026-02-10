@@ -2,39 +2,43 @@
 type: NPC
 name: Tereska
 aliases:
-  - the cook
-pronouns:
-race:
-class:
-age:
-gender:
-creature_type:
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
-status:
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+- the cook
+pronouns: null
+race: null
+class: null
+age: null
+gender: null
+creature_type: null
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+first_appearance_session: null
+first_appearance_date: null
+status: null
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Portrait
 

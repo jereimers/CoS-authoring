@@ -1,16 +1,17 @@
 ---
-belongs_to:
-CoS-R_ref:
-WotC_ref:
-current_location:
+belongs_to: null
+CoS-R_ref: null
+WotC_ref: null
+current_location: null
 tags:
-  - ai_generated
-  - cos
-  - item
+- cos
+- item
 publish: true
+type: Item
+arcs:
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc E - The Missing Vistana]]'
 ---
-
-
 %% An item is an artifact, relic, piece of equipment or gear that players can obtain and/or interact with. Items have owners, locations, histories, and optional magical qualities and/or stat blocks. %%
 
 
@@ -20,7 +21,7 @@ This ring of silver has a broad, flat face on which a connected series of lines 
 
 # What the party knows
 
-The party has not yet encountered this item.
+
 
 # Image
 

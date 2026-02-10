@@ -1,17 +1,17 @@
 ---
-belongs_to: "[[Ezmerelda d'Avenir]]"
-CoS-R_ref:
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Ezmerelda d'Avenir]]"
-current_location: "[[Ezmerelda d'Avenir]]"
+belongs_to: '[[Ezmerelda d''Avenir]]'
+CoS-R_ref: null
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Ezmerelda d''Avenir]]'
+current_location: '[[Ezmerelda d''Avenir]]'
 tags:
-  - ai_generated
-  - cos
-  - item
-  - consumable
-  - potion
+- ai_generated
+- cos
+- item
+- consumable
+- potion
 publish: false
+type: Item
 ---
-
 <!-- DM-Only Start -->
 # Ezmerelda's Potions of Greater Healing
 

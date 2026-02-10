@@ -1,16 +1,16 @@
 ---
-belongs_to: "[[Ezmerelda d'Avenir]]"
-CoS-R_ref:
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Ezmerelda d'Avenir]]"
-current_location: "[[Ezmerelda d'Avenir|Ezmerelda's Wagon]]"
+belongs_to: '[[Ezmerelda d''Avenir]]'
+CoS-R_ref: null
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Ezmerelda d''Avenir]]'
+current_location: '[[Ezmerelda d''Avenir|Ezmerelda''s Wagon]]'
 tags:
-  - ai_generated
-  - cos
-  - item
-  - vistani
+- ai_generated
+- cos
+- item
+- vistani
 publish: false
+type: Item
 ---
-
 <!-- DM-Only Start -->
 # Ezmerelda's Tarokka Deck
 

@@ -17,10 +17,20 @@ home_base: "[[Wachterhaus]]"
 current_location: "[[Wachterhaus]]"
 factions:
   - "[[Wachters]]"
-arc:
+arcs:
+  - "[[Arc E - The Missing Vistana]]"
+  - "[[Arc P - Ravenloft Heist]]"
+  - "[[Arc T - The Three Fanes]]"
+  - "[[Arc D - St. Andral's Feast]]"
+  - "[[Arc U - Dreams of Dawn]]"
+  - "[[Arc R - Trials of the Mountain]]"
   - "[[Arc F - Lady Wachter's Wish]]"
-  - "[[Arc G - The Strazni Siblings]]"
+  - "[[Arc Q - A Shining Beacon]]"
+  - "[[Arc O - Dinner with the Devil]]"
   - "[[Arc H - The Lost Soul]]"
+  - "[[Arc G - The Strazni Siblings]]"
+  - "[[Arc I - The Walls of Krezk]]"
+  - "[[Arc C - Into the Valley]]"
 first_appearance_session:
 first_appearance_date: 3 Neyavr 735
 status: alive
@@ -65,6 +75,7 @@ CoS-R_ref: "[[Arc F - Lady Wachter's Wish#^Profile-Lady-Fiona-Wachter]]"
 WotC_ref:
   - "[[05_Chapter 5 - The Town of Vallaki#N4. Wachterhaus]]"
 publish: true
+region: Vallaki
 ---
 # Who they are
 

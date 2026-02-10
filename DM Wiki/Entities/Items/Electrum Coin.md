@@ -1,17 +1,18 @@
 ---
-belongs_to: "[[Varnish Gothorn]]"
-CoS-R_ref: "[[Character Creation#Wealth—The Electrum Coin]]"
+belongs_to: '[[Varnish Gothorn]]'
+CoS-R_ref: '[[Character Creation#Wealth—The Electrum Coin]]'
 WotC_ref:
-  - N/A
-current_location:
+- N/A
+current_location: null
 tags:
-  - cos
-  - item
-  - barovian-relic
+- cos
+- item
+- barovian-relic
 publish: true
+type: Item
+arcs:
+- '[[Arc A - Escape From Death House]]'
 ---
-
-
 %% An item is an artifact, relic, piece of equipment or gear that players can obtain and/or interact with. Items have owners, locations, histories, and optional magical qualities and/or stat blocks. %%
 
 # Description

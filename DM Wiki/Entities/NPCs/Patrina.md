@@ -1,38 +1,45 @@
 ---
 type: NPC
 name: Patrina
-aliases:
-pronouns:
-race:
-class:
-age:
-gender:
-creature_type:
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
-status:
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+aliases: null
+pronouns: null
+race: Dusk Elf
+class: Archmage
+age: null
+gender: null
+creature_type: null
+origin: null
+home_base: '[[Castle Ravenloft]]'
+current_location: null
+factions: null
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc S - A Sword of Sunlight]]'
+- '[[Arc O - Dinner with the Devil]]'
+first_appearance_session: null
+first_appearance_date: null
+status: null
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Wilderness
 ---
 # Who they are
 

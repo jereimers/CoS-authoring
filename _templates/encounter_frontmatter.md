@@ -1,14 +1,14 @@
 ---
-session:
-npc_presence:
-party_presence:
+session: null
+npc_presence: null
+party_presence: null
 tags:
-  - encounter
-  - cos
-  - new
-loot:
-location(s):
-arc(s):
-barovian_date(s):
-publish:
+- encounter
+- cos
+- new
+loot: null
+locations: null
+arcs: null
+barovian_dates: null
+publish: null
 ---

@@ -2,43 +2,48 @@
 type: NPC
 name: Nikolai Wachter
 aliases:
-  - Nikolai
+- Nikolai
 pronouns: he/him
 race: Human
 class: Noble
 age: 23
 gender: male
-creature_type:
-origin: "[[Town of Vallaki|Vallaki]]"
-home_base: "[[Wachterhaus]]"
-current_location:
+creature_type: null
+origin: '[[Town of Vallaki|Vallaki]]'
+home_base: '[[Wachterhaus]]'
+current_location: null
 factions:
-  - "[[Wachters]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
-  - "[[Arc F - Lady Wachter's Wish]]"
-  - "[[Arc H - The Lost Soul]]"
+- '[[Wachters]]'
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 9
 first_appearance_date: 2 Neyavr 735
-status:
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+status: null
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Vallaki
 ---
 # Portrait
 

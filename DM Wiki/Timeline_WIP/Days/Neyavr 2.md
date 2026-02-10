@@ -1,34 +1,34 @@
 ---
 type: barovian_day
 tags:
-  - timeline
-  - barovia/date
+- timeline
+- barovia/date
 barovian_date_key: 0735-11-02
 barovian_date: 2 Neyavr, 735
 month: Neyavr
 day_of_month: 2
 moon_phase: waxing_crescent
 primary_location: Vallaki
-act: "[[Act I Summary]]"
-arc: "[[Arc C - Into the Valley]]"
+act: '[[Act I Summary]]'
+arcs: '[[Arc C - Into the Valley]]'
 sessions:
-  - 
-  - 
+- null
+- null
 party_level: 4
 major_events:
-  - Rictavio checks in to Blue Water Inn
-  - Party arrives in Vallaki
+- Rictavio checks in to Blue Water Inn
+- Party arrives in Vallaki
 factions_active:
-  - Keepers of the Feather
-  - Strahd's Spies (Eliza)
+- Keepers of the Feather
+- Strahd's Spies (Eliza)
 party_presence:
-  - Arden
-  - Fig
-  - Choppy
-  - Varnish
-  - "[[Ireena]]"
-  - "[[Parriwimple]]"
-  - "[[Muriel Vinshaw]]"
+- Arden
+- Fig
+- Choppy
+- Varnish
+- '[[Ireena]]'
+- '[[Parriwimple]]'
+- '[[Muriel Vinshaw]]'
 publish: false
 ---
 # 2 Neyavr, 735 — Tser Pool -> Vallaki

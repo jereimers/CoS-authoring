@@ -1,23 +1,23 @@
 ---
-barovian_date(s):
-  - "[[Neyavr 3]]"
-location(s):
-  - "[[Coffin Maker's Shop]]"
-  - "[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion]]"
-  - "[[Blue Water Inn]]"
+barovian_dates:
+- '[[Neyavr 3]]'
+locations:
+- '[[Coffin Maker''s Shop]]'
+- '[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster''s Mansion]]'
+- '[[Blue Water Inn]]'
 NPCs_met:
-  - "[[Henrik van der Voort|Henrik]]"
-  - "[[Volenta Popofsky|Volenta]]"
-  - "[[Baron Vargas Vallakovich|Vargas]]"
-arc(s):
-  - "[[Arc D - St. Andral's Feast]]"
-  - "[[Arc E - The Missing Vistana]]"
-combat?: true
-has_recap?: true
+- '[[Henrik van der Voort|Henrik]]'
+- '[[Volenta Popofsky|Volenta]]'
+- '[[Baron Vargas Vallakovich|Vargas]]'
+arcs:
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc E - The Missing Vistana]]'
+combat: true
+has_recap: true
 play_date: 1/21/2026
 tags:
-  - cos
-  - session
+- cos
+- session
 play_date_key: 2026-01-21
 status: played
 barovian_date_key: 0735-11-03

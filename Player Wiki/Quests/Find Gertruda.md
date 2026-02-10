@@ -1,16 +1,16 @@
 ---
 status: active
 tags:
-  - cos
-  - quest
-giver: "[[Mary]]"
-location(s):
-  - "[[Village of Barovia]]"
-  - "[[Town of Vallaki]]"
+- cos
+- quest
+giver: '[[Mary]]'
+locations:
+- '[[Village of Barovia]]'
+- '[[Town of Vallaki]]'
 NPCs_involved:
-  - "[[Gertruda]]"
-  - "[[Mary]]"
-  - "[[Doru]]"
+- '[[Gertruda]]'
+- '[[Mary]]'
+- '[[Doru]]'
 publish: true
 ---
 # Objective

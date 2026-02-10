@@ -2,39 +2,55 @@
 type: NPC
 name: Milivoj
 aliases:
-  - Milo
+- Milo
 pronouns: he/him
 race: Human
-class: "[[Commoner]]"
+class: '[[Commoner]]'
 age: 19
 gender: male
 creature_type: humanoid
-origin: "[[Town of Vallaki|Vallaki]]"
-home_base:
-current_location:
-factions:
-arc: "[[Arc D - St. Andral's Feast]]"
+origin: '[[Town of Vallaki|Vallaki]]'
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc Q - A Shining Beacon]]'
 first_appearance_session: 11
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 0
-resonance:
-emotions:
+resonance: 'Milivoj should inspire scorn with his gruff, cynical, and stubborn personality, sympathy for
+  his frustration at his parents'' addiction to dream pastries, and endearment to him for his wholehearted
+  dedication to provide for his siblings, no matter the cost to himself.
+
+  >'
+emotions: null
 motivations:
+- provide for himself
+- his siblings
 inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[05-002.milivoj.png]]"
+- Katniss Everdeen (*The Hunger Games*)
+- Arya Stark (*Game of Thrones*)
+- Carl Fredericksen (*Up*)
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[05-002.milivoj.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
+- npc
+- cos
+CoS-R_ref: null
 WotC_ref:
-  - "[[05_Chapter 5 - The Town of Vallaki#Bones of St. Andral]]"
+- '[[05_Chapter 5 - The Town of Vallaki#Bones of St. Andral]]'
 publish: false
+region: Wilderness
 ---
 # Portrait
 ![[05-002.milivoj.png]]

@@ -2,44 +2,51 @@
 type: NPC
 name: Father Donavich
 aliases:
-  - Donavich
+- Donavich
 pronouns: he/him
 race: Human
 class: Acolyte
 age: 45
 gender: male
 creature_type: humanoid
-origin: "[[Village of Barovia]]"
-home_base: "[[Church]]"
-current_location: "[[Church]]"
+origin: '[[Village of Barovia]]'
+home_base: '[[Church]]'
+current_location: '[[Church]]'
 factions:
-  - "[[Church of the Morninglord]]"
-arc:
-  - "[[Arc B - Welcome to Barovia]]"
+- '[[Church of the Morninglord]]'
+arcs:
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc O - Dinner with the Devil]]'
 first_appearance_session: -3
 first_appearance_date: 28 Octyavr 735
 status: alive
 cr: 0.25
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Church of the Morninglord]]"
-  - "[[Doru]]"
-portrait: "[[03-005.donavich.png]]"
+- '[[Church of the Morninglord]]'
+- '[[Doru]]'
+portrait: '[[03-005.donavich.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref: "[[Arc B - Welcome to Barovia#^Profile-Father-Donavich]]"
+- npc
+- cos
+- vallaki
+CoS-R_ref: '[[Arc B - Welcome to Barovia#^Profile-Father-Donavich]]'
 WotC_ref:
-  - "[[03_Chapter 3 - The Village of Barovia#E5f. Chapel]]"
+- '[[03_Chapter 3 - The Village of Barovia#E5f. Chapel]]'
 publish: true
+region: Wilderness
 ---
 # Who they are
 ![[03-005.donavich.png]]

@@ -2,43 +2,46 @@
 type: NPC
 name: Stanimir
 aliases:
-  - Papa Stanimir
+- Papa Stanimir
 pronouns: he/him
 race: Vistani
-class:
+class: null
 age: Elder
 gender: male
 creature_type: humanoid
-origin: "[[Tser Pool Encampment]]"
-home_base: "[[Tser Pool Encampment]]"
-current_location: "[[Tser Pool Encampment]]"
+origin: '[[Tser Pool Encampment]]'
+home_base: '[[Tser Pool Encampment]]'
+current_location: '[[Tser Pool Encampment]]'
 factions:
-  - "[[Vistani]]"
-arc:
-  - "[[Arc C - Into the Valley]]"
+- '[[Vistani]]'
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 6
 first_appearance_date: 1 Neyavr 735
 status: alive
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Madam Eva]]"
-  - "[[Arturi Radanavich]]"
-  - "[[Eliza]]"
-portrait:
-portrait_credit:
-handouts:
+- '[[Madam Eva]]'
+- '[[Arturi Radanavich]]'
+- '[[Eliza]]'
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Who they are
 

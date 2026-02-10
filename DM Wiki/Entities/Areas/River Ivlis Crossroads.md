@@ -2,37 +2,45 @@
 type: Area
 name: River Ivlis Crossroads
 aliases:
-  - Crossroads
-  - The Crossroads Cemetery
-WotC_ref:
-CoS-R_ref:
-parent_region: "[[Barovia]]"
+- Crossroads
+- The Crossroads Cemetery
+WotC_ref: null
+CoS-R_ref: null
+parent_region: '[[Barovia]]'
 arcs:
-  - "[[Arc C - Into the Valley]]"
+- '[[Arc I - The Walls of Krezk]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc A - Escape From Death House]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc J - The Stolen Gem]]'
 connected_locations:
-  - "[[Tser Pool Encampment]]"
-  - "[[Old Svalich Road]]"
-  - "[[Village of Barovia]]"
+- '[[Tser Pool Encampment]]'
+- '[[Old Svalich Road]]'
+- '[[Village of Barovia]]'
 notable_npcs:
-  - "[[Madam Eva]]"
+- '[[Madam Eva]]'
 threat_level: Low
 first_appearance_date: 1 Neyavr 735
 tags:
-  - area
-  - cos
-  - ai_generated
-key_factions:
+- area
+- cos
+- ai_generated
+key_factions: null
 area_code: F
 area_type: Landmark
 first_appearance_session: 6
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: true
 ---
-
 %%
  an area is a location, place, region, etc. It can be as large as the Planes of Existence and as small as a room inside a building inside a town inside a region inside a domain inside a continent/plane. Areas have types, are encountered by the party at a particular time/place, and can be home to multiple NPCs, items, etc. %%
 # Overview

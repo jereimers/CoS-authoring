@@ -138,6 +138,7 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 > Some hags raise the daughters they spawn, creating covens that magnify their power. The members of a coven gain a slew of unnatural abilities, including the power to control the elements and—once each day—to dispel foreign magic in the vicinity of their lairs. As is true for all hag magic, however, such power comes at a price—for a wound suffered by a single hag in a coven is suffered by all.
 >
 > To combat their inherently selfish natures, the hags in a coven must enter into a written contract with the others, signed by each hag's true name. The hags of a coven guard their contract jealously, often sealing it within the heart of their lair, ever-careful to keep their names from falling into enemy hands.
+> ^Lore-Ethereal-Entities
 
 > [!info]+ **Harvesting Phase Spiders**
 > The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
@@ -517,10 +518,11 @@ The hags fight in self-defense, or if the players make clear that they will not 
 >
 > In both phases, on initiative count 20 (losing initiative ties), the coven can take one of the following lair action options centered on or originating from the windmill, or forgo using any of them in that round:
 >
-> - **_Warding Wind._** The coven casts _warding wind._
-> - **_Gust of Wind._** The coven casts _gust of wind._
+> - **_Warding Wind._** The coven casts [[Warding Wind (XGE)]].
+> - **_Gust of Wind._** The coven casts [[Gust of Wind]].
 > - **_Amphibious Cacophony._** The coven causes the frogs in the grass around the windmill to croak a strangely hypnotic song. Each creature within 120 feet of the windmill that can hear the frogs must succeed on a DC 10 Charisma saving throw or use all of its movement at the start of its next turn to move as far as it can toward the mill.
-> - **_Dispel Magic (1/day)._** The coven casts _dispel magic_ at 5th level.
+> - **_Dispel Magic (1/day)._** The coven casts [[Dispel Magic]] at 5th level.
+> ^Info-Lair-Actions
 
 <div class="statblock">
 <h2>The Bonegrinder Coven</h2>
@@ -599,6 +601,7 @@ The hags fight in self-defense, or if the players make clear that they will not 
 ![[nightmare-morgantha.png]]
 <span class="credit">"The Nightmare Three" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
+
 <div class="statblock">
 <h2>The Nightmare Three</h2>
 <em>Trio of one medium fiend and two huge fiends, neutral evil</em>
@@ -671,17 +674,19 @@ The hags fight in self-defense, or if the players make clear that they will not 
 > * ***Three Players.*** Reduce the hags’ hit points to 156 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow*** ***curse*** bonus action to 5 (2d4) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) fire damage; their ***withering rot*** action to 10 (3d6) damage; their Melf’s Acid Arrow action to 7 (2d6) damage and 3 (1d6) the next turn; their ***crown*** ***of*** ***madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 4 (1d8) damage; and their ***lightning*** ***bolt*** bonus action to 21 (8d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 7 (2d6) damage; their ***bite*** attack to 12 (2d6+5) damage; their ***tail*** and ***gore*** attacks to 10 (2d4+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
 > * ***Four Players.*** Reduce the hags’ hit points to 183 in each phase. For their first phase, reduce: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 6 (1d12) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 7 (2d6) damage; their ***withering rot*** action to 10 (3d6) damage; their ***Melf’s Acid Arrow*** action to 9 (2d8) damage and 4 (1d8) the next turn; their ***crown of madness***, ***phantasmal force***, ***cause fear***, and ***hold person*** bonus actions to 4 (1d8) damage; and their ***lightning bolt*** bonus action to 25 (10d4) damage. For their second phase, reduce: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s rebuke*** reaction to 9 (2d8) damage; their ***bite*** attack to 16 (2d8+5) damage; and their ***tail swipe***, ***enervating ring***, and ***inflict nightmares*** bonus actions to 7 (2d6) damage.
 > * ***Six Players.*** Increase the hags’ hit points to 237 in each phase. For their first phase, increase: their ***blindness/deafness*** and ***putrid radiance*** actions and their ***bestow curse*** bonus action to 7 (2d6) damage; their ***ray of enfeeblement*** and ***ray of sickness*** actions to 9 (2d10) damage; their ***withering rot*** action to 15 (6d4) damage; their ***crown*** ***of madness***, ***phantasmal*** ***force***, ***cause*** ***fear***, and ***hold*** ***person*** bonus actions to 6 (1d12) damage; and their ***lightning*** ***bolt*** bonus action to 32 (13d4) damage. For their second phase, increase: their ***charge*** feature, ***stomp*** bonus action, and ***matron’s*** ***rebuke*** reaction to 11 (2d12) damage; their ***bite*** attack to 18 (2d12+5) damage; their ***tail*** and ***gore*** attacks to 16 (2d10+5) damage; and their ***tail swipe, enervating ring***, and ***inflict nightmares*** bonus actions to 9 (2d10) damage.
+> ^Combat-Balancing-The-Hags
 
 > [!design]- **Design Note: Innate Spellcasting**
 > Multiple spellcasters in this guide, including the hags of Old Bonegrinder, have had spell slots replaced with at-will abilities. This change has been made to simplify the process of controlling these characters in battle. However, this is an intentional abstraction made solely for the sake of combat, which is guaranteed to end after a limited number of turns. This change does not indicate that these spells can be cast an unlimited number of times outside of combat.
+> ^Design-Innate-Spellcasting
 
 ***The Coven.*** The hags begin in their **Bonegrinder Coven** phase. Each hag prioritizes a different target—Bella attacking whichever player seems most attractive, Offalia attacking whichever player seems most confident, and Morgantha attacking whichever player seems physically strongest. (If two hags share the same preferred target, they have a brief argument, after which one of them shifts to target the next player who meets her qualifications.)
 
 When the hags assume their **Nightmare Three** phase, Bella assumes the form of a monstrous giant crocodile, its scales jagged and irregular and its eyes glowing with a baleful light. Offalia takes the shape of a demonic elephant, its skin mottled with black veins and its tusks blackened and twisted like corkscrews. Finally, Morgantha's skin becomes pitch-black, her eyes becoming inky voids as shadows swirl around her.
 
-***[[Victor Vallakovich]].*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his *greater invisibility* spell, remaining within 60 feet of the windmill at all times. 
+***[[Victor Vallakovich]].*** In battle, [[Non-Player Characters#Victor Vallakovich|Victor]] remains invisible through the use of his [[Greater Invisibility]] spell, remaining within 60 feet of the windmill at all times. 
 
-Victor casts *counterspell* at 3rd or 4th level as-needed to counter Morgantha's *lightning bolt* and *eyebite* spells. Otherwise, he casts *magic missile* at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
+Victor casts [[Counterspell]] at 3rd or 4th level as-needed to counter Morgantha's [[Lightning Bolt]] and [[Eyebite]] spells. Otherwise, he casts [[Magic Missile]] at 2nd and 1st level to avoid collateral damage and minimize the hags' magic resistance. 
 
 Victor retains his lone 5th-level spell slot to cast *counterspell* in response to the hags' ***dispel magic*** lair action. (See **Dispel Magic** below.) If using 2024 spells, Victor retains the 5th-level spell slot for his one use of *abjure spell*.
 
@@ -700,7 +705,7 @@ Horrified by Morgantha's failure, the coven uses its ***dispel magic*** lair act
 <p>"<em>Begone!</em>" screech the hags.</p>
 </div>
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] immediately responds by casting *counterspell* at 5th level (or *abjure spell* if using 2024 spells). Read:
+[[Non-Player Characters#Victor Vallakovich|Victor]] immediately responds by casting [[Counterspell]] at 5th level (or *abjure spell* if using 2024 spells). Read:
 
 <div class="description">
 <p>With a flourish of his hand and a whispered incantation, Victor conjures a complex tapestry of sigils and runes in the air before him. The coven's blast, a swirling maelstrom of shadows and baleful light, meets the shimmering shield of Victor's counterspell—a radiant lattice that shimmers with power.</p>
@@ -725,17 +730,17 @@ Before the binding circle is lowered, the players can also demand that Morgantha
 
 If Morgantha’s request for parley is denied, the coven fights to the death.
 ## H7c. Escape From Old Bonegrinder
-If the hags knock the players unconscious, the players awaken 1d4 + 1 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of *hempen rope*. The two strongest members of the party have been infected with cackle fever and poisoned with *pale tincture*, respectively.
+If the hags knock the players unconscious, the players awaken 1d4 + 1 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of [[Hempen Rope (50 feet) (PHB)|hempen rope]]. The two strongest members of the party have been infected with [[Cackle Fever (DMG)|cackle fever]] and poisoned with [[Pale Tincture (DMG)|pale tincture]], respectively.
 
 While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
 
-The players find that they are also surrounded and guarded by six **dretches**, which Morgantha has summoned from the barrel of ichor in <span class="citation">O1. Ground Floor (p. 126)</span>. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in <span class="citation">O3. Bedroom (p. 127)</span>.
+The players find that they are also surrounded and guarded by six [[Dretch|dretches]], which Morgantha has summoned from the barrel of ichor in <span class="citation">O1. Ground Floor (p. 126)</span>. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in <span class="citation">O3. Bedroom (p. 127)</span>.
 ### Morgantha’s Interrogation
 As soon as the players awaken, Morgantha mounts the ladder to the attic and leers over them, still wearing her humanoid disguise. She chooses a player, seemingly at random (though making sure to choose the player infected with cackle fever), and removes their gag, though not their binds. 
 
 Morgantha then pleasantly asks them to tell her who they are and why they have come to the windmill.
 
-***Defying Morgantha.*** If the player proves obstinate or defiant, Morgantha releases her disguise and returns to her horrifying **night hag** form. She leans in close toward that player, baring her sharp, yellowed teeth, and whispers in their ear, “Children always fancy themselves heroes in their dreams. But dreams can so easily become nightmares—and nightmares are my bread and meat.” Morgantha then casts *bestow curse* on that player, cursing their Constitution saving throws and recasting the spell if it is initially unsuccessful.
+***Defying Morgantha.*** If the player proves obstinate or defiant, Morgantha releases her disguise and returns to her horrifying **night hag** form. She leans in close toward that player, baring her sharp, yellowed teeth, and whispers in their ear, “Children always fancy themselves heroes in their dreams. But dreams can so easily become nightmares—and nightmares are my bread and meat.” Morgantha then casts [[Bestow Curse]] on that player, cursing their Constitution saving throws and recasting the spell if it is initially unsuccessful.
 
 Once the player is cursed, Morgantha draws a single claw across that player’s cheek, making an ***unarmed strike*** against that player and choosing to deal 1 damage on a hit. (Assuming the player expended hit dice to recover hit points during a short rest while unconscious, this shouldn’t render that player unconscious.) Any damage taken forces that player to make a Constitution saving throw against the effects of cackle fever. Morgantha continues to make small scratches across the player’s flesh until the player succumbs to the effects of cackle fever, forcing all other humanoids in the attic to make DC 10 Constitution saving throws or be infected with cackle fever themselves.
 
@@ -753,7 +758,7 @@ If a player agrees to bargain with Morgantha for her heartstone and the players'
 
 Morgantha thanks the player for their willingness to bargain, and praises them for their friends’ clear faith in them. Morgantha is glad to lend the players her heartstone for a period of three days. However, because the players have broken her trust by attempting to murder her and her daughters, the players must first bargain for their freedom.
 
-To win their freedom, the chosen player must immediately perform a small task for Morgantha. (Once they’ve done so, Morgantha is glad to discuss the terms of any loan of her heartstone.) Additionally, as collateral to ensure that the players do not raise their hands against Morgantha or her daughters again, each of the players must willingly provide each of the three hags with a lock of hair, a nail clipping, or another part of their body. (Morgantha doesn’t reveal it to the players, but she plans to use these body parts to create a trio of protective amulets for the hags to wear. A hag wearing such an amulet is under the effects of a permanent *sanctuary* spell against any creature whose body parts are contained within the amulet.)
+To win their freedom, the chosen player must immediately perform a small task for Morgantha. (Once they’ve done so, Morgantha is glad to discuss the terms of any loan of her heartstone.) Additionally, as collateral to ensure that the players do not raise their hands against Morgantha or her daughters again, each of the players must willingly provide each of the three hags with a lock of hair, a nail clipping, or another part of their body. (Morgantha doesn’t reveal it to the players, but she plans to use these body parts to create a trio of protective amulets for the hags to wear. A hag wearing such an amulet is under the effects of a permanent [[Sanctuary]] spell against any creature whose body parts are contained within the amulet.)
 
 ***The First Task.*** If the player asks about Morgantha’s “small task” or indicates an interest in accepting the deal, Morgantha stands beside the figure in the oven and gently strokes its “cheek.” “This is Franz,” she says sweetly. “Franz has been a very bad man.” She turns to the player and rolls a bundle of kindling in her left hand as she picks up a flickering candle with her right. “Franz needs someone to punish him for his bad decisions. Will you do that for him?” She extends the kindling toward the player and smiles cheerfully as, behind her, the figure in the oven begins grunting more loudly.
 
@@ -772,12 +777,13 @@ Morgantha distributes the vials to herself and her daughters, and then directs B
 > [!abstract]+ **A Twinge of Conscience**
 >
 > If the player refuses to complete Morgantha’s task, intentionally delays the process, or attempts to flee, the coven attacks. As the player falls into unconsciousness, Morgantha strokes their hair and whispers, "A pity. I'd thought of you as stronger stock. We'll have to try again tomorrow." The player later awakens back in the attic with the others. Proceed to **Escaping the Windmill** below.
+> ^Abstract-A-Twinge-of-Conscience
 
 ***The Bargain.*** If the player completes Morgantha’s request and successfully delivers the body parts she needs to craft her protective amulets, she is willing to lend them her hearthstone for a period of three days in exchange for a promise to undertake a particular task. The players must deliver a **soul leech**—a Tiny **fiend** resembling a leech with ghost-white, translucent flesh and purple-blue veins, and which Morgantha has imprisoned in a corked glass vial—to the office of Strahd’s chamberlain, [[Rahadin]]. Upon arriving in [[Rahadin]]’s office, the players must uncork the vial and allow the leech to attach itself to the underside of his desk, where it will render itself invisible and virtually undetectable. 
 
-The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When [[Rahadin]] returns, the leech will secretly attach itself to his flesh, ensuring that—when [[Rahadin]] eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s *soul bag,* where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes.
+The players can convince Morgantha to reveal her plans for the leech with a DC 10 Charisma (Persuasion) check: When [[Rahadin]] returns, the leech will secretly attach itself to his flesh, ensuring that—when [[Rahadin]] eventually dies—his evil soul will be ensnared and entrapped in Morgantha’s [[Soul Bag (MM)|soul bag]], where it will be transformed into a **soul larva** that Morgantha can use for nefarious purposes. 
 
-Morgantha can tell the players that [[Rahadin]]’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s *hag eye.*)
+Morgantha can tell the players that [[Rahadin]]’s office is located in the cellar of Castle Ravenloft, not far from the kitchens. However, Morgantha won’t share where she obtained her information. (Her source is, of course, the **mongrelfolk** Cyrus Belview, the unwitting bearer of the coven’s [[Hag Eye (MM)|hag eye]].)
 
 As a form of insurance to ensure the players’ compliance, Morgantha takes their dreams as collateral once they accept her offer, bottling them up in a glass vial that she wears on a cord around her neck.
 
@@ -786,9 +792,10 @@ Morgantha warns the players that, if they fail to complete her task within fourt
 If the players complete Morgantha's task within the allotted time, however, she will release their dreams and allow them to return to their owners. In either case, the players can take long rests normally until the fourteen days have elapsed.
 
 > [!info]+ **Curing Cackle Fever**
-> Players infected with cackle fever can use Morgantha's heartstone to cure their illness as described in <span class="citation">Night Hag (<em>Monster Manual</em>, p. 178)</span>
+> Players infected with cackle fever can use Morgantha's heartstone to cure their illness as described in [[Night Hag]] (<em>Monster Manual</em>, p. 178)
+> ^Info-Curing-Cackle-Fever
 ### Escaping the Windmill
-If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s **imp**, Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
+If Morgantha abandons the players in the windmill attic, they are approached shortly thereafter by Lady Wachter’s [[Imp]], Majesto, in his invisible **spider** form. Majesto whispers the following information to the players:
 
 * The creatures guarding the players are **dretches**—dull-witted, repulsive demons with an ability to exude a fetid cloud of disgusting green gas when disturbed, which will surely alert the hags if triggered. However, the only language they speak is Abyssal, and their sense of hearing is quite poor, allowing the players and Majesto to scheme without the dretches noticing. (Majesto, a devil, finds the dretches disgusting and unpleasantly uncivilized.)
 * Lady Wachter, her cultists, and (if he wasn’t captured) [[Non-Player Characters#Victor Vallakovich|Victor]] are hidden in a grove a short ways away from the windmill. They’re glad to help the players escape if possible, though Lady Wachter isn’t confident in their ability to face the hags in open combat. 
@@ -798,7 +805,7 @@ Every twenty minutes, two of the six **dretches** guarding the players return to
 
 Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal Plane to torment Franz in the Barovian refugee camp. Bella and Offalia remain in **O3. Bedroom** to guard Myrtle and Fyodor, taunting them with tales of their imminent and terrible deaths to pass the time. 
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of [[Ireena]] or Ismark, and wish only to be returned to their father, Franz.
+Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
 If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
 ### Finding a Cure
@@ -814,6 +821,7 @@ As noted in **Cackle Fever** (*Dungeon Master’s Guide*, p. 257), the disease o
 > That night, and each night thereafter, the three hags scry the players’ current location, using hair clippings taken from one of the players while they were unconscious in the attic.
 >
 > Whenever the coven successfully scries the players’ location, the hags proceed to use their **_nightmare haunting_** features on three separate players. As they do, the hags whisper through the nightmares that the players can end their torment by returning Fyodor and Myrtle to the windmill. (If the players do so, the hags honor their word and cease haunting the party thereafter.)
+> ^Info-If-the-Players-Escape
 
 The players can identify these remedies, as well as the symptoms of cackle fever, with a successful DC 15 Wisdom (Medicine) check or by asking Lady Wachter for a diagnosis.
 
@@ -825,11 +833,11 @@ Once the players have obtained a *heartstone*, they will need a location at whic
 ![[heartstone.png]]
 <span class="credit">"Heartstone" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-[[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of Wachterhaus was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
+[[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of [[Wachterhaus]] was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
 
 If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to <span class="citation">N4t. Cult Headquarters (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual.
 
-The inside of the chamber is largely as described in **N4t. Cult Headquarters**. However, modify the descriptive text to read as follows:
+The inside of the chamber is largely as described in [[05_Chapter 5 - The Town of Vallaki#N4t. Cult Headquarters|N4t. Cult Headquarters]]. However, modify the descriptive text to read as follows:
 
 <div class="description">
 <p>Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair.</p>
@@ -839,7 +847,7 @@ The inside of the chamber is largely as described in **N4t. Cult Headquarters**.
 ![[leo's-dagger.png]]
 <span class="credit">"Leo's Dagger" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-Leo Dilisnya used his vampiric claws to carve these words and images into the stone. The phrase “In Silence, Death” is the motto of the Ba’al Verzi, the secret assassins’ guild to which Leo belonged.
+Leo Dilisnya used his vampiric claws to carve these words and images into the stone. The phrase “In Silence, Death” is the motto of the Ba’al Verzi, the secret assassins’ guild to which Leo belonged. 
 
 Lady Wachter can inform the players that, when she was a child, her parents warned her of a monster that dwelled in the cellar: a terrible creature of ancient hungers and hatreds that longed to be set free. When she inherited the estate following her family’s deaths and descended to the basement, however, Lady Wachter found the room to be empty, with no evidence of any creature but the scratches on the walls. 
 
@@ -849,10 +857,11 @@ Lady Wachter has been unable to remove the scratches and carvings, despite her b
 
 If Lady Wachter is not with the players, [[Non-Player Characters#Victor Vallakovich|Victor]] expresses surprise at the presence of the pentagram, noting with some awe that he could easily repurpose it for the purposes of the *etherealness* ritual. If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players, she offers the pentagram for use in the ritual, which Victor gladly accepts.
 
-Victor then places the *heartstone* at the center of the pentagram and directs the players to stand just inside the edge of the pentagram circle. If Lady Wachter is with the players, she rolls up her sleeves and enters the circle with them. If challenged, she gives the players a cool, steely look and says, “Of course I’m coming to get my little girl.”
+Victor then places the [[Heartstone (MM)|heartstone]] at the center of the pentagram and directs the players to stand just inside the edge of the pentagram circle. If Lady Wachter is with the players, she rolls up her sleeves and enters the circle with them. If challenged, she gives the players a cool, steely look and says, “Of course I’m coming to get my little girl.”
 
 > [!abstract]+ **Fiona's Absence**
 > If the players attempt the ritual without Lady Wachter's assistance, the *etherealness* ritual fails. However, the disturbance draws Lady Wachter to the scene, where she can inform the players—if told and persuaded of their mission—that Wachterhaus's protective circle must first be lowered in order to allow creatures to pass into and out of the Ethereal Plane.
+> ^Abstract-Fionas-Absence
 
 When the players are ready to begin, Victor retrieves his copy of *Ethereal Entities* from a pocket in his cloak, using his *mage hand* spell to hold it open before him. Read:
 

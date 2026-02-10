@@ -2,41 +2,72 @@
 type: NPC
 name: Luvash
 aliases:
-  - Arabelle's father
+- Arabelle's father
 pronouns: he/him
 race: Human
-class: "[[Bandit]]"
-age:
-gender:
-creature_type:
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
-status:
-cr:
-resonance:
+class: '[[Bandit]]'
+age: null
+gender: null
+creature_type: null
+origin: null
+home_base: '[[Town of Vallaki]]'
+current_location: null
+factions: null
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
+first_appearance_date: null
+status: null
+cr: null
+resonance: 'Luvash should make the players feel sympathetic to his grief, endeared to his dedication to
+  his daughter, irritated with his stubbornness, and mildly uncomfortable with his hot temper.
+
+  >'
 emotions:
+- angered
+- melancholy
+- anxious
+- guilty
+- desperate
+- frustrated
+- joyful
+- content
+- amused
+- or grateful
 motivations:
+- ensure that his daughter
+- '[[Arabelle]]'
+- is safe
+- loved
+- that the families of the Vistani encampment can thrive
+- prosper
 inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[05-011.luvash.png]]"
+- Boromir (*The Lord of the Rings*)
+- Robert Baratheon (*A Game of Thrones*)
+- Bob Parr (*The Incredibles*)
+- Wolverine (*X-Men*)
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[05-011.luvash.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - vistani
-  - vallaki
-CoS-R_ref: "[[Arc E - The Missing Vistana#^Profile-Luvash]]"
+- npc
+- cos
+- vistani
+- vallaki
+CoS-R_ref: '[[Arc E - The Missing Vistana#^Profile-Luvash]]'
 WotC_ref:
-  - "[[05_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves]]"
+- '[[05_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves]]'
 publish: true
+region: Wilderness
 ---
 # Portrait
 

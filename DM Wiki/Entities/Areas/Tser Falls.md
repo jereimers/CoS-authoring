@@ -2,31 +2,37 @@
 type: Area
 name: Tser Falls
 aliases:
-  - the falls
-WotC_ref: "[[02_Chapter 2 - The Lands of Barovia#H. Tser Falls]]"
-CoS-R_ref: "[[Arc C - Into the Valley#C7b. Tser Falls]]"
-parent_region: "[[Barovia]]"
+- the falls
+WotC_ref: '[[02_Chapter 2 - The Lands of Barovia#H. Tser Falls]]'
+CoS-R_ref: '[[Arc C - Into the Valley#C7b. Tser Falls]]'
+parent_region: '[[Barovia]]'
 arcs:
-  - "[[Arc C - Into the Valley]]"
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc I - The Walls of Krezk]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc J - The Stolen Gem]]'
 connected_locations:
-  - "[[Old Svalich Road]]"
+- '[[Old Svalich Road]]'
 notable_npcs:
-  - "[[Standimir]]"
-threat_level:
+- '[[Standimir]]'
+threat_level: null
 first_appearance_date: 2 Neyavr 735
 tags:
-  - area
-  - cos
+- area
+- cos
 key_factions:
-  - "[[Order of the Silver Dragon]]"
+- '[[Order of the Silver Dragon]]'
 area_code: H
-area_type:
+area_type: null
 first_appearance_session: 8
-scene:
-encounter:
-item(s):
-handouts:
-loot:
+scenes: null
+encounters: null
+items: null
+handouts: null
+loot: null
 publish: true
 ---
 %%

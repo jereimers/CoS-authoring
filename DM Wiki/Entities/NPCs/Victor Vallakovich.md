@@ -2,63 +2,75 @@
 type: NPC
 name: Victor Vallakovich
 aliases:
-  - Victor
+- Victor
 pronouns: he/him
 race: Human
 class: Wizard
 age: 18
 gender: male
 creature_type: humanoid
-origin: "[[Vallaki]]"
-home_base: "[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|Victor's Workroom]]"
-current_location: "[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion#N3t. Victor's Workroom|Victor's Workroom]]"
+origin: '[[Vallaki]]'
+home_base: '[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster''s Mansion#N3t. Victor''s Workroom|Victor''s
+  Workroom]]'
+current_location: '[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster''s Mansion#N3t. Victor''s Workroom|Victor''s
+  Workroom]]'
 factions:
-  - "[[Vallakoviches]]"
-arc:
-  - "[[Arc F - Lady Wachter's Wish]]"
-  - "[[Arc H - The Lost Soul]]"
-  - "[[Arc E - The Missing Vistana]]"
-first_appearance_session:
+- '[[Vallakoviches]]'
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc G - The Strazni Siblings]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 5
-resonance: Players should feel annoyed at his suspicion and condescension, sympathetic to his anxiety, frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
+resonance: Players should feel annoyed at his suspicion and condescension, sympathetic to his anxiety,
+  frustration, and desperation, and endeared to his stubborn determination to see Stella healed.
 emotions:
-  - curious
-  - frustrated
-  - suspicious
-  - excited
-  - bored
-  - anxious
-  - desperate
-  - determined
+- curious
+- frustrated
+- suspicious
+- excited
+- bored
+- anxious
+- desperate
+- determined
 motivations:
-  - Restore Stella's soul to her body.
-  - Escape Barovia.
+- Restore Stella's soul to her body.
+- Escape Barovia.
 inspirations:
-  - Jonathan Byers (Stranger Things)
-  - "Prince Zuko (Avatar: The Last Airbender)"
-  - Raven (Teen Titans)
-  - Perrin Aybara (Wheel of Time)
-vocal_notes: Quiet, slightly monotone, with bursts of intensity when excited or anxious. Occasional awkward pauses and self-corrections, especially when talking about Stella or his magic.
+- Jonathan Byers (Stranger Things)
+- 'Prince Zuko (Avatar: The Last Airbender)'
+- Raven (Teen Titans)
+- Perrin Aybara (Wheel of Time)
+vocal_notes: Quiet, slightly monotone, with bursts of intensity when excited or anxious. Occasional awkward
+  pauses and self-corrections, especially when talking about Stella or his magic.
 signature_lines:
-  - You wouldn’t understand. None of you do.
-  - It’s not dangerous— not if I do it right this time.
-  - Stella trusted me, once. I have to make that mean something.
-relationships:
-portrait: "[[victor-vallakovich.png]]"
+- You wouldn’t understand. None of you do.
+- It’s not dangerous— not if I do it right this time.
+- Stella trusted me, once. I have to make that mean something.
+relationships: null
+portrait: '[[victor-vallakovich.png]]'
 portrait_credit: Caleb Cleveland @calebisdrawing
 handouts:
-  - "[[Victor's Spellbook Notes]]"
+- '[[Victor''s Spellbook Notes]]'
 tags:
-  - npc
-  - cos
-  - vallaki
-  - wizard
-  - ally
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+- wizard
+- ally
+CoS-R_ref: null
+WotC_ref: null
 publish: false
+region: Vallaki
 ---
 # Who they are
 

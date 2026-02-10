@@ -2,24 +2,32 @@
 type: Faction
 name: Order of the Silver Dragon
 aliases:
-  - the Order
-WotC_ref: "[[WotC - 07 - Argynvostholt - The Order of the Silver Dragon]]"
-CoS-R_ref:
-home_base: "[[Argynvostholt]]"
+- the Order
+WotC_ref: '[[WotC - 07 - Argynvostholt - The Order of the Silver Dragon]]'
+CoS-R_ref: null
+home_base: '[[Argynvostholt]]'
 arcs:
-  - 
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc C - Into the Valley]]'
+- '[[Arc M - The Dragon''s Manor]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc I - The Walls of Krezk]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc H - The Lost Soul]]'
 connected_locations:
-  - "[[Argynvostholt]]"
+- '[[Argynvostholt]]'
 notable_npcs:
-  - "[[Standimir]]"
-  - "[[Sir Godfrey Gwilym]]"
-  - "[[Commander Vladimir Horngaard]]"
-threat_level:
-first_appearance_date:
+- '[[Commander Vladimir Horngaard]]'
+- '[[Sir Godfrey Gwilym]]'
+- '[[Standimir]]'
+threat_level: null
+first_appearance_date: null
 first_appearance_session: 7
 tags:
-  - cos
-  - faction
+- cos
+- faction
 publish: true
 ---
 %% A faction is a group of people connected by common ethnicity, political cause, or other mission/identity/goal. They can be organized to varying degrees. %%

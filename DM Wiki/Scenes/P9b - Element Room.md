@@ -1,17 +1,17 @@
 ---
-party_presence:
-npc_presence:
-arc: "[[Arc P - Ravenloft Heist]]"
-CoS-R_Ref: "[[Arc P - Ravenloft Heist#P9b. Element Room]]"
-location:
-session:
-party_level:
+party_presence: null
+npc_presence: null
+arcs: '[[Arc P - Ravenloft Heist]]'
+CoS-R_Ref: '[[Arc P - Ravenloft Heist#P9b. Element Room]]'
+locations: null
+session: null
+party_level: null
 combat_possible?: false
 has_vignette: false
 tags:
-  - cos
-  - scene
-  - ai_generated
+- cos
+- scene
+- ai_generated
 publish: false
 ---
 %% a scene is a chunk of role-playing not requiring initiative -- it has NPCs, a setting, party members present, etc. %%

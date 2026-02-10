@@ -1,18 +1,26 @@
 ---
-belongs_to: "[[DM Wiki/Entities/NPCs/Strahd von Zarovich]]"
-CoS-R_ref:
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Heart of Sorrow]]"
-current_location: "[[Castle Ravenloft]]"
+belongs_to: '[[DM Wiki/Entities/NPCs/Strahd von Zarovich]]'
+CoS-R_ref: null
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Heart of Sorrow]]'
+current_location: '[[Castle Ravenloft]]'
 tags:
-  - ai_generated
-  - cos
-  - item
-  - magic-item
-  - artifact
-  - castle-ravenloft
+- ai_generated
+- cos
+- item
+- magic-item
+- artifact
+- castle-ravenloft
 publish: false
+type: Item
+arcs:
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc S - A Sword of Sunlight]]'
 ---
-
 <!-- DM-Only Start -->
 # Heart of Sorrow
 

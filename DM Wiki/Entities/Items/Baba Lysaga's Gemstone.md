@@ -1,18 +1,18 @@
 ---
-belongs_to: "[[Baba Lysaga]]"
-CoS-R_ref:
-WotC_ref: "[[20_Appendix D - Monsters and NPCs#Baba Lysaga's Creeping Hut]]"
-current_location: "[[Baba Lysaga's Creeping Hut]]"
+belongs_to: '[[Baba Lysaga]]'
+CoS-R_ref: null
+WotC_ref: '[[20_Appendix D - Monsters and NPCs#Baba Lysaga''s Creeping Hut]]'
+current_location: '[[Baba Lysaga''s Creeping Hut]]'
 tags:
-  - ai_generated
-  - cos
-  - item
-  - magic-item
-  - gem
-  - wizard-of-wines
+- ai_generated
+- cos
+- item
+- magic-item
+- gem
+- wizard-of-wines
 publish: false
+type: Item
 ---
-
 <!-- DM-Only Start -->
 # Baba Lysaga's Gemstone
 

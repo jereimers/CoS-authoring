@@ -2,38 +2,46 @@
 type: NPC
 name: Muriel Vinshaw
 aliases:
-  - Blue-Winged Raven
+- Blue-Winged Raven
 pronouns: she/her
 race: Human
 class: Wereraven
-age:
+age: null
 gender: female
-creature_type:
-origin:
-home_base:
-current_location:
-factions:
-arc:
-first_appearance_session:
-first_appearance_date:
-status:
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait: "[[muriel-vinshaw.png]]"
+creature_type: null
+origin: null
+home_base: null
+current_location: null
+factions: null
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc C - Into the Valley]]'
+first_appearance_session: null
+first_appearance_date: null
+status: null
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: '[[muriel-vinshaw.png]]'
 portrait_credit: Caleb Cleveland @calebisdrawing
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-CoS-R_ref: "[[Arc J - The Stolen Gem#^Profile-Muriel-Vinshaw]]"
-WotC_ref:
+- npc
+- cos
+CoS-R_ref: '[[Arc J - The Stolen Gem#^Profile-Muriel-Vinshaw]]'
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Who they are
 

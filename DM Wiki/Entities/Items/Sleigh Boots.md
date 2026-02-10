@@ -6,7 +6,6 @@ current_location: "[[Mt Crumpit]]"
 tags:
   - cos
   - item
-  - ai_generated
   - wondrous_item
   - uncommon
 type: Wondrous Item

@@ -9,11 +9,12 @@ age:
 gender: male
 creature_type: humanoid
 origin:
-home_base:
-current_location:
+home_base: "[[The Wizard of Wines]]"
+current_location: "[[The Wizard of Wines]]"
 factions:
   - "[[Keepers of the Feather]]"
-arc:
+arcs:
+  - "[[Arc U - Dreams of Dawn]]"
 first_appearance_session:
 first_appearance_date:
 status: alive
@@ -34,6 +35,7 @@ tags:
 CoS-R_ref:
 WotC_ref:
 publish: false
+region: Wilderness
 ---
 # Who they are
 

@@ -1,42 +1,52 @@
 ---
 type: NPC
 name: Doru
-aliases:
+aliases: null
 pronouns: he/him
 race: Human (Vampire Spawn)
-class:
+class: null
 age: 21
 gender: male
 creature_type: undead
-origin: "[[Village of Barovia]]"
-home_base: "[[Church]]"
-current_location: "[[Church]]"
-factions:
-arc:
-  - "[[Arc B - Welcome to Barovia]]"
+origin: '[[Village of Barovia]]'
+home_base: '[[Church]]'
+current_location: '[[Church]]'
+factions: null
+arcs:
+- '[[Arc E - The Missing Vistana]]'
+- '[[Arc P - Ravenloft Heist]]'
+- '[[Arc J - The Stolen Gem]]'
+- '[[Arc B - Welcome to Barovia]]'
+- '[[Arc D - St. Andral''s Feast]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc O - Dinner with the Devil]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 3
 first_appearance_date: 27 Octyavr 735
 status: undead
-cr:
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
+cr: null
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
 relationships:
-  - "[[Father Donavich]]"
-  - "[[Gertruda]]"
-portrait: "[[03-006.doru.png]]"
+- '[[Father Donavich]]'
+- '[[Gertruda]]'
+portrait: '[[03-006.doru.png]]'
 portrait_credit: CoS-WotC
-handouts:
+handouts: null
 tags:
-  - npc
-  - cos
-  - barovia-village
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- barovia-village
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Wilderness
 ---
 # Who they are
 

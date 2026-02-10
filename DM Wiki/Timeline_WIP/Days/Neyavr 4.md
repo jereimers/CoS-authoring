@@ -1,8 +1,8 @@
 ---
 type: barovian_day
 tags:
-  - timeline
-  - barovia/date
+- timeline
+- barovia/date
 barovian_date_key: 0735-11-04
 barovian_date: 4 Neyavr, 735
 month: Neyavr
@@ -10,23 +10,23 @@ day_of_month: 4
 moon_phase: waxing_half
 primary_location: Vallaki
 act: Act II
-arc: Arc D - St. Andral's Feast
+arcs: Arc D - St. Andral's Feast
 sessions:
-  - 
-  - 
+- null
+- null
 party_level: 4
 major_events:
-  - Arabelle's Nameday
+- Arabelle's Nameday
 factions_active:
-  - Wachter Cult
-  - Vistani (Town Camp)
+- Wachter Cult
+- Vistani (Town Camp)
 party_presence:
-  - Arden
-  - Fig
-  - Choppy
-  - Varnish
-  - Ireena
-  - Parriwimple
+- Arden
+- Fig
+- Choppy
+- Varnish
+- Ireena
+- Parriwimple
 publish: false
 ---
 # 4 Neyavr, 735 — Vallaki

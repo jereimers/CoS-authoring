@@ -2,40 +2,47 @@
 type: NPC
 name: Karl Wachter
 aliases:
-  - Karl
+- Karl
 pronouns: he/him
 race: Human
-class:
-age:
+class: null
+age: null
 gender: male
 creature_type: humanoid
-origin: "[[Town of Vallaki|Vallaki]]"
-home_base: "[[Wachterhaus]]"
-current_location:
-factions:
-arc:
-  - "[[Arc C - Into the Valley]]"
+origin: '[[Town of Vallaki|Vallaki]]'
+home_base: '[[Wachterhaus]]'
+current_location: null
+factions: null
+arcs:
+- '[[Arc T - The Three Fanes]]'
+- '[[Arc U - Dreams of Dawn]]'
+- '[[Arc R - Trials of the Mountain]]'
+- '[[Arc F - Lady Wachter''s Wish]]'
+- '[[Arc Q - A Shining Beacon]]'
+- '[[Arc H - The Lost Soul]]'
+- '[[Arc C - Into the Valley]]'
 first_appearance_session: 9
 first_appearance_date: 2 Neyavr 735
 status: alive
 cr: 5
-resonance:
-emotions:
-motivations:
-inspirations:
-vocal_notes:
-signature_lines:
-relationships:
-portrait:
-portrait_credit:
-handouts:
+resonance: null
+emotions: null
+motivations: null
+inspirations: null
+vocal_notes: null
+signature_lines: null
+relationships: null
+portrait: null
+portrait_credit: null
+handouts: null
 tags:
-  - npc
-  - cos
-  - vallaki
-CoS-R_ref:
-WotC_ref:
+- npc
+- cos
+- vallaki
+CoS-R_ref: null
+WotC_ref: null
 publish: true
+region: Vallaki
 ---
 # Portrait
 
