@@ -412,7 +412,7 @@ The mirror is a *spirit mirror*, a magical item that reflects both the Material 
 If persuaded to aid the players in finding [[Arabelle]], Victor can share the following information:
 
 * Three years ago, he found an old spellbook in his father’s library. He’s used it to study magic ever since.
-* The original owner of the spellbook was a mage named Khazan. The symbol on the cover of the spellborok was his personal sigil.
+* The original owner of the spellbook was a mage named Khazan. The symbol on the cover of the spellbook was his personal sigil.
 * Long ago, Khazan built a wizard’s tower, which he imbued with powerful enchantments, including a protective field that prevented any other spellcasters from using magic within its reach.
 
 If the players agree to investigate Khazan’s tower and give Victor any artifacts they find, he tells them where the tower can be found: a gravel causeway on Lake Baratok, to the west. 

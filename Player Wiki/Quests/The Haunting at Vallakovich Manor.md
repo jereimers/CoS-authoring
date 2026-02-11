@@ -1,16 +1,16 @@
 ---
-status: active
+status: closed
 tags:
-- cos
-- quest
-giver: '[[Baron Vargas Vallakovich]]'
+  - cos
+  - quest
+giver: "[[Baron Vargas Vallakovich]]"
 locations:
-- '[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster''s Mansion|Vallakovich Manor]]'
+  - "[[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Vallakovich Manor]]"
 NPCs_involved:
-- '[[Baron Vargas Vallakovich|Vargas]]'
-- '[[Victor Vallakovich|Victor]]'
-- '[[Stella Wachter|Stella]]'
-- '[[Tereska]]'
+  - "[[Baron Vargas Vallakovich|Vargas]]"
+  - "[[Victor Vallakovich|Victor]]"
+  - "[[Stella Wachter|Stella]]"
+  - "[[Tereska]]"
 publish: true
 ---
 # Objective
@@ -31,6 +31,7 @@ Investigate the haunting *discreetly*.
 # Appearance in Sessions
 
 - [[Session 12 - Into the Bone Zone#Beseeching the Baron|Session 12]]
+- [[Session 13 -#Victor's Workroom]] - Discovered that [[Victor Vallakovich|Victor]]'s friend [[Stella Wachter|Stella]] was behind the strange occurrences (see [[The Lost Soul]])
 
 
 
