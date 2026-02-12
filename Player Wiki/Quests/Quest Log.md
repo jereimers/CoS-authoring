@@ -5,7 +5,6 @@ publish: true
 
 ## Vallaki
 
-- [[Arabelle's Gift]] — by **noon** on [[Neyavr 4]]
 - [[The Haunting at Vallakovich Manor]]
 
 ## Village of Barovia
@@ -22,6 +21,7 @@ publish: true
 
 - [[Escort Ireena]]
 - [[The Bones of St. Andral]]
+- [[Arabelle's Gift]] — by **noon** on [[Neyavr 4]]
 
 # Rumored/Unconfirmed
 

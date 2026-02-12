@@ -1,25 +1,25 @@
 ---
 barovian_dates:
-- '[[Neyavr 4]]'
+  - "[[Neyavr 4]]"
 locations:
-- '[[Blue Water Inn]]'
-- '[[Vistani Camp]]'
-- '[[Wachterhaus]]'
-NPCs_met: null
+  - "[[Blue Water Inn]]"
+  - "[[Vistani Camp]]"
+  - "[[Wachterhaus]]"
+NPCs_met:
 arcs:
-- '[[Arc D - St. Andral''s Feast]]'
-- '[[Arc E - The Missing Vistana]]'
+  - "[[Arc E - The Missing Vistana]]"
+  - "[[Arc H - The Lost Soul]]"
 combat: false
-has_recap: null
-play_date: null
+has_recap:
+play_date:
 tags:
-- cos
-- session
-- vallaki
+  - cos
+  - session
+  - vallaki
 play_date_key: 2026-02-04
-status: planning
+status: played
 barovian_date_key: 0735-11-03
-publish: null
+publish:
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
 

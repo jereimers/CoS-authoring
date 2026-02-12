@@ -2,12 +2,13 @@
 publish: true
 ---
 # 🔗 Quick Links
-- 📜 [[Quest Log]]
-- 🗓️ [[Player Wiki/Session Recaps/Index|Session Recaps]]
-- 🧑‍🤝‍🧑 [[Party Roster]]
-- 🗺️ [[Known Locations]] (Coming Soon!)
-- 🎭 [[Notable NPCs]] (Coming Soon!)
-- ✉️ [[Handouts & Letters]] (Coming Soon!)
+- [[Quest Log]]
+- [[Player Wiki/Session Recaps/Index|Session Recaps]]
+- [[Party Roster]]
+- [[The Tarokka Reading]] — *this is kinda important to keep in mind throughout the campaign*
+- [[Known Locations]] (Coming Soon!)
+- [[Notable NPCs]] (Coming Soon!)
+- [[Handouts & Letters]] (Coming Soon!)
 
 ## External links
 - [D&D Beyond VTT](https://www.dndbeyond.com/games/4729476) — where combat happens

@@ -26,11 +26,11 @@ Purchase a gift for [[Arabelle]] at [[Blinsky Toys]] in [[Town of Vallaki|Vallak
 
 # Appearance in Sessions
 - [[Session 07 - The Tarokka Reading]]
-- [[Session 11 - No Bones About It]] — picked up the toy!
+- [[Session 11 - No Bones About It]] — You picked up the toy! A ~~creepy~~ lovely little music box styled like a carousel with wolves chasing small children.
+- [[Session 13 -]] — You delivered the toy, but Arabelle wasn't there! See 
 
 %%
 # Secrets
-- The first time the party visits Blinsky toys, [[The Theft at Blinsky's Toys]] initiates.
 - Arabelle is not at the Vistani Camp, having instead been kidnapped (see [[Arc E - The Missing Vistana]]). She is, at present, inside [[Rictavio]]'s carnival wagon in [[Arasek Stockyard]]
 
 %%

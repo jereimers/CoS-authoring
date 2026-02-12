@@ -92,7 +92,7 @@ Captain of the [[Town of Vallaki|Vallaki]] city watch, personal bodyguard of [[B
 # Izek Strazni Profile
 
 ## Portrait
-![[Source/homebrew/images/izek-strazni.png]]
+
 
 ## Roleplaying Information
 
