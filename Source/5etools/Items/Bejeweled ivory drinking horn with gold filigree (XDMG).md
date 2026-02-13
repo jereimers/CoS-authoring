@@ -1,0 +1,22 @@
+---
+name: Bejeweled ivory drinking horn with gold filigree
+source: XDMG
+source_full: "2024 Dungeon Master's Guide"
+aliases: 
+  - Bejeweled ivory drinking horn with gold filigree (XDMG)
+tags: [ai_generated, 5etools, item, none]
+type: item
+rarity: None
+requires_attunement: false
+wondrous: false
+---
+
+# Bejeweled ivory drinking horn with gold filigree
+
+*Item, None*
+
+
+
+---
+
+**Source:** 2024 Dungeon Master's Guide, p. 215

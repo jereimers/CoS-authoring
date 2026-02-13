@@ -1,0 +1,37 @@
+---
+name: Grease
+aliases: [grease]
+tags: [ai_generated, 5e-srd, spell, conjuration, level-1]
+type: spell
+level: 1
+school: Conjuration
+casting_time: 1 action
+range: 60 feet
+components: [V, S, M]
+duration: 1 minute
+concentration: false
+ritual: false
+classes: [Wizard]
+damage_type: null
+---
+
+# Grease
+
+*1st-level conjuration*
+
+---
+
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S, M (A bit of pork rind or butter.)  
+**Duration:** 1 minute
+
+---
+
+Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
+
+When the grease appears, each creature standing in its area must succeed on a dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a dexterity saving throw or fall prone.
+
+---
+
+**Classes:** [[Wizard]]

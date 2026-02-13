@@ -1,0 +1,21 @@
+---
+name: Star Sapphire
+source: XDMG
+source_full: "2024 Dungeon Master's Guide"
+aliases: [Star Sapphire (XDMG)]
+tags: [ai_generated, 5etools, item, none]
+type: item
+rarity: None
+requires_attunement: false
+wondrous: false
+---
+
+# Star Sapphire
+
+*Item, None*
+
+A blue sapphire with white star-shaped center gemstone.
+
+---
+
+**Source:** 2024 Dungeon Master's Guide, p. 214
