@@ -190,7 +190,7 @@ The woman immediately attempts to flee into the woods. If the players attempt to
 
 Muriel doesn’t know why the woman was watching the road, but shares that the Mountain Folk have been more active lately, though no one is quite sure why. Reports suggest that they’re looking for something, however. (If asked how she knows so much about the Mountain Folk, Muriel laughs and claims only that she’s well-traveled and has “many friends" across the valley.)
 
-If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in ***Arc I: The Lost Soul***, she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
+If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in [[Arc H - The Lost Soul]] she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
 ## J2c. The Raven River Crossroads
 The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
 
@@ -223,12 +223,24 @@ A player with a passive Wisdom (Perception) score of 15 or greater or who succee
 
 In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
 > [!combat]- **Balancing the False Trail**
 > This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 10% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The False Trail**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 5
+> **Allies:** Muriel Vinshaw (CR 1), and Ireena Kolyana (CR 2)
+> **Expected HP Consumption:** 10%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
 > 
-> * ***Three Players.*** Reduce the number of vine blights to three. 
-> * ***Four Players.*** Reduce the number of vine blights to four. 
-> * ***Six Players.*** Increase the number of vine blights to six. 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Vine Blight | 3 | 4 | 5 | 6 |
+
+
 ## J2e. The Huntress’s Monument
 As the players proceed past the pit trap, read:
 
@@ -479,12 +491,23 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
 
 The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
 > [!combat]- **Balancing the Cellar**
 > This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 29% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The Cellar**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 5
+> **Allies:** Ireena Kolyana (CR 2)
+> **Expected HP Consumption:** 29%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
 > 
-> * ***Three Players.*** Reduce the number of needle blights to four.
-> * ***Four Players.*** Reduce the number of needle blights to six.
-> * ***Six Players.*** Increase the number of needle blights to ten.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Druid Assailant | 1 | 1 | 1 | 1 |
+> | Needle Blight | 4 | 6 | 8 | 10 |
 
 > [!info]+ **Alerting the Druids**
 > If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
@@ -505,7 +528,7 @@ The ivy covering the wine racks is a particularly nasty type of carnivorous razo
 
 When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
 ## J3c. Ascending the Stairs
-The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 177)</span>, and <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
+The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 178)</span>, and <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
 
 As the players climb the spiral staircase or back staircase toward the first floor, read:
 
@@ -581,12 +604,27 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 > 
 > Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
 > [!combat]- **Balancing the Vat Room**
 > This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The Vat Room**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 5
+> **Allies:** Ireena Kolyana (CR 2)
+> **Expected HP Consumption:** 33%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
 > 
-> * ***Three Players.*** Replace the elder twig blights with ordinary **twig blights**.
-> * ***Four Players.*** Reduce the number of elder twig blights to one.
-> * ***Six Players.*** Increase the number of swarms of twig blights to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Druid Assailant | 1 | 1 | 1 | 1 |
+> | Druid Naturalist | 1 | 1 | 1 | 1 |
+> | Elder Twig Blight | 0 | 1 | 2 | 2 |
+> | Swarm of Twig Blights | 2 | 2 | 2 | 3 |
+> | Twig Blight | 2 | 0 | 0 | 0 |
+> | Vine Blight | 3 | 3 | 3 | 3 |
 
 Because she has previously cast *speak with animals*, Silvia has only three 1st-level spell slots remaining at the beginning of combat.
 
@@ -762,12 +800,23 @@ The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immuni
 
 Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
 > [!combat]- **Balancing the Loading Dock**
 > This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The Loading Dock**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 5
+> **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
+> **Expected HP Consumption:** 22%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
 > 
-> * ***Three Players.*** Reduce the number of vine blights to three.
-> * ***Four Players.*** Reduce the number of vine blights to four.
-> * ***Six Players.*** Increase the number of vine blights to six. Increase the number of twig blights to six.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Twig Blight | 5 | 5 | 5 | 6 |
+> | Vine Blight | 3 | 4 | 5 | 6 |
 
 The three barrels, which stand in the northeast, southeast, and northwest corners of the room, are largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, but are covered with strands of **poison razorvine.** 
 
@@ -787,12 +836,24 @@ When the players first reach the second floor, they can hear the sound of clatte
 
 The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
 > [!combat]- **Balancing the Printing Press**
 > This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The Printing Press**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 5
+> **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
+> **Expected HP Consumption:** 12%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
 > 
-> * ***Three Players.*** Reduce the number of vine blights to one.
-> * ***Four Players.*** Reduce the number of vine blights to two.
-> * ***Six Players.*** Increase the number of vine blights to four.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Druid Assailant | 1 | 1 | 1 | 1 |
+> | Vine Blight | 1 | 2 | 3 | 4 |
+
 ### Loading Winch
 <span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
 
@@ -809,7 +870,7 @@ The two artificial birds are **greater strixes.** The man is a **druid naturalis
 
 * ***Indomitable.*** <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Lorghoth can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.).
 * ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
-* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points) and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
+* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points), spellcasting abilities, and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
 
 The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
 
@@ -829,12 +890,33 @@ If the players speak with him, Lorghoth is glad to share the following informati
 
 When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
 > [!combat]- **Balancing the Loading Winch**
 > This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The Loading Winch**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 5
+> **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
+> **Expected HP Consumption:** 21%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
 > 
-> * ***Three Players.*** Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken.
-> * ***Four Players.*** Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
-> * ***Six Players.*** Add four **swarms of lesser strix**. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Druid Naturalist | 1 | 1 | 1 | 1 |
+> | Greater Strix | 0 | 1 | 2 | 2 |
+> | Swarm of Lesser Strix | 3 | 2 | 0 | 4 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken. |
+> | 4 | Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken. |
+> | 6 | Add four **swarms of lesser strix**. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken. |
 
 On his first turn in combat, Lorghoth uses his _**master of blights**_ feature to summon the horde of thirty **needle blights** from the vineyard. Read:
 
@@ -1114,12 +1196,24 @@ Just beside the entrance to the ring of black boulders that forms the **Druids�
 
 The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
 > [!combat]- **Balancing the Ritual’s Guards**
 > The combat encounter with the **druid assailants** and **berserkers** (see [[Arc J - The Stolen Gem#J5c. The Ritual Begins|The Ritual Begins]] below) is a **bruising** combat encounter against a party of five 5th-level players, and two CR 2 allies ([[Ireena Kolyana]] and Muriel Vinshaw), and will consume approximately 25% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The Ritual's Guards**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 5
+> **Allies:** Ireena Kolyana (CR 2), and Muriel Vinshaw (CR 2)
+> **Expected HP Consumption:** 25%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
 > 
-> * ***Three Players.*** Reduce the number of druid assailants to one.
-> * ***Four Players.*** Reduce the number of berserkers to one.
-> * ***Six Players.*** Increase the number of berserkers to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Berserker | 2 | 1 | 2 | 3 |
+> | Druid Assailant | 1 | 2 | 2 | 2 |
+> | Ludmilla Vilisevic | 1 | 1 | 1 | 1 |
 
 A player who succeeds on a DC 14 Wisdom (Perception) check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
 ## J5b. Ludmilla's Challenge
@@ -1300,6 +1394,7 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
     <p><strong><em>Regeneration.</em></strong> Ludmilla regains 10 hit points at the start of her turn if she has at least 1 hit point and isn’t in sunlight or running water. If she takes radiant damage or damage from holy water, this trait doesn't function at the start of her next turn.</p>
     <p><strong><em>Spider Climb.</em></strong> Ludmilla can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
     <p><strong><em>Sunlight Hypersensitivity.</em></strong> While in sunlight, Ludmilla takes 20 radiant damage at the start of her turn, and she has disadvantage on attack rolls and ability checks.</p>
+    <p><strong><em>Fast Grappler.</em></strong> Ludmilla does not have to spend extra movement to move a creature grappled by her if the grappled creature is the same size or smaller.</p>
     <p><strong><em>Form of Mist.</em></strong> When Ludmilla is reduced to 0 hit points, her statistics are instantly replaced by the statistics of her second form. Her initiative count doesn't change. Excess damage doesn't carry over to her new form, but she retains any conditions she had in her previous form.</p>
     <h3>Actions</h3>
     <p><strong><em>Grease.</em></strong> Ludmilla casts <em>grease</em> (DC 15) in a 20-foot-square area.</p>
@@ -1317,12 +1412,25 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
     <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, a <em>contingency</em> spell activates, allowing her to gain the effects of <em>dimension door</em>. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
 </div>
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
 > [!combat]- **Balancing the Second Bride**
 > This combat encounter is a **brusing** combat encounter against a party of five 5th-level players. one CR 1 ally (Muriel Vinshaw), and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 20% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The Second Bride**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 5
+> **Allies:** Muriel Vinshaw (CR 1), Ireena Kolyana (CR 2)
+> **Expected HP Consumption:** 20%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
 > 
-> * ***Three Players.*** Decrease Ludmilla’s hit points to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). 
-> * ***Four Players.*** Decrease Ludmilla’s hit points to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). 
-> * ***Six Players.*** Increase Ludmilla’s hit points to 136. 
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Decrease Ludmilla’s hit points to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). |
+> | 4 | Decrease Ludmilla’s hit points to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). |
+> | 6 | Increase Ludmilla’s hit points to 136. |
 
 In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.
 

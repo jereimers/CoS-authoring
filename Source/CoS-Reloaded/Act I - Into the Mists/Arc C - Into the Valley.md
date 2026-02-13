@@ -10,7 +10,7 @@ Soon afterward, the players finally arrive at the Vistani encampment at Tser Poo
 
 While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the *Holy Symbol of Ravenkind*, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, [[Arabelle]].
 
-If the players are tasked with escorting [[Ireena]] to [[St. Andral's Church]] in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
+If the players are tasked with escorting [[Ireena Kolyana|Ireena]] to [[St. Andral's Church]] in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**. 
 
 Upon arriving in Vallaki, the players can find lodgings at the [[Blue Water Inn]]. There, they can meet a host of colorful characters, including the ringmaster [[Rictavio]] and the [[The Brothers Wachter|sons of Lady Fiona Wachter]]. When morning comes, the players can also have a fateful encounter with [[Baron Vargas Vallakovich]] and his brutish enforcer, [[Izek Strazni]]...
 
@@ -247,12 +247,32 @@ The **greater strix** uses the statistics of a **manticore**, but is a Medium co
 
 The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**, but with vulnerability to fire damage). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act I - Into the Mists/Arc C - Into the Valley.md
 > [!combat]- **Balancing the Strix**
 > This combat encounter is a **bruising** encounter against a party of five 3rd-level players and a CR 1 ally ([[Ireena Kolyana]]), and will consume approximately 34% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The Strix**  
+> **Combat Level**: Bruising
+> **Expected Character Level**: 3
+> **Allies:** Ireena Kolyana (CR 1)
+> **Expected HP Consumption:** 34%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act I - Into the Mists/Arc C - Into the Valley.md
 > 
-> * ***Three Players.*** Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer.
-> * ***Four Players.*** Reduce the number of swarms of lesser strix to one.
-> * ***Six Players.*** Increase the number of swarms of lesser strix to three.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Greater Strix | 1 | 1 | 1 | 1 |
+> | Swarm of Lesser Strix | 1 | 1 | 2 | 3 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the greater strix’s hit points to 46. Reduce its ***tail spike*** and ***bite*** attacks to 5 (1d6+2) piercing damage and its ***claw*** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its ***bite*** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer. |
+> | 4 | Reduce the number of swarms of lesser strix to one. |
+> | 6 | Increase the number of swarms of lesser strix to three. |
 
 These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players instead if they attempt to harm it or otherwise shelter Muriel from its assault. It fights to the death.
 
@@ -338,8 +358,11 @@ If she learns that the players plan to travel to Vallaki, Muriel travels with th
 
 The journey from the River Ivlis Crossroads to the Tser Pool Encampment is one-and-a-half miles long and takes thirty minutes.
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act I - Into the Mists/Arc C - Into the Valley.md
 > [!warning]+ **New Content Warning**
 > In the v2.0.8 update, added **July 18, 2024**, Madam Eva's invitation in [[Arc B - Welcome to Barovia]] was removed. In its place, Ismark Kolyanovich now asks the players to travel to Tser Pool and seek Madam Eva's guidance on how Strahd may be defeated. Dungeon Masters who used the old version of Arc B should instead use the [[Deprecated Material/Arc C - Into the Valley#C4. Tser Pool|deprecated version of this scene]]. (All other scenes in this arc, beginning with [[#C5. The Skeletal Rider]], remain unchanged.)
+=======
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act I - Into the Mists/Arc C - Into the Valley.md
 ## C4a. Arrival at Tser Pool
 This area is largely as described in [[G. Tser Pool Encampment (p. 36)]]. However, none of the Vistani at the camp are intoxicated, and only one—a Vistana woman named Eliza—serves as a spy for Strahd.
 
@@ -746,12 +769,32 @@ If the players pause, proceed, or attack, the six wolves in the woods strike. Re
 
 ![[wolf-ravine.jpg]]
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act I - Into the Mists/Arc C - Into the Valley.md
 > [!combat]- **Balancing the Wolves** 
 > This combat encounter is a bloody encounter against a party of five 3rd-level players, a CR 1 ally ([[Ireena Kolyana]]), and a CR 0 ally (Muriel in raven form), and will consume approximately 58% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
+=======
+> [!combat]- **Combat - The Wolves**  
+> **Combat Level**: Bloody
+> **Expected Character Level**: 3
+> **Allies:** Muriel Vinshaw (CR 0), Ireena Kolyana (CR 1)
+> **Expected HP Consumption:** 58%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act I - Into the Mists/Arc C - Into the Valley.md
 > 
-> * **Three Players**. Reduce the number of wolves to 3. 
-> * **Four Players**. Reduce the number of wolves to 4. 
-> * **Six Players**. Reduce the number of wolves to 1 and increase the number of werewolves to 2.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Wolves | 3 | 4 | 8 | 1 |
+> | Werewolves | 0 | 0 | 0 | 2 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the number of wolves to 3. |
+> | 4 | Reduce the number of wolves to 4. |
+> | 6 | Reduce the number of wolves to 1 and increase the number of werewolves to 2. |
 
 Replace the wolves' ***bite*** attack with the following action options:
 
@@ -1001,12 +1044,23 @@ If the werewolves die, they reverts to their true forms: a young man with pale, 
 
 Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
 
+<<<<<<< HEAD:Source/CoS-Reloaded/Act I - Into the Mists/Arc C - Into the Valley.md
 > [!combat]+ **Balancing the Werewolf Hunt** 
 > This combat encounter is an **oppressive** combat encounter against a party of five 3rd-level players, a CR 1 ally ([[Ireena Kolyana]]), two CR 1/4 allies (swarms of ravens), and a CR 0 ally (Muriel), and will consume approximately 84% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+=======
+> [!combat]- **Combat - The Werewolf Hunt**  
+> **Combat Level**: Oppressive
+> **Expected Character Level**: 3
+> **Allies:** Two swarms of ravens (CR 1/4), Ireena Kolyana (CR 1)
+> **Expected HP Consumption:** 84%
+>>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act I - Into the Mists/Arc C - Into the Valley.md
 > 
-> * _**Three Players.**_ Reduce the number of wolves to one.,
-> * _**Four Players.**_ Reduce the number of wolves to two.,
-> * _**Six Players.**_ Increase the number of wolves to four.
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Werewolf | 2 | 2 | 2 | 2 |
+> | Wolf | 1 | 2 | 3 | 4 |
 
 > [!info]+ **Lycanthropy in Barovia**
 >

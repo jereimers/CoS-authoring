@@ -11,6 +11,17 @@ tags:
   - cos
   - pc
 publish: true
+ac: 16
+passive_perception: 14
+skill_proficiencies:
+  - athletics
+  - investigation
+  - perception
+  - persuasion
+spells:
+defenses:
+  - "IMMUNITY: magical sleep"
+  - "IMMUNITY: disease"
 ---
 # Portrait
 

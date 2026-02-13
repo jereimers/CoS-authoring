@@ -495,11 +495,29 @@ If he is present, Bildrath’s face grows grim, and he grips his crossbow tightl
 > * ***Undead Fortitude (1/day).*** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining. 
 
   
-> [!combat]- **Balancing the Siege** 
-> Due to the wave mechanic, this combat encounter is a series of two consecutive **mild** combat encounters and a third **bloody** combat encounter against a party of five 3rd-level players, a CR 0 ally (Bildrath), and a CR 2 ally (Parriwimple), the first of which will consume approximately 15% of their total maximum hit points, the second of which will consume approximately 17% of their total maximum hit points, and the third of which will consume approximately 34% of their maximum hit points (for a total of 66% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul. 
-> * **Four Players**. Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies. 
-> * **Six Players**. Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave.
+> [!combat]- **Combat - The Siege**  
+> **Combat Level**: Mild (first wave), Mild (second wave), Bloody (third wave)
+> **Expected Character Level**: 3
+> **Allies:** Bildrath (CR 0), Parriwimple (CR 2)
+> **Expected HP Consumption:** 66%
+> 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Ghoul | 3 | 2 | 2 | 2 |
+> | Wight | 0 | 0 | 1 | 1 |
+> | Zombie | 5 | 9 | 8 | 11 |
+> | Zombie Plague Spreader | 1 | 1 | 1 | 1 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Reduce the number of zombies in the first wave to 5. Remove the zombies in the second wave. Replace the wight in the third wave with a ghoul. |
+> | 4 | Reduce the number of zombies in the first wave to five. Reduce the number of zombies in the second wave to one. Replace the wight in the third wave with three zombies. |
+> | 6 | Increase the number of zombies in the first wave to seven. Increase the number of zombies in the second wave to three. Add one zombie to the third wave. |
 
 ***The First Wave.*** Not long after darkness falls, six **zombies** emerge from the darkness and approach the barricade. Read:
 
@@ -563,11 +581,27 @@ Ismark, who has been reduced to 40 hit points, welcomes any help the players can
 
 The plague spreader, which begins 120 feet from the center of the town square and has the same modifications as the plague spreader in [[#The Siege]], won’t use its ***virulent miasma*** until it reaches the center of the town square or is reduced to 30 hit points or fewer. Each round, it attempts to move its full speed in a straight line toward the town square. If it can’t, it uses its ***multiattack*** to attack any creatures within reach. (The plague spreader doesn’t attempt to move around creatures obstructing it, even if doing so could allow it to reach its destination.)
   
-> [!combat]- **Balancing the Town Square** 
-> This combat encounter is a **mild** combat encounter against a party of five 3rd-level players and a CR 3 ally (Ismark Kolyanovich), and will consume approximately 16% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows: 
-> * **Three Players**. Decrease the zombie plague spreader’s hit points to 93, remove the necrotic damage from its Slam attacks, and decrease the damage of its virulent miasma to 2d4. 
-> * **Four Players**. Decrease the zombie plague spreader’s hit points to 112 and decrease the necrotic damage of its unarmed strikes to 1d6. 
-> * **Six Players**. Add one zombie fighting alongside the plague spreader.
+> [!combat]- **Combat - The Town Square**  
+> **Combat Level**: Mild
+> **Expected Character Level**: 3
+> **Allies:** Ismark Kolyanovich (CR 3)
+> **Expected HP Consumption:** 16%
+> 
+> ### **Enemies:**
+> 
+> | |3 Players | 4 Players | 5 Players | 6 Players |
+> |-|-|-|-|-|
+> | Zombie | 0 | 0 | 0 | 1 |
+> | Zombie Plague Spreader | 1 | 1 | 1 | 1 |
+>
+> ### **Balancing:**
+> If you have fewer or more than 5 players, modify the encounter in the following ways:
+>
+> | Number of Players | Modification |
+> |-|-|
+> | 3 | Decrease the zombie plague spreader’s hit points to 93, remove the necrotic damage from its Slam attacks, and decrease the damage of its virulent miasma to 2d4. |
+> | 4 | Decrease the zombie plague spreader’s hit points to 112 and decrease the necrotic damage of its unarmed strikes to 1d6. |
+> | 6 | Add one zombie fighting alongside the plague spreader. |
 
 > [!info]+ **Dying NPCs**
 >
@@ -996,7 +1030,7 @@ Otherwise, if Doru successfully resists the bloodlust, read:
 
 Doru thanks the players and relinquishes the holy symbol without protest. If the players mention it, he is surprised to hear that his fangs have retracted, but recognizes the significance with humility and disbelief. (Doru has, after all, read *Van Richten's Guide to Vampires* many times.)
 
-Doru warns the players that Strahd will likely take an active interest in newcomers to his land, and that they should therefore be careful. As a token of his gratitude, he provides the players with the location of a hidden weapons cache that Van Richten kept in case of emergencies. To reach it, the players must cross the River Ivlis Bridge and travel down the Old Svalich Road three hundred paces south into the woods, until they arrive at an ancient oak tree. They'll find the cache nestled in a hollow beneath the tree's roots.
+Doru warns the players that Strahd will likely take an active interest in newcomers to his land, and that they should therefore be careful. As a token of his gratitude, he provides the players with the location of a hidden weapons cache that Van Richten kept in case of emergencies. To reach it, the players must cross the River Ivlis Bridge and travel off the Old Svalich Road three hundred paces south into the woods, until they arrive at an ancient oak tree. They'll find the cache nestled in a hollow beneath the tree's roots.
 
 If the players appear interested in learning more about vampires, Doru can share the information contained in **Born from Death** and **Chained to the Grave** in <span class="citation">Vampire (Monster Manual, p. 297)</span>, as well as the broad details of the **shapechanger***, **regeneration***, and **vampire weaknesses*** features of the **vampire** statblock. Doru notes, however, that the Devil is unlike any other vampire. "He holds powers beyond any ordinary vampire's ken. He is . . . unfathomable." He shudders, his eyes squeezing shut in painful remembrance. (Doru can't share any specifics regarding Strahd's capabilities, only that he seemed to slaughter Doru's friends "in mere moments.")
 
