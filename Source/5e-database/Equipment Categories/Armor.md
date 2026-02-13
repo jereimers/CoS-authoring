@@ -1,0 +1,53 @@
+---
+name: Armor
+aliases: [armor]
+tags: [ai_generated, 5e-srd, equipment-category]
+type: equipment-category
+---
+
+# Armor
+
+## Equipment in this Category
+
+- [[Padded Armor]]
+- [[Leather Armor]]
+- [[Studded Leather Armor]]
+- [[Hide Armor]]
+- [[Chain Shirt]]
+- [[Scale Mail]]
+- [[Breastplate]]
+- [[Half Plate Armor]]
+- [[Ring Mail]]
+- [[Chain Mail]]
+- [[Splint Armor]]
+- [[Plate Armor]]
+- [[Shield]]
+- [[Adamantine Armor]]
+- [[Animated Shield]]
+- [[Armor, +1, +2, or +3]]
+- [[Armor of Invulnerability]]
+- [[Armor of Resistance]]
+- [[Armor of Vulnerability]]
+- [[Arrow-Catching Shield]]
+- [[Demon Armor]]
+- [[Dragon Scale Mail]]
+- [[Dwarven Plate]]
+- [[Elven Chain]]
+- [[Glamoured Studded Leather Armor]]
+- [[Mithral Armor]]
+- [[Plate Armor of Etherealness]]
+- [[Shield of Missile Attraction]]
+- [[Spellguard Shield]]
+- [[Armor, +1]]
+- [[Armor, +2]]
+- [[Armor, +3]]
+- [[Black Dragon Scale Mail]]
+- [[Blue Dragon Scale Mail]]
+- [[Brass Dragon Scale Mail]]
+- [[Bronze Dragon Scale Mail]]
+- [[Copper Dragon Scale Mail]]
+- [[Gold Dragon Scale Mail]]
+- [[Green Dragon Scale Mail]]
+- [[Red Dragon Scale Mail]]
+- [[Silver Dragon Scale Mail]]
+- [[White Dragon Scale Mail]]

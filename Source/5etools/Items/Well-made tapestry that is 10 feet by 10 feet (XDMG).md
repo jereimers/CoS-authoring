@@ -1,0 +1,22 @@
+---
+name: Well-made tapestry that is 10 feet by 10 feet
+source: XDMG
+source_full: "2024 Dungeon Master's Guide"
+aliases: 
+  - Well-made tapestry that is 10 feet by 10 feet (XDMG)
+tags: [ai_generated, 5etools, item, none]
+type: item
+rarity: None
+requires_attunement: false
+wondrous: false
+---
+
+# Well-made tapestry that is 10 feet by 10 feet
+
+*Item, None*
+
+
+
+---
+
+**Source:** 2024 Dungeon Master's Guide, p. 215
