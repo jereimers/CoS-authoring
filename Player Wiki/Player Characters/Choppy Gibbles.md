@@ -1,8 +1,8 @@
 ---
 aliases:
   - Choppy
-species: Human
-class: Sorcerer
+species: "[[Human]]"
+class: "[[Sorcerer]]"
 subclass: Divine Heart
 level: 5
 player: Travis
@@ -11,6 +11,33 @@ tags:
   - cos
   - pc
 publish: true
+ac: 11
+passive_perception: 12
+skill_proficiencies:
+  - "[[Deception]]"
+  - "[[Insight]]"
+  - "[[Persuasion]]"
+  - "[[Sleight of Hand]]"
+  - "[[Survival]]"
+spells:
+  - "[[Elementalism (XPHB)]]"
+  - "[[Fire Bolt]]"
+  - "[[Guidance]]"
+  - "[[Mind Sliver (XPHB)]]"
+  - "[[Sorcerous Burst (XPHB)]]"
+  - "[[Bane]]"
+  - "[[Burning Hands]]"
+  - "[[Chromatic Orb (XPHB)]]"
+  - "[[Detect Magic]]"
+  - "[[Magic Missile]]"
+  - "[[Source/5e-database/Spells/Level 1/Shield|Shield]]"
+  - "[[Suggestion]]"
+  - "[[Zone of Truth]]"
+  - "[[Counterspell]]"
+  - "[[Fireball]]"
+defenses:
+movement: "30"
+type: PC
 ---
 # Portrait
 

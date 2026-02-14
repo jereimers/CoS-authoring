@@ -3,7 +3,6 @@ barovian_dates:
   - "[[Neyavr 4]]"
 locations:
   - "[[Blue Water Inn]]"
-  - "[[Vistani Camp]]"
   - "[[Wachterhaus]]"
 NPCs_met:
 arcs:
@@ -20,7 +19,7 @@ tags:
   - vallaki
 play_date_key: 2026-02-18
 status: planning
-barovian_date_key: 0735-11-03
+barovian_date_key: 0735-11-04
 publish:
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
@@ -35,19 +34,33 @@ We pick up at Wachterhaus, as dinner with Lady Fiona is about to begin.
 
 ![[Arc F - Lady Wachter's Wish#^Profile-Lady-Fiona-Wachter]]
 ### Drinks in the Parlor
-[[Arc F - Lady Wachter's Wish#F2c. Drinks in the Parlor]]
 
-### The Vallakovich Problem
+>[!tldr]+ Things Fiona can say to the players
+>***Arden:*** Your armor is magnificent, though I'm afraid I don't recognize the sigil on your breastplate... what meaning does it hold?
+>
+>***Fig:*** I can't say I've ever seen a blade such as that! Where did you acquire such a marvelous instrument? (Can also inquire about the silver dragon pendant)
+>
+>***Choppy:*** Aren't you a charming young man! However did you come to wield such powerful magics?
+>
+>***Varnish:*** I find your manner of dress fascinating, Mr. Gothorn, especially those shaded spectacles. Have they served you well here in our shadowed land?
 
-[[Arc F - Lady Wachter's Wish#F2d. The Vallakovich Problem]]
 
-### The Wachter Conspiracy
+![[Arc F - Lady Wachter's Wish#F2c. Drinks in the Parlor]]
 
-[[Arc F - Lady Wachter's Wish#F2e. The Wachter Conspiracy]]
+### The Vallakovich Problem (How to Depose the Baron)
+
+![[Arc F - Lady Wachter's Wish#F2d. The Vallakovich Problem]]
+
+### Speaking of Stella...
+
+![[Arc H - The Lost Soul#H5. Wachterhaus]]
+### The Wachter Conspiracy (A Plan to Kill Izek)
+
+![[Arc F - Lady Wachter's Wish#F2e. The Wachter Conspiracy]]
 
 ### The Traitor
 
-[[Arc F - Lady Wachter's Wish#F2f. The Traitor]]
+![[Arc F - Lady Wachter's Wish#F2f. The Traitor]]
 
 
 
@@ -74,6 +87,20 @@ We pick up at Wachterhaus, as dinner with Lady Fiona is about to begin.
 
 # Neyavr 5, Option 1: Plant the poisoned wine, kill [[Izek Strazni|Izek]] (Arc F)
 
+## Planting the Poinsoned Wine
+
+>[!note]+ DM NOTE
+>Have Ernst (or Urwin & Danika) confirm the players' plan before they embark
+
+![[Arc F - Lady Wachter's Wish#F4a. Planting the Poisoned Wine]]
+
+## Trailing Izek
+
+![[Arc F - Lady Wachter's Wish#F4b. Trailing Izek]]
+
+## Ambushing Izek (Neyavr 5, Evening)
+
+![[Arc F - Lady Wachter's Wish#F4c. Ambushing Izek]]
 # Neyavr 5, Option 2: Seek out [[Van Richten's Tower|Khazan's Tower]] (Arc E)
 
 ## Lake Zarovich (Szoldar & Yevgeni's Hunting Shack)
@@ -103,19 +130,74 @@ We pick up at Wachterhaus, as dinner with Lady Fiona is about to begin.
 ![[Arc E - The Missing Vistana#E6a. Ezmerelda’s Wagon]]
 
 ### The Tower
+
 >[!tldr]+ DESCRIPTION OF THE TOWER DOOR
 >The tower door is made of iron, with no visible handles or hinges. In the middle of the door is a large, embossed, blank red seal. Carved into the lintel above the door is a word: Khazan.
 
-![[Arc E - The Missing Vistana#E6b. The Tower]]
-# Neyavr 5 Option 3: Visit the Refugee Camp
+![[Arc E - The Missing Vistana#1. The Tower Door]]
 
+### The Scaffolding
+>[!tldr]+ DESCRIPTION OF THE SCAFFOLDING
+>Rotting wooden beams support the scaffolding, which groans and creaks with the slightest breeze. A series of ladders and platforms lead to a hole in the northwest wall on the third floor.
 
+![[Arc E - The Missing Vistana#2. The Scaffolding]]
+
+### Inside the Tower
+>[!tldr]+ Description of Tower, First Floor
+>The flagstone floor is strewn with debris, and a few old crates stand near the east wall. A torn curtain to the south partially obscures the tower vestibule.  
+>A five-foot-square indentation in the center of the floor contains four pulleys attached to taut iron chains that stretch up through a similarly sized hole in the rotted wooden ceiling. Standing next to the chains are four tall clay statues.
+
+>[!tldr]+ Description of Tower, Second Floor
+>Dust and cobwebs fill this otherwise empty room, the wooden floor of which is badly rotted and partially collapsed.
+>In the middle of the room is a 5 -foot-square hole in the floor and ceiling, with a rusty chain near each corner. The chains are part of the tower's elevator mechanism (see area V4). The 5 -foot-square sections of floor that surround the central shaft are weak. Each 5 -foot section can support **150 pounds**; any more weight causes the section to collapse, and any creatures standing on that section fall 20 feet to the ground floor.
+
+>[!tldr]+ Description of Tower, Third Floor
+>Time and the elements have all but destroyed this chamber, leaving a gash in the northwest wall and slimy black mildew on the walls. The wooden floor is completely rotted and has begun to fall away in places. In the southeastern corner stands an old, rotted crib.
+>In the middle of the room is a 5 -foot-square hole in the floor and ceiling, with a rusty chain near each corner. The chains are part of the tower's elevator mechanism (see area V4). The 5 -foot-square sections of floor that surround the central shaft are weak. Each 5 -foot section can support **50 pounds**; any more weight causes the section to collapse, and any creatures standing on that section fall 40 feet to the ground floor, smashing through the second floor on the way down.
+
+>[!tldr]+ Description of Tower, Fourth Floor
+>Unlike the levels below, this room shows signs of recent habitation, and although the place reeks of mold and mildew, it has plenty of creature comforts, including a cozy bed, a desk with matching chair, bright tapestries, and a large iron stove with plenty of wood to feed it. Light enters through arrow slits as well as through dirtcaked windows with broken shutters. Other features of the room include a standing suit of armor and a wooden chest. Old wooden rafters bend under the weight of the tower roof, which has somehow remained intact. Mounted to the rafters are pulleys around which hang iron chains that support the tower's elevator platform.
+
+![[Arc E - The Missing Vistana#3. Inside the Tower]]
+
+## The Road Back
+
+![[Arc E - The Missing Vistana#E7. The Road Back]]
+
+## Return to Vallaki
+
+>[!note]+ Player Options on Return to Vallaki (Arc E - The Missing Vistana)
+>When the players return to Vallaki, they can pursue their leads either by seeking out [[Rictavio]] at the [[Blue Water Inn]], or by directly investigating [[Rictavio]]’s wagon in Arasek Stockyard.
+
+### Confronting Rictavio
+
+![[Arc E - The Missing Vistana#E8a. Confronting Rictavio]]
+
+### Following Rictavio
+
+![[Arc E - The Missing Vistana#E8b. Following Rictavio]]
+
+### Rictavio's Wagon
+
+>[!note]+ Reminders
+>In this portion, remember that the box with Yan's head smells strongly of lavender and that the head has been embalmed using magical oils so that it won't decay and that it will remember its previous conversations had with characters using necromancy.
+
+![[Arc E - The Missing Vistana#E8c. Rictavio ’s Wagon]]
+# Neyavr 5 Option 3: Visit the Refugee Camp (Arc H)
+
+## Within the camp
+
+![[Arc H - The Lost Soul#H3a. Inside the Camp]]
+
+## Franz's Tent
+
+![[Arc H - The Lost Soul#H3b. Franz’s Tent]]
 # Who I'm gonna be in this session
 
 - Ireena
 - Burgomaster house staff: Claudia (primary maid), Tereska (cook)
 - Victor Vallakovich
-- Lady Fiona and her household (Haliq, Nikolai, Karl, Stella)
+- Lady Fiona
 
 
 

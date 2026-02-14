@@ -1,9 +1,9 @@
 ---
 aliases:
   - Fig
-species: Harengon
-class: Monk
-subclass: Warrior of Shadow
+species: "[[Harengon (WBtW)]]"
+class: "[[Source/5e-database/Classes/Monk|Monk]]"
+subclass: "[[Way of Shadow (PHB)]]"
 level: 5
 player: Kip
 character_sheet: https://www.dndbeyond.com/characters/142826007
@@ -11,6 +11,20 @@ tags:
   - cos
   - pc
 publish: true
+ac: 16
+passive_perception: 15
+skill_proficiencies:
+  - "[[Acrobatics]]"
+  - "[[Athletics]]"
+  - "[[Investigation]]"
+  - "[[Perception]]"
+  - "[[Religion]]"
+spells:
+  - "[[Minor Illusion]]"
+  - "[[Darkness]]"
+defenses:
+movement: "40"
+type: PC
 ---
 # Portrait
 

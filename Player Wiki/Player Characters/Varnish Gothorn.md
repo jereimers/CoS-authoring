@@ -1,9 +1,9 @@
 ---
 aliases:
   - Varnish
-species: Dward
-class: Bard
-subclass: College of Lore
+species: "[[Dwarf]]"
+class: "[[Bard]]"
+subclass: "[[College of Lore (XPHB)]]"
 level: 5
 player: Cody
 character_sheet: https://www.dndbeyond.com/characters/151521951
@@ -11,6 +11,33 @@ tags:
   - cos
   - pc
 publish: true
+ac: 11
+passive_perception: 15
+skill_proficiencies:
+  - "[[Animal Handling]]"
+  - "[[Deception]]"
+  - "[[History]]"
+  - "[[Intimidation]]"
+  - "[[Investigation]]"
+  - "[[Perception]]"
+  - "[[Sleight of Hand]]"
+  - "[[Stealth]]"
+spells:
+  - "[[Bane]]"
+  - "[[Dancing Lights]]"
+  - "[[Detect Magic]]"
+  - "[[Faerie Fire]]"
+  - "[[Hunter's Mark]]"
+  - "[[Protection from Evil and Good]]"
+  - "[[Darkness]]"
+  - "[[Hold Person]]"
+  - "[[Magic Weapon]]"
+  - "[[Misty Step]]"
+  - "[[Prayer of Healing]]"
+defenses:
+  - "RESISTANCE: poison"
+movement: "30"
+type: PC
 ---
 # Portrait
 

@@ -1,51 +1,52 @@
 ---
 type: NPC
 name: Baba Lysaga
-aliases: null
-pronouns: null
+aliases:
+  - Lysa
+pronouns:
 race: Human
-class: null
-age: null
+class:
+age:
 gender: female
 creature_type: humanoid
-origin: null
-home_base: null
-current_location: null
-factions: null
+origin:
+home_base:
+current_location:
+factions:
 arcs:
-- '[[Arc E - The Missing Vistana]]'
-- '[[Arc P - Ravenloft Heist]]'
-- '[[Arc T - The Three Fanes]]'
-- '[[Arc J - The Stolen Gem]]'
-- '[[Arc R - Trials of the Mountain]]'
-- '[[Arc S - A Sword of Sunlight]]'
-- '[[Arc F - Lady Wachter''s Wish]]'
-- '[[Arc M - The Dragon''s Manor]]'
-- '[[Arc L - The Den of Wolves]]'
-- '[[Arc Q - A Shining Beacon]]'
-- '[[Arc O - Dinner with the Devil]]'
-- '[[Arc H - The Lost Soul]]'
-- '[[Arc I - The Walls of Krezk]]'
-- '[[Arc C - Into the Valley]]'
-first_appearance_session: null
-first_appearance_date: null
+  - "[[Arc E - The Missing Vistana]]"
+  - "[[Arc P - Ravenloft Heist]]"
+  - "[[Arc T - The Three Fanes]]"
+  - "[[Arc J - The Stolen Gem]]"
+  - "[[Arc R - Trials of the Mountain]]"
+  - "[[Arc S - A Sword of Sunlight]]"
+  - "[[Arc F - Lady Wachter's Wish]]"
+  - "[[Arc M - The Dragon's Manor]]"
+  - "[[Arc L - The Den of Wolves]]"
+  - "[[Arc Q - A Shining Beacon]]"
+  - "[[Arc O - Dinner with the Devil]]"
+  - "[[Arc H - The Lost Soul]]"
+  - "[[Arc I - The Walls of Krezk]]"
+  - "[[Arc C - Into the Valley]]"
+first_appearance_session:
+first_appearance_date:
 status: alive
 cr: 5
-resonance: null
-emotions: null
-motivations: null
-inspirations: null
-vocal_notes: null
-signature_lines: null
-relationships: null
-portrait: null
-portrait_credit: null
-handouts: null
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
 tags:
-- npc
-- cos
-CoS-R_ref: null
-WotC_ref: null
+  - npc
+  - cos
+CoS-R_ref:
+WotC_ref:
 publish: false
 region: Wilderness
 ---

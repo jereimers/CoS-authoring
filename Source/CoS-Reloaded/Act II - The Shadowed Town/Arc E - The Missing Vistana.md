@@ -644,8 +644,6 @@ If eight different symbols are pressed in an incorrect sequence, their lights br
 > | 4 | One of the gargoyles is damaged and cannot animate or fight. |
 > | 6 | Add a fifth gargoyle. |
 
-
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act II - The Shadowed Town/Arc E - The Missing Vistana.md
 ### 2. The Scaffolding
 <em>This scene takes place in Chapter 11: Area V3.</em>
 
@@ -774,13 +772,6 @@ Otherwise, if no characters show that they’re carrying silvered weapons or amm
 > **Expected Character Level**: 4
 > **Allies:** Szoldar Szoldarovich (CR 1/2)
 > **Expected HP Consumption:** 38%
-> 
-<<<<<<< HEAD:Source/CoS-Reloaded/Act II - The Shadowed Town/Arc E - The Missing Vistana.md
-> * ***Three Players.*** Reduce the werewolves’ hit points to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Four Players.*** Reduce the werewolves’ hit points to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> * ***Six Players.*** Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players.
-> ^Combat-Balancing-the-Werewolves
-=======
 > ### **Enemies:**
 > 
 > | |3 Players | 4 Players | 5 Players | 6 Players |
@@ -795,7 +786,7 @@ Otherwise, if no characters show that they’re carrying silvered weapons or amm
 > | 3 | Reduce the werewolves’ hit points to 42. Reduce their ***bite*** damage to 5 (1d10) piercing damage and their ***claws*** damage to 5 (2d4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
 > | 4 | Reduce the werewolves’ hit points to 63. Reduce their ***bite*** damage to 6 (1d8+2) piercing damage and their ***claws*** damage to 7 (2d4+2). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
 > | 6 | Increase the werewolves’ hit points to 105. Increase their ***bite*** damage to 8 (1d8+4) piercing damage and their ***claws*** damage to 9 (2d4+4). They always use their bonus action to change into their hybrid forms on the first turn of combat against the players. |
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act II - The Shadowed Town/Arc E - The Missing Vistana.md
+
 
 Use the #statblock below for the **werewolves**, rather than the one in the *Monster Manual.*
 
@@ -989,16 +980,16 @@ If the players muster sufficient evidence of their good faith or succeed on a DC
 Once the players or [[Arabelle]] have convinced him to do so, [[Non-Player Characters#Disguised (as Rictavio)|Rictavio]] produces a key from his sleeve and opens the door. When he does, the players can see that the wagon contains a soft bed of straw, a comfortable woolen blanket, a few books, and a young Vistana girl—[[Arabelle]]—who is clutching a plush saber-toothed tiger to her chest and wearing a beaded necklace with a carved copper amulet.
 
 ![[arabelle.png]]
-<span class="credit">"[[Arabelle]]" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">"Arabelle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
 ### Meeting [[Arabelle]]
-Unless diverted by the players, the #conversation unfolds as follows:
+Unless diverted by the players, the conversation unfolds as follows:
 
 * [[Arabelle]] greets the players warmly, thanks them for their efforts to find her, and shares her regret for the wounds they have sustained along the way. 
 * Van Richten is surprised to learn that [[Arabelle]] was expecting them, and [[Arabelle]] admits that she had a premonition that someone would follow in their tracks and that she left multiple clues—the Tarokka card, the bracelet, the handkerchief, and the ring—to guide the players in their path.
 * [[Arabelle]] thanks Van Richten for his efforts to keep her safe, but gently reminds him that they both knew that their plan could not last forever—and that, with the players present, a long-term solution is more likely within reach.
 
-During this conversation, Van Richten can also reveal the following #information if he hasn't already:
+During this conversation, Van Richten can also reveal the following information if he hasn't already:
 
 * Until recently, Van Richten had been laying low in the tower at Lake Baratok. However, that changed when he saw a Vistana man bringing a wriggling sack to a golden-haired vampire spawn on the banks of the Luna River. (Van Richten recognized the vampire as a man named Escher, a bard from Barovia who had joined the Barovians’ revolt.)
 * Van Richten attacked the pair, killing the Vistana and scarring the vampire, who fled. Upon opening the sack, he found a young Vistana girl within.
@@ -1008,7 +999,7 @@ During this conversation, Van Richten can also reveal the following #information
 * While the tower at Lake Baratok contains a permanent *antimagic field* that would block Strahd’s scrying, Van Richten believed that Strahd would be well-aware of this fact, and that the tower would therefore be among the first places he looked. 
 * As such, Van Richten, who already wore one such amulet, gave [[Arabelle]] a spare *amulet of proof against detection and location* that he had once given to—and then received from—one of his students. (If pressed, Van Richten admits that the amulet once belonged to Ezmerelda d’Avenir, but does not discuss the matter in further detail.)
 ### [[Arrigal]]'s Arrival
-As the conversation draws to a close, [[Non-Player Characters#[[Arrigal]]|[[Arrigal]] emerges from the shadows of a nearby alley. If the players do not divert the #conversation, it proceeds as follows: 
+As the conversation draws to a close, [[Arrigal]] emerges from the shadows of a nearby alley. If the players do not divert the conversation, it proceeds as follows: 
 
 * [[Arrigal]] thanks Van Richten for the “fascinating story,” thanks the players for their “aid and guidance,” and commands [[Arabelle]] to exit the wagon and return with him.
 * Van Richten immediately accuses [[Arrigal]] of being a spy for Strahd, noting that, while stealing the pots of paint, he saw [[Arrigal]] whispering to a bat in the woods nearby. He demands that [[Arabelle]] remain in the wagon, and asks the players to defend her from [[Arrigal]]. 
@@ -1016,7 +1007,7 @@ As the conversation draws to a close, [[Non-Player Characters#[[Arrigal]]|[[Arri
 
 [[Arrigal]] is ignorant of Strahd’s bounty on [[Arabelle]] and truthfully shares this if asked, finding the notion preposterous. If asked whether he would give [[Arabelle]] up to Strahd if commanded, he fiercely and truthfully rejects that he would ever do such a thing.
 
-As the #conversation unfolds, [[Arrigal]] makes clear his belief that Van Richten has kidnapped [[Arabelle]] for nefarious purposes. Although [[Arabelle]] protests [[Arrigal]]'s accusations, [[Arrigal]] replies, "Hush, girl—it is clear this man has deceived you. I cannot speak to what nefarious plans he had for you, but he has clearly preyed upon your naivete. You will return to camp with me at once."
+As the conversation unfolds, [[Arrigal]] makes clear his belief that Van Richten has kidnapped [[Arabelle]] for nefarious purposes. Although [[Arabelle]] protests [[Arrigal]]'s accusations, [[Arrigal]] replies, "Hush, girl—it is clear this man has deceived you. I cannot speak to what nefarious plans he had for you, but he has clearly preyed upon your naivete. You will return to camp with me at once."
 
 If the players ask Van Richten for proof that Strahd sought to kidnap [[Arabelle]], Van Richten retrieves the wooden box containing Yan’s severed head from the hidden compartment of his wagon, as described in V7. Tower, Fourth Floor (p. 171). He then offers to allow one of the players to use his *talisman of echoes* to interrogate Yan's head to obtain the evidence they seek.
 
@@ -1095,8 +1086,8 @@ In addition, though he won’t take up arms against Strahd or cease his work as 
 >
 > To do so, however, he requires a supply of wolfsbane, a flowering plant said to grow along the shores of a blessed pool in Krezk. (See [[Arc I - The Walls of Krezk]] for more information about the players’ efforts to gain entry to Krezk.) Van Richten is glad to brew one portion of the elixir for each wolfsbane flower that the players fetch for him, a process which requires six hours and a number of additional ingredients.
 
-> [!abstract]+ **Inspecting [[Ireena]]**
-> If the players ask Van Richten to inspect [[Ireena]]'s vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.) Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
+> [!abstract]+ **Inspecting [[Ireena Kolyana|Ireena]]**
+> If the players ask Van Richten to inspect [[Ireena Kolyana|Ireena]]'s vampire bite, he can share that she has received no ordinary vampire bite, and has in fact been marked by a vampire. ("The master of Castle Ravenloft, I presume," he adds, if the players have not told him of the bite's source.) Van Richten is unsure why the vampire might have done this, but notes that any of the vampire's servants and creatures can recognize the mark's scent, and that it may serve to discourage them from harming its carrier.
 
 > [!abstract]+ **Recruiting Van Richten**
 > If the players attempt to recruit Van Richten to their party, he politely but firmly declines. If the players ask his reason for doing so, he insists that he must remain at [[Arabelle]]'s side to keep her safe from Strahd's minions. "I failed to guard a child once," he says stiffly. "I shall not make that mistake again." (Van Richten won't explain further.)

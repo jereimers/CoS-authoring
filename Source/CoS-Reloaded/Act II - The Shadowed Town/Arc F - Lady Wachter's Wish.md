@@ -125,15 +125,11 @@ During the following conversation, [[Non-Player Characters#Lady Fiona Wachter|La
 
 ***If asked how she came to her position,*** [[Lady Fiona Wachter|Lady Wachter]] notes that she was not always the heir of House Wachter. Her elder brother, Frederich Wachter, had always been expected to inherit their mother’s household and title. As a teenager, [[Lady Fiona Wachter|Fiona]] often fought with her mother and brother—and, on one such occasion, ran away from home in a pique of stubborn fury. She fled into the Svalich Woods, where she would have surely died had she not been found by an old woman named Lysa. [[Lady Fiona Wachter|Fiona]] stayed in Lysa’s cottage for six months, until she learned that her parents and brother had perished in a tragic accident. [[Lady Fiona Wachter|Fiona]] returned to Vallaki against Lysa’s advice and reclaimed her family’s position.
 
-<<<<<<< HEAD:Source/CoS-Reloaded/Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
-> [!info]+ **What [[Lady Fiona Wachter|Lady Wachter]] Knows**
-> If asked about the different factions and locations throughout Barovia, [[Lady Fiona Wachter|Lady Wachter]] can provide the following information:
-=======
 ***If asked what the responsibilites of a burgomaster are,*** Lady Wachter will explain the main duties of a burgomaster are settling disputes, maintaining town records, and coordinating town defenses. They also collect taxes for Castle Ravenloft, though those haven't been collected in over a century by now. Burgomasters also raise taxes to pay guards, however, they have limited legislative powers - they only have the power that the town grants them. 
 
-> [!info]+ **What Lady Wachter Knows**
-> If asked about the different factions and locations throughout Barovia, Lady Wachter can provide the following information:
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
+
+> [!info]+ **What [[Lady Fiona Wachter|Lady Wachter]] Knows**
+> If asked about the different factions and locations throughout Barovia, [[Lady Fiona Wachter|Lady Wachter]] can provide the following information:
 > 
 > * ***The Forest Folk.*** "They are descendants of the original inhabitants of the valley who now worship Count von Zarovich as a god. They use Yester Hill as a gathering place, but reside throughout the Svalich Wood."
 > * ***Argynvostholt.*** [[Lady Fiona Wachter|Lady Wachter]] shares the information in <span class="citation">[[Vallaki Lore]] (p. 96)</span>.
@@ -363,7 +359,7 @@ If [[Ireena Kolyana|Ireena]] has accompanied the players to the lake, Izek instr
 
 
 > [!warning]+ **Poisoned Izek**
-> Remember that Izek remains **poisoned** while the effect lasts. Changing forms doesn't remove this (or any other) condition.
+> Remember that Izek remains [[Poisoned]] while the effect lasts. Changing forms doesn't remove this (or any other) condition.
 > ^Warning-Poisoned-Izek
 
 > [!warning]+ **Don't Use Tactics!**
@@ -490,10 +486,6 @@ If [[Ireena Kolyana|Ireena]] has accompanied the players to the lake, Izek instr
 <p><strong><em>Retaliatory Burn (1/round).</em></strong> In response to taking damage from a melee attack made with a metal weapon, Izek causes the object to glow red-hot until the start of his next turn. Any creature in physical contact with the weapon immediately takes 4 (1d8) fire damage and must succeed on a DC 13 Constitution saving throw or drop the weapon if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of Izek’s next turn.</p>
 </div>
 
-<<<<<<< HEAD:Source/CoS-Reloaded/Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
-> [!combat]+ **Balancing the Brute**
-> Due to the phase mechanic, this is a series of two consecutive **bruising** combat encounters against a party of five 4th-level players and a CR 2 ally ([[Ireena Kolyana]]), and will each consume approximately 31% of their total maximum hit points (for a total of 62% of their maximum hit points). For parties of smaller or larger sizes, modify the encounter as follows:
-=======
 > [!combat]- **Combat - The Brute**  
 > **Combat Level**: Bruising (first phase), Bruising (second phase)
 > **Expected Character Level**: 4
@@ -502,7 +494,6 @@ If [[Ireena Kolyana|Ireena]] has accompanied the players to the lake, Izek instr
 > 
 > ### **Balancing:**
 > If you have fewer or more than 5 players, modify the encounter in the following ways:
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act II - The Shadowed Town/Arc F - Lady Wachter's Wish.md
 >
 > | Number of Players | Modification |
 > |-|-|
@@ -544,7 +535,7 @@ If asked his opinion on [[Lady Fiona Wachter|Lady Wachter]], [[Father Lucian Pet
 
 [[Father Lucian Petrovich|Father Petrovich]] also briefly expresses his regret for his younger sister, Baroness Lydia Petrovna, who has faced many challenges over the past several months and years, and shares his hopes that the Vallakovich family will find a sense of peace amidst their new circumstances.
 ## F5b. The Reward
-If the players return to [[authoring/DM Wiki/Entities/Areas/Town of Vallaki/Wachterhaus|Wachterhaus]] to obtain their promised compensation (if any), [[Lady Fiona Wachter|Lady Wachter]] provides it to them with gratitude. Their reward is as follows:
+If the players return to [[Wachterhaus]] to obtain their promised compensation (if any), [[Lady Fiona Wachter|Lady Wachter]] provides it to them with gratitude. Their reward is as follows:
 
 * Up to thirty silvered crossbow bolts
 * Up to four silvered spears

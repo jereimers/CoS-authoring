@@ -2,8 +2,8 @@
 aliases:
   - Arden
 species: Dark Elf (Drow)
-class: Paladin
-subclass: Oath of Vengeance
+class: "[[Paladin]]"
+subclass: "[[Oath of Vengeance (PHB)]]"
 level: 5
 player: Taylor
 character_sheet: https://www.dndbeyond.com/characters/111588271
@@ -14,14 +14,27 @@ publish: true
 ac: 16
 passive_perception: 14
 skill_proficiencies:
-  - athletics
-  - investigation
-  - perception
-  - persuasion
+  - "[[Athletics]]"
+  - "[[Investigation]]"
+  - "[[Perception]]"
+  - "[[Persuasion]]"
 spells:
+  - "[[Bane]]"
+  - "[[Dancing Lights]]"
+  - "[[Detect Magic]]"
+  - "[[Faerie Fire]]"
+  - "[[Hunter's Mark]]"
+  - "[[Protection from Evil and Good]]"
+  - "[[Darkness]]"
+  - "[[Hold Person]]"
+  - "[[Magic Weapon]]"
+  - "[[Misty Step]]"
+  - "[[Prayer of Healing]]"
 defenses:
   - "IMMUNITY: magical sleep"
   - "IMMUNITY: disease"
+movement: "30"
+type: PC
 ---
 # Portrait
 

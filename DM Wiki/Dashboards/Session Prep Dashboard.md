@@ -196,11 +196,3 @@ SORT file.name ASC
 
 ---
 
-## 📝 Notes & Reminders
-
-<!-- Add session-specific notes here -->
-
-- [ ] Review last session's recap
-- [ ] Prepare NPC voices/mannerisms
-- [ ] Review active quest details
-- [ ] Check plot thread connections
