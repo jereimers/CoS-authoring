@@ -49,13 +49,6 @@ Erasmus is a ghost who exists in the [[Ethereal Plane]]. He has been watching ov
 
 From [[Victor Vallakovich]] in [[Session 13 - The Lost and The Found|Session 13]], the party learned:
 
-## The Frost Message
-
-- Several weeks ago, Victor awoke to find a message written in frost on his bedroom window: "**Help Victor**"
-- The message appeared during the night with no explanation
-- Victor initially dismissed it as a prank or his imagination
-- Only later did he realize the message might have been from someone trying to reach him from the [[Ethereal Plane]]
-
 ## Protecting Stella
 
 - Erasmus exists as a ghost in the Ethereal Plane
@@ -89,5 +82,5 @@ His motivations for protecting Stella and contacting Victor remain unclear to th
 
 # Appearance in Sessions
 
-- [[Session 13 - The Lost and The Found#A Breakfast of Borscht|Session 13]] — Victor revealed the frost message and Erasmus's role in protecting Stella's soul
+- [[Session 13 - The Lost and The Found#A Breakfast of Borscht|Session 13]] — Erasmus visited you at the Blue Water Inn and asked you to "Help Victor"
 - [[Session 13 - The Lost and The Found#Victor's Workroom|Session 13]] — Victor explained how Erasmus has been communicating with him about Stella's condition

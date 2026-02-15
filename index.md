@@ -23,7 +23,7 @@ publish: true
 ---
 
 # What Happened Last Session
-![[Session 12 - Into the Bone Zone]]
+![[Session 13 - The Lost and The Found#Session Summary]]
 
 
 ---

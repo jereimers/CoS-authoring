@@ -5,7 +5,8 @@ publish: true
 
 ## Vallaki
 
-- [[The Haunting at Vallakovich Manor]]
+- [[The Lost Soul]]
+- [[The Missing Vistana]]
 
 ## Village of Barovia
 
@@ -22,6 +23,7 @@ publish: true
 - [[Escort Ireena]]
 - [[The Bones of St. Andral]]
 - [[Arabelle's Gift]] — by **noon** on [[Neyavr 4]]
+- [[The Haunting at Vallakovich Manor]]
 
 # Rumored/Unconfirmed
 

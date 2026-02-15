@@ -3,6 +3,8 @@ publish: true
 ---
 Below are the cards and their readings as delivered by Madam Eva to the Haunted Heroes at midnight at the crossroads. 
 
+![[madam_eva_tarokka_reading-calebisdrawing.jpg]]
+
 # The first card - History
 *"This card tells of history. Knowledge of the ancient will help you better understand your enemy"*
 ![[21-053.traitor.png]]
