@@ -73,20 +73,52 @@ resonance: 'Izek should inspire disgust with his cruelty and indifference to hum
 
 Captain of the [[Town of Vallaki|Vallaki]] city watch, personal bodyguard of [[Baron Vargas Vallakovich|Baron Vallakovich]], and probably the second- or third-scariest dude you've met so far.
 
-# What the party knows
+# What the Party Knows
 
-- Enjoys shoving old ladies and beating on helpless refugees.
-- The upsettingly accurate [[Ireena Kolyana|Ireena]] doll at [[Blinsky Toys]] was personally commissioned by Izek, and it's not the first. Apparently, he stands there and describes the likeness to [[Gadof Blinsky|Blinsky]] like it's a fucking police sketch.
+From various encounters and investigations:
+
+## His Role and Reputation
+
+- Captain of the [[Town of Vallaki|Vallaki]] city watch and personal bodyguard to [[Baron Vargas Vallakovich|Baron Vallakovich]]
+- Known for his cruelty and indifference to human life
+- Enjoys shoving old ladies and beating on helpless refugees
+- The upsettingly accurate [[Ireena Dolls|Ireena doll]] at [[Blinsky Toys]] was personally commissioned by Izek, and it's not the first
+- He stands there and describes the likeness to [[Gadof Blinsky|Blinsky]] like it's a police sketch, commissioning new dolls regularly
+
+## Session 12 Confrontation
+
+From [[Session 12 - Into the Bone Zone|Session 12]]:
+
+- The party had a tense confrontation with Izek while departing the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Vallakovich Manor]] at dusk
+- They got into a shouting match about Izek's general creepiness and cruelty
+- Throughout the confrontation, Izek's eyes remained fixed on [[Ireena Kolyana|Ireena]], making her increasingly uncomfortable
+- Ireena urged the party to disengage, sensing the danger in Izek's obsessive attention
+
+## The Strazni Connection
+
+From [[Session 13 - The Lost and The Found|Session 13]] library research:
+
+- [[Fig Fleetfoot|Fig]] discovered a death record dated approximately eighteen years ago for "**Ireena Strazni**"
+- The entry stated: *"Ireena Strazni—died of unknown causes (presumed devoured by wolves). Survived by parents Grygori and Fatima Strazni, and older brother Izek Strazni."*
+- Shortly after Ireena's recorded death, both parents (Grygori and Fatima Strazni) died by suicide—hanging
+- This discovery revealed that Izek had a sister named Ireena who died as a child in a wolf attack
+- The current [[Ireena Kolyana]] bears an uncanny resemblance to the dead Ireena Strazni—explaining Izek's obsessive commissioning of dolls
+- The implications are disturbing: either this is an impossible coincidence, or there's some connection between Ireena Kolyana and Izek's dead sister
+
+## Payment Records
+
+- The [[Baron Vargas Vallakovich|Baron's]] ledgers show regular payments to [[Gadof Blinsky]] for Izek's custom doll commissions
+- Each doll depicts "a young woman with auburn hair"—matching Ireena's appearance exactly
 
 # Personality
 
 - Psychopathic.
 
+# Where We've Seen Them
 
-# Where we've seen them
-
-- [[Session 11 - No Bones About It#Outside the Inn|Session 11]]
-- 
+- [[Session 11 - No Bones About It#Outside the Inn|Session 11]] — First encountered outside the Blue Water Inn
+- [[Session 12 - Into the Bone Zone|Session 12]] — Confrontation outside Vallakovich Manor, fixated on Ireena
+- [[Session 13 - The Lost and The Found#Raiding the Vallakovich Library (Politely)|Session 13]] — Discovered records of his dead sister "Ireena Strazni" in the library
 
 %%
 # Izek Strazni Profile

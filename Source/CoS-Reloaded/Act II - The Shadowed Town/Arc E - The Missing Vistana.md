@@ -1138,7 +1138,7 @@ The lightning sheath from the original module has been intentionally removed and
 
 The paint-stained lily pads have been added to provide additional clues regarding [[Rictavio]]'s connection to the tower, as has the burned sign for *[[Rictavio]]'s Carnival of Wonders*. The beaded bracelet and Tarokka card have been added to confirm [[Arabelle]]'s presence in the tower, and to suggest that [[Rictavio]] is not all that he seems.
 
-Van Richten's journal page introduces the character of [[Erasmus van Richten]], who will serve a more significant role in [[Arc H - The Lost Soul]].
+Van Richten's journal page introduces the character of [[Erasmus]], who will serve a more significant role in [[Arc H - The Lost Soul]].
 
 ***The Road Back.*** The encounter with Zsolt and Mathilda introduces the werewolf pack more formally, foreshadowing [[Arc L - The Den of Wolves]] and ensuring that the players have an appreciation for the value of obtaining silvered weapons before their encounter with the coven of Old Bonegrinder in [[Arc H - The Lost Soul]].
 

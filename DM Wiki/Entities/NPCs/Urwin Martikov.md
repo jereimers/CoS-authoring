@@ -88,9 +88,10 @@ He owns and runs the [[Blue Water Inn]], along with his wife, [[Danika Dorakova]
 - A kind fatherly figure, family man, and welcoming host with an ever-present twinkle in his eye
 
 
-# Where we've seen them
+# Where We've Seen Them
 - [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 09]]
 - [[Session 11 - No Bones About It#Morning at the Blue Water Inn|Session 11]]
+- [[Session 13 - The Lost and The Found#A Breakfast of Borscht|Session 13]] — Served the party breakfast and heard about their investigation plans
 
 %%
 # Urwin Martikov Profile

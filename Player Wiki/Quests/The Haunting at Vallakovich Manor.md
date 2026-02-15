@@ -1,5 +1,5 @@
 ---
-status: closed
+status: complete
 tags:
   - cos
   - quest
@@ -10,7 +10,10 @@ NPCs_involved:
   - "[[Baron Vargas Vallakovich|Vargas]]"
   - "[[Victor Vallakovich|Victor]]"
   - "[[Stella Wachter|Stella]]"
+  - "[[Erasmus]]"
   - "[[Tereska]]"
+arcs:
+  - "[[Arc H - The Lost Soul]]"
 publish: true
 ---
 # Objective
@@ -28,10 +31,21 @@ Investigate the haunting *discreetly*.
 # Leads
 
 - Talk to [[Tereska]] in the kitchen of the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Vallakovich Manor]]
+
+# Outcome
+
+**Quest Complete**
+
+The party discovered the source of the haunting in [[Session 13 - The Lost and The Found|Session 13]]. After being visited by the ghost of [[Erasmus]] (who wrote "Help Victor" in frost), the party met [[Victor Vallakovich]] in his father's library and followed him to his attic workroom.
+
+There, Victor revealed the truth: the "haunting" was caused by [[Stella Wachter]]'s disembodied soul. Two months ago, Victor and Stella attempted to create a teleportation circle to escape Barovia. The experiment catastrophically failed, severing Stella's soul from her body and trapping it in the Ethereal Plane. Her ghostly presence—desperately trying to communicate or find help—manifested as the paranormal activity throughout the manor.
+
+Erasmus van Richten's poltergeist has been protecting Stella's soul from dark entities in the Ethereal Plane, but she is slowly fading. This revelation led directly to the quest [[The Lost Soul]].
+
 # Appearance in Sessions
 
-- [[Session 12 - Into the Bone Zone#Beseeching the Baron|Session 12]]
-- [[Session 13 -#Victor's Workroom]] - Discovered that [[Victor Vallakovich|Victor]]'s friend [[Stella Wachter|Stella]] was behind the strange occurrences (see [[The Lost Soul]])
+- [[Session 12 - Into the Bone Zone#Beseeching the Baron|Session 12]] — Received the quest from [[Baron Vargas Vallakovich|Baron Vallakovich]]
+- [[Session 13 - The Lost and The Found#Victor's Workroom|Session 13]] — Discovered the truth about the haunting; quest complete; led directly into [[The Lost Soul]]
 
 
 

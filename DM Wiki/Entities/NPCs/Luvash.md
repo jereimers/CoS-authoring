@@ -77,6 +77,26 @@ region: Wilderness
 
 Father to [[Arabelle]] and leader of the [[Vistani Camp]] outside [[Town of Vallaki|Vallaki]]
 
+# What the Party Knows
+
+From [[Session 13 - The Lost and The Found|Session 13]], the party learned:
+
+## Arabelle's Disappearance
+
+- Luvash's daughter [[Arabelle]] went missing while playing in the woods
+- His nephew [[Alexei]] was supposed to be watching her but got drunk on wine given to him by [[Yan]]
+- When Alexei woke, Arabelle was gone and Yan had vanished
+- [[Savid]], a [[Dusk Elves|dusk elf]] scout, found Yan's decapitated body near the [[Luna River]]
+- Luvash led the search for Arabelle but was injured when his leg was caught in a wolf trap
+- He gave the platinum ring found at the crime scene to [[Kasimir Velikov]] for identification
+
+## Meeting the Party
+
+- When the party arrived at the [[Vistani Camp]], Luvash was grief-stricken and desperate for news of his daughter
+- He was initially gruff and suspicious but became hopeful when the party offered to help
+- The party promised to investigate Arabelle's disappearance and bring her home safely
+- Luvash provided information about the crime scene and the evidence found there
+
 # What the party knows
 
 
@@ -85,9 +105,9 @@ Father to [[Arabelle]] and leader of the [[Vistani Camp]] outside [[Town of Vall
 
 
 
-# Where we've seen them
+# Where We've Seen Them
 
-*To be updated during play.*
+- [[Session 13 - The Lost and The Found#Visiting the Vistani|Session 13]] — Met at the [[Vistani Camp]] to discuss Arabelle's disappearance
 
 %%
 # Luvash Profile

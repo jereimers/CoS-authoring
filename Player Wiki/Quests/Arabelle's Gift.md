@@ -1,5 +1,5 @@
 ---
-status: active
+status: complete
 tags:
 - cos
 - quest
@@ -10,6 +10,10 @@ locations:
 NPCs_involved:
 - '[[Arabelle]]'
 - '[[Gadof Blinsky]]'
+- '[[Luvash]]'
+- '[[Arrigal]]'
+arcs:
+- '[[Arc E - The Missing Vistana]]'
 publish: true
 ---
 # Objective
@@ -24,10 +28,16 @@ Purchase a gift for [[Arabelle]] at [[Blinsky Toys]] in [[Town of Vallaki|Vallak
 - [[Blinsky Toys]] can be found south of the Vallaki center ([[map-05.01-vallaki.jpg|N7 on this map]])
 - The [[Vistani Camp]] is southwest of town ([[map-05.01-vallaki.jpg|N9 on this map]])
 
+# Outcome
+
+**Quest Complete**
+
+The party successfully purchased a wind-up carousel toy from [[Gadof Blinsky|Blinsky]] and delivered it to the [[Vistani Camp]] on [[Neyavr 4]], Arabelle's nameday. However, upon arrival, they discovered that [[Arabelle]] had been kidnapped three days prior. [[Luvash]], Arabelle's father, was grateful for the attempt but immediately enlisted the party's aid in finding his missing daughter, leading directly to the quest [[The Missing Vistana]].
+
 # Appearance in Sessions
-- [[Session 07 - The Tarokka Reading]]
-- [[Session 11 - No Bones About It]] — You picked up the toy! A ~~creepy~~ lovely little music box styled like a carousel with wolves chasing small children.
-- [[Session 13 -]] — You delivered the toy, but Arabelle wasn't there! See 
+- [[Session 07 - The Tarokka Reading]] — Received the quest from [[Madam Eva]]
+- [[Session 11 - No Bones About It]] — Purchased the toy: a wind-up carousel with wolves chasing small children
+- [[Session 13 - The Lost and The Found#Visiting the Vistani|Session 13]] — Delivered the gift to the Vistani Camp, but Arabelle was missing. Quest complete; led directly into [[The Missing Vistana]] 
 
 %%
 # Secrets

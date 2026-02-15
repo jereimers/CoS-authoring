@@ -97,12 +97,12 @@ region: Vallaki
 
 Ireena is the adopted daughter of [[Kolyan Indirovich]] and adopted brother of [[Ismark Kolyanovich]], having lived with them since she was a child—as long as she can remember. She is a fierce, capable, and adroit Barovian woman.
 
-
 # What the party knows
 
 - Ireena was found when she was a young girl, wandering by the edge of the Svalich Woods near the Pillarstone of Ravenloft. Ireena doesn't remember anything of her past before then, but is grateful to her parents for taking her in and loving her dearly.
 - For reasons unclear, Ireena has become the especial target of [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]], having been visited (and bitten) by him at least once while dwelling with her brother in the [[Village of Barovia]].
 
+%%CLAUDE: update this page with details that the party has learned about Ireena as of [[Session 13 - The Lost and The Found]]%%
 # Personality
 - Compassionate, curious, yet stubborn.
 

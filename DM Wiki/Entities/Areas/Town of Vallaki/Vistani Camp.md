@@ -33,23 +33,34 @@ publish: true
 ---
 # Overview
 
+The Vistani Camp is located west of [[Town of Vallaki|Vallaki]], home to a community of [[Vistani]] travelers led by [[Luvash]] and [[Arrigal]].
 
+# What the Party Knows
 
-# What the party knows
+From [[Session 13 - The Lost and The Found|Session 13]], the party learned:
 
+- The camp is home to [[Arabelle]] and her father [[Luvash]]
+- The Vistani and [[Dusk Elves]] have been searching for Arabelle after her abduction
+- The camp is situated near the wilderness where Arabelle was taken
+- [[Kasimir Velikov]] and the dusk elves live in hovels below the camp
 
+# Notable Places
 
-# Notable places
+- The main camp where the Vistani families live
+- [[Kasimir Velikov]]'s hovel where he lives alone
 
+# Notable Figures
 
-
-# Notable figures
-
-
+- [[Luvash]] — Camp leader and Arabelle's father
+- [[Arrigal]] — Co-leader and Luvash's brother
+- [[Arabelle]] — Luvash's daughter (currently missing)
+- [[Alexei]] — Luvash's nephew
+- [[Kasimir Velikov]] — Dusk elf leader and scholar
 
 # Visits
 
-*To be updated during play.*
+- [[Session 13 - The Lost and The Found#Visiting the Vistani|Session 13]] — Party visited to investigate Arabelle's disappearance
+- [[Session 13 - The Lost and The Found#Tea with Kasimir|Session 13]] — Party met with Kasimir in his hovel
 
 %%
 # Map

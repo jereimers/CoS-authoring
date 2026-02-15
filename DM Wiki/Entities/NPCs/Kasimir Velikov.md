@@ -1,48 +1,49 @@
 ---
 type: NPC
 name: Kasimir Velikov
-aliases: null
+aliases:
+  - Kasimir
 pronouns: he/him
 race: Dusk Elf
-class: null
-age: null
+class:
+age:
 gender: male
 creature_type: humanoid
-origin: null
-home_base: null
-current_location: null
-factions: null
+origin:
+home_base:
+current_location:
+factions:
 arcs:
-- '[[Arc E - The Missing Vistana]]'
-- '[[Arc P - Ravenloft Heist]]'
-- '[[Arc T - The Three Fanes]]'
-- '[[Arc U - Dreams of Dawn]]'
-- '[[Arc R - Trials of the Mountain]]'
-- '[[Arc S - A Sword of Sunlight]]'
-- '[[Arc Q - A Shining Beacon]]'
-- '[[Arc O - Dinner with the Devil]]'
-- '[[Arc H - The Lost Soul]]'
-- '[[Arc C - Into the Valley]]'
-first_appearance_session: null
-first_appearance_date: null
+  - "[[Arc E - The Missing Vistana]]"
+  - "[[Arc P - Ravenloft Heist]]"
+  - "[[Arc T - The Three Fanes]]"
+  - "[[Arc U - Dreams of Dawn]]"
+  - "[[Arc R - Trials of the Mountain]]"
+  - "[[Arc S - A Sword of Sunlight]]"
+  - "[[Arc Q - A Shining Beacon]]"
+  - "[[Arc O - Dinner with the Devil]]"
+  - "[[Arc H - The Lost Soul]]"
+  - "[[Arc C - Into the Valley]]"
+first_appearance_session:
+first_appearance_date:
 status: alive
 cr: 5
-resonance: null
-emotions: null
-motivations: null
-inspirations: null
-vocal_notes: null
-signature_lines: null
-relationships: null
-portrait: null
-portrait_credit: null
-handouts: null
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
 tags:
-- npc
-- cos
-- vallaki
-CoS-R_ref: null
-WotC_ref: null
+  - npc
+  - cos
+  - vallaki
+CoS-R_ref:
+WotC_ref:
 publish: false
 region: Wilderness
 ---

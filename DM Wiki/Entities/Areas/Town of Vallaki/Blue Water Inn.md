@@ -50,8 +50,11 @@ loot: null
 publish: true
 ---
 # Overview
+
 Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 
+![[BWIlores-calebisdrawing.jpg]]
+BLUE WATER INN TAPROOM INTERIOR
 # Map
 ![[map-05.02-blue-water-inn.jpg]]
 
@@ -67,8 +70,9 @@ Gray smoke issues from the chimney of this large, two-story wooden building with
 - [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] -- grizzled Vallakian wolf-hunters (*also leftist homies*).
 
 # Visits
-- [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 09]]
-- [[Session 11 - No Bones About It#Morning at the Blue Water Inn|Session 11]]
+- [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|First Night at the Inn]]
+- [[Session 11 - No Bones About It#Morning at the Blue Water Inn|First morning at the Inn]]
+- [[Session 13 - Neyavr 4#Erasmus' Plea|Erasmus' Plea]]
 
 
 %%

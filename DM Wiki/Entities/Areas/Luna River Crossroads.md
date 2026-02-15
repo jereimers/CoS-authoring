@@ -12,42 +12,54 @@ arcs:
 - '[[Arc E - The Missing Vistana]]'
 - '[[Arc T - The Three Fanes]]'
 - '[[Arc J - The Stolen Gem]]'
-connected_locations: null
+connected_locations:
+- '[[Luna River]]'
 notable_npcs: null
-threat_level: null
+threat_level: moderate
 first_appearance_date: null
 tags:
 - area
 - cos
+- wilderness
 key_factions: null
-area_type: null
-first_appearance_session: null
+area_type: crossroads
+first_appearance_session: 13
 scenes: null
 encounters: null
 items: null
 handouts: null
 loot: null
-publish: false
+publish: true
 ---
 # Overview
 
+The Luna River Crossroads is where an old dirt road crosses the [[Luna River]] in the wilderness of [[Barovia]]. This location became significant as the site of a violent battle during [[Arabelle]]'s abduction.
 
+# What the Party Knows
 
-# What the party knows
+From [[Session 13 - The Lost and The Found|Session 13]], the party learned:
 
+## The Battle Scene
 
+- The party encountered undead creatures ([[Twig Blights]] and [[Scarecrows]]) at this crossroads
+- After defeating the creatures, they investigated the area for clues about [[Arabelle]]'s disappearance
+- The crossroads sits at the intersection of an old dirt road and the Luna River
+- The area showed signs of the recent battle and the earlier struggle when [[Yan]] was killed
 
-# Notable places
+## Nearby Crime Scene
 
+- The actual crime scene where Yan's body was found is a short distance away at a clearing by the [[Luna River]]
+- The crossroads serves as a landmark for finding the crime scene location
 
+# Notable Places
 
-# Notable figures
-
-
+- The dirt road intersection
+- Path leading to the [[Luna River]] crime scene clearing
+- Surrounding wilderness where the undead creatures emerged
 
 # Visits
 
-*To be updated during play.*
+- [[Session 13 - The Lost and The Found#CSI Luna River|Session 13]] — Party fought undead creatures here before investigating the nearby crime scene
 
 %%
 # Map

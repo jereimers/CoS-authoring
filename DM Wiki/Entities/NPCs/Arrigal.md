@@ -61,21 +61,28 @@ WotC_ref: null
 publish: true
 region: Wilderness
 ---
-# Who they are
+# Who They Are
 
+[[Luvash]]'s younger brother and co-leader of the [[Vistani Camp]] outside [[Town of Vallaki|Vallaki]]. He is also [[Arabelle]]'s uncle.
 
+# What the Party Knows
 
-# What the party knows
+From [[Session 13 - The Lost and The Found|Session 13]], the party learned:
 
+## At the Vistani Camp
 
+- Arrigal was present when the party arrived at the [[Vistani Camp]] to discuss [[Arabelle]]'s disappearance
+- He appeared more measured and cautious than his brother [[Luvash]], observing the party carefully
+- He joined in the discussions about the crime scene and the search for Arabelle
+- Like Luvash, he is deeply concerned about Arabelle's safety
 
 # Personality
 
 
 
-# Where we've seen them
+# Where We've Seen Them
 
-*To be updated during play.*
+- [[Session 13 - The Lost and The Found#Visiting the Vistani|Session 13]] — Met at the [[Vistani Camp]] during the party's investigation of Arabelle's disappearance
 
 %%
 # Arrigal Profile

@@ -57,10 +57,9 @@ Vallaki's resident toymaker and certified weirdo. Owner and proprietor of [[Blin
 
 - (Reluctantly, fearfully) takes commissions on the reg from [[Izek Strazni]] to make dolls depicting a redheaded woman who looks uncannily like [[Ireena Kolyana|Ireena]]. He insists these dolls are not for public sale, that he's never before seen the woman whose likeness Izek describes, and he begs the party not to do anything to bring Izek's wrath down on the toymaker's shop.
 
-
 # Personality
 
-- Kooky, 
+- Kooky
 
 # Where we've seen them
 
