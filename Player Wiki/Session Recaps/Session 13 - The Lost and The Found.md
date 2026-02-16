@@ -349,6 +349,9 @@ Nikolai, startled by Arden's sudden movement, raised his hands defensively and s
 
 Arden stopped, hands raised in a peaceful gesture. "Easy," he said. "I'm not going to hurt her."
 
+>[!ps]+
+>*The first player to read this and send me their rose, bud, and thorn from Session 13 gets a point of heroic inspiration!*
+
 The moment hung there, two men facing off over a catatonic girl—and then [[Varnish Gothorn|Varnish]] muttered, "Here we go again with the throat chops," referencing [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|a previous incident]] where Arden's protective instincts had manifested as violence against perceived threats. The comment broke the tension with unexpected humor.
 
 Before the situation could escalate further, a new voice cut through the parlor with calm authority: "Nikolai."
