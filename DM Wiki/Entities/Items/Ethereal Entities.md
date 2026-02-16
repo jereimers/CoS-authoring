@@ -71,8 +71,33 @@ A mistfiend’s semi-solid body is composed of a strange, sickly green and ever-
 Mistfiends are often found in the employ of clerics dedicated to the demonic lords (particularly Tsathogga and Jubilex), serving as temple guards or assassins.
 #### Ethershades
 
+Ethershades are predatory entities that haunt the depths of the Deep Ethereal, their forms resembling tattered shadows wrapped in wisps of gray mist. They are believed to be the degraded remnants of souls that became lost in the ethereal currents—travelers who wandered too long without anchor or purpose, their identities slowly dissolving until nothing remained but hunger and malice.
+
+An ethershade appears as a vaguely humanoid silhouette, its edges constantly fraying and reforming as though caught in an invisible wind. Where its face should be, there is only a darker void, and its touch brings a numbing cold that seeps into both body and spirit. Unlike ghosts, which retain some echo of their former selves, ethershades are wholly consumed by their predatory nature.
+
+These creatures lurk in the foggiest reaches of the Deep Ethereal, drawn to the presence of living souls. They can sense when a creature becomes ethereal through magic, and they track such travelers with patient, inexorable hunger. An ethershade feeds by wrapping itself around its victim like a shroud, draining the warmth and vitality from living tissue while simultaneously leeching away memories and identity.
+
+Victims who survive an ethershade attack often report a profound sense of disconnection afterward—forgetting the names of loved ones, losing cherished memories, or feeling as though parts of themselves have simply vanished. Those who fall prey to multiple attacks risk the same fate as the ethershade itself: becoming lost in the mists, their soul slowly unraveling until nothing remains but another hungry shadow.
+
+Ethershades rarely venture into the Border Ethereal, as the proximity to the Material Plane seems to cause them discomfort. However, particularly bold or desperate specimens have been known to phase briefly into reality when pursuing wounded prey. Travelers who encounter ethershades in the Deep Ethereal are advised to seek the nearest color curtain immediately, as these creatures are relentless once they've caught a victim's scent.
+
+Some scholars theorize that ethershades were once mortal spellcasters who attempted to explore the Ethereal Plane without proper preparation or guidance, becoming stranded when their magic failed. Others believe they are a natural hazard of the plane itself—manifestations of the entropy that slowly erodes all things that linger too long in the mists. Whatever their origin, ethershades serve as a grim warning: the Ethereal Plane is not meant for prolonged habitation by mortal souls.
 
 #### Shimmerlings
+
+Shimmerlings are curious creatures native to the Border Ethereal, manifesting as dancing motes of opalescent light that drift and swirl through the misty veil. Unlike the predatory entities that haunt the Deep Ethereal, shimmerlings appear benign—even playful—drawn to sources of strong emotion, magical energy, or unusual activity on either side of the planar boundary.
+
+A shimmerling resembles a cluster of soap bubbles infused with soft, constantly shifting colors—pale blues, gentle purples, warm golds, and cool silvers that ripple across its translucent form. When multiple shimmerlings gather, they create mesmerizing displays of light and movement, spiraling around each other in elaborate patterns. They range in size from that of a firefly to that of a lantern, and their luminescence provides welcome illumination in the perpetual twilight of the Border Ethereal.
+
+These creatures seem to possess a rudimentary intelligence and an insatiable curiosity about the Material Plane. Travelers report shimmerlings following them through the Border Ethereal, clustering around areas where magic is being cast on the Material Plane, or gathering at sites of intense emotional significance—battlefields, places of worship, locations where great joys or tragedies occurred. Some ethereal explorers claim that shimmerlings are drawn to the "echoes" that strong emotions leave on the fabric of reality.
+
+While generally harmless, shimmerlings can become problematic in large numbers. A swarm of curious shimmerlings will investigate anything new or interesting, and their touch causes a tingling sensation—uncomfortable but not painful. Prolonged contact with many shimmerlings, however, can cause disorientation and mild hallucinations as their ethereal energies interfere with mortal perception. More than one traveler has become hopelessly lost in the Border Ethereal after being "guided" off course by an enthusiastic cluster of shimmerlings.
+
+The creatures seem capable of communicating through patterns of light and color, flashing in sequences that some scholars believe represent a primitive language. A few ethereal travelers claim to have established rapport with shimmerlings, using them as guides to navigate the Border Ethereal or as early warning signals when other, more dangerous entities approach.
+
+One peculiar trait of shimmerlings is their reaction to ghosts and other ethereal undead: they dim their lights and flee from such creatures, as though frightened or repulsed. This behavior has led some researchers to theorize that shimmerlings might be fragments of positive planar energy—manifestations of life and vitality that naturally recoil from the presence of undeath.
+
+Shimmerlings have no known method of reproduction and do not seem to age or die. They simply exist, drifting through the Border Ethereal in their eternal dance, drawn to whatever catches their boundless curiosity.
 
 
 ### Phantomfolk: Travelers from the Border Ethereal
