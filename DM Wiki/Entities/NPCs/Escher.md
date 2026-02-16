@@ -1,46 +1,46 @@
 ---
 type: NPC
 name: Escher
-aliases: null
+aliases:
 pronouns: he/him
 race: Human
-class: null
-age: null
+class:
+age:
 gender: male
 creature_type: humanoid
-origin: null
-home_base: null
-current_location: null
-factions: null
+origin:
+home_base:
+current_location:
+factions:
 arcs:
-- '[[Arc E - The Missing Vistana]]'
-- '[[Arc P - Ravenloft Heist]]'
-- '[[Arc T - The Three Fanes]]'
-- '[[Arc D - St. Andral''s Feast]]'
-- '[[Arc B - Welcome to Barovia]]'
-- '[[Arc R - Trials of the Mountain]]'
-- '[[Arc O - Dinner with the Devil]]'
-- '[[Arc C - Into the Valley]]'
+  - "[[Arc E - The Missing Vistana]]"
+  - "[[Arc P - Ravenloft Heist]]"
+  - "[[Arc T - The Three Fanes]]"
+  - "[[Arc D - St. Andral's Feast]]"
+  - "[[Arc B - Welcome to Barovia]]"
+  - "[[Arc R - Trials of the Mountain]]"
+  - "[[Arc O - Dinner with the Devil]]"
+  - "[[Arc C - Into the Valley]]"
 first_appearance_session: 6
 first_appearance_date: 1 Neyavr 735
 status: alive
 cr: 5
-resonance: null
-emotions: null
-motivations: null
-inspirations: null
-vocal_notes: null
-signature_lines: null
-relationships: null
-portrait: null
-portrait_credit: null
-handouts: null
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
 tags:
-- npc
-- cos
-CoS-R_ref: null
-WotC_ref: null
-publish: false
+  - npc
+  - cos
+CoS-R_ref:
+WotC_ref:
+publish: true
 region: Wilderness
 ---
 # Portrait

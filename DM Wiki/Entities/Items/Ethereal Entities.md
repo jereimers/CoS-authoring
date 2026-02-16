@@ -1,20 +1,20 @@
 ---
-belongs_to: '[[Victor Vallakovich]]'
-CoS-R_ref: '[[Arc H - The Lost Soul#^Lore-Ethereal-Entities]]'
-WotC_ref: null
-current_location: null
+belongs_to: "[[Victor Vallakovich]]"
+CoS-R_ref: "[[Arc H - The Lost Soul#^Lore-Ethereal-Entities]]"
+WotC_ref:
+current_location:
 tags:
-- cos
-- item
-- text
-- spellbook
-- vallaki
-publish: false
+  - cos
+  - item
+  - text
+  - spellbook
+  - vallaki
+publish: true
 type: Item
 arcs:
-- '[[Arc H - The Lost Soul]]'
-- '[[Arc E - The Missing Vistana]]'
-- '[[Arc M - The Dragon''s Manor]]'
+  - "[[Arc H - The Lost Soul]]"
+  - "[[Arc E - The Missing Vistana]]"
+  - "[[Arc M - The Dragon's Manor]]"
 ---
 %% An item is an artifact, relic, piece of equipment or gear that players can obtain and/or interact with. Items have owners, locations, histories, and optional magical qualities and/or stat blocks. %%
 # Description

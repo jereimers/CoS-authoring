@@ -44,7 +44,7 @@ tags:
   - vallaki
 CoS-R_ref:
 WotC_ref:
-publish: false
+publish: true
 region: Wilderness
 ---
 # Who they are
