@@ -68,6 +68,9 @@ WotC_ref:
 publish: true
 region: Wilderness
 ---
+# Portrait
+
+![[kasimir-velikov.png]]
 # Who They Are
 
 Kasimir Velikov is the leader and foremost scholar of the [[Dusk Elves]], the last remnants of an elven people who suffered a terrible tragedy over four centuries ago. He lives in a simple hovel below the [[Vistani Camp]] outside [[Town of Vallaki|Vallaki]], surrounded by books and the weight of his people's history.
