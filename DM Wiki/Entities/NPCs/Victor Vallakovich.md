@@ -64,7 +64,7 @@ tags:
   - ally
 CoS-R_ref:
 WotC_ref:
-publish: false
+publish: true
 region: Vallaki
 ---
 # Who They Are
