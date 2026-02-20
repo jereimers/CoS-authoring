@@ -1,27 +1,27 @@
 ---
 type: Area
 name: Morgue
-aliases: null
+aliases:
 area_code: S24
-WotC_ref: null
-CoS-R_ref: null
-parent_region: '[[Ruins of Berez]]'
-arcs: null
-connected_locations: null
-notable_npcs: null
-threat_level: null
-first_appearance_date: null
+WotC_ref:
+CoS-R_ref:
+parent_region: "[[Village of Krezk]]"
+arcs:
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
 tags:
-- area
-- cos
-key_factions: null
-area_type: null
-first_appearance_session: null
-scenes: null
-encounters: null
-items: null
-handouts: null
-loot: null
+  - area
+  - cos
+key_factions:
+area_type:
+first_appearance_session:
+scenes:
+encounters:
+items:
+handouts:
+loot:
 publish: false
 ---
 # Overview

@@ -14,7 +14,6 @@ ritual: true
 classes: [Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard]
 damage_type: null
 ---
-
 # Detect Magic
 
 *1st-level divination (ritual)*

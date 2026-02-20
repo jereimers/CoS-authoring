@@ -112,7 +112,7 @@ The entrance beyond the portico is otherwise as described in [[Entrance]] (p. 21
 
 When the players pass through Death House’s threshold, any Barovian relics they carry cease to be active. (For example, the *sunrise medallion* ceases to glow.)
 
-The main hall is largely as described in [[Main Hall]] (p. 212) but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
+The main hall is largely as described in [[DM Wiki/Entities/Areas/Death House/Main Hall]] (p. 212) but now contains a grandfather clock, which is placed in the circular space at the base of the stairs.
 
 Instead of a longsword, the portrait of the Durst family from [[Upper Hall]] (p. 213) now hangs above the fireplace. In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: *Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.*<sup><a href="https://www.reddit.com/r/CurseofStrahd/comments/8sfpkn/fleshing_out_curse_of_strahd_part_2_entering/">1</a></sup>
 

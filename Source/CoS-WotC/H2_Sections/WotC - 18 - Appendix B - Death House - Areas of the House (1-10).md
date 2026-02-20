@@ -13,7 +13,7 @@ MAP B.1: DEATH HOUSE
 
 #[[Entrance]]
 
-#[[Main Hall]]
+#[[DM Wiki/Entities/Areas/Death House/Main Hall]]
 ## 3. Den of Wolves 
 
 This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are three stuffed wolves.

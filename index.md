@@ -23,12 +23,13 @@ publish: true
 ---
 
 # What Happened Last Session
-![[Session 13 - The Lost and The Found#Session Summary]]
+
+
 
 
 ---
 
-# 🗺️ Reference Map
+# Reference Map
 ![[map-02.01-barovia.jpg]]
 
 # Currency Exchange Table

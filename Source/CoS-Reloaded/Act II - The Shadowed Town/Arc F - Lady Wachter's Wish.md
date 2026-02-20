@@ -248,7 +248,7 @@ If the players insist that Madam Eva foresaw the existence of the *Sunsword*, sh
 ## F2f. The Traitor
 If the players ask [[Lady Fiona Wachter|Lady Wachter]] about the "ancient foe of an old and noble house" described in Madam Eva's Tarokka reading regarding the *Tome of Strahd*, she hesitates, then promises to tell them all she knows regarding her family's history should they successfully defeat Izek.
 # F3. Return to the [[Blue Water Inn]]
-The following morning, as the players enter the taproom of the [[Blue Water Inn]], [[Non-Player Characters#Danika Dorakova|Danika]] informs them that a man has requested their presence at his table by the southern window. She quietly adds that Urwin has identified the man as the same cloaked individual who delivered the players’ invitation the previous day.
+The following morning, as the players enter the taproom of the [[Blue Water Inn]], [[Danika Dorakova|Danika]] informs them that a man has requested their presence at his table by the southern window. She quietly adds that Urwin has identified the man as the same cloaked individual who delivered the players’ invitation the previous day.
 
 The man, Ernst Larnak (described in [[05_Chapter 5 - The Town of Vallaki#N4. Wachterhaus|N4. Wachterhaus]], p. 110), is currently enjoying a breakfast of bread, egg, and cured sausage. In lieu of greeting the players, he reflects (with his mouth full) on the quality of [[Urwin Martikov]]’s cooking, but mourns that the inn doesn’t carry coffee, a wonderful foreign drink he once purchased from a Vistana caravan.
 
@@ -280,7 +280,7 @@ When the handoff is complete, Ernst advises the players to follow Izek as he lea
 > * **5:30 P.M.** Izek dismisses the two **guards** and travels alone to Lake Zarovich. He spends the remainder of the evening consuming the second bottle of wine and staring into space.
 > * **10:00 P.M.** Izek returns to the burgomaster’s mansion and takes his evening meal, as well as a third bottle of wine, in his bedroom.
 > 
->   Once Izek drinks the entire bottle of [[Lady Fiona Wachter|Lady Wachter]]’s poisoned wine, he suffers the **[[authoring/Source/5e-database/obsidian_output/Conditions/Poisoned|poisoned]]** condition for 1 hour afterward.
+>   Once Izek drinks the entire bottle of [[Lady Fiona Wachter|Lady Wachter]]’s poisoned wine, he suffers the **[[Poisoned|poisoned]]** condition for 1 hour afterward.
 >   ^Lore-Izeks-Schedule
 
 ## F4a. Planting the Poisoned Wine

@@ -508,6 +508,8 @@ Give the players a few minutes away from the table to plan out their stories bef
 > Beyond this mark, however, these creatures bear an extraordinary resilience. Conventional methods of harm prove ineffective in permanently subduing a werewolf. Only through the bite of silver or the chill of death's power can a werewolf be truly put to rest.
 >
 > A spell of removal can also cure an afflicted lycanthrope, though those who accept the beast may fight it bitterly. As for those unfortunate souls born under the curse, they are doomed to bear their affliction for life. As far as my research has shown, there exists no cure, no respite for such individuals. They are caught in an eternal struggle, forever haunted by the wolf within.
+> ^Lore-Arturis-Manuscript
+
 ### Stanimir’s Tale
 Stanimir goes first, delivering the same tale as described in [[01_Chapter 1 - Into the Mists#The Dancing Fire|The Dancing Fire]] (p. 20). However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the *major image* spell to create the shapes in the flames.
 

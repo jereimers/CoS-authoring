@@ -72,7 +72,7 @@ region: Vallaki
 ---
 # Portrait
 
-![[urwin-martikov.png]]
+![[Urwin_dad_bod_done-moonberry.png]]
 
 # Who they are
 He owns and runs the [[Blue Water Inn]], along with his wife, [[Danika Dorakova]]. 
