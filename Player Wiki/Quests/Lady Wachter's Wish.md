@@ -3,7 +3,7 @@ type: Quest
 name: Lady Wachter's Wish
 aliases:
   - kill Izek
-status: active
+status: complete
 giver: "[[Lady Fiona Wachter|Lady Wachter]]"
 locations:
   - "[[Town of Vallaki|Vallaki]]"
@@ -11,6 +11,8 @@ locations:
 NPCs_involved:
   - "[[Lady Fiona Wachter|Lady Fiona]]"
   - "[[Izek Strazni|Izek]]"
+  - "[[Ernst Larnak]]"
+  - "[[Victor Vallakovich]]"
 arcs:
   - "[[Arc F - Lady Wachter's Wish]]"
   - "[[Arc G - The Strazni Siblings]]"
@@ -115,11 +117,68 @@ If asked about the "ancient foe of an old and noble house" from [[Madam Eva]]'s 
 
 ## Progress Updates
 
-*To be filled in as the quest progresses.*
+### Planning Phase (Neyavr 5, Morning)
+
+[[Ernst Larnak]] delivered the poisoned wine (labeled "Red Dragon Crush") and detailed intelligence about [[Izek Strazni]]'s daily schedule:
+- **11:00 AM** - Izek wakes and takes morning meal at the mansion with two guards
+- **11:30 AM** - Inspects town gates (Sunset, Zarovich, Morning) with the guards
+- **1:00 PM** - Eats lunch and drinks first bottle of wine in town square (delivered by cook Tereska)
+- **2:00 PM** - Visits informants/spies around town with guards
+- **4:00 PM** - Second round of gate inspections
+- **5:30 PM** - Dismisses guards and goes alone to Lake Zarovich to drink second bottle of wine
+- **10:00 PM** - Returns to mansion for evening meal
+
+The party formulated a plan with [[Victor Vallakovich]]'s assistance to plant the poisoned wine while Tereska prepared Izek's lunch.
+
+### Execution: Planting the Wine (Neyavr 5, Midday)
+
+The operation was flawless:
+- [[Victor Vallakovich]] cast *Greater Invisibility* on [[Fig Fleetfoot]]
+- [[Varnish Gothorn]], disguised as Amal (the former head butler), distracted Tereska at the kitchen's back entrance
+- [[Fig Fleetfoot|Fig]], invisible, swapped one bottle of Purple Grapemash No. 3 with the poisoned Red Dragon Crush
+- Tereska noticed the different label but dismissed it as her own forgetfulness
+- The poisoned wine was successfully included in Izek's lunch delivery
+
+### Trailing Izek (Neyavr 5, Afternoon)
+
+The party followed Izek throughout the day, observing:
+- Him extorting "informants" for coins and gossip
+- Threatening refugees at the Morning Gate with conjured flames
+- A detour to [[Blinsky Toys]] where he collected an [[Ireena Dolls|Ireena doll]], clutching it possessively by the hair
+- His dismissal of guards at 5:30 PM and journey to [[Lake Zarovich]]
+
+### The Assassination (Neyavr 5, Evening)
+
+At [[Lake Zarovich]], Izek drank the entire bottle of poisoned Red Dragon Crush while staring obsessively at the Ireena doll. The party emerged from the tree line, and [[Arden Nalero]] threw a paper airplane made from [[Ireena Kolyana|Ireena]]'s written endorsement and Ernst's schedule, striking Izek in the chest before the battle began.
+
+**Phase One:**
+- The party's combined assault reduced Izek's first form to 0 hit points
+- [[Choppy Gibbles]]'s *Fireball* proved ineffective due to Izek's fire resistance
+- Izek caught [[Arden Nalero|Arden]]'s greatsword with his fiendish hand, superheating it and forcing Arden to drop the weapon
+
+**Phase Two:**
+- Izek erupted into his second, more powerful form—wreathed in flames, skin smoking, eyes blazing
+- He targeted [[Choppy Gibbles|Choppy]] with devastating waves of fire, nearly killing the sorcerer
+- [[Fig Fleetfoot]] landed a perfectly placed *Stunning Strike*, freezing Izek in place
+- [[Choppy Gibbles|Choppy]] delivered the killing blow with a *Chromatic Orb* of ice, freezing Izek's neck solid
+- Choppy then brutally chipped away at the frozen column with daggers until the head separated from the body
+
+**Recovered Items:**
+- Izek's severed head (placed in burlap sack)
+- Izek's fiendish arm (severed by Arden as evidence/trophy)
+- Silvered battleaxe
+- 35 gold pieces
+- Mysterious amber shard radiating abjurative magic
+
+### Quest Complete
+
+The party returned to Vallaki carrying Izek's frozen head in a burlap sack, ready to deliver it to [[Lady Fiona Wachter]] and claim their reward.
 
 # Appearance in Sessions
 
-- **[[Session 14 - Neyavr 4, Evening]]** - The party dined at [[Wachterhaus]] where [[Lady Fiona Wachter|Lady Wachter]] revealed the conspiracy and asked them to assassinate [[Izek Strazni]].
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - The party dined at [[Wachterhaus]] where [[Lady Fiona Wachter|Lady Wachter]] revealed the conspiracy and asked them to assassinate [[Izek Strazni]]. They agreed to the mission in exchange for silvered weapons, safe passage for the refugees, and compensation.
+
+- **[[Session 15 - Killing Izek]]** (Neyavr 5) - [[Ernst Larnak]] delivered the poisoned wine and Izek's schedule. With [[Victor Vallakovich]]'s magical assistance, the party successfully planted the poisoned wine in Izek's lunch delivery. After trailing him throughout the day, they ambushed him at [[Lake Zarovich]] where he'd drunk the poisoned wine. Following a brutal two-phase battle, [[Choppy Gibbles]] beheaded Izek with a combination of ice magic and daggers. The party recovered Izek's head, his demonic arm, his silvered battleaxe, and a mysterious amber shard. **Quest completed.**
 
 
 

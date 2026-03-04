@@ -22,8 +22,15 @@ publish: true
 
 ---
 
-# What Happened Last Session
+# What Happened Last Session(s)
 
+## Session 14 - Dinner and a Show
+
+![[Player Wiki/Session Recaps/Session 14 - Dinner and a Show#Session Summary|Session 14 - Dinner and a Show]]
+
+## Session 15 - Killing Izek
+
+![[Player Wiki/Session Recaps/Session 15 - Killing Izek#Session Summary|Session 15 - Killing Izek]]
 
 
 

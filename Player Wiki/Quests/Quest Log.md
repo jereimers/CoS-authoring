@@ -8,7 +8,6 @@ publish: true
 
 - [[The Lost Soul]] — before dawn on Neyavr 9
 - [[The Missing Vistana]] — ASAP
-- [[Lady Wachter's Wish]] — ASAP (for Ireena's sake)
 
 ## Village of Barovia
 
@@ -27,6 +26,7 @@ publish: true
 - [[The Bones of St. Andral]]
 - [[Arabelle's Gift]] — by **noon** on [[Neyavr 4]]
 - [[The Haunting at Vallakovich Manor]]
+- [[Lady Wachter's Wish]] — ASAP (for Ireena's sake)
 
 # Rumored/Unconfirmed
 
