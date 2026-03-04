@@ -70,6 +70,7 @@ The Old Bonegrinder is the lair of a coven of night hags who use it to produce [
 # Visits
 
 - [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three#The Old Bonegrinder and Morgantha|Session 08]] - Encountered [[Morgantha]] on the path to the windmill; received free dream pastries
+- **[[Session 15 - Killing Izek]]** (Neyavr 5, Morning) - [[Victor Vallakovich]] showed the party a blueprint of the Old Bonegrinder from his father's library. The architectural drawing revealed a hidden compartment within the millstone structure where the hags' coven contract might be stored. This intelligence proved crucial for planning their eventual confrontation with the night hag coven and retrieving [[Morgantha]]'s [[Heartstone|heartstone]] needed for the Ethereal Plane ritual.
 
 %%
 # Map

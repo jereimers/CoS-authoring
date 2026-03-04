@@ -28,7 +28,7 @@ arcs:
 - '[[Arc C - Into the Valley]]'
 first_appearance_session: 11
 first_appearance_date: 3 Neyavr 735
-status: alive
+status: dead
 cr: 5
 emotions:
 - irritated
@@ -119,6 +119,8 @@ From [[Session 13 - The Lost and The Found|Session 13]] library research:
 - [[Session 11 - No Bones About It#Outside the Inn|Session 11]] — First encountered outside the Blue Water Inn
 - [[Session 12 - Into the Bone Zone|Session 12]] — Confrontation outside Vallakovich Manor, fixated on Ireena
 - [[Session 13 - The Lost and The Found#Raiding the Vallakovich Library (Politely)|Session 13]] — Discovered records of his dead sister "Ireena Strazni" in the library
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - While the party attended dinner at [[Wachterhaus]], Izek came to the [[Blue Water Inn]] searching for [[Ireena Kolyana]]. When [[Urwin Martikov]] and [[Danika Dorakova]] told him they didn't know her location, he flew into a rage and ransacked the building. He broke furniture (two chairs, a table, and a window), searched through all the guest rooms, and confiscated coins from the Martikovs' hidden savings chest. His obsessive search for "his sister" escalated the party's determination to eliminate him as a threat.
+- **[[Session 15 - Killing Izek]]** (Neyavr 5) - Assassinated by the party at [[Lake Zarovich]] through a coordinated plot involving poisoned wine, magical incapacitation, and direct combat. The operation began at midday when [[Fig Fleetfoot]] (invisible via [[Victor Vallakovich]]'s *Greater Invisibility* spell) planted a bottle of Purple Grapemash No. 3 laced with essence of night hag among his lunch provisions at the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's Mansion]]. After trailing him throughout the afternoon, the party ambushed him at his favorite spot by the lake at dusk. **Phase One:** Disabled with *Hold Person* and *Heat Metal* while he drank the poisoned wine. **Phase Two:** After breaking free of paralysis, engaged in direct combat where he entered his second form (fiery transformation) before being killed. His severed head was delivered to [[Lady Fiona Wachter]] as proof of death, and his signature silvered battleaxe and detached barbed tail were recovered as trophies.
 
 %%
 # Izek Strazni Profile

@@ -64,7 +64,8 @@ This slouching, centuries-old stone church has a bulging steeple in the back and
 
 
 # Visits
-- [[Session 09 - Walls Keep Out More Than Wolves#St. Andral’s St. Andral's Church Church|Session 09]] — dropping off Ireena, meeting Father Lucian
+- [[Session 09 - Walls Keep Out More Than Wolves#St. Andral's St. Andral's Church Church|Session 09]] — dropping off Ireena, meeting Father Lucian
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - [[Ireena Kolyana]] took refuge at the church with [[Father Lucian Petrovich]] while the party attended dinner at [[Wachterhaus]]. After learning that [[Izek Strazni]] had ransacked the [[Blue Water Inn]] searching for her, the party rushed to the church to confirm her safety. She remained unharmed under Father Lucian's protection. At the church, she was informed about the genealogical records connecting her to "Ireena Strazni" (Izek's sister who died 18 years ago), and she gave her explicit written endorsement for the party's plan to assassinate Izek.
 
 %%
 # Map

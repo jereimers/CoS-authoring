@@ -65,6 +65,7 @@ Lake Zarovich is a glassy, uncanny body of water located along the road between 
 # Visits
 
 - [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three#Lake Zarovich and the Werewolf Attack|Session 08]] - Ireena recognized the lake; the party fought werewolves
+- **[[Session 15 - Killing Izek]]** (Neyavr 5, Evening) - The lake's shore became the site of [[Izek Strazni]]'s assassination. After being poisoned with Purple Grapemash No. 3 laced with essence of night hag, Izek stumbled to his favorite spot by the water. The party ambushed him here in two phases: first disabling him with *Hold Person* and *Heat Metal*, then finishing him in direct combat after he broke free. The battle concluded with Izek's decapitation, and the party recovered his signature battleaxe and barbed tail (which detached upon his death).
 
 %%
 # Map

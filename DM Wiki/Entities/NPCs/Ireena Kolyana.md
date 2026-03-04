@@ -102,7 +102,15 @@ Ireena is the adopted daughter of [[Kolyan Indirovich]] and adopted brother of [
 - Ireena was found when she was a young girl, wandering by the edge of the Svalich Woods near the Pillarstone of Ravenloft. Ireena doesn't remember anything of her past before then, but is grateful to her parents for taking her in and loving her dearly.
 - For reasons unclear, Ireena has become the especial target of [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]], having been visited (and bitten) by him at least once while dwelling with her brother in the [[Village of Barovia]].
 
-%%CLAUDE: update this page with details that the party has learned about Ireena as of [[Session 13 - The Lost and The Found]]%%
+## The Ireena Strazni Connection
+
+In [[Session 13 - The Lost and The Found|Session 13]], while researching at the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's library]], [[Fig Fleetfoot]] discovered genealogical records showing that eighteen years ago, an "**Ireena Strazni**" died of unknown causes (presumed devoured by wolves). She was survived by her brother **[[Izek Strazni]]** and parents Grygori and Fatima Strazni, who subsequently hanged themselves.
+
+This same Izek now serves as [[Baron Vargas Vallakovich|the Baron]]'s enforcer and has been obsessively commissioning [[Ireena Dolls|dolls]] that look exactly like Ireena Kolyana. The connection seems impossible to ignore—especially in a land where nothing happens by chance.
+
+When confronted with this information in [[Session 14 - Dinner and a Show|Session 14]], Ireena rejected any connection to that past life, declaring: "My father is [[Kolyan Indirovich]]. My brother is [[Ismark Kolyana|Ismark]]. I don't know what happened eighteen years ago, but whoever that Ireena was, she's not me. Or if she was... it doesn't matter. That life is dead and gone."
+
+She further stated: "I already have a brother, and his name is Ismark. Whoever—*whatever*—Izek was to me died in that forest years ago."
 # Personality
 - Compassionate, curious, yet stubborn.
 
@@ -114,6 +122,8 @@ Ireena is the adopted daughter of [[Kolyan Indirovich]] and adopted brother of [
 - [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three]]
 - [[Session 09 - Walls Keep Out More Than Wolves]]
 - [[Session 11 - No Bones About It]]
+- **[[Session 13 - The Lost and The Found]]** (Neyavr 4) - Accompanied the party to investigate Arabelle's disappearance at the [[Luna River Crossroads]]. Present when the party discovered evidence pointing to [[Escher]] (Strahd's vampire spawn) as Arabelle's abductor. Later, [[Fig Fleetfoot]] discovered records in the Baron's library revealing the existence of "Ireena Strazni" who died eighteen years ago, survived by her brother [[Izek Strazni]].
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - Stayed at [[St. Andral's Church]] with [[Father Lucian Petrovich]] while the party attended dinner at [[Wachterhaus]]. When they returned to the [[Blue Water Inn]], they found it ransacked—[[Izek Strazni]] had torn through the building searching for her, breaking furniture and stealing the Martikovs' savings. The party rushed to the church to confirm her safety. When told about the "Ireena Strazni" records and Izek's obsession, she rejected any connection to that past life and declared that whoever that person was had "died in that forest years ago." When informed of the party's plan to assassinate Izek, she gave her explicit endorsement, writing on parchment: "I, Ireena Kolyana, do hereby endorse the beheading of Izek Strazni." She agreed to remain hidden at the church until Izek was dealt with.
 
 %%
 # Ireena Kolyana Profile

@@ -61,6 +61,8 @@ His walk-up song is [Alabama Chicken](https://www.youtube.com/watch?v=6CuC02Jj6q
 
 # Where we've seen them
 
+- **[[Session 15 - Killing Izek]]** (Neyavr 5, Morning) - The party visited him at the refugee camp (recently relocated to Vallaki's town square following [[Lady Fiona Wachter|Lady Wachter]]'s takeover). His werewolf bite from four days earlier hadn't healed at all—the wound showed signs of corruption with grayish flesh and dark veins radiating outward. The party told him the truth: he'd been cursed with lycanthropy and would likely transform during the coming full moon. Parriwimple took the news with remarkable courage, promising to fight the curse's violent urges while the party searched for a cure. He'd been keeping busy helping the refugees with manual labor—fetching and chopping firewood, digging postholes and latrines, hauling supplies, fighting off wolves at night, and playing with the camp's children during the day. When [[Arden Nalero]] said he'd missed Parriwimple, Parriwimple clarified that he *hadn't* missed the party—not because he didn't care, but because he'd been so happy and busy helping people that he hadn't had time to miss anyone. He mentioned the disappearance of two children from camp: Fyodor and Myrtle.
+
 
 %%
 # Parriwimple Profile

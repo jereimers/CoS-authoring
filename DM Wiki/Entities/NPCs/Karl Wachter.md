@@ -63,6 +63,7 @@ The younger son of [[Lady Fiona Wachter]] and a generally drunk rapscallion. Can
 # Where we've seen them
 
 - Asked for a story about a "stupid Baron" in [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 9]]
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - Present at [[Wachterhaus]] during the party's dinner with [[Lady Fiona Wachter]]. Along with his brother [[Nikolai Wachter|Nikolai]], he participated in the evening's conversation and witnessed his mother's emotional reunion with [[Stella Wachter]]'s conscious spirit through the [[spirit mirror]].
 
 %%
 # Karl Wachter Profile

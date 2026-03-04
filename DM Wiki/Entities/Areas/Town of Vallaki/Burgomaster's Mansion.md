@@ -53,6 +53,8 @@ People come and go from the mansion at all hours during the day. Guards bring cr
 # Visits
 
 - [[Session 12 - Into the Bone Zone#Beseeching the Baron|Session 12]]
+- **[[Session 13 - The Lost and The Found]]** (Neyavr 4, Morning) - The party raided the Baron's library, discovering genealogical records including the death of "Ireena Strazni" eighteen years ago. They also learned about the mansion's haunting and obtained various intelligence about Vallaki's history and the Baron's affairs.
+- **[[Session 15 - Killing Izek]]** (Neyavr 5, Midday) - The mansion's kitchen became the site of the poisoned wine planting operation. [[Victor Vallakovich]] cast *Greater Invisibility* on [[Fig Fleetfoot]], who infiltrated the kitchen while [[Varnish Gothorn]] (disguised as Amal, the former head butler) distracted the cook Tereska with a fabricated errand. Fig successfully planted the poisoned Purple Grapemash No. 3 among [[Izek Strazni]]'s lunch provisions. The cook unknowingly included the bottle in Izek's meal delivery, which he consumed that evening at [[Lake Zarovich]], leading to his assassination.
 
 %%
 # Map

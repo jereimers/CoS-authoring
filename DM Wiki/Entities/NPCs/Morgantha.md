@@ -62,6 +62,8 @@ Morgantha is a totally benign, perfectly kind old woman with a cart she pushes u
 
 - [[Session 03 - Kolyan's Burial]] — she sold a pastry to [[Varnish Gothorn|Varnish]]
 - [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three#The Old Bonegrinder and Morgantha|Session 8]]
+- **[[Session 13 - The Lost and The Found]]** (Neyavr 4) - [[Victor Vallakovich]] informed the party that [[Erasmus]] had spotted Morgantha haunting the [[Refugee Camp]], identifying her as a [[Night Hags|night hag]]. This intelligence revealed that Morgantha possesses a [[Heartstone|heartstone]]—a crucial component needed for the ritual to rescue [[Stella Wachter]]'s soul from the [[Ethereal Plane]].
+- **[[Session 15 - Killing Izek]]** (Neyavr 5, Morning) - The party learned from [[Franz]] about his recurring nightmare featuring an "onyx stone," which Victor identified as likely Morgantha's heartstone. Victor also showed the party a blueprint of [[Old Bonegrinder]] from the Baron's library, revealing a hidden compartment in the millstone where the hags' coven contract might be stored. These discoveries furthered the party's plans to confront Morgantha and obtain her heartstone.
 
 %%
 # Morgantha Profile

@@ -135,6 +135,8 @@ From [[Session 13 - The Lost and The Found|Session 13]], the party learned:
 
 - [[Session 13 - The Lost and The Found#Raiding the Vallakovich Library (Politely)|Session 13]] — Met in the Vallakovich library; discussed Khazan's spellbook
 - [[Session 13 - The Lost and The Found#Victor's Workroom|Session 13]] — Showed the party his workroom and explained Stella's predicament
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - Mentioned when the party told [[Lady Fiona Wachter]] the truth about [[Stella Wachter|Stella]]'s condition. Lady Wachter learned that Victor and Stella had been experimenting with teleportation magic and that the accident occurred in Victor's workroom. Though not present at the dinner, Victor's role in both causing and attempting to fix Stella's plight became known to her mother.
+- **[[Session 15 - Killing Izek]]** (Neyavr 5) - Met with the party to discuss their progress on saving Stella and assassinating [[Izek Strazni]]. Shared information about Franz's nightmare, identifying the "onyx stone" as likely the hag's heartstone. Showed the party a blueprint of [[Old Bonegrinder]] from his father's library, revealing a hidden compartment in the millstone where the hags' coven contract might be stored. Crucially aided the assassination plot by casting *Greater Invisibility* on [[Fig Fleetfoot]] during the wine-planting operation at the kitchen. Also helped formulate the distraction plan using [[Varnish Gothorn]]'s disguise as Amal, the former head butler. His magical assistance ensured the poisoned wine was successfully planted in Izek's lunch delivery.
 
 %%
 # Victor Vallakovich Profile

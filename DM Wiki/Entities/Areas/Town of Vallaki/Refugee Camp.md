@@ -55,6 +55,7 @@ More than a dozen ramshackle tents have been set up against the [[Town of Vallak
 
 # Visits
 - [[Session 09 - Walls Keep Out More Than Wolves#The Refugee Camp|Session 9]]
+- **[[Session 15 - Killing Izek]]** (Neyavr 5, Morning) - The party visited the camp (recently relocated to [[Town of Vallaki|Vallaki's]] town square following [[Lady Fiona Wachter|Lady Wachter]]'s takeover) to check on [[Parriwimple]]. His werewolf bite from four days earlier showed signs of corruption with grayish flesh and dark veins. The party told him the truth about his lycanthropy curse and the coming full moon transformation. Parriwimple revealed he'd been helping refugees with manual labor, fighting off wolves at night, and playing with the camp's children. He mentioned the disappearance of two children: Fyodor and Myrtle. The party also learned from [[Franz]] about his recurring nightmare featuring an "onyx stone"—which [[Victor Vallakovich]] later identified as likely [[Morgantha]]'s [[Heartstone|heartstone]].
 
 
 %%

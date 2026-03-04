@@ -91,7 +91,8 @@ Father Lucian is a serene, humble, and compassionate priest who is always happy 
 
 - [[Session 09 - Walls Keep Out More Than Wolves]]
 - [[Session 11 - No Bones About It#Outside the Inn|Session 11]] - intervened on [[Willemina Rikalova|Willemina]]'s (and the party's) behalf to [[Baron Vargas Vallakovich|The Baron]]
-- [[Session 11 - No Bones About It#St. Andral's Church|Session 11]] 
+- [[Session 11 - No Bones About It#St. Andral's Church|Session 11]]
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - Provided sanctuary to [[Ireena Kolyana]] at [[St. Andral's Church]] while the party attended dinner at [[Wachterhaus]]. After [[Izek Strazni]] ransacked the [[Blue Water Inn]] searching for her, the party rushed to the church to confirm Ireena's safety. Father Lucian assured them that the church's hallowed grounds had protected her from any harm. He remained present when the party informed Ireena about the genealogical connection to "Ireena Strazni" and her written endorsement of Izek's assassination. 
 
 %%
 # Father Lucian Petrovich Profile

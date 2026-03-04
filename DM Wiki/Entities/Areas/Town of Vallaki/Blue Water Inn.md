@@ -73,6 +73,8 @@ BLUE WATER INN TAPROOM INTERIOR
 - [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|First Night at the Inn]]
 - [[Session 11 - No Bones About It#Morning at the Blue Water Inn|First morning at the Inn]]
 - [[Session 13 - Neyavr 4#Erasmus' Plea|Erasmus' Plea]]
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - While the party attended dinner at [[Wachterhaus]], [[Izek Strazni]] came to the inn searching for [[Ireena Kolyana]]. When [[Urwin Martikov]] and [[Danika Dorakova]] told him they didn't know where she was, Izek ransacked the building—breaking furniture (two chairs, a table, and a window), searching through guest rooms, and confiscating coins from the Martikovs' hidden savings chest. The inn was closed to non-guests for the evening, with all shutters drawn. Urwin and Danika cleaned up the debris and the party's rooms before their return.
+- **[[Session 15 - Killing Izek]]** (Neyavr 5, Morning) - Served as the meeting place where [[Ernst Larnak]] delivered the poisoned wine and detailed intelligence about Izek's daily schedule to the party. The breakfast meeting included an extended philosophical discussion about coffee versus cremated remains.
 
 
 %%

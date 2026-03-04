@@ -85,7 +85,7 @@ With that, he departed, leaving them with poisoned wine, a schedule, and a burla
 
 Before the day's grim work could begin in earnest, there was someone the party wanted to check on. [[Parriwimple]], their gentle companion who'd been making himself useful among the refugees outside the Morning Gate, hadn't been seen in days. More importantly, they needed to assess the werewolf bite he'd sustained during their encounter in the woods—a wound that had shown distressing signs of failing to heal properly.
 
-The refugee camp had been relocated to Vallaki's town square following [[Lady Fiona Wachter|Lady Wachter]]'s promise to allow the Barovians entry, though the tents remained as temporary housing while more permanent arrangements were sought. The party found Parriwimple easily enough—his large frame and cheerful demeanor made him impossible to miss as he helped stack firewood near one of the larger cook fires.
+The party found Parriwimple easily enough—his large frame and cheerful demeanor made him impossible to miss as he helped stack firewood near one of the larger cook fires.
 
 "Oh! Hello!" Parriwimple's face lit up when he spotted them. "I didn't know you were coming to visit!"
 

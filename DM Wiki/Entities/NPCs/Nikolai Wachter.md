@@ -64,6 +64,7 @@ The elder son of [[Lady Fiona Wachter]] and a generally drunk rapscallion. Can u
 # Where we've seen them
 
 - Karate-chopped in the throat by [[Arden Nalero|Arden]] in [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 9]]
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - Present at [[Wachterhaus]] during the party's dinner with [[Lady Fiona Wachter]]. Along with his brother [[Karl Wachter|Karl]], he participated in the evening's conversation and witnessed his mother's emotional reunion with [[Stella Wachter]]'s conscious spirit through the [[spirit mirror]].
 
 %%
 # Nikolai Wachter Profile

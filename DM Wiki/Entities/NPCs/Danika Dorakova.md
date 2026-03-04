@@ -88,7 +88,9 @@ A co-owner of the [[Blue Water Inn]], husband to [[Urwin Martikov]] and mother t
 
 # Where we've seen them
 
-*To be updated during play.*
+- [[Session 09 - Walls Keep Out More Than Wolves#Blue Water Inn|Session 09]] — First meeting at the Blue Water Inn
+- [[Session 11 - No Bones About It#Morning at the Blue Water Inn|Session 11]] — Morning service at the inn
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - Along with [[Urwin Martikov]], confronted [[Izek Strazni]] when he came to the [[Blue Water Inn]] searching for [[Ireena Kolyana]]. When they told him they didn't know her location, Izek ransacked the building, breaking furniture and confiscating their hidden savings. Danika and Urwin cleaned up the damage and the party's rooms before their return, closing the inn to non-guests for safety. Despite the violation and financial loss, they maintained their composure and hospitality toward their guests.
 
 %%
 # Danika Dorakova Profile

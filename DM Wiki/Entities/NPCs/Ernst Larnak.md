@@ -58,7 +58,8 @@ region: Wilderness
 
 # Where we've seen them
 
-*To be updated during play.*
+- **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - Delivered [[Lady Fiona Wachter|Lady Wachter]]'s dinner invitation to the party at the [[Blue Water Inn]] earlier in the arc.
+- **[[Session 15 - Killing Izek]]** (Neyavr 5, Morning) - Met the party for breakfast at the [[Blue Water Inn]]. Engaged in an extended discussion about whether [[Arden Nalero]]'s decades-old pouch contained coffee grounds or the ashes of his murdered family, ultimately concluding neither pouch was safe to brew. Delivered the poisoned wine (labeled "Red Dragon Crush") and detailed intelligence about [[Izek Strazni]]'s daily schedule. Helped the party formulate their assassination plan, recommending they plant the wine while the Baron's cook prepared Izek's lunch, then tail him throughout the day until he drank the poisoned wine alone at [[Lake Zarovich]]. Provided a burlap sack sized for Izek's severed head. His intelligence gathering and logistical support enabled the successful assassination.
 
 %%
 # Ernst Larnak Profile

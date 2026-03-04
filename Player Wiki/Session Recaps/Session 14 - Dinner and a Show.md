@@ -259,7 +259,7 @@ The party's blood ran cold. "Did he find her?" [[Fig Fleetfoot|Fig]] asked urgen
 
 "No," Urwin assured them quickly. "She wasn't here. She's been staying at the church with [[Father Lucian Petrovich|Father Lucian]]. But Izek..." He trailed off, then continued more quietly. "He took some things. Some savings of ours that we'd hidden away. And he made it very clear he'll be back."
 
-There was more Urwin wasn't saying, the party could tell—something about how exactly he'd hidden [[Ireena Kolyana|Ireena]] during previous visits, perhaps, or how he'd known Izek was coming. But he offered a wan smile and changed the subject. "Your rooms are cleaned up and ready for you. Danika and I worked through the afternoon to set everything right."
+Urwin offered a wan smile and changed the subject. "Your rooms are cleaned up and ready for you. Danika and I worked through the afternoon to set everything right."
 
 "We're sorry," [[Choppy Gibbles|Choppy]] said quietly. "That you got caught up in this."
 
@@ -303,7 +303,7 @@ Inside the church, they found [[Ireena Kolyana|Ireena]] safe and unaware of Izek
 
 But that wasn't all they had to tell her. [[Fig Fleetfoot|Fig]] shared what they'd discovered in the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's library]]—the record of Ireena Strazni, deceased eighteen years ago, survived by her brother Izek and parents who had subsequently hanged themselves. The same Izek who now commissioned dolls in her exact likeness.
 
-[[Ireena Kolyana|Ireena]]'s expression shifted through shock, confusion, and finally disgust. "That's... no. I don't remember any of that. My father is [[Kolyan Indirovich]]. My brother is [[Ismark Kolyana|Ismark]]. I don't know what happened eighteen years ago, but whoever that Ireena was, she's not me. Or if she was..." She shook her head, as if trying to dislodge something. "It doesn't matter. That life is dead and gone."
+[[Ireena Kolyana|Ireena]]'s expression shifted through shock, confusion, and finally disgust. "That's... no. I don't remember any of that. My father is [[Kolyan Indirovich]]. My brother is [[Ismark Kolyanovich|Ismark]]. I don't know what happened eighteen years ago, but whoever that Ireena was, she's not me. Or if she was..." She shook her head, as if trying to dislodge something. "It doesn't matter. That life is dead and gone."
 
 The party explained their plan to kill Izek—they'd already agreed to it with Lady Wachter, and the execution would happen soon. They asked if Ireena had any objections.
 
