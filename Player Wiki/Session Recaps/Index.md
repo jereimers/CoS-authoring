@@ -1,10 +1,10 @@
 ---
 publish: true
 ---
-1. [[Session 01 - Arrivals]]
-2. [[Session 02 - Out of Death House]]
-3. [[Session 03 - Kolyan's Burial]]
-4. [[Session 04 - Defending the Eastern Barricade]]
+1. [[Session 01 - Arrivals]]*
+2. [[Session 02 - Out of Death House]]*
+3. [[Session 03 - Kolyan's Burial]]*
+4. [[Session 04 - Defending the Eastern Barricade]]*
 5. [[Session 05 - Out of Barovia]]
 6. [[Session 06 - The Game of Stories]]
 7. [[Session 07 - The Tarokka Reading]]
@@ -16,4 +16,6 @@ publish: true
 13. 2/4/26 - [[Session 13 - The Lost and The Found]]
 14. 2/18/26 - [[Player Wiki/Session Recaps/Session 14 - Dinner and a Show|Session 14 - Dinner and a Show]]
 15. 2/19/26 - [[Player Wiki/Session Recaps/Session 15 - Killing Izek|Session 15 - Killing Izek]]
-16. 
+16. 3/4/26 - [[Session 16]]
+
+*indicates session played but recap not yet written.

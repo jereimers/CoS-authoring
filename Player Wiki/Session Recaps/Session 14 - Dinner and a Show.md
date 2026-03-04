@@ -39,15 +39,22 @@ Returning to the [[Blue Water Inn]], you found it ransacked. [[Izek Strazni]] ha
 
 # Brandy and Small Talk
 
+![[Wachterhaus-calebisdrawing.jpg]]
+*WACHTERHAUS PARLOR*
+
 The evening had barely begun when [[Lady Fiona Wachter]] settled into her chair with practiced elegance, a crystal glass of brandy cradled in one hand, her sharp eyes moving from guest to guest with the cool assessment of someone accustomed to measuring others. The parlor of [[Wachterhaus]] was warm despite the chill autumn air outside, lit by oil lamps that cast dancing shadows across the walls adorned with portraits of stern-faced ancestors. The party sat arrayed on upholstered couches, some nursing glasses of wine while others remained alert and watchful.
 
 "Now then," [[Lady Fiona Wachter|Lady Wachter]] said, her voice cultured and measured, "I confess I know very little about my guests this evening, save what reputation and rumor provide—and both, I find, are notoriously unreliable sources." A slight smile touched her lips. "Shall we remedy that?"
 
-Her questions were directed with precision, each player singled out in turn as she worked to understand the strangers who had entered her home. To [[Fig Fleetfoot]], she gestured at the elegant katana at their side. "A beautiful weapon," she observed. "Such craftsmanship is rare in these lands. Where did you come by it?" Fig's answer drew a thoughtful nod, and Lady Wachter's gaze moved on.
+Her questions were directed with precision, each player singled out in turn as she worked to understand the strangers who had entered her home. To [[Fig Fleetfoot]], she gestured at the elegant katana at their side. "A beautiful weapon," she observed. "Such craftsmanship is rare in these lands. Where did you come by it?" Fig's answer—that it was a relic of their past training at a distant monastery—drew a thoughtful nod, and Lady Wachter's gaze moved on.
 
-[[Varnish Gothorn]] found himself the subject of inquiry next as Lady Wachter's eyes settled on the clarinet case at his side. "A musician," she noted with what might have been approval. "How refreshing. Music has been in short supply in Vallaki of late—the Baron's festivals hardly count, I'm afraid. Do you play for pleasure, or profession?" Varnish's response seemed to satisfy her, though her expression remained difficult to read.
+[[Varnish Gothorn]] found himself the subject of inquiry next as Lady Wachter's eyes settled on the clarinet case at his side. "A musician," she noted with what might have been approval. "How refreshing. Music has been in short supply in Vallaki of late—the Baron's festivals hardly count, I'm afraid. Do you play for pleasure, or profession?" 
 
-[[Arden Nalero]]'s turn came when Lady Wachter's attention fixed on the distinctive breastplate he wore—the two-faced sigil of [[Hoar]] emblazoned across its surface. "And this," she said, leaning forward slightly, "is no common deity's symbol. Hoar, the Doombringer. A god of vengeance and retribution, if I'm not mistaken." Her tone held no judgment, only curiosity. "An interesting patron for one traveling through Barovia. May I ask what brought you to his service?" Arden's explanation drew a contemplative silence before she moved on.
+Varnish shared that he used to just fiddle about but had recently discovered some new abilities involving the use of his clarinet to conjure spirits from beyond the veil, from whom tales of power could be coaxed. This seemed to satisfy the Lady, though her expression remained difficult to read.
+
+[[Arden Nalero]]'s turn came when Lady Wachter's attention fixed on the distinctive breastplate he wore. "And this," she said, leaning forward slightly, "is magnificent, though I'm afraid I don't recognize the sigil... what meaning does it hold?" Her tone held no judgment, only curiosity.
+
+Arden told her about his devotion to [[Hoar]], the Doombringer. "An interesting patron for one traveling through Barovia. May I ask what brought you to his service?" [[Arden's Tale|Arden's response]] drew a contemplative and sympathetic silence before she moved on.
 
 Finally, her gaze settled on [[Choppy Gibbles]], and she tilted her head slightly. "And you, young man. I sense power about you—the kind that comes not from books and tutors, but from something... innate." She paused, considering. "Tell me, where did you receive your training in the arcane arts? Or did you, perhaps, find magic came to you without such formal instruction?"
 
@@ -175,6 +182,9 @@ Lady Wachter laid out the background on Izek's mysterious fiendish arm and its s
 
 With the matter of Izek settled, the party realized they could no longer avoid the other pressing issue that had brought them here: [[Stella Wachter|Stella]].
 
+![[stella_wachter.png]]
+*STELLA WACHTER'S SOULLESS BODY*
+
 [[Choppy Gibbles|Choppy]] and [[Arden Nalero|Arden]] both quietly cast *Detect Magic*, their arcane senses reaching out through the walls of Wachterhaus. Almost immediately, they felt it—a massive circle of protective magic surrounding the entire estate, thrumming with power designed to keep ethereal entities at bay.
 
 A brief, whispered conference followed among the party members. Should they tell Lady Wachter the truth? Could she even be trusted with it? But looking at the grief and fury that had colored her voice when she'd spoken of Stella's condition, they made their choice.
@@ -248,6 +258,9 @@ Just another week in Barovia.
 The [[Blue Water Inn]] looked wrong as they approached. The shutters were all closed despite the early hour, and a cold draft seeped from a broken window on the ground floor. Debris—splintered wood that had once been furniture—sat in a neat pile by the shed outside the front door. Glass shards had been swept into a pile nearby.
 
 The door was unlocked but the taproom was empty save for [[Urwin Martikov|Urwin]], who stood with a broom and dustpan, methodically gathering splinters from the floor. He looked up as they entered, and the weariness in his expression spoke volumes.
+
+![[BWIlores-calebisdrawing.jpg]]
+*THE BLUE WATER INN TAPROOM*
 
 "Welcome back," he said, setting the broom aside. "I'm afraid we're closed for the evening. Just to guests."
 

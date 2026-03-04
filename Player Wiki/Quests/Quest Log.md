@@ -7,7 +7,9 @@ publish: true
 ## Vallaki
 
 - [[The Lost Soul]] — before dawn on Neyavr 9
+	- Next steps: EITHER determine the night hags' true names OR bargain with them to obtain use of a heartstone
 - [[The Missing Vistana]] — ASAP
+	- Next steps: Investigate Khazan's Tower with or without guidance from [[Szoldar Szoldarovich|Szoldar]]
 
 ## Village of Barovia
 
@@ -24,9 +26,9 @@ publish: true
 
 - [[Escort Ireena]]
 - [[The Bones of St. Andral]]
-- [[Arabelle's Gift]] — by **noon** on [[Neyavr 4]]
+- [[Arabelle's Gift]] 
 - [[The Haunting at Vallakovich Manor]]
-- [[Lady Wachter's Wish]] — ASAP (for Ireena's sake)
+- [[Lady Wachter's Wish]] 
 
 # Rumored/Unconfirmed
 

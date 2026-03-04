@@ -45,6 +45,9 @@ He didn't have to wait long.
 
 A man in a well-made but mud-spattered brown cloak approached with the purposeful stride of someone on business. [[Ernst Larnak]]—[[Lady Fiona Wachter|Lady Wachter]]'s spy and courier—nodded to Arden in greeting and gestured toward the inn's entrance. "I believe we have matters to discuss. Shall we?"
 
+![[ernst-larnak.png]]
+*ERNST LARNAK*
+
 By the time the rest of the party descended the stairs and entered the taproom, Ernst had already ordered breakfast and was tucking into bread, eggs, and cured sausage with evident satisfaction. He looked up as they joined him, mouth still half-full, and gestured appreciatively at his plate.
 
 "Martikov knows his way around a kitchen, I'll give him that," Ernst said, swallowing. "Shame he doesn't carry coffee, though. I once bought some from a Vistana caravan—wonderful stuff. Rich, bitter, gave you a real jolt in the morning." He sighed wistfully. "Can't get it anywhere in Vallaki."
@@ -121,7 +124,7 @@ The party exchanged meaningful glances. They had a pretty good idea what had hap
 
 # Franz's Nightmares
 
-The scene at Franz's tent was even grimmer than Parriwimple's description had suggested. [[Emeric and Magda]], the de facto organizers of the refugee camp, led the party through the muddy avenues between tents until they reached a small, sagging structure at the camp's edge.
+The scene at Franz's tent was even grimmer than Parriwimple's description had suggested. [[Emeric]] and [[Magda]], the de facto organizers of the refugee camp, led the party through the muddy avenues between tents until they reached a small, sagging structure at the camp's edge.
 
 Inside, the air was thick with the smell of sickness and despair. Franz lay on a threadbare pallet, his skin waxy and pale, his body so wasted that he barely seemed real. Beside him knelt his sister Nyanka, clutching wilted herbs and pressing a damp cloth to his burning forehead. Two smaller pallets—child-sized—sat empty nearby. A stuffed rabbit with button eyes stared sightlessly at the tent's ceiling.
 
@@ -130,8 +133,6 @@ Franz's eyes focused on the party with difficulty. When they did, he let out a w
 Nyanka apologized for her brother's delirium. He'd been like this since the nightmares began, she explained—feverish, wasting away, speaking nonsense half the time.
 
 The party asked if they could speak with Franz privately. Nyanka, Emeric, and Magda exchanged glances but complied, stepping outside and leaving the adventurers alone with the dying man.
-
-[[Arden Nalero|Arden]] remained standing, his expression hard. He'd heard enough of Franz's story from the others to know what the man had done, and his sense of justice—of *vengeance*—made it difficult to show compassion to someone who'd sold his own children. But the others knelt beside Franz's pallet, their faces grave.
 
 "Tell us about the night hag," [[Varnish Gothorn|Varnish]] said gently. "Tell us about your nightmares."
 
@@ -143,13 +144,15 @@ And then his money had run out. And Morgantha had made him an offer.
 
 "Three nights ago," Franz whispered, tears streaming down his hollow cheeks, "I led Fyodor and Myrtle down past the tree line. Morgantha put them to sleep with magic and stuffed them in a sack. She promised me I could have as many pastries as I wanted, for the rest of my life. And I..." His voice broke. "I *agreed.*"
 
-He described trying to take the children back when he'd heard Myrtle cry out in her sleep, how Morgantha had laughed at him and put him to sleep as well. How he'd woken up alone, the witch and his children vanished, and how the nightmares had begun that same night.
+At this point, [[Arden Nalero|Arden]] had heard enough. He could not sympathize with a man who would sell his own children to anyone, for anything, and he walked out of the tent in rage and disgust—a mercy, no doubt, for he could feel the burning coals of vengeance stirring in his chest and might have ended Franz then and there. Still, the others remained, no less disgusted at the wretch who lay before them but hopeful for any information Franz could share that might help them defeat the night hags and rescue the children. 
+
+Franz described trying to take the children back when he'd heard Myrtle cry out, how Morgantha had laughed at him and put him to sleep as well. How he'd woken up alone, the witch and his children vanished, and how the nightmares had begun that same night.
 
 In the nightmare, he was strapped to a millstone, unable to move. A gaunt figure sat on his chest—sallow gray-blue skin, deep-set eyes, matted hair, ram's horns, a mouth full of yellowed teeth. She held a twisted black stone to his forehead and whispered promises of damnation. In the background, he could hear Fyodor and Myrtle sobbing, accompanied by high-pitched cackling laughter and the grinding of windmill blades in the wind.
 
 "Every night," Franz rasped. "The same nightmare. And every morning I wake up more... less. I'm fading. Dying. And I deserve it—I know I deserve it. But my children don't. Please." He reached out with a trembling hand and grasped [[Fig Fleetfoot|Fig]]'s sleeve. "Please save them. I can't offer you gold. I can't offer you anything. Just... please."
 
-[[Arden Nalero|Arden]]'s jaw was tight, but he said nothing. The others made their promises: they would find Fyodor and Myrtle. They would rescue them. Franz's sister Nyanka would care for them while he recovered—or, if he didn't recover, she would raise them as her own.
+The party made their promises: they would find Fyodor and Myrtle. They would rescue them. Franz's sister Nyanka would care for them while he recovered—or, if he didn't recover, she would raise them as her own.
 
 "I don't deserve to be their father," Franz whispered. "I just want to see them safe. That's all."
 
@@ -165,7 +168,7 @@ No one argued.
 
 # Visiting Victor
 
-The party made their way to the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's Mansion]] to update [[Victor Vallakovich|Victor]] on their progress. Claudia, the maid, admitted them with the weary air of someone who'd given up questioning the comings and goings of strange armed foreigners, and even agreed to deliver Victor's lunch to him in the attic workroom while they were visiting.
+The party made their way to the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's Mansion]] to update [[Victor Vallakovich|Victor]] on their progress. Claudia, the maid, admitted them with the weary air of someone who'd given up questioning the comings and goings of strange armed foreigners, and enlisted their assistance in delivering Victor's lunch to him in the attic workroom while they were visiting.
 
 Victor was bent over his workbench when they arrived, surrounded by open books and scattered parchment covered in arcane diagrams. He looked up as they entered, his expression brightening. "Did you learn anything from the refugees?"
 
@@ -175,9 +178,12 @@ Victor's eyebrows rose at the mention of Lady Wachter. "You actually convinced h
 
 "Emotionally," [[Fig Fleetfoot|Fig]] said diplomatically. "But she's committed to helping us save Stella. She's gathering her associates to create a binding circle, but she needs the hags' true names first."
 
-Victor nodded, processing this. "Their coven contract. It would have to be somewhere in the windmill—likely hidden in a place of power or significance." He paused, then pointed at Franz's cryptic words they'd relayed. "The 'heart of the windmill' he mentioned. I don't think he meant a heartstone—night hags keep those on their person at all times. But I remember seeing something in my father's library..."
+Victor nodded, processing this. "Their coven contract. It would have to be somewhere in the windmill—likely hidden in a place of power or significance." He paused, then recalled Franz's cryptic words they'd relayed. "The 'heart of the windmill' he mentioned. I don't think he meant a heartstone—night hags keep those on their person at all times, and it sounds like that's what the hag was pressing to his forehead. But I remember seeing something in my father's library..."
 
-He bounded down the ladder and returned minutes later with an old record book, flipping to a page bearing a detailed blueprint of Old Bonegrinder. He laid it out on the workbench, pointing excitedly at the millstone diagram. "Look. There's a compartment built into the side of the millstone. If the hags are hiding something important—like their coven contract—it would be there."
+He bounded down the ladder and returned minutes later with an old record book, flipping to a page bearing a detailed blueprint of [[Old Bonegrinder]]. He laid it out on the workbench, pointing excitedly at the millstone diagram. "Look. There's a compartment built into the side of the millstone. If the hags are hiding something important—like their coven contract—it would be there."
+
+![[map-06.01-old-bonegrinder.jpg]]
+*MAP OF THE DURST MILL (AKA OLD BONEGRINDER)*
 
 [[Choppy Gibbles|Choppy]] studied the blueprint with interest. "And the 'gnarled arm holds the key'?"
 
@@ -189,19 +195,19 @@ Victor stressed the importance of handling the situation carefully. "If the chil
 
 The party assured him they understood. But first, before any trips to haunted windmills, they had a more immediate task: planting poisoned wine and assassinating [[Izek Strazni]].
 
-Victor's expression grew thoughtful. "I can help with that. I have a spell—*Greater Invisibility*—that lasts for a full minute and doesn't break even if the invisible person takes an action. If you're trying to sneak into the kitchen to swap wine bottles, I can make your infiltrator completely undetectable."
+Victor's expression grew thoughtful. "I can help with that. I have a spell—*Greater Invisibility*—that lasts for a full minute and doesn't break even if the invisible person were to strike a blow. If you're trying to sneak into the kitchen to swap wine bottles, I can make your infiltrator completely undetectable."
 
 The party's eyes lit up. That changed everything.
 
-"I can also help you create a convincing distraction," Victor added. He pulled out a theatrical costume piece—something that might pass for a servant's uniform—and suggested that with the right disguise and Victor's magical assistance, they could pull off a flawless wine-planting operation.
+Turning to [[Varnish Gothorn|Varnish]], Victor added, "I can also help you perfect your disguise." With the right disguise and Victor's magical assistance, they could pull off a flawless wine-planting operation.
 
 A plan began to take shape.
 
 # Planting the Poisoned Wine
 
-The plan, as it came together, was elegant in its simplicity: [[Varnish Gothorn|Varnish]], using his *Actor* feat and a hastily assembled disguise, would pose as Amal—the recently resigned head butler whose departure Victor had mentioned. While disguised as Amal, Varnish would enter the kitchen through the back door and engage Tereska in conversation, providing a distraction. Meanwhile, [[Fig Fleetfoot|Fig]], rendered completely invisible by Victor's *Greater Invisibility* spell, would sneak into the kitchen, locate Izek's wine case, and swap out one of the bottles for the poisoned Red Dragon Crush.
+The plan, as it came together, was elegant in its simplicity: [[Varnish Gothorn|Varnish]], using his *Actor* feat and the magic of *Disguise Self*, would pose as Amal—the recently resigned head butler whose departure Victor had mentioned. While disguised as Amal, Varnish would enter the kitchen through the back door and engage Tereska in conversation, providing a distraction. Meanwhile, [[Fig Fleetfoot|Fig]], rendered completely invisible by Victor's *Greater Invisibility* spell, would sneak into the kitchen, locate Izek's wine case, and swap out one of the bottles for the poisoned Red Dragon Crush.
 
-They waited until shortly before noon, when Tereska would be preparing Izek's lunch. Victor cast the spell on Fig with a whispered incantation, and the rogue vanished from sight entirely—not even a shimmer remained.
+They waited until shortly before noon, when Tereska would be preparing Izek's lunch. Victor cast the spell on Fig with a whispered incantation, and the monk vanished from sight entirely—not even a shimmer remained.
 
 "One minute," Victor reminded them. "Make it count."
 
@@ -211,13 +217,13 @@ Tereska opened the door, her expression shifting from surprise to suspicion. "Am
 
 "I..." Varnish-as-Amal wrung his hands apologetically. "I came to apologize. For leaving so suddenly. I know it put you in a difficult position, and I... I wanted to make amends. Perhaps ask if there might be room for me to return to service?"
 
-Tereska's face softened slightly, though her wariness remained. "The haunting scared you off, same as it did the rest of us. Can't say I blame you." She stepped aside, letting him in. "But I don't know if the Baron would take you back. He was right cross about the whole thing."
+Tereska's face softened slightly, though her wariness remained. "The haunting scared you, same as it did the rest of us. Can't say I blame you, but you left us all in quite a lurch." She stepped aside, letting him in. "I don't know if the Baron would take you back. He was right cross about the whole thing."
 
 As Varnish-as-Amal launched into an elaborate and heartfelt apology, Fig slipped through the door behind him, invisible and silent. The kitchen was organized and clean, with Tereska's workspace clearly marked by the lunch preparations in progress. On the counter sat a leather wine case, and beside it, two bottles of Purple Grapemash No. 3.
 
 Fig moved with practiced precision, lifting one of the bottles from the case and replacing it with the Red Dragon Crush. The swap took seconds. Fig then positioned themselves near the wall to observe, ensuring Tereska didn't notice the discrepancy.
 
-Varnish-as-Amal's attempts at reconciliation were progressing poorly. Despite his convincing performance, Tereska remained unmoved by his request to rejoin the household staff. "I'm sorry, Amal, but that's not my decision to make. And even if it were, I don't think it's wise. The haunting hasn't stopped, you know. Objects still move on their own, drafts appear from nowhere, reflections show things that shouldn't be there." She placed a hand on his shoulder kindly. "You were right to leave. I wish I had the courage to do the same."
+Varnish-as-Amal's attempts at reconciliation were progressing poorly. Despite his convincing performance, Tereska remained unmoved by his request to rejoin the household staff. "I'm sorry, Amal, but that's not my decision to make. And even if it were, I don't think it's wise. The haunting hasn't stopped, you know. Objects still move on their own, drafts appear from nowhere, reflections show things that shouldn't be there." She placed a hand on his shoulder kindly. "You may have been right to leave, but I'm afraid there's no coming back."
 
 She ushered him toward the back door. "I need to finish preparing Izek's lunch. I'm sorry, but you should go."
 
@@ -239,7 +245,7 @@ At one o'clock, they watched from various vantage points as Tereska delivered Iz
 
 Throughout the afternoon, they trailed Izek as he made his rounds with the two guards. At one point, they observed him shaking down one of his "informants"—a nervous-looking shopkeeper who handed over a few coins and whispered information about neighbors who'd been seen frowning. Izek pocketed the coins without a word.
 
-Near the Zarovich Gate, a small dog—a mangy mastiff standing guard in an alley—began growling at the party's hiding spot. [[Varnish Gothorn|Varnish]] quickly cast *Animal Friendship*, calming the beast before it could alert Izek or his guards to their presence.
+Near the Zarovich Gate, a small dog—a mangy mastiff standing guard in an alley—began growling at the party's hiding spot. [[Varnish Gothorn|Varnish]] quickly employed his proficiency in animal handling, calming the beast before it could alert Izek or his guards to their presence.
 
 The party also witnessed Izek inspecting the town gates, where desperate refugees pleaded for entry. His response was to conjure a flame in his palm and threaten to burn them if they didn't disperse. Later, he commanded a guard to fetch a crate of silvered crossbow bolts from a storage area near the party's hiding position. They held their breath as the guard approached, succeeding in remaining undetected only through careful positioning and [[Fig Fleetfoot|Fig]]'s expert use of cover.
 
@@ -247,9 +253,12 @@ Around four-thirty in the afternoon, Izek made an unexpected detour. He dismisse
 
 The party watched from across the street as Izek entered the shop. Minutes later, he emerged holding something in his human hand: a doll. An [[Ireena Dolls|Ireena doll]], to be precise, clutched by its hair in a grip that made the party's skin crawl. The doll's painted face bore Ireena's features with unsettling accuracy, and Izek held it with a possessiveness that bordered on obsession.
 
+![[ireena_doll-calebisdrawing.jpg]]
+*IREENA DOLL*
+
 At five-thirty, Izek dismissed his guards for the evening. "I'll be at the lake," he told them curtly. "Don't disturb me."
 
-The guards saluted and departed. Izek, still carrying the Ireena doll, made his way north through the Zarovich Gate toward Lake Zarovich.
+The guards saluted and departed, saying nothing about the doll. Izek, still carrying the Ireena doll, made his way north through the Zarovich Gate toward Lake Zarovich.
 
 The party followed at a careful distance. This was it. The moment they'd been planning for. By the time they reached the lake, Izek would have drunk the poisoned wine, and they would have their opportunity.
 
@@ -273,11 +282,13 @@ Twenty minutes later, the bottle was empty. Izek set it down with a clumsy motio
 
 The party emerged from the tree line, weapons drawn. They spread out in a loose formation, cutting off Izek's escape routes.
 
-Izek noticed them immediately, his head snapping up with predator's instinct despite the poison dulling his reflexes. He rose to his feet—unsteady, but still dangerous—and his fiendish arm began to glow with smoldering heat.
-
 [[Arden Nalero|Arden]] stepped forward and, with exaggerated ceremony, hurled the paper airplane. It sailed through the air in a graceful arc and struck Izek in the chest, bouncing off his studded leather armor.
 
 Izek blinked, confused. He picked up the unfolded parchments and squinted at them, struggling to focus his vision through the poison's haze. His eyes widened as he read Ireena's endorsement and the schedule detailing his movements.
+
+And then the fight began.
+
+Arden surged forward, his greatsword descending in a devastating arc that caught Izek across the shoulder. The blow would have felled a lesser man, but Izek—poisoned and enraged—weathered it with a snarl and retaliated.
 
 "What have you done to me?" he snarled, his voice slurred.
 
@@ -285,9 +296,7 @@ Izek blinked, confused. He picked up the unfolded parchments and squinted at the
 
 Izek's face contorted with rage. Fire erupted along his devilish arm, and he raised his silvered battleaxe with a roar. "I'll burn you all to *ash!*"
 
-And then the fight began.
-
-Arden surged forward, his greatsword descending in a devastating arc that caught Izek across the shoulder. The blow would have felled a lesser man, but Izek—poisoned and enraged—weathered it with a snarl and retaliated. His battleaxe swept up in a brutal counter-strike, the blade biting into Arden's armor. At the same time, his fiendish arm lashed out in a pushing blow that sent the paladin stumbling backward.
+His battleaxe swept up in a brutal counter-strike, the blade biting into Arden's armor. At the same time, his fiendish arm lashed out in a pushing blow that sent the paladin stumbling backward.
 
 [[Varnish Gothorn|Varnish]] began to sing—not a song of courage or inspiration, but one of *mockery*. His voice rang out across the lakeshore with cutting insults about Izek's parentage, his intelligence, his creepy doll obsession, and his general inadequacy as both an enforcer and a human being. The words struck as surely as any blade, undermining Izek's confidence and focus.
 
@@ -299,25 +308,30 @@ When the smoke cleared, Izek stood in the center of the blast zone, his skin bla
 
 The party cursed. Of course the man with the demon arm had fire resistance.
 
-Arden pressed the attack, his greatsword singing through the air in powerful strikes. Izek met him blow for blow, their weapons clashing with ringing impacts that echoed across the lake. At one point, Izek caught Arden's blade with his fiendish hand—the greatsword biting deep into the demonic flesh—and held it there while superheating the metal. Arden felt the scorching heat through his gauntlets and was forced to release the weapon, dropping it to the ground where it glowed red-hot.
+Arden pressed the attack, his greatsword singing through the air in powerful strikes. Izek met him blow for blow, their weapons clashing with ringing impacts that echoed across the lake.
 
-Without missing a beat, Arden drew his dagger and continued fighting.
+The battle raged on. Varnish supplemented his mockery with healing magic, keeping the party on their feet. Fig danced in and out of melee range, striking whenever Izek's attention was divided. Choppy hurled spell after spell, switching from fire to cold damage as he adapted to Izek's resistances.
 
-The battle raged on. Varnish supplemented his mockery with healing magic, keeping the party on their feet. Fig danced in and out of melee range, striking whenever Izek's attention was divided. Choppy hurled spell after spell, switching from fire to force to cold damage as he adapted to Izek's resistances.
-
-And then, with a final devastating blow from Arden's dagger, Izek's first form fell. He dropped to one knee, blood pouring from multiple wounds, his breathing ragged.
+And then, with a final devastating blow from Varnish's cloud of daggers, Izek's first form fell. He dropped to one knee, blood pouring from multiple wounds, his breathing ragged.
 
 For a moment, the party thought they'd won.
 
 Then fire erupted from Izek's body in a roaring conflagration. His arms ignited, flames wreathing his battleaxe and turning his fiendish limb into a burning nightmare. The barbs on his demonic arm grew longer and sharper, his skin flushed red and began to smoke, and his eyes blazed with unholy fury.
 
+![[izek_strazni_second_form.png]]
+*IZEK'S SECOND FORM*
+
 "You think you've *won?*" Izek screamed, his voice echoing with unnatural resonance. "I'll kill you all! I'll burn this world to *cinders!*"
 
 He targeted Choppy with focused malice—perhaps recognizing the sorcerer as the greatest threat, or perhaps simply choosing the most fragile-looking target. A wave of fire swept outward in a searing line, catching Choppy, Varnish, and Arden in its path. The heat was overwhelming, the flames scorching exposed skin and igniting clothing.
 
-Choppy stumbled, his hit points plummeting dangerously low. Varnish gasped, struggling to maintain concentration on his spells. Arden gritted his teeth, enduring through sheer stubborn will.
+Choppy stumbled, his hit points plummeting dangerously low. Varnish gasped, struggling to maintain concentration on his spells. Arden gritted his teeth, enduring through sheer stubborn will as he swung his sword.
 
-Izek pressed his advantage, launching another explosive blast of flame that knocked Choppy prone and nearly killed him outright. The sorcerer lay on the ground, groaning, his robes still smoldering.
+Izek caught Arden's blade with his fiendish hand—the greatsword biting deep into the demonic flesh—and held it there while superheating the metal. Arden felt the scorching heat through his gauntlets and was forced to release the weapon, dropping it to the ground where it glowed red-hot.
+
+Without missing a beat, Arden drew his dagger and continued fighting.
+
+Still, Izek pressed his advantage, launching another explosive blast of flame that knocked Choppy prone and nearly killed him outright. The sorcerer lay on the ground, groaning, his robes still smoldering.
 
 But [[Fig Fleetfoot|Fig]] saw the opening.
 
@@ -350,9 +364,3 @@ Varnish studied it carefully. "This is... unusual. Powerful, certainly. But I'm 
 They placed Izek's frozen head in the burlap sack Ernst had provided. The demon arm was strapped across Arden's back like some kind of grotesque trophy. And with the deed done, they turned south toward Vallaki.
 
 [[Lady Fiona Wachter|Lady Wachter]] was expecting them. And they had a delivery to make.
-
----
-
-The party walked through Vallaki's gates as twilight settled over the town, bloodied and exhausted but victorious. Izek Strazni—the Baron's enforcer, the terror of Vallaki, the monster who'd brutalized innocents for years—was dead.
-
-And the burlap sack they carried was proof.

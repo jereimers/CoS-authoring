@@ -77,6 +77,9 @@ WotC_ref:
 publish: true
 region: Vallaki
 ---
+# Portrait
+![[lady-wachter.png]]
+
 # Who they are
 
 A wealthy Vallakian matriarch and an outspoken opponent of the [[Baron Vargas Vallakovich|Baron Vallakovich]]'s rule.
@@ -88,6 +91,8 @@ A wealthy Vallakian matriarch and an outspoken opponent of the [[Baron Vargas Va
 - Has two young adult sons—[[Nikolai Wachter|Nikolai]] and [[Karl Wachter|Karl]]—who are known to be troublemakers around town.
 - Also has a teen daughter, [[Stella Wachter|Stella]], who has been recently kept cloistered on the house grounds for mysterious reasons.
 # Personality
+
+A pragmatic survivor who bends like the willow rather than breaking like the oak. Cold and cordial in public, Lady Wachter reveals genuine warmth and fierce maternal devotion to those she trusts. She views faith in [[Ezra, God of the Mists|Ezra]] as acceptance of reality rather than hope for salvation, and considers accommodation with [[Strahd von Zarovich|Strahd]]'s rule as the only path to preserving what matters most: her children and her community.
 
 
 

@@ -67,6 +67,9 @@ WotC_ref:
 publish: true
 region: Vallaki
 ---
+# Portrait
+![[victor-vallakovich.png]]
+
 # Who They Are
 
 Victor Vallakovich is the 18-year-old son of [[Baron Vargas Vallakovich|Baron Vallakovich]], a self-taught wizard who has been secretly studying magic in his attic workroom at the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Vallakovich Manor]].
