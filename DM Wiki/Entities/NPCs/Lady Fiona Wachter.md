@@ -137,7 +137,7 @@ Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of N
 ![[Arc F - Lady Wachter's Wish#^Lore-What-Lady-Wachter-Knows]]
 
 # Statblock
-Lady Wachter still has the statistics of a **priest**. However, she has a different list of prepared spells:
+Lady Wachter still has the statistics of a [[Priest]]. However, she has a different list of prepared spells:
 
 * Cantrips (at will): _light, toll the dead, thaumaturgy_ 
 * 1st level (4 slots): _command, sanctuary, bane_ 

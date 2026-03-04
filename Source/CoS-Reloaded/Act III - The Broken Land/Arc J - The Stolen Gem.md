@@ -2,7 +2,7 @@ _An adventure for five 5th-level characters._
 
 In this arc, the first morning after the players' first full moon in Barovia, they are approached by [[Urwin Martikov]], who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to [[Davian Martikov]], the leader of the order.)
 
-Before the players depart Vallaki, [[Ireena Kolyana]]—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, [[Ireena]] joins the party as a permanent companion for the remainder of the campaign.
+Before the players depart Vallaki, [[Ireena Kolyana]]—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, [[Ireena Kolyana|Ireena]] joins the party as a permanent companion for the remainder of the campaign.
 
 Upon arriving at the Wizard of Wines, the players meet [[Davian Martikov]]—the patriarch of the Martikov family—and his assorted children and grandchildren, who have taken shelter in a hidden cavern beneath the nearby woods. Davian shares that the winery has been invaded by a group of druids known as the Forest Folk alongside a horde of twisted plant creatures called **blights**. Davian asks the players to defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.
 
@@ -135,20 +135,20 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
     <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
 </div>
 
-### [[Ireena]]'s Request
+### Ireena's Request
 Before the players depart the [[Blue Water Inn]], if they have previously treated [[Ireena Kolyana]] with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
 
-[[Ireena]], who has learned of the players’ destination from Danika, [[Father Lucian Petrovich|Father Petrovich]], or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
+[[Ireena Kolyana|Ireena]], who has learned of the players’ destination from Danika, [[Father Lucian Petrovich|Father Petrovich]], or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
 
-* [[Ireena]] shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
-* If [[Ireena]] was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
-* [[Ireena]] notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
+* [[Ireena Kolyana|Ireena]] shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
+* If [[Ireena Kolyana|Ireena]] was stalked or kidnapped by Izek Strazni in ***Act G: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
+* [[Ireena Kolyana|Ireena]] notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
 
-If the players appear concerned for [[Ireena]]’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
+If the players appear concerned for [[Ireena Kolyana|Ireena]]’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
 
-If the players suggest that [[Ireena]] will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
+If the players suggest that [[Ireena Kolyana|Ireena]] will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
 
-If the players suggest that [[Ireena]]’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
+If the players suggest that [[Ireena Kolyana|Ireena]]’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
 # J2. The Old Svalich Road
 The journey from the town of Vallaki to the **Wizard of Wines winery** is just under seven miles long and takes two-and-one-quarter hours to complete. To get to the winery, the players must travel to the Raven River Crossroads, then head south.
 ## J2a. Crossing the River
@@ -186,7 +186,7 @@ If the players investigate, they can make a DC 11 Wisdom (Perception) check to d
 <p>You startle a broad-shouldered woman clad in thick, mud-caked furs and clutching a stone axe. Obsidian ornaments hang from her ears and neck, and a thin layer of gray mud is smeared across her face, blending with the dark trees around her.</p>
 </div>
 
-The woman immediately attempts to flee into the woods. If the players attempt to stop or attack her, Muriel warns them that the woman is one of the Mountain Folk—a tribe of hunter—gatherers that live amongst the Balinok Mountains—and that their people are neither servants of Strahd nor dangerous unless attacked. 
+The woman immediately attempts to flee into the woods. If the players attempt to stop or attack her, Muriel warns them that the woman is one of the Mountain Folk—a tribe of hunter-gatherers that live amongst the Balinok Mountains—and that their people are neither servants of Strahd nor dangerous unless attacked. 
 
 Muriel doesn’t know why the woman was watching the road, but shares that the Mountain Folk have been more active lately, though no one is quite sure why. Reports suggest that they’re looking for something, however. (If asked how she knows so much about the Mountain Folk, Muriel laughs and claims only that she’s well-traveled and has “many friends" across the valley.)
 
@@ -217,22 +217,18 @@ As the players proceed south from the Raven River Crossroads, read:
 
 As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
 
-The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
+The road here hides a [[Spiked Pit (XDMG)|spiked pit trap]] (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five [[Vine Blight (MM)|vine blights]], concealed through the use of their ***false appearance*** feature.
 
 A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
 
 In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
 
-<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
-> [!combat]- **Balancing the False Trail**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 1 ally (Muriel Vinshaw), and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 10% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-=======
+
 > [!combat]- **Combat - The False Trail**  
 > **Combat Level**: Mild
 > **Expected Character Level**: 5
 > **Allies:** Muriel Vinshaw (CR 1), and Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 10%
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
 > 
 > ### **Enemies:**
 > 
@@ -245,7 +241,7 @@ In combat, the **vine blights** use their ***constrict*** attack to grapple enem
 As the players proceed past the pit trap, read:
 
 <div class="description">
-<p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone stele standing just under six feet in height. It stands within a circle of old, cracked cobblestones, and seems to bear some kind of carving. /p>
+<p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone stele standing just under six feet in height. It stands within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p>
 </div>
 
 If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
@@ -299,7 +295,7 @@ If the players descend the ladder, read:
 <div class="description">
 <p>You descend the wooden ladder, each step echoing faintly in the enclosed space as the rungs creak beneath your weight. Overhead, heavy raindrops drum against the closed trapdoor with a relentless rhythm, the muffled sound of booming thunder echoing far above. Rivulets of rainwater run down the damp stone walls around you, pooling in a sloshing, watery pit thirty feet below.</p>
 <p>Halfway down the shaft, the walls open up into a small stone cavern, its rough walls damp and glistening. Lanterns hang from iron hooks that jut out from the walls, their flickering flames filling the space with the warm glow of candlelight. The perimeter of the cavern hosts a collection of crates and sacks, which appear to have been kept in relatively good condition. A tunnel stretches away from the south wall of the cave, a thin layer of mist clinging to its floor as it vanishes into darkness.</p>
-<p>Bedrolls and blankets are strewn across the rough cavern floor, occupied by an assortment of adults and children. Two men bearing a striking resemblance to [[Urwin Martikov]] lean against the western wall—the elder with dark hair tinged slightly with gray, and the younger bearing softer features and a mop of brownish hair.</p>
+<p>Bedrolls and blankets are strewn across the rough cavern floor, occupied by an assortment of adults and children. Two men bearing a striking resemblance to Urwin Martikov lean against the western wall—the elder with dark hair tinged slightly with gray, and the younger bearing softer features and a mop of brownish hair.</p>
 <p>A woman kneels beside a pair of young boys not far away, her angular features framed by locks of chestnut hair. A bald, broad-shouldered man with a darker complexion sits beside her, cradling an infant sleeping peacefully in his arms. A teenager showing a blend of the man and woman's features sits with his knees held to his chest a few feet beyond, a half-whittled stick clutched in his hands.</p>
 <p>The cloaked figure stands at the head of the group, the cowl of his cloak lowered to reveal the features of a man in his elder years. His gray, suspicious eyes scowl back at you, framed by strands of silver-gray hair that cascade down to his shoulders from the receding hairline along his scalp. His face is bronzed and weathered, and the wrinkles above his eyebrows split his forehead like furrowed troughs.</p>
 <p>The patched green cloak he wears has clearly seen better days, but appears to have been proudly decorated with clusters of raven's feathers meticulously sewn into the cowl and shoulders, as well as a menagerie of nearly a dozen old pewter medallions and trinkets that have been haphazardly stitched into the fabric. His weight leans against an old wooden cane, its wide surface carved with intricate patterns of grapes and vines, and his thick fingers tap impatiently against its edge.</p>
@@ -491,17 +487,11 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
 
 The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
 
-<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
-> [!combat]- **Balancing the Cellar**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 29% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-=======
 > [!combat]- **Combat - The Cellar**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 5
 > **Allies:** Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 29%
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
-> 
 > ### **Enemies:**
 > 
 > | |3 Players | 4 Players | 5 Players | 6 Players |
@@ -604,17 +594,12 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 > 
 > Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
 
-<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
-> [!combat]- **Balancing the Vat Room**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, and one CR 2 ally ([[Ireena Kolyana]]), and will consume approximately 33% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-=======
+
 > [!combat]- **Combat - The Vat Room**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 5
 > **Allies:** Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 33%
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
-> 
 > ### **Enemies:**
 > 
 > | |3 Players | 4 Players | 5 Players | 6 Players |
@@ -800,17 +785,11 @@ The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immuni
 
 Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
 
-<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
-> [!combat]- **Balancing the Loading Dock**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 22% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-=======
 > [!combat]- **Combat - The Loading Dock**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 5
 > **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 22%
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
-> 
 > ### **Enemies:**
 > 
 > | |3 Players | 4 Players | 5 Players | 6 Players |
@@ -836,17 +815,11 @@ When the players first reach the second floor, they can hear the sound of clatte
 
 The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
 
-<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
-> [!combat]- **Balancing the Printing Press**
-> This combat encounter is a **mild** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 12% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-=======
 > [!combat]- **Combat - The Printing Press**  
 > **Combat Level**: Mild
 > **Expected Character Level**: 5
 > **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 12%
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
-> 
 > ### **Enemies:**
 > 
 > | |3 Players | 4 Players | 5 Players | 6 Players |
@@ -890,17 +863,11 @@ If the players speak with him, Lorghoth is glad to share the following informati
 
 When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
 
-<<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md
-> [!combat]- **Balancing the Loading Winch**
-> This combat encounter is a **bruising** combat encounter against a party of five 5th-level players, one CR 2 ally ([[Ireena Kolyana]]), and one CR 1/4 ally (swarm of ravens), and will consume approximately 21% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
-=======
 > [!combat]- **Combat - The Loading Winch**  
 > **Combat Level**: Bruising
 > **Expected Character Level**: 5
 > **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
 > **Expected HP Consumption:** 21%
->>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc J - The Stolen Gem.md
-> 
 > ### **Enemies:**
 > 
 > | |3 Players | 4 Players | 5 Players | 6 Players |
@@ -943,6 +910,7 @@ When the players break Lorghoth’s staff, read:
 The three strix fight until two have been destroyed or until the players break the *Gulthias staff*, at which point any surviving strix retreat to Berez to report to Baba Lysaga.
 
 The thunderstorm subsides soon after Lorghoth’s defeat, though the rain lingers to wash away the sludge and blight. The rain stops completely when the players first descend to meet the Martikovs.
+
 ***Milestone.*** Reclaiming the winery completes a story milestone. When the players defeat Lorghoth and break his staff, award each player 2,000 XP.
 ## J3f. The Martikovs’ Return
 If the players break the *Gulthias staff*, the Martikovs hear its shrieking wail and return to the winery, where they thank the players for their heroism. 

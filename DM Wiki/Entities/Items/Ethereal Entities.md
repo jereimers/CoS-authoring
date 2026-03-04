@@ -7,7 +7,6 @@ tags:
   - cos
   - item
   - text
-  - spellbook
   - vallaki
 publish: true
 type: Item

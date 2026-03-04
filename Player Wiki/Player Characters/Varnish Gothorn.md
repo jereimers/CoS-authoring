@@ -47,7 +47,7 @@ type: PC
 
 | **Species**    | Dwarf                                  |
 | -------------- | -------------------------------------- |
-| **Class**      | Bard (College of Lore)                 |
+| **Class**      | Bard (College of Spirits)              |
 | **Background** | Criminal                               |
 | **Alignment**  | Lawful Evil                            |
 | **Languages**  | Common, Common Sign Language, Dwarvish |

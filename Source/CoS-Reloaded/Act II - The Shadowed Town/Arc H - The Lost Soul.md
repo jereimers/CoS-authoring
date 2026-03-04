@@ -345,7 +345,7 @@ If the players ask about her conversation with the druid, Lady Wachter is willin
 # H7. Old Bonegrinder
 <span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
 
-Old Bonegrinder is largely as described in <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span>. However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in <span class="citation">O2. Bone Mill (p. 127)</span> bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
+Old Bonegrinder is largely as described in [[06_Chapter 6 - Old Bonegrinder|Chapter 6: Old Bonegrinder]] (p. 125). However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill|O2. Bone Mill]] (p. 127) bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
 
 If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Non-Player Characters#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
 
@@ -404,7 +404,7 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 ## H7a. Raiding the Windmill
 The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
 
-One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains the hags' contract, as well as the treasure described in <span class="citation">O3. Bedroom (p. 127)</span>.
+One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains the hags' contract, as well as the treasure described in [[06_Chapter 6 - Old Bonegrinder#O3. Bedroom|O3. Bedroom]] (p. 127).
 
 The hags' contract is written in Abyssal on a piece of leather made of human skin, and is signed with their true names at the bottom: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle. (If none of the players can read Abyssal, Lady Wachter is able to read the hags' names instead, having learned the language's alphabet as a student of Baba Lysaga.)
 
@@ -416,7 +416,7 @@ The stone compartment also contains a *charm of mass heroism*, resembling a gold
 > [!item]+ **Charm of Mass Heroism**
 > As an action, the wielder of this charm can give any number of creatures within 30 feet the benefit of a *potion of heroism*. Once they do so, the charm vanishes from their person.
 
-Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in <span class="citation">O3. Bedroom (p. 127)</span>. However, Fyodor and Myrtle have no particular knowledge of [[Ireena]] or Ismark, and wish only to be returned to their father, Franz.
+Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded by the **night hags** Belladonna "Bella" Sunbane and Offalia Wormwiggle, as described in [[06_Chapter 6 - Old Bonegrinder#O3. Bedroom|O3. Bedroom]] (p. 127). However, Fyodor and Myrtle have no particular knowledge of [[Ireena]] or Ismark, and wish only to be returned to their father, Franz.
 
 ![[the-three-hags.png]]
 <span class="credit">"The Three Hags" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>

@@ -6,6 +6,8 @@ current_location:
 tags:
   - cos
   - item
+  - text
+  - manuscript
 publish: true
 ---
 # Description

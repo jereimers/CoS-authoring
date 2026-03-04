@@ -13,3 +13,7 @@ publish: true
 10. 1/1/26 - [[Session 10 - The Grinchident]]
 11. 1/15/26 - [[Session 11 - No Bones About It]]
 12. 1/21/26 - [[Session 12 - Into the Bone Zone]]
+13. 2/4/26 - [[Session 13 - The Lost and The Found]]
+14. 2/18/26 - [[Player Wiki/Session Recaps/Session 14 - Dinner and a Show|Session 14 - Dinner and a Show]]
+15. 2/19/26 - [[Player Wiki/Session Recaps/Session 15 - Killing Izek|Session 15 - Killing Izek]]
+16. 

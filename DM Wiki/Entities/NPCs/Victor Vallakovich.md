@@ -187,6 +187,7 @@ If persuaded to aid the players in finding [[Arabelle]], Victor can share the fo
 ![[Arc E - The Missing Vistana#^Lore-Khazans-Staff]]
 # Statblock
 
+![[Mage]]
 
 # Notes
 

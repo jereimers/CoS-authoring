@@ -207,13 +207,16 @@ If the players are interested in [[Lady Fiona Wachter|Lady Wachter]]’s proposa
 
 [[Lady Fiona Wachter|Lady Wachter]] also shares that Izek is known to be a heavy drinker. While he is a formidable foe, she has secured a bottle of poisoned wine that should dull his senses—imposing the **poisoned** condition for 1 hour—shortly after finishing it. Should the players accept her assignment, she promises to have one of her associates deliver it to them.
 
-***Compensation.*** If the players demand compensation for their services, [[Lady Fiona Wachter|Lady Wachter]] promises them their selection of silvered weapons and ammunition from the town guard’s stores, paid once she assumes [[Baron Vargas Vallakovich|the Baron]]’s place. The players are also welcome to, of course, Izek’s silvered battleaxe and any valuables they may recover from his person. 
+### Compensation
+
+If the players demand compensation for their services, [[Lady Fiona Wachter|Lady Wachter]] promises them their selection of silvered weapons and ammunition from the town guard’s stores, paid once she assumes [[Baron Vargas Vallakovich|the Baron]]’s place. The players are also welcome to, of course, Izek’s silvered battleaxe and any valuables they may recover from his person. 
 
 If the players demand additional compensation and succeed on a DC 15 Charisma (Persuasion) check, [[Lady Fiona Wachter|Fiona]] reluctantly agrees to pay an additional 100 gp upon completion of their task.
 
 Should the players mention the Barovian refugees, [[Lady Fiona Wachter|Lady Wachter]] swiftly, and without reservation, promises to ensure that the refugees will be permitted to safely enter the town as soon as [[Baron Vargas Vallakovich|Baron Vallakovich]] has been removed from power.
 
-***[[Lady Fiona Wachter|Fiona]]’s Loyalty.*** If the players indicate that they have concerns about [[Lady Fiona Wachter|Lady Wachter]]’s loyalty to Strahd, she shares the following story:
+### Fiona’s Loyalty
+If the players indicate that they have concerns about [[Lady Fiona Wachter|Lady Wachter]]’s loyalty to Strahd, she shares the following story:
 
 <div class="description">
 <p>“Barovia, Vallaki, and Krezk—this land’s three lights of civilization. Did you know, however, that there was once a fourth?</p>
