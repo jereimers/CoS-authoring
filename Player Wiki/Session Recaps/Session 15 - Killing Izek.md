@@ -357,7 +357,7 @@ Choppy stood there, breathing hard, covered in melted bits of frozen flesh, dagg
 
 [[Arden Nalero|Arden]] approached Izek's corpse and, with clinical efficiency, used the silvered battleaxe to sever the fiendish arm from the body. It came free with a sickening sound, and Arden held it up, examining it with interest. "This is evidence. And possibly a trophy."
 
-He also searched Izek's pockets, finding a pouch containing 35 gold pieces and a strange amber shard that radiated faint abjurative magic. He passed the shard to [[Varnish Gothorn|Varnish]], who had some skill in identifying magical items.
+He also searched Izek's pockets, finding a pouch containing 35 gold pieces and a strange [[Amber Shard]] that radiated faint abjurative magic. He passed the shard to [[Varnish Gothorn|Varnish]], who had some skill in identifying magical items.
 
 Varnish studied it carefully. "This is... unusual. Powerful, certainly. But I'm not sure what it does." He pocketed it for later investigation.
 
