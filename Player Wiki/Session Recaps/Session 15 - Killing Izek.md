@@ -1,6 +1,6 @@
 ---
 barovian_dates:
-  - "[[Neyavr 4]]"
+  - "[[Neyavr 5]]"
 locations:
   - "[[Blue Water Inn]]"
   - "[[Wachterhaus]]"

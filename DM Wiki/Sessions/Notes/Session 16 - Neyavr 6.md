@@ -20,11 +20,25 @@ publish:
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
 
-# Wrapping Neyavr 5: Delivering the goods
+# Wrapping Neyavr 5: Delivering the goods & the Abdication
 
 ## Aftermath of the Mission
 
+>[!tldr]+ DM NOTE
+> The party will want to observe the encounter with Baron Vargas, which Lady Wachter will permit, provided they stay out of sight (the optics of outsiders directly facilitating the transfer of power would be problematic). 
+> .
+> - Lady Wachter can't deliver the silvered goods immediately, as they must be requisitioned from one of the city's armories.
+> - As a nod to the Tarokka reading, work in the phrase "ancient foe of a noble house" — perhaps "some will think me nothing more than the ancient foe of an old and noble house, but I assure you... whatever nobility once resided in House Vallakovich has long since been lost."
+> - She'll invite them to a public transition of power the following morning in the town square.
+> - Then she'll grab three of her cloaked associates (Boris, Andrej, Ruxandra) and head to the Baron's mansion. 
+> - Vargas can greet her haughtily, still in his armor, though he won't suspect anything's immediately amiss: "To what, pray tell, do I owe the unexpected pleasure of your company?" 
+> - Fiona: "Spare me the facade, Vargas. I'm here to facilitate your abdication."
+> - Vargas, face hardening: "Now what a preposterous and seditious notion... All has been well and, once I've re-educated you within the walls of this noble house, all will continue to be well! IZEK! Arrest this muckraking malcontent!"
+> - Fiona will toss the head at his feet, and he'll tuck tail and run almost immediately. Ruxandra's *command* spell stops him in his tracks. Fiona then explains coolly and calmly that the Baron will abdicate his office in a public ceremony tomorrow morning, after which he and his family would keep their title and estate but be under indefinite house arrest, not to participate at all in administering the duties of Burgomaster. "Blink twice if you agree," Fiona will say.
+
+
 ![[Arc F - Lady Wachter's Wish#F5. Aftermath of the Mission]]
+
 
 # Neyavr 6, Option 1: Seek out [[Van Richten's Tower|Khazan's Tower]] (Arc E)
 
@@ -117,3 +131,13 @@ publish:
 
 ## The Old Svalich Road
 ![[Arc H - The Lost Soul#H6. The Old Svalich Road]]
+
+# Neyavr 6, Evening: Rahadin's Visit
+
+## The Invitation
+
+![[Arc O - Dinner with the Devil#O1. The Invitation]]
+## The Trial
+
+![[Arc D - St. Andral's Feast#D6. Rahadin 's Visit]]
+

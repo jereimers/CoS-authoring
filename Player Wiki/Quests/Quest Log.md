@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-# Current Barovian Date: Neyavr 5
+# Current Barovian Date: Neyavr 6
 # Active Quests
 
 ## Vallaki
@@ -9,7 +9,6 @@ publish: true
 - [[The Lost Soul]] — before dawn on Neyavr 9
 	- Next steps: EITHER determine the night hags' true names OR bargain with them to obtain use of a heartstone
 - [[The Missing Vistana]] — ASAP
-	- Next steps: Investigate Khazan's Tower with or without guidance from [[Szoldar Szoldarovich|Szoldar]]
 
 ## Village of Barovia
 

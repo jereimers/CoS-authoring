@@ -12,7 +12,7 @@ arcs:
   - "[[Arc F - Lady Wachter's Wish]]"
   - "[[Arc H - The Lost Soul]]"
 combat: false
-has_recap: false
+has_recap: true
 play_date: 2/18/2026
 tags:
   - cos

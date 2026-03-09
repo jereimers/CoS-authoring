@@ -93,11 +93,24 @@ A 15-foot-high wall encloses the town, its vertical logs held together with thic
 ![[map-05.01-vallaki.jpg]]
 
 # What the party knows
+
+## The Vallakovich Era (ended Neyavr 6, 735)
+
 - The burgomaster, [[Non-Player Characters#Baron Vargas Vallakovich|Baron Vargas Vallakovich]], has decreed that the [[Festival of the Blazing Sun|Festival of the Blazing Sun]] will be held in the town square ([[Town Square]]) on Neyavr 7. The previous festival, which he called the Wolf's Head Jamboree, was less than a week ago.
 - Vallaki has endured at least one festival every week for the past several years. Some Vallakians believe that the festivals keep the devil [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]] at bay. Others think they provide no protection or benefit whatsoever. Most consider them dismal affairs.
 - Those who speak ill of the festivals are declared by the burgomaster to be in league with the devil Strahd and arrested. Some are thrown in the stocks in the [[Town Square]], while others (like [[Willemina Rikalova|Willemina's]] son [[Udo Lukovich]])
 - The burgomaster's henchman, [[Izek Strazni]], has a history of violence as well as a fiendish deformity: a monstrous arm with which he can conjure fire. Fear of lzek keeps [[Baron Vargas Vallakovich|the baron]]'s enemies at bay.
 - There's a [[Vistani Camp]] in the woods southwest of town. Vistani aren't welcome in Vallaki.
+
+## The Wachter Era (began Neyavr 6, 735)
+
+From [[Session 16 - The Lady, the Witch, and the Ringmaster|Session 16]]:
+
+- After the party assassinated [[Izek Strazni]], [[Lady Fiona Wachter|Lady Wachter]] confronted [[Baron Vargas Vallakovich|Baron Vallakovich]] at the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's Mansion]] with Izek's severed head, forcing him to agree to abdicate.
+- The following morning (Neyavr 6), a public abdication ceremony was held in the [[Town Square]].
+- Baron Vallakovich formally stepped down from power, with [[Father Lucian Petrovich]] in attendance.
+- [[Lady Fiona Wachter|Lady Wachter]] assumed leadership of Vallaki, becoming the new burgomaster.
+- The transition of power was peaceful, marking the end of nearly 500 years of Vallakovich rule over the town.
 
 # Notable places
 - [[St. Andral's Church]] -- Refuge from the forces of darkness...?
@@ -129,7 +142,12 @@ A 15-foot-high wall encloses the town, its vertical logs held together with thic
 
 # Visits
 
-*To be updated during play.*
+- [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three|Session 8]] - First arrival at Vallaki
+- [[Session 12 - Into the Bone Zone|Session 12]] - Multiple visits including meeting with Baron Vallakovich
+- [[Session 13 - The Lost and The Found|Session 13]] - Visited Wachterhaus, raided Baron's library
+- [[Session 14 - Dinner and a Show|Session 14]] - Dinner at Wachterhaus, received assassination quest
+- [[Session 15 - Killing Izek|Session 15]] - Planted poisoned wine at Burgomaster's Mansion, trailed and assassinated Izek
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) - Witnessed the abdication ceremony in the [[Town Square]]. [[Baron Vargas Vallakovich|Baron Vallakovich]] formally stepped down and [[Lady Fiona Wachter|Lady Wachter]] assumed leadership of Vallaki, with [[Father Lucian Petrovich]] in attendance. The peaceful transition ended nearly 500 years of Vallakovich rule.
 # Map
 ![[map-05.01-vallaki.jpg]]
 

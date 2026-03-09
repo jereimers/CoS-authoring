@@ -95,7 +95,10 @@ From [[Victor Vallakovich]], the party learned:
 # Visits
 
 - [[Session 13 - The Lost and The Found#Dinner at Wachterhaus|Session 13]] — Party arrived for dinner; greeted by Lady Fiona (session ended)
+
 - **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - The party attended a formal dinner with [[Lady Fiona Wachter]]. Over brandy and conversation, Lady Wachter shared her philosophy on survival in [[Barovia]] (comparing it to being a willow rather than an oak), recounted the cautionary tale of [[Ruins of Berez|Berez]], and discussed her faith in [[Ezra, God of the Mists|Ezra]]. The conversation turned to the "Vallakovich problem," and Lady Wachter proposed eliminating [[Izek Strazni]] as a surgical solution. After dinner, [[Stella Wachter]] appeared through the [[spirit mirror]], and Lady Fiona was finally reunited with her daughter's conscious spirit—learning the truth about Stella's condition and [[Victor Vallakovich]]'s role in both causing and attempting to fix it. Lady Wachter promised to provide materials for a protective binding circle and assist with saving Stella's soul.
+
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) - The party returned from [[Lake Zarovich]] and delivered [[Izek Strazni]]'s frozen head to [[Lady Fiona Wachter|Lady Wachter]]. She immediately gathered three of her cloaked cultists (Boris, Andrej, and Ruxandra) and departed for the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's Mansion]] to confront [[Baron Vargas Vallakovich|Baron Vallakovich]], leaving the party at Wachterhaus for the night.
 
 %%
 # Map

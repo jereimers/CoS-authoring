@@ -18,12 +18,28 @@ Dreams are for the living.
 -Strahd von Zarovich
 
 # Morgantha's Coven
-![[WotC - 06 - Old Bonegrinder - Morgantha's Coven]]
+The hags possess the shared spellcasting abilities of a coven (see the "Hag Covens" sidebar in the hags entry in the Monster Manual). If one or more hags die, the coven is broken. Morgantha tolerates her daughters only because they help her complete the coven. If one of them dies, Morgantha sets out to abduct and consume a human child so that she can give birth to a new daughter (as described in the Monster Manual).
+
+Morgantha gave her coven's hag eye to Cyrus Belview, Strahd's disfigured manservant (see chapter 4, area K62), so that she could spy on Castle Ravenloft and keep an eye on the vampire. The hags are fearful of Strahd and respect his dominion over this land. For more information on the hag eye, see the hags entry in the Monster Manual.
 # Dream Pastries
-![[WotC - 06 - Old Bonegrinder - Dream Pastries]]
+These pastries look and taste like small mincemeat pies. A creature that eats one in its entirety must succeed on a DC 16 Constitution saving throw or fall into a trance that lasts for 1d4 + 4 hours, during which time the creature is incapacitated and has a speed of 0 feet. The trance ends if the affected creature takes any damage or if someone else uses an action to shake the creature out of its stupor.
+
+While in the trance, the creature dreams of being in some joyous place, far removed from the evils of the world. The places and characters in the dream are vivid and believable, and when the dream ends, the affected creature experiences a longing to return to the place.
 
 # Approaching the Windmill
-![[WotC - 06 - Old Bonegrinder - Approaching the Windmill]]
+The windmill's stone walls are easily climbed. Wooden floors separate the various levels. There are no lights within, since the hags have darkvision.
+
+The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley. In the heart of the valley you see a walled town near the shores of a great mountain lake, its waters dark and still. A branch in the road leads west to a promontory, atop which is perched a dilapidated stone windmill, its warped wooden vanes stripped bare.
+
+Closer investigation of the windmill yields a few more details:
+
+The onion-domed edifice leans forward and to one side, as though trying to turn away from the stormy gray sky. You see gray brick walls and dirt-covered windows on the upper floors. A decrepit wooden platform encircles the windmill above a flimsy doorway leading to the building's interior. Perched on a wooden beam above the door is a raven. It hops about and squawks at you, seemingly agitated.
+
+A character who succeeds on a DC 12 Wisdom (Insight) check senses that the raven is trying to warn the party. After delivering its message, the raven flies off toward Vallaki, the town in the valley below (see chapter 5).
+
+Beyond the windmill is the forest. Once atop the windmill's hill, the characters can see a ring of four squat megaliths at the forest's edge. Ravens can be seen circling in the air above the stones, which are described at the end of the chapter.
+  
+![[06-002.windmill.png]]
 
 ## Areas of the Windmill 
 
@@ -49,7 +65,8 @@ Morgantha's cabinet contains wooden bowls full of herbs and baking ingredients, 
 
 The chicken coop contains three chickens, a rooster, and a few laid eggs.
 The wooden trunk has tiny holes bored into its lid and contains a hundred croaking toads. Several toads escape if the lid is lifted, but they are harmless.
-![img-60.jpeg](img-60.jpeg)
+
+![[map-06.01-old-bonegrinder.jpg]]
 
 MAP 6.1: OLD BONEGRINDER (AREA 0)
 
@@ -95,6 +112,10 @@ Characters searching this space find a few old, abandoned bird's nests.
 If your card reading reveals that a treasure is here, it's easy to find, either tucked in a bird's nest or buried under some dirt in a corner.
 
 %% --- Page 174 --- %%
-![img-61.jpeg](img-61.jpeg)
+![[06-003.hag.png]]
 
-#[[WotC - 06 - Old Bonegrinder - The Megaliths]]
+# The Megaliths
+
+The four ancient stones near the windmill were erected centuries ago by the valley's original human inhabitants. Each moss-covered stone bears a crude carving of a city, each of which is associated with a different season. The city of winter is shown covered with snow, the city of spring is arrayed in flowers, the city of summer has a sunburst overhead, and the city of autumn is covered with leaves. If the characters ask any of the priests or scholarly NPCs in Barovia about the stones, the characters are told that ancient legends tell of the Four Cities, said to be the cities of paradise where the Morninglord, Mother Night, and the other ancient gods first dwelled.
+
+Several ravens circle overhead, and one pecks at something on top of the stone that depicts the city of autumn. Upon inspection, the characters see the raven is pecking at a dream pastry, and on the ground in the center of the stone circle is a small pile of children's teeth. The hags placed these here to desecrate the stones and as an offering to the entity they worship, the wicked archfey Ceithlenn of the Crooked Teeth.

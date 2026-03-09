@@ -61,7 +61,7 @@ Szoldar is a wolf hunter who knows the [[Svalich Woods]] well and frequents the 
 
 # Where we've seen them
 
-*To be updated during play.*
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) - Hired by the party along with [[Yevgeni Krushkin]] to guide them to [[Lake Baratok]]. Led them past the [[Hunters' Shack]] on the northern shore of [[Lake Zarovich]], where he and Yevgeni explained the [[Butterfly Shrine]]'s seven standing stones. He noted that he and Yevgeni leave the ancient stones alone, not knowing their origin but unwilling to anger whatever entities inspired their construction. Guided the party through a blight ambush at the [[Luna River Crossroads]] and successfully reached Lake Baratok, where the party encountered [[Rictavio]] (later revealed as [[Dr. Rudolph van Richten]]).
 
 %%
 # Szoldar Szoldarovich Profile

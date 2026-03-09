@@ -44,8 +44,9 @@ emotions:
 - impatient
 - smug
 motivations:
-- Secure his power free from Strahd's influence
-- Lead Vallaki to escape the Mists by forcing everyone in town to be happy.
+- (Former burgomaster - abdicated Neyavr 6, 735)
+- Survive his fall from power with dignity intact
+- Maintain what influence remains within his mansion
 inspirations:
 - Lord Farquaad (Shrek)
 - Joffrey Baratheon (Game of Thrones)
@@ -87,6 +88,8 @@ Descended from the original founders of the settlement, Vargas Vallakovich is an
 
 - [[Session 11 - No Bones About It#Outside the Inn|Session 11]]
 - **[[Session 15 - Killing Izek]]** (Neyavr 5, Midday) - Though not present, the Baron's daily routine was exploited during the assassination plot. His cook, Tereska, prepared [[Izek Strazni]]'s lunch as usual in the mansion's kitchen. While she was distracted by a fabricated errand (sent by "Amal," actually [[Varnish Gothorn]] in disguise), [[Fig Fleetfoot]] (invisible via [[Victor Vallakovich]]'s *Greater Invisibility* spell) planted the poisoned wine bottle among Izek's lunch provisions. The cook unknowingly included the poisoned wine in Izek's meal delivery, which he consumed that evening at [[Lake Zarovich]].
+
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) - [[Lady Fiona Wachter|Lady Wachter]] arrived at the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's Mansion]] with [[Ernst Larnak]] and two cultists, carrying [[Izek Strazni]]'s frozen head in a burlap sack. She confronted the Baron and presented the head as proof that his enforcer was dead. When the Baron attempted to flee, Lady Wachter used a *command* spell to freeze him in place, then forced him to agree to abdicate his position as burgomaster. The following morning, Baron Vallakovich formally stepped down at a public ceremony in the [[Town Square]], presided over by his brother-in-law [[Father Lucian Petrovich]]. After nearly 500 years of Vallakovich rule over [[Town of Vallaki|Vallaki]], power peacefully transferred to Lady Wachter.
 
 %%
 

@@ -22,23 +22,11 @@ publish: true
 
 ---
 
-# What Happened Last Session(s)
+# What Happened Last Session
 
-## Session 14 - Dinner and a Show
-
-![[Player Wiki/Session Recaps/Session 14 - Dinner and a Show#Session Summary|Session 14 - Dinner and a Show]]
-
-## Session 15 - Killing Izek
-
-![[Player Wiki/Session Recaps/Session 15 - Killing Izek#Session Summary|Session 15 - Killing Izek]]
-
-
+![[Session 16 - The Lady, the Witch, and the Ringmaster#Session Summary]]
 
 ---
-
-# Reference Map
-![[map-02.01-barovia.jpg]]
-
 # Currency Exchange Table
 
 | Material | Abbrev. | Value                        |

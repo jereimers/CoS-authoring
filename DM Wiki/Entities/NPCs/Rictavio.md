@@ -68,7 +68,8 @@ Rictavio, the lone guest of the Blue Water Inn besides the party, is a colorfull
 
 # Where we've seen them
 - [[Session 09 - Walls Keep Out More Than Wolves]] — he shared the story of Count Belasco (see [[The Ringmaster's Tale]])
-- [[Session 11 - No Bones About It]] — he retrieved a parcel from [[Urwin Martikov|Urwin]] in the morning, then departed to tend his horse. 
+- [[Session 11 - No Bones About It]] — he retrieved a parcel from [[Urwin Martikov|Urwin]] in the morning, then departed to tend his horse.
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) - While investigating [[Lake Baratok]], the party discovered wagon tracks and bright yellow paint spatters proving that Rictavio's carnival wagon had been at the lake near [[Khazan]]'s tower. Combined with the [[DM Wiki/Entities/Items/Signet Ring|ring]] bearing Khazan's sigil found at [[Arabelle]]'s abduction site, this evidence definitively connects Rictavio to the kidnapping - though his exact role and motives remain unclear. The party now knows he is involved, but has not yet confronted him about it. 
 
 %%
 # Rictavio Profile

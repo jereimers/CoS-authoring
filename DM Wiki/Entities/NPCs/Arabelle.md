@@ -70,6 +70,15 @@ From [[Session 13 - The Lost and The Found|Session 13]], the party learned:
 - Her father [[Luvash]] is grief-stricken and desperate to find her
 - The party has promised to bring Arabelle home safely
 
+## New Leads (From Session 16)
+
+From [[Session 16 - The Lady, the Witch, and the Ringmaster|Session 16]], the party discovered:
+
+- Evidence that [[Rictavio]]'s carnival wagon was at [[Lake Baratok]] near [[Khazan]]'s tower
+- The connection between Rictavio, Khazan's tower (whose sigil was on the ring at the abduction site), and Arabelle's kidnapping
+- A handkerchief at the [[Luna River]] crime scene bearing the initials "R.V.R." - matching "Rudolph Van Richten," the author of a werewolf manuscript the party received
+- Arabelle's current whereabouts remain unknown, but the party has identified suspects who must be connected to her disappearance
+
 ## Personal Details
 
 - Lives with her father [[Luvash]] in the [[Vistani Camp]] west of [[Town of Vallaki|Vallaki]]
@@ -82,6 +91,8 @@ From [[Session 13 - The Lost and The Found|Session 13]], the party learned:
 # Where We've Seen Them
 
 - [[Session 13 - The Lost and The Found|Session 13]] — Discussed her abduction with [[Luvash]] at the [[Vistani Camp]]; investigated the crime scene at [[Luna River]]
+
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) — The party traveled to [[Lake Baratok]] and discovered crucial evidence: [[Rictavio]]'s wagon tracks at the lake proving his connection to [[Khazan]]'s tower, and a handkerchief with initials "R.V.R." at the crime scene. Arabelle's whereabouts remain unknown, but the party has identified key suspects.
 
 %%
 # Arabelle Profile

@@ -63,11 +63,13 @@ The ring's presence at the abduction site suggests a connection between Arabelle
 
 ## Active Leads
 
-- **Castle Ravenloft:** The party believes Arabelle was taken to Strahd's castle by Escher. They need to find a way to infiltrate the castle and rescue her.
+- **Khazan's Tower:** The mysterious ring suggests investigating the wizard's tower on [[Lake Baratok]] might provide clues about why Arabelle was taken. [[Victor Vallakovich]] has asked the party to explore the tower and bring back any magical artifacts they find.
 
-- **Khazan's Tower:** The mysterious ring suggests investigating the wizard's tower on [[Lake Baratok]] might provide clues about why Arabelle was taken. [[Victor Vallakovich]] has asked the party to explore the tower and bring back any magical artifacts they find. [[Szoldar Szoldarovich]] can guide them there.
+- **Rictavio's Connection:** The party discovered that [[Rictavio]]'s carnival wagon was at [[Lake Baratok]] near [[Khazan]]'s tower. Yellow paint spatters and wagon tracks prove his presence at the site. Combined with the ring bearing Khazan's sigil found at the abduction, this places Rictavio at the center of the mystery - though his exact role and motives remain unclear.
 
-- **The Second Witness:** Someone else was at the abduction site (the one who climbed the tree and fled). Identifying this person might provide crucial information about what happened. *(DM Note: This was likely [[Dr. Rudolph van Richten]], who left behind the monogrammed handkerchief with initials "R.V.R.")*
+- **Ezmerelda d'Avenir:** The party found Ezmerelda's wagon at Lake Baratok and spoke with her chicken, Eggsmerelda. Ezmerelda is a monster hunter who has been missing for several days, searching for something in the woods. Her connection to the case, if any, is unknown.
+
+- **The Second Witness:** Someone else was at the abduction site (the one who climbed the tree and fled, leaving behind a handkerchief with initials "R.V.R."). The party recalls receiving a manuscript about werewolves from [[Arturi Radanavich]], written by someone named "Rudolph Van Richten" - the initials match.
 
 ## Reward
 
@@ -75,7 +77,9 @@ The ring's presence at the abduction site suggests a connection between Arabelle
 
 # Appearance in Sessions
 
-- [[Session 13 - The Lost and The Found#Visiting the Vistani|Session 13]] — Received the quest from [[Luvash]] and [[Arrigal]] at the [[Vistani Camp]]; investigated the crime scene at the [[Luna River]]; discovered evidence pointing to [[Escher]] and [[Castle Ravenloft]] 
+- [[Session 13 - The Lost and The Found#Visiting the Vistani|Session 13]] — Received the quest from [[Luvash]] and [[Arrigal]] at the [[Vistani Camp]]; investigated the crime scene at the [[Luna River]]; discovered evidence pointing to [[Escher]] and [[Castle Ravenloft]]
+
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) — The party traveled to [[Lake Baratok]] with [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] as guides. At the [[Luna River Crossroads]], they found a handkerchief bearing the initials "R.V.R." - matching the author "Rudolph Van Richten" of the werewolf manuscript they received from [[Arturi Radanavich]]. At the lake, they discovered Ezmerelda d'Avenir's wagon and spoke with her chicken companion, Eggsmerelda, learning that Ezmerelda is a monster hunter who has been missing for several days. Most significantly, the party found wagon tracks and yellow paint spatters proving that [[Rictavio]]'s carnival wagon was at Lake Baratok near [[Khazan]]'s tower - definitively connecting Rictavio to [[Arabelle]]'s abduction, though his exact role remains unclear. 
 
 %%
 # Secrets

@@ -1,6 +1,6 @@
 ---
 barovian_dates:
-  - "[[Neyavr 4]]"
+  - "[[Neyavr 5]]"
 locations:
   - "[[Blue Water Inn]]"
   - "[[Wachterhaus]]"
@@ -11,8 +11,8 @@ NPCs_met:
 arcs:
   - "[[Arc F - Lady Wachter's Wish]]"
   - "[[Arc H - The Lost Soul]]"
-combat: false
-has_recap: false
+combat: true
+has_recap: true
 play_date: 2/19/2026
 tags:
   - cos

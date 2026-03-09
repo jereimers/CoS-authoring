@@ -48,7 +48,7 @@ emotions:
   - loving (toward her children)
 motivations:
   - Keep Vallaki and children safe from harm.
-  - Remove Vargas Vallakovich from power.
+  - Lead Vallaki with pragmatic wisdom as its new burgomaster.
   - Reassure Strahd that Vallaki is no danger to his rule.
 inspirations:
   - Moiraine Damodred (The Wheel of Time)
@@ -102,6 +102,8 @@ A pragmatic survivor who bends like the willow rather than breaking like the oak
 - Invited you to dinner at her house via courier in [[Session 12 - Into the Bone Zone]]
 - **[[Session 14 - Dinner and a Show]]** (Neyavr 4, Evening) - Hosted the party for dinner at [[Wachterhaus]]. Questioned each party member about their backgrounds and capabilities. Shared the history of the Vallakovich family and [[Izek Strazni]]'s rise to power. Recounted the tale of [[Ruins of Berez|Berez]] as a warning against defying [[Strahd von Zarovich|Strahd]]. Explained her philosophy as a follower of [[Ezra, God of the Mists|Ezra]], emphasizing pragmatic survival over hopeful resistance. Revealed her conspiracy to depose [[Baron Vargas Vallakovich|Baron Vallakovich]] and asked the party to assassinate [[Izek Strazni]] in exchange for silvered weapons, safe passage for the refugees, and compensation. Learned the truth about [[Stella Wachter|Stella]]'s condition when the party explained her soul was trapped in the Ethereal Plane. After lowering the protective circle around Wachterhaus, Stella's spirit proved her presence with a peony and teacup shards arranged in a crescent (Luna's mark). Wept upon confirming her daughter's fate. Promised to create a binding circle to trap the night hags of [[Old Bonegrinder]] if the party could obtain their true names. Gave [[Varnish Gothorn]] her personal Tarokka deck as a gesture of faith. Modified the protective circle to allow Stella's spirit to freely visit Wachterhaus.
 - **[[Session 15 - Killing Izek]]** (Neyavr 5) - [[Ernst Larnak]] delivered the poisoned wine and Izek's schedule to the party on her behalf, enabling the successful assassination of [[Izek Strazni]].
+
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) - The party returned from [[Lake Zarovich]] and delivered [[Izek Strazni]]'s frozen head to Lady Wachter at [[Wachterhaus]]. She immediately gathered three of her cloaked cultists (Boris, Andrej, and Ruxandra) and departed for the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's Mansion]] to confront [[Baron Vargas Vallakovich|Baron Vallakovich]]. Presenting Izek's severed head as proof of his death, she forced the Baron to agree to abdicate. When he attempted to flee, Ruxandra used a *command* spell to freeze him in place. The following morning, Lady Wachter publicly assumed leadership of [[Town of Vallaki|Vallaki]] at an abdication ceremony in the [[Town Square]], peacefully ending nearly 500 years of Vallakovich rule.
 
 %%
 # Lady Fiona Wachter Profile

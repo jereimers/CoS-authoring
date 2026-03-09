@@ -61,6 +61,8 @@ Yevgeni is a wolf hunter who knows the [[Svalich Woods]] well and frequents the 
 # Where we've seen them
 - [[Session 09 - Walls Keep Out More Than Wolves]]
 
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) - Hired by the party along with [[Szoldar Szoldarovich]] to guide them to [[Lake Baratok]]. Led them past the [[Hunters' Shack]] on the northern shore of [[Lake Zarovich]], where he and Szoldar explained the [[Butterfly Shrine]]'s seven standing stones. Guided the party through a blight ambush at the [[Luna River Crossroads]] and successfully reached Lake Baratok. The party commissioned Yevgeni to create a taxidermy trophy from [[Izek Strazni]]'s severed demonic arm, intending it as a gift for [[Urwin Martikov]] and [[Danika Dorakova]] at the [[Blue Water Inn]].
+
 %%
 # Yevgeni Krushkin Profile
 

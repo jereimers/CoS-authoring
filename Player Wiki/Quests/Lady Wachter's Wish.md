@@ -180,6 +180,8 @@ The party returned to Vallaki carrying Izek's frozen head in a burlap sack, read
 
 - **[[Session 15 - Killing Izek]]** (Neyavr 5) - [[Ernst Larnak]] delivered the poisoned wine and Izek's schedule. With [[Victor Vallakovich]]'s magical assistance, the party successfully planted the poisoned wine in Izek's lunch delivery. After trailing him throughout the day, they ambushed him at [[Lake Zarovich]] where he'd drunk the poisoned wine. Following a brutal two-phase battle, [[Choppy Gibbles]] beheaded Izek with a combination of ice magic and daggers. The party recovered Izek's head, his demonic arm, his silvered battleaxe, and a mysterious amber shard. **Quest completed.**
 
+- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) - The party delivered Izek's frozen head to [[Lady Fiona Wachter|Lady Wachter]] at [[Wachterhaus]]. She immediately took it to confront [[Baron Vargas Vallakovich|Baron Vallakovich]] with [[Ernst Larnak]] and two of her cultists, forcing his abdication by presenting the head and using a *command* spell when he tried to flee. The following morning, the Baron publicly abdicated in the town square, and Lady Wachter assumed leadership of [[Town of Vallaki|Vallaki]]. The party commissioned [[Yevgeni Krushkin]] to create a taxidermy trophy from Izek's severed demonic arm as a gift for [[Urwin Martikov]] and [[Danika Dorakova]] at the [[Blue Water Inn]].
+
 
 
 
