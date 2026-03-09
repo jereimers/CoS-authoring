@@ -420,7 +420,7 @@
 <hr>
 <p><strong><em>Swarm.</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.</p>
 <p><strong><em>Keen Smell.</em></strong> The swarm has advantage on Wisdom (Perception) checks that rely on smell.</p>
-<p><strong><em>Tide of Vermin.</em></strong> An enemy that starts its turn in the swarm’s space must succeed on a DC 13 Strength saving throw or be grappled (escape DC 13). While grappled in this way, a creature is prone, blinded, and restrained, and can’t breathe. (A creature that can’t breathe in this way can hold its breath as described in the <span class="citation">Player’s Handbook</span>.)</p>
+<p><strong><em>Tide of Vermin.</em></strong> An enemy that starts its turn in the swarm’s space must succeed on a DC 13 Strength saving throw or be grappled (escape DC 13). While grappled in this way, a creature is prone, blinded, and restrained, and can’t breathe. (A creature that can’t breathe in this way can hold its breath as described in the [[Player’s Handbook]].)</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The swarm makes two attacks.</p>
 <p><strong><em>Bites.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 0 ft., each creature in the swarm's space. <em>Hit:</em> 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.</p>

@@ -483,7 +483,7 @@ If the players enter the shack, read:
 <p>The walls of this cramped shack are stained dark with age and use. Knives, cleavers, traps, and chains hang from the walls, each one well-cleaned and oiled. Animal pelts hang from the rafters, their empty eyes seeming to watch you as you pass.</p>
 </div>
 
-As described in [[Blue Water Inn#N2c. Taproom|N2c. Taproom]] (p. 100), Szoldar and Yevgeni are glad to serve as guides if paid, or to provide directions to Lake Baratok in exchange for a promise of free drinks when the players return. If they join the party, the two men are as described in N2c. Taproom (p. 100), but each bring three silvered arrows for the trip.
+As described in [[05_Chapter 5 - The Town of Vallaki#N2c. Taproom|N2c. Taproom]] (p. 100), Szoldar and Yevgeni are glad to serve as guides if paid, or to provide directions to Lake Baratok in exchange for a promise of free drinks when the players return. If they join the party, the two men are as described in N2c. Taproom (p. 100), but each bring three silvered arrows for the trip.
 
 If the players choose to set off on their own, Szoldar gives the following directions:
 
@@ -590,6 +590,7 @@ If the players enter the wagon by means of the door instead of the trapdoor, Ezm
 > If spoken to through the use of a *speak with animals* spell, the chicken introduces herself proudly as Eggsmerelda,^[Credit to Lyric42 for coining the name "Eggsmerelda."] the pet of the "legendary monster hunter" Ezmerelda d'Avenir, who Eggsmerelda vows will seek vengeance upon the players for breaking into her wagon.
 > 
 > If treated with kindness and provided with a proper apology, Eggsmerelda can share that she doesn't know where Ezmerelda is currently, and that Ezmerelda is currently "looking for something" in the woods, though she hopes that Ezmerelda will return soon. (Eggsmerelda, whose cage contains close and plentiful access to a bag of seeds and a bowl of water, is at no risk of going hungry or thirsty while Ezmerelda is away.)
+> ^Abstract-Eggsmerelda
 ## E6b. The Tower
 ### 1. The Tower Door
 <em>This scene takes place in Chapter 11: Area V2.</em>

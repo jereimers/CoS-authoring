@@ -1,17 +1,17 @@
 # Metaphysics & Magic
 The land of Barovia is a "demiplane"—a small, self-contained plane of existence. It is one of many Domains of Dread, which together occupy a small corner of the Shadowfell. 
 
-Like all of the Domains of Dread, Barovia is entrapped by the mists of Ravenloft, as described in <span class="citation">Mists of Ravenloft (p. 23)</span>, and ruled by the mysterious Dark Powers. The Dark Powers are nameless, shapeless entities that serve as the jailers of the "Darklords" of the Domains: evil individuals who have committed unspeakable crimes. Strahd von Zarovich is one such Darklord.
+Like all of the Domains of Dread, Barovia is entrapped by the mists of Ravenloft, as described in [[02_Chapter 2 - The Lands of Barovia#Mists of Ravenloft]], and ruled by the mysterious Dark Powers. The Dark Powers are nameless, shapeless entities that serve as the jailers of the "Darklords" of the Domains: evil individuals who have committed unspeakable crimes. Strahd von Zarovich is one such Darklord.
 
-Precious few—including only archmages, scholars, and (at times) the Darklords themselves—know that the Dark Powers exist. Fewer still know of their true nature and origins. While the Dark Powers were born from the miasma of evil that dwells within the Amber Temple of Barovia, they are not themselves the vestiges—the non-sapient fragments of dead, malevolent gods—that are sealed within the sarcophagi of the temple. (For more information about the vestiges of the Amber Temple, see <span class="citation">The Amber Temple (p. 181)</span>.)
+Precious few—including only archmages, scholars, and (at times) the Darklords themselves—know that the Dark Powers exist. Fewer still know of their true nature and origins. While the Dark Powers were born from the miasma of evil that dwells within the Amber Temple of Barovia, they are not themselves the vestiges—the non-sapient fragments of dead, malevolent gods—that are sealed within the sarcophagi of the temple. (For more information about the vestiges of the Amber Temple, see [[13_Chapter 13 - The Amber Temple#Chapter 13: The Amber Temple]].)
 
 The Dark Powers do not necessarily seek to corrupt those they encounter. Instead, for certain individuals, they seek to offer a choice between darkness and light—and to punish and ensnare those who fall to their temptations. In this adventure, two such individuals are Strahd von Zarovich and [[Ireena Kolyana]].
 
-As described in <span class="citation">Mists of Ravenloft</span> and <span class="citation">Sunlight in Barovia (p. 23-24)</span>, the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. 
+As described in [[02_Chapter 2 - The Lands of Barovia#Mists of Ravenloft]] and [[02_Chapter 2 - The Lands of Barovia#Sunlight in Barovia]], the land of Barovia is surrounded by a deadly fog that engulfs any creature that tries to leave, and has not known the light of the sun in centuries. 
 
-Spells cast in Barovia function as described in <span class="citation">Alterations to Magic</span>, and may be cosmetically modified in gruesome ways as described in <span class="citation">Cosmetic Spell Modifications (p. 24)</span>. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
+Spells cast in Barovia function as described in [[02_Chapter 2 - The Lands of Barovia#Alterations to Magic]], and may be cosmetically modified in gruesome ways as described in [[02_Chapter 2 - The Lands of Barovia#Cosmetic Spell Modifications]]. While deities and patrons can still empower clerics and warlocks who make their way to Barovia, their ability to intervene directly—given the limited omnipotence of the Dark Powers within the Domains of Dread—is sorely limited.
 # Geography
-The geography of Barovia is largely as described in <span class="citation">Lay of the Land (p. 23)</span> and <span class="citation">Areas of Barovia (p. 33)</span>. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
+The geography of Barovia is largely as described in [[02_Chapter 2 - The Lands of Barovia#Lay of the Land]] and [[02_Chapter 2 - The Lands of Barovia#Areas of Barovia (A-I)]]. However, the winding slopes of Tsolenka Pass now house the hidden village of **Soldav**, an isolated settlement of Mountain Folk who reject the druids' decision to worship Strahd as a deity.
 
 # Weather
 Sunrise in Barovia is at 7:00 a.m. and sunset is at 5:00 p.m. each day. Additionally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. 
@@ -34,7 +34,7 @@ The current Barovian year is 735 B.C. (Barovian Calendar). The Barovian calendar
 |  12   | Dekavr        | December       |
 # Cultures
 ## Barovians
-The denizens of the Village of Barovia are a broken, haunted people, largely as described in <span class="citation">Chapter 3: The Village of Barovia (p. 41)</span> and <span class="citation">Barovian Villagers (p. 41)</span>. 
+The denizens of the Village of Barovia are a broken, haunted people, largely as described in [[03_Chapter 3 - The Village of Barovia#Chapter 3: The Village of Barovia]] and [[03_Chapter 3 - The Village of Barovia#Barovian Villagers]]. 
 
 Until recently, however, the village of Barovia faced few overt troubles. While not thriving, its residents eked out a meager existence and lived as well as they could.
 
@@ -46,21 +46,21 @@ The burgomaster’s children, Ismark and Ireena, took charge of the rebuilding e
 
 The village has fallen into a state of paranoia, hopelessness, and despair. Neighbors mistrust neighbors, fearful that any person could be charmed by a vampire—or, worse, a vampire in disguise. Few go out of doors, whether day or night. All avoid the church, a scarred and haunted building rumored to be cursed by the Devil Strahd himself.
 ## Vallakians
-The people of Vallaki are largely as described in <span class="citation">Chapter 5: The Town of Vallaki (p. 95)</span> and <span class="citation">Townsfolk (p. 96)</span>. Though the town is ruled by [[Baron Vargas Vallakovich]], the local burgomaster, few townsfolk view him with much love or respect. 
+The people of Vallaki are largely as described in [[05_Chapter 5 - The Town of Vallaki#Chapter 5: The Town of Vallaki]] and [[05_Chapter 5 - The Town of Vallaki#Townsfolk]]. Though the town is ruled by [[Baron Vargas Vallakovich]], the local burgomaster, few townsfolk view him with much love or respect. 
 
-However, [[Baron Vargas Vallakovich|Baron Vallakovich]] commands the loyalty of [[Izek Strazni]], a cruel and capricious brute who enforces [[Baron Vargas Vallakovich|the Baron]]’s will with an iron fist. Izek, as Captain of the Guard, commands the loyalty—and, more importantly, the salaries—of the town’s twenty-four guards, as described in <span class="citation">Town Gates (p. 95)</span>.
+However, [[Baron Vargas Vallakovich|Baron Vallakovich]] commands the loyalty of [[Izek Strazni]], a cruel and capricious brute who enforces [[Baron Vargas Vallakovich|the Baron]]’s will with an iron fist. Izek, as Captain of the Guard, commands the loyalty—and, more importantly, the salaries—of the town’s twenty-four guards, as described in [[05_Chapter 5 - The Town of Vallaki#Town Gates]].
 
-Though Vallaki is far from a police state, Izek has spies throughout the town—individuals that he has threatened or intimidated into keeping him abreast of news and information. Those who speak ill of [[Baron Vargas Vallakovich|the Baron]] or his “festivals” (described in <span class="citation">Chapter 5: The Town of Vallaki (p. 95)</span>) are thrown in the stocks as described in <span class="citation">Donkey-Headed Criminals (p. 119)</span>. Those who go further may find themselves forcibly summoned to [[Baron Vargas Vallakovich|the Baron]]’s manor for “corrective rehabilitation,” or even left to the tender mercies of Izek himself, whose diabolic mastery of fire allows him to burn his victims’ flesh or set their homes aflame.
+Though Vallaki is far from a police state, Izek has spies throughout the town—individuals that he has threatened or intimidated into keeping him abreast of news and information. Those who speak ill of [[Baron Vargas Vallakovich|the Baron]] or his “festivals” (described in [[05_Chapter 5 - The Town of Vallaki#Chapter 5: The Town of Vallaki]]) are thrown in the stocks as described in [[05_Chapter 5 - The Town of Vallaki#Donkey-Headed Criminals]]. Those who go further may find themselves forcibly summoned to [[Baron Vargas Vallakovich|the Baron]]’s manor for “corrective rehabilitation,” or even left to the tender mercies of Izek himself, whose diabolic mastery of fire allows him to burn his victims’ flesh or set their homes aflame.
 
 As a result, the vast majority of Vallakians have surrendered themselves to [[Baron Vargas Vallakovich|Baron Vallakovich]]’s rule, too terrified of Izek to dare speak out. The sole exceptions are Lady Fiona Wachter, as described in <span class="citation">[[Vallaki Lore]] (p. 96)</span>, and her followers, described further in [[#The Cult of Ezra]].
 ## Krezkians
-The people of Krezk are largely as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>, <span class="citation">S3. Village of Krezk (p. 145)</span>, and <span class="citation">Krezk Lore (p. 146)</span>. The villagers are largely unaware that their burgomaster, Dmitri Krezkov, is secretly a werewolf.
+The people of Krezk are largely as described in [[08_Chapter 8 - The Village of Krezk#Chapter 8: The Village of Krezk]], [[02_Chapter 2 - The Lands of Barovia#S. Village of Krezk]], and [[08_Chapter 8 - The Village of Krezk#Krezk Lore]]. The villagers are largely unaware that their burgomaster, Dmitri Krezkov, is secretly a werewolf.
 ## Vistani
-The Vistani are largely as described in <span class="citation">Vistani (p. 26)</span>, with two major semi-permanent settlements: the encampment at Tser Pool (as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>), and the encampment near Vallaki (as described in <span class="citation">[[Vistani Camp]] (p. 119)</span>). 
+The Vistani are largely as described in [[02_Chapter 2 - The Lands of Barovia#Vistani]], with two major semi-permanent settlements: the encampment at Tser Pool (as described in [[02_Chapter 2 - The Lands of Barovia#G. Tser Pool Encampment]]), and the encampment near Vallaki (as described in <span class="citation">[[Vistani Camp]] (p. 119)</span>). 
 
 However, most Barovian Vistani view the valley as a temporary shelter from the evils of the world beyond, or as a brief stopover on their journeys through the mists. Only a few Vistani within Barovia reside there permanently and regard Strahd as their "king"; among those that do, even fewer serve Strahd faithfully as his eyes, ears, and hands amidst the valley. Most Barovian Vistani simply want to live their lives, to partake in life's wonders, and to raise their families in peace.
 ## Dusk Elves
-The dusk elves are as described in <span class="citation">Roleplaying the Vistani and the Elves (p. 119)</span>.
+The dusk elves are as described in [[05_Chapter 5 - The Town of Vallaki#Roleplaying the Vistani and the Elves]].
 ## First Folk
 The First Folk are a loose society of druidic hunter-gatherers descended from the nomads who first settled in the valley millenia ago. Since Strahd’s arrival in the valley, they have split into two factions: the Forest Folk, who worship Strahd as a deity and do his bidding across the Svalich Woods; and the Mountain Folk, a reclusive people who keep to the old religion of the Ladies Three and who largely remain within the sheltered settlement of Soldav, tucked away on the slopes of Mount Ghakis.
 # Factions
@@ -76,7 +76,7 @@ Time and time again, the women bearing Tatyana’s soul have been offered this c
 
 ## Keepers of the Feather
 
-The Keepers of the Feather are largely as described in <span class="citation">Keepers of the Feather (p. 98)</span>, <span class="citation">The Martikov Family (p. 174)</span>, and <span class="citation">U6. Standing Stones (p. 165)</span>. The high-ranking membership is dominated by the Martikov family, with patriarch [[Davian Martikov]] directing the order’s activities. However, more than a dozen other members are also scattered incognito throughout Barovia, with most stationed in and around the town of Vallaki.
+The Keepers of the Feather are largely as described in [[05_Chapter 5 - The Town of Vallaki#Keepers of the Feather]], [[12_Chapter 12 - The Wizard of Wines#The Martikov Family]], and [[10_Chapter 10 - The Ruins of Berez#U6. Standing Stones]]. The high-ranking membership is dominated by the Martikov family, with patriarch [[Davian Martikov]] directing the order’s activities. However, more than a dozen other members are also scattered incognito throughout Barovia, with most stationed in and around the town of Vallaki.
 
 The Keepers, despite their lycanthropic nature, are spies—not warriors. With the sole exception of Muriel Vinshaw, a young **wereraven** with a fiery temper and a streak of defiance, the Keepers are reluctant to take up arms in battle. Few are trained in martial combat, and fewer still have the stomach for violence or blood. 
 
@@ -104,7 +104,7 @@ Strahd agreed, and, with the aid of the druidic elders, the archmage Khazan, and
 
 The elders’ betrayal split the First People, causing a schism that sent dark tremors through their weakened society. Some among them—in particular, the other druids, and the caste of primal berserkers who served them—grimly agreed with the elders’ choice. The Ladies of the Fanes, they reasoned, had long since abandoned the People. The days of tooth and claw had ended; the age of steel had begun. Seeking Strahd’s protection, they believed, was the only choice left to them.
 
-The passage of time, however, has not been kind to the elders' legacy. Set adrift from their traditions and corrupted by darkness, the modern Forest Folk are a maddened, obsessed people, wholly dedicated to Strahd as their "god." Their leader is Svarog, a mad druid who has bonded his flesh to the Gulthias Tree that grows atop Yester Hill. The Forest Folk are now otherwise largely as described in <span class="citation">Chapter 14: Yester Hill (p. 197)</span> and <span class="citation">Hidden Graves (p. 198)</span>.
+The passage of time, however, has not been kind to the elders' legacy. Set adrift from their traditions and corrupted by darkness, the modern Forest Folk are a maddened, obsessed people, wholly dedicated to Strahd as their "god." Their leader is Svarog, a mad druid who has bonded his flesh to the Gulthias Tree that grows atop Yester Hill. The Forest Folk are now otherwise largely as described in [[14_Chapter 14 - Yester Hill#Chapter 14: Yester Hill]] and [[14_Chapter 14 - Yester Hill#Hidden Graves]].
 
 Recently, the Forest Folk were approached by Ludmilla Vilisevic, one of Strahd’s brides and an envoy from Baba Lysaga, the Witch of Berez. Ludmilla carried information indicating that the Keepers of the Feather, a secret society of wereravens that opposed Strahd’s rule, used the nearby Wizard of Wines Winery as one of their hideouts. With Ludmilla’s aid, the druids of the Forest Folk fashioned a way to create and command blights—the children of the Gulthias Tree—and declared war upon the winery and all its inhabitants.
 
@@ -127,11 +127,11 @@ Over the past hundred years, with Strahd asleep in Castle Ravenloft, each of his
 ## Witches of Mother Night
 While the good-hearted worshippers of Barovia keep the faith of the Morninglord alive, other, darker individuals seek the power and favor of Mother Night instead. Chief among them is Baba Lysaga, the Witch of Berez, who has fostered a coven of fellow devotees by recruiting outcasts and exiles from the settlements of Barovia. The maddened Lysaga views these practitioners as her children, and teaches them to secretly consider themselves the younger siblings of Strahd—sworn to protect and obey him for eternity.
 
-These witches are largely as described in <span class="citation">Barovian Witch (p. 229)</span>, though their pacts are forged with Mother Night instead of Strahd and the Dark Powers. Those sent to Ravenloft serve at the pleasure of Ludmilla Vilisevic, Strahd’s magic-minded consort, though none forget that their true loyalty is owed to Baba Lysaga of the swamp—and, above her, to Strahd himself.
+These witches are largely as described in [[20_Appendix D - Monsters and NPCs#BAROVIAN WITCH]], though their pacts are forged with Mother Night instead of Strahd and the Dark Powers. Those sent to Ravenloft serve at the pleasure of Ludmilla Vilisevic, Strahd’s magic-minded consort, though none forget that their true loyalty is owed to Baba Lysaga of the swamp—and, above her, to Strahd himself.
 ## Wachtercult
-Unlike in the official *Curse of Strahd* module, Lady Fiona Wachter does not worship devils. Instead, although she retains an **imp** familiar as a memento of her time studying with the witch Baba Lysaga, she has taught the members of her Vallakian cult to worship the goddess Ezra, who is described in [[#The Cult of Ezra]] below. Currently, Lady Wachter’s “book club” boasts six **cult fanatics**, with each fanatic leading a smaller cell of six **cultists** as described in <span class="citation">Cultists (p. 96)</span>. 
+Unlike in the official *Curse of Strahd* module, Lady Fiona Wachter does not worship devils. Instead, although she retains an **imp** familiar as a memento of her time studying with the witch Baba Lysaga, she has taught the members of her Vallakian cult to worship the goddess Ezra, who is described in [[#The Cult of Ezra]] below. Currently, Lady Wachter’s “book club” boasts six **cult fanatics**, with each fanatic leading a smaller cell of six **cultists** as described in [[05_Chapter 5 - The Town of Vallaki#Cultists]]. 
 ## Werewolf Pack
-The werewolf pack—the members of which call themselves the Children of Mother Night—are largely as described in <span class="citation">Chapter 15: Werewolf Den (p. 201)</span>. Until Strahd’s awakening, the pack largely used Barovia as a place to rest between hunts, occasionally prowling the roads between settlements, but preferring the tastier meat of the lands beyond the mists.
+The werewolf pack—the members of which call themselves the Children of Mother Night—are largely as described in [[15_Chapter 15 - Werewolf Den#Chapter 15: Werewolf Den]]. Until Strahd’s awakening, the pack largely used Barovia as a place to rest between hunts, occasionally prowling the roads between settlements, but preferring the tastier meat of the lands beyond the mists.
 
 However, when Strahd awoke, he demanded the loyalty of the werewolves whose forebears had once served him faithfully. He threatened to seal the pack within the mists for all eternity if they defied him—but promised them wealth, power, and plentiful prey if they returned to his service.
 
@@ -143,7 +143,7 @@ Now, as the pack’s new alpha and Strahd’s faithful servant, Kiril leads his 
 
 > [!info]+ **Lycanthropy in Barovia**
 >
-> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** (<span class="citation">Monster Manual, p. 207</span>). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
+> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** ([[Monster Manual, p. 207]]). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
 >
 > Instead, an infected creature only receives the benefits of lycanthropy upon transforming into their hybrid form on the night of the full moon. During this time, the creature becomes an NPC under the DM's control until dawn, at which point the creature loses the benefits of lycanthropy.
 >
@@ -159,7 +159,7 @@ Now, as the pack’s new alpha and Strahd’s faithful servant, Kiril leads his 
 > Finally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. **The first full moon that the players experience takes place on Neyavr 8th—the sixth night after they first arrive in Vallaki.**
 ## Amber Vestiges
 
-The vestiges of the Amber Temple are not sentient as most would imagine it; as the decaying remnants of dead gods, they are mere scraps of malevolent power, described further in <span class="citation">Chapter 13: The Amber Temple (p. 181)</span>, <span class="citation">Amber Sarcophagi (p. 191)</span>, and <span class="citation">X33. Amber Vaults (p. 191)</span>.
+The vestiges of the Amber Temple are not sentient as most would imagine it; as the decaying remnants of dead gods, they are mere scraps of malevolent power, described further in [[13_Chapter 13 - The Amber Temple#Chapter 13: The Amber Temple]], [[13_Chapter 13 - The Amber Temple#Amber Sarcophagi]], and [[13_Chapter 13 - The Amber Temple#X33. Amber Vaults]].
 
 Even so, that is not dead which can eternal lie. From the chill of their amber tombs, these vestiges dream of the power they once wielded—and of a path to renewed apotheosis. Shards of their amber sarcophagi are scattered across the land of Barovia, with each shard bearing a psychic connection to the vestige it once imprisoned. Through these shards, the vestiges can whisper words of corruption, promising power without price. This is a lie: no power is without cost, and the shreds of darkness the vestiges offer warp and transform their recipients—in subtle ways at first, but swelling grotesquely over time.
 
@@ -181,7 +181,7 @@ However, Madam Eva foresees that Strahd will soon return to her for a final, ter
 ## The Church of the Morninglord
 The dominant faith in Barovia worships the deity known as the Morninglord, a god of dawn and renewal. In centuries past, with the sun always hidden behind overcast skies, the people’s faith had slowly slipped into empty ritual. 
 
-With Strahd newly awoken, however, a wave of despair has swept across the valley—and, with it, a streak of religious revivalism. Vallaki in particular has seen a dramatic expansion in worshippers seeking hope, comfort, and a sense of security from the faith of their forefathers. [[Father Lucian Petrovich]], the priest of St. Andral’s Church in Vallaki, does what he can to preach the Morninglord’s grace, as described in <span class="citation">N1. St. Andral’s Church (p. 97)</span> but even he has his quiet doubts about how far that protection can go.
+With Strahd newly awoken, however, a wave of despair has swept across the valley—and, with it, a streak of religious revivalism. Vallaki in particular has seen a dramatic expansion in worshippers seeking hope, comfort, and a sense of security from the faith of their forefathers. [[Father Lucian Petrovich]], the priest of St. Andral’s Church in Vallaki, does what he can to preach the Morninglord’s grace, as described in [[05_Chapter 5 - The Town of Vallaki#N1. St. Andral's Church]] but even he has his quiet doubts about how far that protection can go.
 
 > [!lore]+ **The Names of the Gods**
 >
@@ -194,7 +194,7 @@ Though most Barovians worship the Morninglord in public, a precious few scorn hi
 ## The Cult of Ezra
 Some Barovians are neither wholly satisfied with the faith of the Morninglord nor depraved enough to seek the blessings of Mother Night. In their eyes, the Morninglord is a powerless or craven deity, unable to save his own worshippers or even raise a single sunrise, while Mother Night is a cruel and savage being, too dangerous to acknowledge or worship.
 
-These Barovians walk a middle path, and instead worship Ezra, the Mistwalker: the god of the Mists, or—as some suggest—the embodiment of the Mists themselves. (See <span class="citation">Ezra, God of the Mists, Van Richten's Guide to Ravenloft at p. 64</span>, for more information.) 
+These Barovians walk a middle path, and instead worship Ezra, the Mistwalker: the god of the Mists, or—as some suggest—the embodiment of the Mists themselves. (See [[Ezra, God of the Mists, Van Richten's Guide to Ravenloft at p. 64]], for more information.) 
 
 In Barovia, the followers of Ezra preach that power is an illusion, and suffering life’s only constant. Many believe that tales of the sun are myths, and that Barovia has neither past nor future: only an unceasing present that must be forever endured.
 

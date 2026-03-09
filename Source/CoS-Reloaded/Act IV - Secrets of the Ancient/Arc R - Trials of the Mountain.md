@@ -12,7 +12,7 @@ Should the players survive the final leg of their journey, they emerge before th
 Upon learning from the spirit of Sir Godfrey in [[Arc Q - A Shining Beacon#Q6c. Argynvost’s Return|Arc Q - A Shining Beacon]] that the dusk elf Kasimir knows the location of the Amber Temple, the players can find Kasimir in his hovel at the Vallakian Vistani encampment, which is as described in [[Arc E - The Missing Vistana#E2. Vistani Camp|Arc E - The Missing Vistana]].
 
 > [!info]+ **Kasimir’s Spellbook**
-> Kasimir’s spellbook largely contains the spells described in <span class="citation">N9a. Kasimir’s Hovel (p. 121)</span>. However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
+> Kasimir’s spellbook largely contains the spells described in [[05_Chapter 5 - The Town of Vallaki#N9a. Kasimir's Hovel]]. However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
 
 When the players first arrive, Kasimir is drinking tea and reading a book titled *The Crags of Mount Ghakis* by Finderway Ulbrek. If the players knock on the door, Kasimir marks his page, places it on his meditation mat by the fireplace, and goes to greet them.
 
@@ -26,7 +26,7 @@ When he answers the door, the players can observe that Kasimir’s [[Arc E - The
 >
 > When King Barov’s armies swept into the Forest of Twilight and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family, including their uncle. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage simmered. When Barov died and was succeeded by his son, Strahd, Patrina joined the rebellion against him, determined to drive the invaders out of her homeland.
 >
-> Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the Vistani as described in <span class="citation">Kasimir Velikov (p. 232)</span>. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
+> Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the Vistani as described in [[20_Appendix D - Monsters and NPCs#Kasimir Velikov]]. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
 >
 > After the siblings arrived in the valley, it wasn’t long before Patrina caught whisperings of the Amber Temple—a place of ancient magic and great, but terrible power. Unable to reach the Temple due to the protection of the Order of the Silver Dragon, however, she bided her time and kept the Temple’s existence a secret from Kasimir, her rage smoldering but never going out.
 >
@@ -64,7 +64,7 @@ When he answers the door, the players can observe that Kasimir’s [[Arc E - The
 > 
 > More than four hundred years after her death, Patrina felt the Grand Conjunction approaching from her place in the Amber Temple. Having eavesdropped on Strahd’s conversations with Exethanter, she strongly suspected that her best chance to escape her prison was approaching—as well as a golden opportunity to claim Strahd’s power over the Fanes while his attention lay elsewhere.
 >
-> Patrina sent Kasimir a dream: a vision of the Amber Temple, a promise of vengeance against Strahd, and a path to the amber sarcophagus where salvation purportedly lay. She sent him whispers of contrition and shame, as described in <span class="citation">Kasimir Velikov (p. 232)</span>, and vowed that she merely wished to avenge the deaths of her sisters that had perished at [[Rahadin]]’s treacherous hands. As proof of her goodwill, Patrina told him of a map case, hidden away in the ruins of Argynvostholt, whose contents would lead him to the Temple’s long-lost location.
+> Patrina sent Kasimir a dream: a vision of the Amber Temple, a promise of vengeance against Strahd, and a path to the amber sarcophagus where salvation purportedly lay. She sent him whispers of contrition and shame, as described in [[20_Appendix D - Monsters and NPCs#Kasimir Velikov]], and vowed that she merely wished to avenge the deaths of her sisters that had perished at [[Rahadin]]’s treacherous hands. As proof of her goodwill, Patrina told him of a map case, hidden away in the ruins of Argynvostholt, whose contents would lead him to the Temple’s long-lost location.
 >
 > Though Kasimir remained suspicious of Patrina’s motives, Strahd’s vengeance against the village of Barovia disturbed and alarmed him. With his sister’s dream weighing heavily on his mind, Kasimir journeyed to Argynvostholt, where he found Sir Godfrey Gwilym chained amidst the manor’s ruined chapel. 
 > 
@@ -81,7 +81,7 @@ Kasimir is glad to make small talk with the players while he prepares their tea.
 
 If any player asks him about the Amber Temple or his visit to Argynvostholt, however, a player with a passive Wisdom (Insight) score of 10 or greater notices Kasimir immediately stiffens. He is willing to share the following information:
 
-* ***If asked about Argynvostholt.*** Kasimir claims he recently found himself in the vicinity of Argynvostholt while assisting in the search for [[Arabelle]]. However, he took refuge in the manor for the reasons described in <span class="citation">Q11. Wine Storage (p. 133)</span>. "I do recall speaking with one of the knights there to ask whether he had seen her," he says, his brow furrowing. "It had been some time since I had last encountered the Order of the Silver Dragon, so our conversation may have wandered down other paths. I can’t recall which other specific topics we discussed, however." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir is sweating slightly, his eyes occasionally darting to the side as he speaks.)
+* ***If asked about Argynvostholt.*** Kasimir claims he recently found himself in the vicinity of Argynvostholt while assisting in the search for [[Arabelle]]. However, he took refuge in the manor for the reasons described in [[05_Chapter 5 - The Town of Vallaki#N2d. Wine Storage]]. "I do recall speaking with one of the knights there to ask whether he had seen her," he says, his brow furrowing. "It had been some time since I had last encountered the Order of the Silver Dragon, so our conversation may have wandered down other paths. I can’t recall which other specific topics we discussed, however." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir is sweating slightly, his eyes occasionally darting to the side as he speaks.)
 * ***If asked about the existence of the Amber Temple.*** Kasimir pauses in mock-thought, then shares that the Amber Temple was once rumored, according to legend, to guard "secrets hidden in amber." "No one has ever seen it, however," he adds with a wry laugh. "Some legends are just legends, I suppose." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir’s voice trembles slightly as he speaks, and that he seems to be avoiding making eye contact.)
 * ***If asked about his interest in the Amber Temple.*** Kasimir chuckles, then asks whether the players have acquired an interest in "dusty old legends." "I’m afraid I have no knowledge of what you’re talking about," he insists. "I don’t think I’ve heard anyone mention that particular myth in centuries." (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Kasimir’s chuckle is more nervous than mirthful, and that his hands are trembling as he speaks.)
 
@@ -274,14 +274,14 @@ Before departing, whether the players name sufficient penalties or not, Strahd i
 > From this point on, until the end of [[Arc S - A Sword of Sunlight]], Strahd visits the players nightly to torment them, as described in [[#R3b. The Tyrant’s First Trial]] and beyond. While most players will struggle to resist Strahd’s machinations—and will prove unable to prevent them until they have obtained the *Sunsword* at the end of [[Arc S - A Sword of Sunlight]]—clever, resourceful, and (occasionally) ruthless players may be able to prevent Strahd from entering their place of rest—or, better yet, from tracking them at all. (See [[#R3b. The Tyrant’s First Trial]] for more information on how Strahd attempts to do so.)
 # R3. Town of Vallaki
 ## R3a. Purchasing Cold-Weather Clothing
-The players can purchase cold-weather clothing from <span class="citation">N5. Arasek Stockyard (p. 115)</span> at a price of 10gp per set. If they do, Gunther Arasek asks curiously if the players are "planning a trip to Krezk," adding offhandedly that winter is "a month off yet." (Gunther is just curious, and is trying to make smalltalk. If told that the players expect to journey to Mt. Ghakis, he scoffs and warns them that "there’s nothing on those mountain slopes but barbarians, ice, and death.")
+The players can purchase cold-weather clothing from [[05_Chapter 5 - The Town of Vallaki#N5. Arasek Stockyard]] at a price of 10gp per set. If they do, Gunther Arasek asks curiously if the players are "planning a trip to Krezk," adding offhandedly that winter is "a month off yet." (Gunther is just curious, and is trying to make smalltalk. If told that the players expect to journey to Mt. Ghakis, he scoffs and warns them that "there’s nothing on those mountain slopes but barbarians, ice, and death.")
 
 > [!abstract]+ **Clothing From Krezk**
 > If the players have befriended the Krezkov family, they can also obtain sets of cold-weather clothing from the people of Krezk at no cost. ("You have done a great service to us," Dmitri assures them. "Our family is forever in your debt, and I do not doubt that our neighbors will gladly share what they have to help us repay it.")
 ## R3b. The Tyrant’s First Trial
 
 > [!info]+ **Strahd’s Scrying**
-> Each night at nightfall following [[#R2. The Tyrant’s Descent]], Strahd casts _scrying_ (DC 19) in an effort to ascertain the players’ location. When he does, if he believes that Ireena is with the party, he targets her with the spell.  When Strahd is scrying her, Ireena has a cumulative -17 to the save (-5 from Strahd’s knowledge of her; -2 from Strahd’s use of Tatyana’s portrait in <span class="citation">K37. Study (p. 66)</span>; and -10 from Strahd’s use of a lock of her hair he took in [[Arc B - Welcome to Barovia]]).
+> Each night at nightfall following [[#R2. The Tyrant’s Descent]], Strahd casts _scrying_ (DC 19) in an effort to ascertain the players’ location. When he does, if he believes that Ireena is with the party, he targets her with the spell.  When Strahd is scrying her, Ireena has a cumulative -17 to the save (-5 from Strahd’s knowledge of her; -2 from Strahd’s use of Tatyana’s portrait in [[04_Chapter 4 - Castle Ravenloft#K37. Study]]; and -10 from Strahd’s use of a lock of her hair he took in [[Arc B - Welcome to Barovia]]).
 >
 > If Strahd believes that Ireena is not with the party, he instead scries the character with the greatest priority, as given below:
 >
@@ -300,7 +300,7 @@ The players can purchase cold-weather clothing from <span class="citation">N5. A
 > * ***Barovia.*** The church and the Burgomaster’s manor
 > * ***Svalich Woods.*** Tser Falls, Old Bonegrinder, Lake Zarovich, Lake Baratok, Argynvostholt, the werewolf den, the Wizard of Wines, Yester Hill
 >
-> Even if Strahd can’t immediately identify the specific location where the players are staying, he can immediately identify the region where they can be found (e.g., the town of Vallaki) by inspecting their surroundings. If the scrying spell fails (e.g., because the players are concealed by <span class="citation">Khazan’s Spell Drain (p. 167)</span> at Van Richten’s Tower, Strahd assumes they are residing at Van Richten’s Tower.
+> Even if Strahd can’t immediately identify the specific location where the players are staying, he can immediately identify the region where they can be found (e.g., the town of Vallaki) by inspecting their surroundings. If the scrying spell fails (e.g., because the players are concealed by [[11_Chapter 11 - Van Richten's Tower#Khazan's Spell Drain]] at Van Richten’s Tower, Strahd assumes they are residing at Van Richten’s Tower.
 >
 > Whether he knows the players’ specific location or not, Strahd then uses the teleportation brazier in [[Arc P - Ravenloft Heist#P11e. Brazier Room|P11e. Brazier Room]] to teleport to the area nearest the players’ current location. Upon arriving, if he doesn’t know the players’ specific location, he summons twenty **wolves**, twenty **swarms of bats**, and/or twenty **swarms of rats** and instructs them to explore the area (in pairs) to discern the players’ specific location. Strahd learns the players’ location if at least one spy is able to report it back to him.
 > 
@@ -309,7 +309,7 @@ The players can purchase cold-weather clothing from <span class="citation">N5. A
 > [!warning]+ **Strahd’s Backup**
 > If Strahd is unable to scry a member of the party (e.g., due to a *nondetection* or *private sanctum* spell), he dispatches his spies to search for them. He then makes his way to the skies above Berez atop his **nightmare** Beucephalus, where he waits for any of his spies to return.
 >
-> At Strahd’s command, twelve thousand **bats** disperse across Barovia, with four bats searching each quarter-mile hex shown on the <span class="citation">Map of Barovia (p. 33)</span>. The bats assigned to the players’ hex arrive between 1 and 2 hours after the players’ long rest begins, depending on the players’ proximity to Castle Ravenloft. If the bats can observe evidence of the players’ presence from a distance (e.g., artificial lighting in Van Richten’s Tower, or a player outside on guard), they immediately report their findings to Strahd in Berez.
+> At Strahd’s command, twelve thousand **bats** disperse across Barovia, with four bats searching each quarter-mile hex shown on the [[Map of Barovia]]. The bats assigned to the players’ hex arrive between 1 and 2 hours after the players’ long rest begins, depending on the players’ proximity to Castle Ravenloft. If the bats can observe evidence of the players’ presence from a distance (e.g., artificial lighting in Van Richten’s Tower, or a player outside on guard), they immediately report their findings to Strahd in Berez.
 >
 > Otherwise, every 15 minutes after the bats arrive, one of the four bats approaches the players’ resting place to investigate it. If any players are on watch, the bat must make a Dexterity (Stealth) check contested by the watching players’ passive Wisdom (Perception) scores, made with advantage if the bat is concealed by darkness. On a failure, the watching players notice the bat once it comes within 60 feet of their position.
 >
@@ -321,21 +321,21 @@ Depending on the players’ resting place, Strahd uses a different strategy or s
 
 | Player Location | Strahd's Strategy |
 |-----------------|-------------------|
-| <span class="citation">E4. Burgomaster's Mansion (p. 44)</span> | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| <span class="citation">E5. Church (p. 45)</span> | Strahd uses [[#The Bat]], followed by [[#The Swarm]], [[#The Visitor]], [[#The Command]], and [[#The Storm]]. |
+| [[03_Chapter 3 - The Village of Barovia#E4. Burgomaster's Mansion]] | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| [[03_Chapter 3 - The Village of Barovia#E5. Church]] | Strahd uses [[#The Bat]], followed by [[#The Swarm]], [[#The Visitor]], [[#The Command]], and [[#The Storm]]. |
 | <span class="citation">N1. [[St. Andral's Church]] (p. 97)</span> | Strahd uses [[#The Storm]]. |
 | <span class="citation">N2. [[Blue Water Inn]] (p. 98)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| <span class="citation">N3. Burgomaster's Mansion (p. 103)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| <span class="citation">N4. Wachterhaus (p. 110)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| [[03_Chapter 3 - The Village of Barovia#E4. Burgomaster's Mansion]] | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| [[05_Chapter 5 - The Town of Vallaki#N4. Wachterhaus]] | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
 | <span class="citation">[[Vistani Camp]] (p. 119)</span> | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
-| <span class="citation">Chapter 6: Old Bonegrinder (p. 125)</span> | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| <span class="citation">Chapter 7: Argynvostholt (p. 129)</span> | Strahd uses [[#The Hostage]]. |
-| <span class="citation">S3. Village of Krezk (p. 145)</span> | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Storm]]. |
-| <span class="citation">S19. Barracks (p. 154)</span> | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
-| <span class="citation">T4-5. Guard Tower, Ground/Upper Floor (pp. 157-59)</span> | Strahd uses [[#The Hostage]]. |
-| <span class="citation">Chapter 11: Van Richten's Tower (p. 167)</span> | Strahd uses [[#The Visitor]], followed by [[#The Horde]]. |
-| <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span> | Strahd uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
-| <span class="citation">Chapter 15: Werewolf Den (p. 201)</span> | Strahd uses [[#The Hostage]]. |
+| [[06_Chapter 6 - Old Bonegrinder#Chapter 6: Old Bonegrinder]] | Strahd uses [[#The Bat]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| [[07_Chapter 7 - Argynvostholt#Chapter 7: Argynvostholt]] | Strahd uses [[#The Hostage]]. |
+| [[02_Chapter 2 - The Lands of Barovia#S. Village of Krezk]] | Strahd uses [[#The Bat]]. If he succeeds, Strahd then uses [[#The Visitor]]. Otherwise, Strahd then uses [[#The Storm]]. |
+| [[08_Chapter 8 - The Village of Krezk#S19. Barracks]] | Strahd uses [[#The Visitor]], followed by [[#The Storm]]. |
+| [[T4-5. Guard Tower, Ground/Upper Floor (pp. 157-59)]] | Strahd uses [[#The Hostage]]. |
+| [[11_Chapter 11 - Van Richten's Tower#Chapter 11: Van Richten's Tower]] | Strahd uses [[#The Visitor]], followed by [[#The Horde]]. |
+| [[12_Chapter 12 - The Wizard of Wines#Chapter 12: The Wizard of Wines]] | Strahd uses [[#The Swarm]], followed by [[#The Visitor]] and [[#The Storm]]. |
+| [[15_Chapter 15 - Werewolf Den#Chapter 15: Werewolf Den]] | Strahd uses [[#The Hostage]]. |
 #### The Hostage
 In this strategy, Strahd seeks to leverage the lives of NPCs the players have grown attached to in order to force the players to invite him inside. To do so, he uses his network of spies and his ***charm*** ability to learn which nearby NPCs the players have developed a relationship with. He then kidnaps and charms those NPCs and brings them to a location near the players’ resting place atop Beucephalus. (Strahd doesn’t ride Beucephalus himself if he kidnaps more than three NPCs in this way.)
 
@@ -347,7 +347,7 @@ Strahd might kidnap the following groups of NPCs, or others that the players hav
 
 However, Strahd doesn’t kidnap wereravens, occupants of St. Andral’s Church, or any NPC of Challenge Rating 1 or greater.
 
-Upon arriving at the players’ resting place, Strahd dispatches the weakest and/or most sympathetic kidnapped NPC to greet the players (e.g., by knocking on the door or calling out for them). While the kidnapped NPC does so, Strahd and the remaining kidnapped NPCs linger at a location just out of sight of the players’ resting place (e.g., the <span class="citation">Z8. Ring of Stone (p. 205)</span> if the players are resting inside the werewolf den). 
+Upon arriving at the players’ resting place, Strahd dispatches the weakest and/or most sympathetic kidnapped NPC to greet the players (e.g., by knocking on the door or calling out for them). While the kidnapped NPC does so, Strahd and the remaining kidnapped NPCs linger at a location just out of sight of the players’ resting place (e.g., the [[15_Chapter 15 - Werewolf Den#Z8. Ring of Stone]] if the players are resting inside the werewolf den). 
 
 Strahd also dispatches a **bat** to quietly accompany the dispatched NPC to the players’ resting place and report back should any issues arise. (A player notices the bat, which may be hanging from a nearby building’s eaves or tree branch, if they have a passive Wisdom (Perception) score of 12 or greater.)
 
@@ -373,7 +373,7 @@ Each time a zombie attempts and fails to break down the door, a bolt of lightnin
 * **First Time**. The tower trembles slightly, causing bits of dust to fall from the ceiling.
 * **Second Time**. The tower groans and shakes, forcing each creature inside to succeed on a DC 10 Strength saving throw or fall prone. A creature that fails the saving throw also takes 1d4 bludgeoning damage from falling debris.
 * **Third Time**. The tower pitches and shakes, forcing each creature inside to succeed on a DC 15 Strength saving throw or fall prone and take 2d6 bludgeoning damage from falling debris. A creature that succeeds on the saving throw takes half damage.
-* **Fourth Time**. The tower collapses as described in <span class="citation">V2. Tower Door (p. 169)</span>.
+* **Fourth Time**. The tower collapses as described in [[07_Chapter 7 - Argynvostholt#Q49. Beacon Tower Door]].
 
 If the players exit the tower to speak with Strahd, proceed to [[#Strahd’s Game]]. 
 
@@ -489,7 +489,7 @@ If the players open the door, combat ends. Proceed to [[#The Visitor]] below. If
 <hr>
 <p><strong><em>Swarm.</em></strong> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.</p>
 <p><strong><em>Keen Smell.</em></strong> The swarm has advantage on Wisdom (Perception) checks that rely on smell.</p>
-<p><strong><em>Tide of Vermin.</em></strong> An enemy that starts its turn in the swarm’s space must succeed on a DC 13 Strength saving throw or be grappled (escape DC 13). While grappled in this way, a creature is prone, blinded, and restrained, and can’t breathe. (A creature that can’t breathe in this way can hold its breath as described in the <span class="citation">Player’s Handbook</span>.)</p>
+<p><strong><em>Tide of Vermin.</em></strong> An enemy that starts its turn in the swarm’s space must succeed on a DC 13 Strength saving throw or be grappled (escape DC 13). While grappled in this way, a creature is prone, blinded, and restrained, and can’t breathe. (A creature that can’t breathe in this way can hold its breath as described in the [[Player’s Handbook]].)</p>
 <h3>Actions</h3>
 <p><strong><em>Multiattack.</em></strong> The swarm makes two attacks.</p>
 <p><strong><em>Bites.</em></strong> <em>Melee Weapon Attack:</em> +5 to hit, reach 0 ft., each creature in the swarm's space. <em>Hit:</em> 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.</p>
@@ -589,11 +589,11 @@ Each round that the victim remains grappled, Strahd uses his ***unarmed strike**
 Strahd departs only when the chosen victim is dead. When he does, he warns the players that he shall return again the following night—and that he hopes they shall be better-prepared to play his game when he does.
 
 > [!warning]+ **Long Rest Rules**
-> Remember that, as per the <span class="citation">Player’s Handbook</span>, a player can benefit from a long rest once per twenty-four hours, and that taking damage during a long rest may prolong that long rest’s duration.
+> Remember that, as per the [[Player’s Handbook]], a player can benefit from a long rest once per twenty-four hours, and that taking damage during a long rest may prolong that long rest’s duration.
 # R4. Tsolenka Pass
 
 > [!warning]+ **Kasimir’s Spellbook**
-> Kasimir’s spellbook largely contains the spells described in <span class="citation">N9a. Kasimir’s Hovel (p. 121)</span>. However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
+> Kasimir’s spellbook largely contains the spells described in [[05_Chapter 5 - The Town of Vallaki#N9a. Kasimir's Hovel]]. However, remove *polymorph*, *counterspell*, *suggestion*, *nondetection*, and *fly* from the spells in his spellbook.
 
 ## R4a. Setting Off
 At dawn on the first day after the players inform Kasimir that they are ready to begin the journey up Mt. Ghakis, Kasimir meets them outside the front of his cottage bearing a backpack and simple traveler’s clothes to travel to the Amber Temple. If asked, Kasimir can share that the journey to the Temple is as follows:
@@ -614,7 +614,7 @@ Once he and the players have reached the Old Svalich Road, in addition to the in
 
 * Four centuries ago, before King Barov II invaded the dusk elf principality of Othrondil, Kasimir was the scribe of Prince Erevan Löwenhart, their uncle, and Patrina his court mage. (Kasimir and Patrina were not direct blood relations of Erevan, who married their aunt, Lorelei.)
 * When King Barov II, aided by the treacherous [[Rahadin]], Prince Erevan’s son, conquered Othrondil, killed Prince Erevan, and subjugated the dusk elf people, Kasimir and Patrina lost their homes, positions, and many members of their family. Though Kasimir urged his sister to make peace with their fate, Patrina’s rage continued to simmer for decades. 
-* When Barov died and was succeeded by his son, Strahd, Patrina joined the rebellion against him, determined to drive the invaders out of her homeland. Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the Vistani as described in <span class="citation">Kasimir Velikov (p. 232)</span>. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
+* When Barov died and was succeeded by his son, Strahd, Patrina joined the rebellion against him, determined to drive the invaders out of her homeland. Strahd, however, crushed the dusk elf rebellion brutally and swiftly, leaving the survivors to the Vistani as described in [[20_Appendix D - Monsters and NPCs#Kasimir Velikov]]. Kasimir again attempted to comfort a despondent Patrina, but to no avail.
 * For a time after they arrived in Barovia, Kasimir dared to believe Patrina may have made peace with their fate—but it wasn’t long before she began slipping away on odd, secretive errands, often for days at a time. Patrina refused to speak of where she went on these occasions, no matter how hard Kasimir pushed.
 * One night, less than a week after Strahd conquered Barovia, Patrina vanished from the dusk elf encampment. For the next year, Kasimir often sought to find her amidst the settlements and wild places of Barovia—but to no avail. He eventually came to accept that she had died, and joined his people in mourning her.
 * Shortly after the Mists descended upon Barovia, and four years after Strahd’s conquest of Barovia, Patrina abruptly returned to the dusk elves’ encampment. Though she begged Kasimir’s forgiveness for her long absence, she refused to disclose where she had been, or why she had not returned. A suspicious, but altogether grateful Kasimir welcomed her back into the fold, and aided her in building a new home for herself in the woods not far from the encampment.
@@ -640,7 +640,7 @@ If, after he has finished his story, the players ask Kasimir why he lied about h
 ## R4b. The Druids’ Vengeance
 The journey from the dusk elf encampment to the Raven River Crossroads is four and one-quarter miles and takes one hour and twenty-five minutes.
 
-This area is largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, the crossroads now hides three poisoned spiked pit traps (<span class="citation">Dungeon Master’s Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. 
+This area is largely as described in [[02_Chapter 2 - The Lands of Barovia#R. Raven River Crossroads]]. However, the crossroads now hides three poisoned spiked pit traps ([[Dungeon Master’s Guide, p. 122]]), concealed as described in [[02_Chapter 2 - The Lands of Barovia#False Trail]]. 
 
 Together, the pit traps form a diagonal across the road that runs from the start of the path to Lake Baratok (lake path) to the start of the trail to Mt. Ghakis (mountain trail). A 2-foot-wide catwalk between each pit trap provides safe passage between them.
 
@@ -836,7 +836,7 @@ The players have one round to prepare themselves before the snow maidens attack.
 <p>With a shriek, they descend upon you.</p>
 </div>
 
-The snow maidens are largely as described in <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>, but with the following changes:
+The snow maidens are largely as described in [[09_Chapter 9 - Tsolenka Pass#T6. Guard Tower Rooftop]], but with the following changes:
 
 * The maidens are elementals instead of undead 
 * The maidens have 76 (17d8) hit points each
@@ -970,7 +970,7 @@ In combat, the wolves fight in pairs, hoping to use their ***pack tactics*** in 
 ## R4e. The Gatehouse
 The journey from the crevasse to the gatehouse is one and three-quarter miles long. It takes one hour and ten minutes if the players are traveling the day after the blizzard (due to the high snow banks), and two hours if the players are traveling during the blizzard.
 
-The players’ arrival at the gatehouse is largely as described in <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>, <span class="citation">T2. Demon Statues (p. 157)</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span>. However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>:
+The players’ arrival at the gatehouse is largely as described in [[09_Chapter 9 - Tsolenka Pass#T1. Gatehouse Portcullis]], [[09_Chapter 9 - Tsolenka Pass#T2. Demon Statues]], and [[09_Chapter 9 - Tsolenka Pass#T3. Curtain of Green Flame]]. However, add the following sentence to the end of the description of [[09_Chapter 9 - Tsolenka Pass#T1. Gatehouse Portcullis]]:
 
 <div class="description">
 <p>The tower perches upon the lip of an overhanging cliff, which juts out across the churning fog far below.</p>
@@ -997,7 +997,7 @@ In addition, increase the number of petrified vrocks to four. (If present, Kasim
 
 A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 
-The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T5. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
+The guard tower of the gatehouse is as described in [[09_Chapter 9 - Tsolenka Pass#T4. Guard Tower, Ground Floor]], [[09_Chapter 9 - Tsolenka Pass#T5. Guard Tower, Upper Floor]], and [[09_Chapter 9 - Tsolenka Pass#T6. Guard Tower Rooftop]].
 ## R4f. The Tyrant’s Second Trial
 No matter where the players choose to rest, the blizzard comes to an end shortly after they begin their long rest. Read:
 
@@ -1234,12 +1234,12 @@ Strahd departs only when the chosen victim is dead. When he does, he warns the p
 When the players awaken the following morning, the weather is crisp and cold, with a heavy layer of snow covering the road from the previous night.
 
 > [!info]+ **Heavy Snow**
-> Following the blizzard, the road and surrounding areas are covered with heavy snow, which is difficult terrain. While traveling through heavy snow, the players move at half the speed described in <span class="citation">Travel Pace (Player’s Handbook, p. 181)</span>.
+> Following the blizzard, the road and surrounding areas are covered with heavy snow, which is difficult terrain. While traveling through heavy snow, the players move at half the speed described in [[Travel Pace (Player’s Handbook, p. 181)]].
 
 > [!info]+ **Traveling to the Gatehouse**
 > If the players chose to find shelter instead of proceeding toward the gatehouse the previous night, the journey from their place of shelter to the gatehouse is two-and-three-quarter miles long and takes one hour and fifty minutes. 
 > 
-> The players’ arrival at the gatehouse is largely as described in <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>, <span class="citation">T2. Demon Statues (p. 157)</span>, and <span class="citation">T3. Curtain of Green Flame (p. 157)</span>. However, add the following sentence to the end of the description of <span class="citation">T1. Gatehouse Portcullis (p. 157)</span>:
+> The players’ arrival at the gatehouse is largely as described in [[09_Chapter 9 - Tsolenka Pass#T1. Gatehouse Portcullis]], [[09_Chapter 9 - Tsolenka Pass#T2. Demon Statues]], and [[09_Chapter 9 - Tsolenka Pass#T3. Curtain of Green Flame]]. However, add the following sentence to the end of the description of [[09_Chapter 9 - Tsolenka Pass#T1. Gatehouse Portcullis]]:
 >
 > <hr>
 > 
@@ -1251,9 +1251,9 @@ When the players awaken the following morning, the weather is crisp and cold, wi
 > 
 > A player who thinks to present the *amulet of knight’s passage* while within 30 feet of the portcullis can suppress the curtain of flame for 1 minute, as described in [[Arc M - The Dragon's Manor#Argynvost’s Study|Arc M - The Dragon's Manor]].
 > 
-> The guard tower of the gatehouse is as described in <span class="citation">T4. Guard Tower, Ground Floor (p. 157)</span>, <span class="citation">T4. Guard Tower, Upper Floor (p. 159)</span>, and <span class="citation">T6. Guard Tower Rooftop (p. 159)</span>.
+> The guard tower of the gatehouse is as described in [[09_Chapter 9 - Tsolenka Pass#T4. Guard Tower, Ground Floor]], [[09_Chapter 9 - Tsolenka Pass#T5. Guard Tower, Upper Floor]], and [[09_Chapter 9 - Tsolenka Pass#T6. Guard Tower Rooftop]].
 
-The bridge beyond the gatehouse is largely as described in <span class="citation">T7. Western Arch (p. 159)</span>, <span class="citation">T8. Stone Bridge (p. 159)</span>, and <span class="citation">T9. Eastern Arch (p. 159)</span>. However, remove the description of the black-cloaked rider from the text of <span class="citation">T8. Stone Bridge (p. 159)</span>.
+The bridge beyond the gatehouse is largely as described in [[09_Chapter 9 - Tsolenka Pass#T7. Western Arch]], [[09_Chapter 9 - Tsolenka Pass#T8. Stone Bridge]], and [[09_Chapter 9 - Tsolenka Pass#T9. Eastern Arch]]. However, remove the description of the black-cloaked rider from the text of [[09_Chapter 9 - Tsolenka Pass#T8. Stone Bridge]].
 
 As the players depart the bridge, read:
 
@@ -1276,7 +1276,7 @@ A player can make a DC 20 Wisdom (Perception) check to identify the shape. On a 
 <p>The shape is a black-cloaked rider on a charcoal-colored horse. As you watch, it crosses the halfway point of the bridge—then lifts its head slightly in your direction, as though it has noticed your gaze.</p>
 </div>
 
-The rider is [[Rahadin]], though the cloak he wears hides his features from view. Regardless of the players’ response, the rider then returns its attention to the bridge before it, vanishing from sight behind a mountain cliff upon reaching <span class="citation">T9. Eastern Arch (p. 159)</span>.
+The rider is [[Rahadin]], though the cloak he wears hides his features from view. Regardless of the players’ response, the rider then returns its attention to the bridge before it, vanishing from sight behind a mountain cliff upon reaching [[09_Chapter 9 - Tsolenka Pass#T9. Eastern Arch]].
 
 > [!abstract]+ **Ambushing [[Rahadin]]**
 > If the players indicate an interest in lying in wait and ambushing the rider, Kasimir points out that the road here is far too narrow and bare to easily serve as a hiding place. "More significantly," he adds, "we appear to be on a timeline—should we fail to reach our destination, we may lose one of our number when Zarovich returns tonight." Although he notes his willingness to defer to the players’ decision, Kasimir warns them that further delays may jeopardize their mission.
@@ -1456,7 +1456,7 @@ If the players enter the cave, read:
 > Each time a bodak enters or exits a chamber adjacent to the players, a player with a passive Wisdom (Perception) score of 16 or greater hears a quiet shuffling noise echo from that chamber’s direction.
 
 > [!info]+ **Fighting the Bodaks**
-> Cassius and Deirdre have the statistics of **bodaks** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 64</span>), but with the following changes:
+> Cassius and Deirdre have the statistics of **bodaks** ([[Mordenkainen Presents: Monsters of the Multiverse, p. 64]]), but with the following changes:
 > * Increase each bodak’s hit points to 136 (21d8 + 42).
 > * Give each bodak the following action: "***Multiattack.*** The bodak attacks twice with its fist."
 > * A creature that fails its saving throw against a bodak's ***death gaze*** by 5 or more is reduced to half its current hit points (rounded up), rather than 0.
@@ -1708,7 +1708,7 @@ When the pendant first becomes visible, read:
 > * ***Hidden Fangs.*** Your vampiric fangs are naturally concealed. You can extend or retract your fangs as a bonus action on your turn.
 > * ***Curse.*** The amber shard is cursed. A character that accepts the shadow’s gift is secretly cursed until targeted by a *greater restoration* spell or similar magic. As long as the character remains cursed, the character cannot discard the pendant or shard, which immediately teleports back around their neck.
 >
-> If a character accepts the dark gift of the Vampyr in <span class="citation">X42. Amber Vault (p. 195)</span> and fulfills the conditions to become a **vampire** while cursed in this way, the character falls under Strahd’s permanent control, as if he turned them into a **vampire spawn**.
+> If a character accepts the dark gift of the Vampyr in [[13_Chapter 13 - The Amber Temple#X33. Amber Vaults]] and fulfills the conditions to become a **vampire** while cursed in this way, the character falls under Strahd’s permanent control, as if he turned them into a **vampire spawn**.
 
 > [!lore]+ **The Cursed Pendant**
 > Strahd intentionally placed this pendant here the night of [[#R4f. The Tyrant’s Second Trial]], hoping that one of the players might take it with them to the Amber Temple and accept the Vampyr’s dark gift—thereby giving him a full-blooded vampire under his control. (The vestige of the Vampyr doesn’t know that the pendant is cursed.)
@@ -1990,7 +1990,7 @@ At the start of the first round of combat, if the players triggered the icicle c
 <p>Tufts of fur have fallen away in great patches across their hides, and a sickly yellow light emanates from the space between their ribs. As each fiend opens its muzzle in a growl, long strands of whitish saliva run down its black gums, the same yellow light shining across rows of jagged, yellow teeth. Above each beast’s muzzle, two hateful, crimson eyes glint with hunger and unrelenting rage.</p>
 </div>
 
-An elder shoosuva has the same statistics as an ordinary **shoosuva** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 216</span>), but with the following changes:
+An elder shoosuva has the same statistics as an ordinary **shoosuva** ([[Mordenkainen Presents: Monsters of the Multiverse, p. 216]]), but with the following changes:
 
 * It has a size of Huge.
 * It has an Armor Class of 16 and 241 (23d12 + 92) hit points.
@@ -2411,7 +2411,7 @@ The face belongs to Elder Burebis, a **storm giant**. Players who inspect Elder 
 >
 > Disquieted, but trusting in the vision he had seen, Burebis observed from afar as the Order of the Silver Dragon settled in Barovia, soon thereafter joined by the residents of the Abbey of St. Markovia. He saw the armies of Strahd von Zarovich sweep through the valley, and watched with horrified fascination as the Mists spirited the land beyond the Material Plane.
 >
-> By the time Strahd first met Marina Ulrich, Tatyana’s first reincarnation, Burebis’s daughter, Gira, was nearly two centuries old. Far more temperamental than her father, Gira grew enraged when Strahd drowned the village of Berez beneath the banks of the Luna River—and even moreso when the witch Baba Lysaga began to befoul the new swamp with black magic. After observing an omen that foretold Strahd’s death would swiftly follow Lysaga’s, Gira descended the slopes of Mt. Ghakis to the valley below to assault Lysaga’s cottage. Lysaga, however, easily emerged the victor—and enchanted Gira’s skull to create the giant flying skull described in <span class="citation">Giant Skull (p. 163)</span>.
+> By the time Strahd first met Marina Ulrich, Tatyana’s first reincarnation, Burebis’s daughter, Gira, was nearly two centuries old. Far more temperamental than her father, Gira grew enraged when Strahd drowned the village of Berez beneath the banks of the Luna River—and even moreso when the witch Baba Lysaga began to befoul the new swamp with black magic. After observing an omen that foretold Strahd’s death would swiftly follow Lysaga’s, Gira descended the slopes of Mt. Ghakis to the valley below to assault Lysaga’s cottage. Lysaga, however, easily emerged the victor—and enchanted Gira’s skull to create the giant flying skull described in [[10_Chapter 10 - The Ruins of Berez#Giant Skull]].
 >
 > Enraged by his daughter’s death and the desecration of her remains, Burebis descended to Berez with all the fury of a maelstrom. Old age, however, had robbed him of his strength, and he barely escaped the encounter with his life. Dying of his wounds, but guided by the Roc of Mt. Ghakis—the Seeker’s familiar—Burebis found his way to Soldav, and the Shrine of the Rozana, where the primal roots therein pierced his flesh and sustained him with lifegiving sap. There he has remained ever since, a spiritual center of the Mountain Folks’ village and a living reminder of the world that their ancestors lost.
 
@@ -2483,7 +2483,7 @@ When the players are ready to depart, Diegia and her family wish them farewell. 
 ## R6a. Sangzor's Test
 Upon departing Soldav, Kasimir can guide the players to the hidden trail that leads from the plateau to the Amber Temple.
 
-This hidden path is largely as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. However, three miles down the path, the players automatically notice Sangzor on a crag above them. 
+This hidden path is largely as described in [[09_Chapter 9 - Tsolenka Pass#Bloodhorn's Charge]]. However, three miles down the path, the players automatically notice Sangzor on a crag above them. 
 
 Modify Sangzor's stats as follows:
 
@@ -2500,10 +2500,10 @@ Remove the second sentence from Sangzor's description. After the players have ha
 
 As it gazes upon each member of the party, Sangzor attempts to probe deeply into that character's mind and heart, as if using the *detect thoughts* spell (DC 15). If a player fails their saving throw against this magic, Sangzor discerns whether the target intends to seek the power of the vestiges of the Amber Temple.
 
-If Sangzor determines that a player intends to seek the power of the vestiges of the Amber Temple, or if the players attack it, Sangzor charges at that player as described in <span class="citation">Bloodhorn's Charge (p. 160)</span>. Sangzor flees if bloodied.
+If Sangzor determines that a player intends to seek the power of the vestiges of the Amber Temple, or if the players attack it, Sangzor charges at that player as described in [[09_Chapter 9 - Tsolenka Pass#Bloodhorn's Charge]]. Sangzor flees if bloodied.
 
 If Sangzor does not detect any intent to seek the vestiges' power in the players' hearts, it bows its head as a show of respect, then turns to depart, soon vanishing into the snow and mist.
 ## R6b. The Amber Temple
-Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in <span class="citation">X1. Temple Facade (p. 183)</span>. The players then begin [[Arc S - A Sword of Sunlight]].
+Past Sangzor's crag, the narrow road continues another half-mile before passing between two tall, looming cliffs. As the players pass between the cliffs, they arrive at the Amber Temple, whose exterior is as described in [[13_Chapter 13 - The Amber Temple#X1. Temple Facade]]. The players then begin [[Arc S - A Sword of Sunlight]].
 
 ***Milestone.*** Reaching the Amber Temple achieves a story milestone. When the players arrive outside the Amber Temple, award each player 5,000 XP.

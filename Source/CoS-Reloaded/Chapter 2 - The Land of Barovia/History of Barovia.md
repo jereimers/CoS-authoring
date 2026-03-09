@@ -286,7 +286,7 @@ When news of Markovia’s death reached its walls, the clerics of the Abbey seal
 <<<<<<< HEAD:Source/CoS-Reloaded/Chapter 2 - The Land of Barovia/History of Barovia.md
 Determined to distract himself from the visions in the mist, Strahd terrorized the clerics of the Abbey, preying upon their paranoia and fear. It was’t long before the the clergy began to fight amongst themselves; within weeks, all were either dead or insane, as described in Chapter 8: The Village of Krezk (p. 143)</span>.
 =======
-Determined to distract himself from the visions in the mist, Strahd terrorized the clerics of the Abbey, preying upon their paranoia and fear. It wasn’t long before the clergy began to fight amongst themselves; within weeks, all were either dead or insane, as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span>.
+Determined to distract himself from the visions in the mist, Strahd terrorized the clerics of the Abbey, preying upon their paranoia and fear. It wasn’t long before the clergy began to fight amongst themselves; within weeks, all were either dead or insane, as described in [[08_Chapter 8 - The Village of Krezk#Chapter 8: The Village of Krezk]].
 >>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Chapter 2 - The Land of Barovia/History of Barovia.md
 
 In the darkened halls of Argynvostholt, quarrels rang out amongst the revenants of the Order as Vladimir’s knights demanded vengeance for Saint Markovia. Vladimir, however, crushed their dissent, determined that Strahd should suffer his accursed fate for all of eternity. Awoken by their discord, the ghost of Argynvost began to haunt his ruined lair—too weak to speak out, but strong enough to mourn.

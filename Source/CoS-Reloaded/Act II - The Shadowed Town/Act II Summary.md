@@ -19,7 +19,7 @@ The players begin this act at 4th level and end it at 5th level, with each playe
 * gain entry to the gates of Krezk (750 XP)
 
 > [!info]+ **Vallakian Merchants**
-> While in Vallaki, players can purchase goods from Arasek Stockyard as described in <span class="citation">N5. Arasek Stockyard (p. 115)</span>, but at the ordinary price provided in the *Player's Handbook*.
+> While in Vallaki, players can purchase goods from Arasek Stockyard as described in [[05_Chapter 5 - The Town of Vallaki#N5. Arasek Stockyard]], but at the ordinary price provided in the *Player's Handbook*.
 > 
 > In addition, players who peruse the town's stores can find most items with a price of 25 gp or less, including weapons and armor. Players can also purchase spellbook materials and spell components up to a value of 50 gp each.
 > 
@@ -62,7 +62,7 @@ While the players are away, if the players haven't defeated [[Izek Strazni]] in 
 ## Neyavr 7
 If the players have not restored the bones of St. Andral to [[St. Andral's Church]], the church's protective wards fail at dawn.
 
-If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in <span class="citation">N8. Town Square (p. 119)</span> as described in [[Festival of the Blazing Sun|Festival of the Blazing Sun (p. 123)]]. If Izek kidnapped Ireena in [[Arc G - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at noon.
+If Baron Vallakovich is still in power, Vallaki observes the Festival of the Blazing Sun in [[05_Chapter 5 - The Town of Vallaki#N8. Town Square]] as described in [[Festival of the Blazing Sun|Festival of the Blazing Sun (p. 123)]]. If Izek kidnapped Ireena in [[Arc G - The Strazni Siblings]] and the players haven't rescued her, she burns alive in the wicker sun at noon.
 
 At sundown, the parishioners of [[St. Andral's Church]] attend a service observing the holiday of St. Andral's Feast. 
 

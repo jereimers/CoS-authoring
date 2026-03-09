@@ -78,7 +78,7 @@ Victor then shares the following information:
 * Since then, Victor and Stella have been working hard to restore her soul to her body, but nothing has worked. In the meantime, Stella has had to conceal herself from the many wandering spirits that roam the Border Ethereal, many of which would harm her if they could. 
 * Stella feels like she’s slowly losing memories of her life, even as her form in the Ethereal Plane is slowly growing more insubstantial. Sometimes, she can’t tell whether she’s herself or someone else; when that happens, she feels as though a part of her is curled up in a warm and wet place, with a comforting heartbeat echoing through the darkness.
 * To make matters worse, the tether between Stella’s shoulder blades that once connected her soul to her body is slowly growing shorter, leaving Victor fearing that she has little more than a week left before she disappears forever. (The shorter it gets, the more frequent Stella’s visions become, and the foggier her memory grows.)
-* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on <span class="citation">p. 234 of Van Richten's Guide to Ravenloft</span>.)
+* Neither Victor, Stella, nor Erasmus know the identity of the spirit that severed Stella’s soul from her body. However, Victor can inform the players that Erasmus has seen it haunting the Ethereal Plane around Vallaki numerous times since its arrival—seemingly searching for Stella—and has identified it as a *gallows speaker*. (Erasmus, who learned of the creatures while reading his father’s notes, has provided Victor with all of the information about gallows speakers provided on [[p. 234 of Van Richten's Guide to Ravenloft]].)
 * If asked why they haven’t sought others’ help, Victor stubbornly insists that he doesn’t trust [[Lady Fiona Wachter]]; that his own father, [[Baron Vargas Vallakovich|the Baron]], would be worse than useless; and that he and Stella are perfectly capable of solving her problem on their own. 
 
 If confronted with the fact that he and Stella *haven’t* been capable of solving her problem on their own, Victor’s face crumples, and he briefly looks to be on the verge of tears as he struggles to find a retort.
@@ -105,7 +105,7 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 >
 > _Ethereal Entities: Denizens of the Unseen Realm_ by Mordenkainen is a slim hardback book with a leather cover dyed a deep, midnight blue. Its title and author's name are embossed in silver script along the spine and front cover, and the corners of the book are adorned with small, silver filigree resembling ethereal wisps. Its pages are filled with neatly-written text and beautifully detailed illustrations.
 >
-> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** (<span class="citation">Dungeon Master's Guide, p. 48</span>), as well as a bestiary divided into the following three sections:
+> The book is a treatise on the Ethereal Plane and the creatures that dwell within or visit it. It contains all of the information provided in **Ethereal Plane** ([[Dungeon Master's Guide, p. 48]]), as well as a bestiary divided into the following three sections:
 >
 > - _**Etherborn: Natives of the Deep Ethereal**_, containing information about creatures that are said to dwell solely in the Deep Ethereal, such as the mythological mistfiends, ethershades, and shimmerlings.
 > - _**Phantomfolk: Travelers from the Border Ethereal**_, containing information about incorporeal creatures that dwell in the Border Ethereal and often cross into the Material Plane, such as **ghosts** (_Monster Manual_, p. 147) and **phantom warriors** (_Curse of Strahd_, p. 235).
@@ -143,7 +143,7 @@ If the players express an interest in it, Victor is glad to lend them his copy o
 > [!info]+ **Harvesting Phase Spiders**
 > The players will later encounter **phase spiders** in Argynvostholt and have an opportunity to harvest their fangs and venom to combat the **phantom warriors** that lurk there. See [[Arc M - The Dragon's Manor#M4c. Spiders’ Ballroom|Arc M - The Dragon's Manor]] for more information regarding the harvesting and use of phase spider parts.
 # H3. The Refugee Camp
-If it's been at least six hours since [[Lady Fiona Wachter|Lady Wachter]]'s inauguration in [[Arc F - Lady Wachter's Wish]], the refugee camp has been relocated to <span class="citation">N8. Town Square (p. 119)</span>. (The refugees are still living in tents, however, while [[Lady Fiona Wachter|Lady Wachter]] works to find them suitable housing.)
+If it's been at least six hours since [[Lady Fiona Wachter|Lady Wachter]]'s inauguration in [[Arc F - Lady Wachter's Wish]], the refugee camp has been relocated to [[05_Chapter 5 - The Town of Vallaki#N8. Town Square]]. (The refugees are still living in tents, however, while [[Lady Fiona Wachter|Lady Wachter]] works to find them suitable housing.)
 
 If [[Lady Fiona Wachter|Lady Wachter]] hasn't yet relocated the refugees, when the players first enter the refugee camp, read:
 
@@ -164,7 +164,7 @@ Emeric and Magda can share the following general information about the camp (mod
 * Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
 * Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
 * Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until [[Baron Vargas Vallakovich|the Baron]] sees reason and allows them to enter the walls.
-* Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>. **(Emeric and Magda can add that Morgantha hasn't been to the camp in a few days.)**
+* Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in [[06_Chapter 6 - Old Bonegrinder#Dream Pastries]]. **(Emeric and Magda can add that Morgantha hasn't been to the camp in a few days.)**
 
 If the players ask about the **night hag**, Emeric and Magda exchange glances and inform them that their description matches that of a recurring nightmare that Franz, another refugee, has been suffering for the past two nights. 
 
@@ -239,9 +239,9 @@ Stella, through Victor, suggests that the players visit Wachterhaus to request [
 >
 > **_A New Opportunity._** Bitter and enraged, Leo hid himself away in his quarters to lick his wounds—until he learned that Sergei had been found murdered in his quarters, and that Strahd had chased Tatyana into the gardens while vowing to take her hand in marriage. Seeing an immediate opportunity, Leo gathered a contingent of the castle guards and directed them to attack Strahd in vengeance for the death of the beloved prince, Sergei.
 >
-> However, Leo’s plot did not go unopposed. Leo’s elder sister, Lovina Wachter née Dilisnya—now the wife of Vladislav Wachter—led her family’s personal guards in Strahd’s defense. Leo’s traitorous guards drove the Wachters into **K62. Servants' Hall**, killing Lovina’s husband and butchering many of his relatives. There, Lovina and her family took shelter alongside Katarina, a castle servant and (unknown to Strahd) Strahd’s secret half-sister, in <span class="citation">K65. Kitchen (p. 78)</span>.
+> However, Leo’s plot did not go unopposed. Leo’s elder sister, Lovina Wachter née Dilisnya—now the wife of Vladislav Wachter—led her family’s personal guards in Strahd’s defense. Leo’s traitorous guards drove the Wachters into **K62. Servants' Hall**, killing Lovina’s husband and butchering many of his relatives. There, Lovina and her family took shelter alongside Katarina, a castle servant and (unknown to Strahd) Strahd’s secret half-sister, in [[04_Chapter 4 - Castle Ravenloft#K65. Kitchen]].
 >
-> When Strahd arose as a vampire, Leo fled into <span class="citation">K23. Servants' Entrance (p. 59)</span>, down through **K62. Servants’ Hall**, and through <span class="citation">K67. Hall of Bones (p. 78)</span> into <span class="citation">K68. Guards' Run (p. 79)</span>. As Strahd pursued, he slaughtered the guards terrorizing the Wachters, and—in a moment of rare lucidity—thanked the Wachters for their loyalty and allowed Lovina and Katarina to depart in peace. As Strahd bathed the stone of Castle Ravenloft in the blood of the castle guards—both innocent and traitorous alike—their spirits combined in death to form a dreadful **gallows speaker** (<span class="citation">Van Richten’s Guide to Ravenloft, p. 234</span>) that would haunt Castle Ravenloft for years to come.
+> When Strahd arose as a vampire, Leo fled into [[04_Chapter 4 - Castle Ravenloft#K23. Servants' Entrance]], down through **K62. Servants’ Hall**, and through [[04_Chapter 4 - Castle Ravenloft#K67. Hall of Bones]] into [[04_Chapter 4 - Castle Ravenloft#K68. Guards' Run]]. As Strahd pursued, he slaughtered the guards terrorizing the Wachters, and—in a moment of rare lucidity—thanked the Wachters for their loyalty and allowed Lovina and Katarina to depart in peace. As Strahd bathed the stone of Castle Ravenloft in the blood of the castle guards—both innocent and traitorous alike—their spirits combined in death to form a dreadful **gallows speaker** ([[Van Richten’s Guide to Ravenloft, p. 234]]) that would haunt Castle Ravenloft for years to come.
 >
 > **_Leo's Punishment._** Leo successfully escaped Castle Ravenloft along with a half-dozen of the traitorous guards. Years later, however, with Lovina’s aid, Strahd tracked Leo to the darkened corridors of the now-abandoned Abbey of Saint Markovia.
 >
@@ -269,11 +269,11 @@ Stella, through Victor, suggests that the players visit Wachterhaus to request [
 # H5. Wachterhaus
 <span class="citation"><em>This scene takes place in Chapter 5: Area N4.</em></span>
 
-Wachterhaus is as described in [[Arc F - Lady Wachter's Wish]]. Visitors to the estate are received as described <span class="citation">N4a. Front Door and Vestibule (p. 110)</span>. 
+Wachterhaus is as described in [[Arc F - Lady Wachter's Wish]]. Visitors to the estate are received as described [[05_Chapter 5 - The Town of Vallaki#N4a. Front Door and Vestibule]]. 
 
 Players that have previously dined with [[Lady Fiona Wachter|Lady Wachter]] are welcomed and swiftly admitted, while players that have not previously done so are asked to make an appointment for the following day. Players who insist that they are here to assist Stella, [[Lady Fiona Wachter|Lady Wachter]]’s daughter and make a successful DC 10 Charisma (Persuasion) check can bypass the need to make an appointment and are admitted immediately.
 
-Upon entering the manor, the players are ushered into <span class="citation">N4i. Parlor (p. 112)</span>, where [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] greets them shortly thereafter. Haliq, [[Lady Fiona Wachter|Lady Wachter]]’s valet, serves tea to her and the guests a few moments later. 
+Upon entering the manor, the players are ushered into [[05_Chapter 5 - The Town of Vallaki#N4i. Parlor]], where [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] greets them shortly thereafter. Haliq, [[Lady Fiona Wachter|Lady Wachter]]’s valet, serves tea to her and the guests a few moments later. 
 
 [[Lady Fiona Wachter|Lady Wachter]] then asks the players what brings them to her manor. If [[Victor Vallakovich]] is accompanying the players, her eyes visibly narrow, and her voice is polite, but cold. If Victor is not with the players, her demeanor is far warmer and more comfortable.
 
@@ -289,7 +289,7 @@ The players can persuade [[Lady Fiona Wachter|Lady Wachter]] to deactivate the p
 * When she returned to Wachterhaus, she determined that a malevolent spirit had been responsible for her family’s death. Though the spirit appeared to have departed by the time [[Lady Fiona Wachter|Lady Wachter]] returned, she was wary of the prospect that it might one day return.
 * Using magic that she had learned from her mentor, Lysa, [[Lady Fiona Wachter|Lady Wachter]] erected a protective barrier around Wachterhaus that would prevent any creature within the Ethereal Plane from crossing over the boundary of the property.
 
-Upon agreeing to deactivate the protective circle, [[Lady Fiona Wachter|Lady Wachter]] retreats to <span class="citation">N4o. Master Bedroom (p. 113)</span> and retrieves the scale model of Wachterhaus from the high shelf beside the iron chest. She then returns to the parlor and sets the model upon the central table. 
+Upon agreeing to deactivate the protective circle, [[Lady Fiona Wachter|Lady Wachter]] retreats to [[05_Chapter 5 - The Town of Vallaki#N4o. Master Bedroom]] and retrieves the scale model of Wachterhaus from the high shelf beside the iron chest. She then returns to the parlor and sets the model upon the central table. 
 
 With her eyes closed, [[Lady Fiona Wachter|Lady Wachter]] murmurs an incantation, causing a circle of ethereal grey light to briefly manifest around the scale model before vanishing again. She then informs the players that the circle has been lowered and sits back expectantly on the sofa while sipping her tea.
 
@@ -317,7 +317,7 @@ If the players and Lady Wachter come to an agreement, she promises to meet them�
 ## H6a. The Morning Gate
 If the players recruit [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her **imp** familiar, accompanies her in **crow** form.
 
-The fanatics are as described in <span class="citation">N4t. Cult Headquarters (p. 114)</span> and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
+The fanatics are as described in [[05_Chapter 5 - The Town of Vallaki#N4t. Cult Headquarters]] and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
 ## H6b. The Druid
 The journey from the Town of Vallaki to Old Bonegrinder is five-and-three-quarter miles long and takes two hours.
 
@@ -361,7 +361,7 @@ Lady Wachter is glad to offer the players the service of her **imp** familiar Ma
 > The windmill rests upon a small, bare, grassy hill approximately one thousand feet in diameter, with a hilltop approximately four hundred feet in diameter. Its north and western edges are flanked by the trees of the Svalich Wood, which press closely toward its base.
 
 > [!info]+ **Victor's Spellbook**
-> Victor's spellbook largely contains the spells described in <span class="citation">N3t. Victor's Workroom (p. 109)</span>, except it also contains the _sending_ and _fear_ spells and does not contain _remove curse._ On the day he ventures to Old Bonegrinder, he has largely prepared the spells described in the **mage** statblock, but has prepared _blight_ instead of _cone of cold_.
+> Victor's spellbook largely contains the spells described in [[05_Chapter 5 - The Town of Vallaki#N3t. Victor's Workroom]], except it also contains the _sending_ and _fear_ spells and does not contain _remove curse._ On the day he ventures to Old Bonegrinder, he has largely prepared the spells described in the **mage** statblock, but has prepared _blight_ instead of _cone of cold_.
 
 > [!Warning]+ Counterspell 2024
 > 
@@ -400,9 +400,9 @@ As such, he'll need to conserve his strength—and, specifically, his 5th- and 4
 > 
 > <hr>
 >
-> The area within the cloud of fog is heavily obscured. If the players enter the cloud of fog, after one minute their presence draws the attention of four **vampiric mists** (<span class="citation">Mordenkainen Presents: Monsters of the Multiverse, p. 250</span>). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single ***life drain*** attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
+> The area within the cloud of fog is heavily obscured. If the players enter the cloud of fog, after one minute their presence draws the attention of four **vampiric mists** ([[Mordenkainen Presents: Monsters of the Multiverse, p. 250]]). The mists swirl about the players lazily for three rounds, after which one mist attempts to use a single ***life drain*** attack on the nearest player, like a shark inquisitively nipping its prey. If the players remain within the fog, all of the vampiric mists attack the following round.
 ## H7a. Raiding the Windmill
-The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in <span class="citation">O2. Bone Mill (p. 127)</span>. 
+The players can obtain the hags' true names by retrieving the contract from the locked stone compartment in the millstone in [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill]]. 
 
 One of the arms of the millstone in the bone mill is more gnarled than the rest, and is visibly segmented at the end. Twisting the end of the gnarled arm detaches it, revealing an iron key hidden inside. The players can unlock the millstone compartment by using the iron key, or by succeeding on a DC 15 Dexterity (Thieves' Tools) check. The compartment contains the hags' contract, as well as the treasure described in [[06_Chapter 6 - Old Bonegrinder#O3. Bedroom|O3. Bedroom]] (p. 127).
 
@@ -423,7 +423,7 @@ Fyodor and Myrtle are imprisoned on the third floor of the windmill and guarded 
 ### Distracting Morgantha
 <span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
 
-If one or more players knock on the door to <span class="citation">O1. Ground Floor (p. 126)</span>, Morgantha descends from <span class="citation">O2. Bone Mill (p. 127)</span> and opens the door to greet them. She is glad to invite the players inside, and asks if they have come to purchase her wares. 
+If one or more players knock on the door to [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor]], Morgantha descends from [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill]] and opens the door to greet them. She is glad to invite the players inside, and asks if they have come to purchase her wares. 
 
 > [!info]+ **The Hag Coven**
 >
@@ -445,17 +445,17 @@ On a failure, a wary Morgantha claims that her daughters are, unfortunately, too
 
 A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 16 Charisma (Deception) check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
+Unlike their mother, Bella and Offalia are easily distracted. They can be lured to [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill]] or [[06_Chapter 6 - Old Bonegrinder#O4. Domed Attic]] with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
 ### Morgantha Gets Suspicious
 <span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
 
 If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 17 Wisdom (Insight) check discerns that Morgantha is suspicious, not tired.)
 
-If the players leave, Morgantha watches them depart from the window, then ascends to  <span class="citation">O3. Bedroom (p. 127)</span> one round later to alert Bella and Offalia of the players' suspicious visit.
+If the players leave, Morgantha watches them depart from the window, then ascends to  [[03_Chapter 3 - The Village of Barovia#E5b. Doru's Bedroom]] one round later to alert Bella and Offalia of the players' suspicious visit.
 
 If the players fail to leave, after a brief period of time (during which she reveals nothing of note to the players), Morgantha briefly excuses herself to withdraw a tray of dream pastries from the oven, then calls upstairs, “Girls, it’s time to taste the fresh batch!” (The dream pastries are obviously near-raw. Morgantha’s words are a signal informing the other two **night hags** that undesired guests have arrived in the windmill and must be dealt with.)
 
-While Bella and Offalia descend from <span class="citation">O3. Bedroom (p. 127)</span>, Morgantha smiles pleasantly at the players and informs them that her daughters are her most valued taste-testers and she is always grateful for their opinions. (“Folks warn you about old age, but it’s true,” she says pleasantly. “It can be so difficult to run a business like this on your own.”)
+While Bella and Offalia descend from [[03_Chapter 3 - The Village of Barovia#E5b. Doru's Bedroom]], Morgantha smiles pleasantly at the players and informs them that her daughters are her most valued taste-testers and she is always grateful for their opinions. (“Folks warn you about old age, but it’s true,” she says pleasantly. “It can be so difficult to run a business like this on your own.”)
 
 When Bella and Offalia arrive, they greet the players with awkward, overdramatic curtsies. Bella then frowns and exclaims, “Mother! I thought you said you were going to get the front door fixed!” 
 
@@ -463,7 +463,7 @@ Assuming the players do not interfere, Bella sweeps across the room toward the f
 
 Morgantha replies, “Don’t worry, child—I’ll make sure those little squeaks come to an end.” Morgantha, Bella, and Offalia then immediately move to attack. 
 
-If the players are defeated, Morgantha also feeds the two strongest players the concoctions from <span class="citation">O1. Ground Floor (p. 126)</span> marked "Laughter" and "Mother's Milk," infecting one of them with cackle fever and poisoning the other with *pale tincture*. 
+If the players are defeated, Morgantha also feeds the two strongest players the concoctions from [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor]] marked "Laughter" and "Mother's Milk," infecting one of them with cackle fever and poisoning the other with *pale tincture*. 
 
 The players then reawaken 1d4 + 1 hours later in the attic of Old Bonegrinder. See **Escape From Old Bonegrinder** below for more information regarding the players’ escape.
 ## H7b. Claiming the Heartstone
@@ -494,7 +494,7 @@ Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage a
 
 Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
 
-As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
+As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor]]. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
 
 If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach, arranging herself and her daughters directly in front of the door of the windmill and greeting the players once they approach within thirty feet. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
 
@@ -747,11 +747,11 @@ Before the binding circle is lowered, the players can also demand that Morgantha
 
 If Morgantha’s request for parley is denied, the coven fights to the death.
 ## H7c. Escape From Old Bonegrinder
-If the hags knock the players unconscious, the players awaken 1d4 + 1 hours after their defeat in <span class="citation">O4. Domed Attic (p. 128)</span>. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of [[Hempen Rope (50 feet) (PHB)|hempen rope]]. The two strongest members of the party have been infected with [[Cackle Fever (DMG)|cackle fever]] and poisoned with [[Pale Tincture (DMG)|pale tincture]], respectively.
+If the hags knock the players unconscious, the players awaken 1d4 + 1 hours after their defeat in [[06_Chapter 6 - Old Bonegrinder#O4. Domed Attic]]. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of [[Hempen Rope (50 feet) (PHB)|hempen rope]]. The two strongest members of the party have been infected with [[Cackle Fever (DMG)|cackle fever]] and poisoned with [[Pale Tincture (DMG)|pale tincture]], respectively.
 
 While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
 
-The players find that they are also surrounded and guarded by six [[Dretch|dretches]], which Morgantha has summoned from the barrel of ichor in <span class="citation">O1. Ground Floor (p. 126)</span>. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in <span class="citation">O3. Bedroom (p. 127)</span>.
+The players find that they are also surrounded and guarded by six [[Dretch|dretches]], which Morgantha has summoned from the barrel of ichor in [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor]]. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in [[03_Chapter 3 - The Village of Barovia#E5b. Doru's Bedroom]].
 ### Morgantha’s Interrogation
 As soon as the players awaken, Morgantha mounts the ladder to the attic and leers over them, still wearing her humanoid disguise. She chooses a player, seemingly at random (though making sure to choose the player infected with cackle fever), and removes their gag, though not their binds. 
 
@@ -769,7 +769,7 @@ Morgantha then wishes the players “sweet dreams”  and exits the attic, leavi
 
 Morgantha is willing to bargain with the players by freeing them and lending them the use of her heartstone. She asks the ungagged player which among them is qualified to speak for the rest of the group. Morgantha then re-gags the first player, ungags the chosen player, and sweetly invites that player to join her on the ground floor below for a more in-depth and civilized discussion. She offers to unbind that player’s legs (though not their hands) as a sign of good faith, but warns them that any attempts to escape shall cause their friends to suffer gruesome punishments.
 
-If the player agrees to Morgantha’s terms, she unties the bindings around their legs (though not their hands) and instructs them to descend the ladder and stairs to the ground floor. Bella and Offalia are waiting to meet the player in <span class="citation">O3. Bedroom (p. 127)</span>, and roughly guide them down the stairs before sitting them down on the toad-filled trunk in <span class="citation">O1. Ground Floor (p. 126)</span>. See **Morgantha's Request** below.
+If the player agrees to Morgantha’s terms, she unties the bindings around their legs (though not their hands) and instructs them to descend the ladder and stairs to the ground floor. Bella and Offalia are waiting to meet the player in [[03_Chapter 3 - The Village of Barovia#E5b. Doru's Bedroom]], and roughly guide them down the stairs before sitting them down on the toad-filled trunk in [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor]]. See **Morgantha's Request** below.
 ### Morgantha’s Request
 If a player agrees to bargain with Morgantha for her heartstone and the players' escape, Morgantha follows them into the ground floor kitchen. Upon entering the room, the player can immediately see that the fire in the oven has reduced to embers, casting a dim, crimson glow on a lumpy, man-shaped form wrapped in a burlap sack within. Quiet, pleading grunts occasionally escape the figure in the oven. (The figure is actually the remaining three **dretches** stacked upon one another’s shoulders, and have strict orders from Morgantha to remain in the oven and occasionally make panicked grunts.)
 
@@ -822,7 +822,7 @@ Every twenty minutes, two of the six **dretches** guarding the players return to
 
 Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal Plane to torment Franz in the Barovian refugee camp. Bella and Offalia remain in **O3. Bedroom** to guard Myrtle and Fyodor, taunting them with tales of their imminent and terrible deaths to pass the time. 
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to <span class="citation">O2. Bone Mill (p. 127)</span> or <span class="citation">O4. Domed Attic (p. 127)</span> with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Unlike their mother, Bella and Offalia are easily distracted. They can be lured to [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill]] or [[06_Chapter 6 - Old Bonegrinder#O4. Domed Attic]] with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
 If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
 ### Finding a Cure
@@ -852,7 +852,7 @@ Once the players have obtained a *heartstone*, they will need a location at whic
 
 [[Non-Player Characters#Victor Vallakovich|Victor]] informs the players that he will need access to a leyline—a font of natural magic—in order to fuel the *etherealness* ritual. If she is present, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] informs the players that the cellar of [[Wachterhaus]] was built atop one such leyline, and offers its use for the ritual. Otherwise, Victor sheepishly informs the players that he has identified a leyline that runs through Vallaki—and that he believes it to lie somewhere beneath Wachterhaus.
 
-If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to <span class="citation">N4t. Cult Headquarters (p. 114)</span>, setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual.
+If present, Lady Wachter first disables the protective circle around Wachterhaus in order to allow creatures to pass through the boundary of the Ethereal Plane. She then leads the players and Victor to [[05_Chapter 5 - The Town of Vallaki#N4t. Cult Headquarters]], setting her **cult fanatics** to guard the cellar entrances. Otherwise, the players must gain access to the Wachterhaus cellar themselves, whereupon Victor leads them to **N4t. Cult Headquarters** to enact the ritual.
 
 The inside of the chamber is largely as described in [[05_Chapter 5 - The Town of Vallaki#N4t. Cult Headquarters|N4t. Cult Headquarters]]. However, modify the descriptive text to read as follows:
 
@@ -1226,9 +1226,9 @@ Lady Wachter then hovers a hand over Erasmus’s shoulder and says, “Thank you
 
 When the players have bid their farewells, Victor turns to Erasmus and gives him a grateful, knowing nod, which Erasmus returns. Victor then speaks a single syllable, and the Ethereal Plane vanishes in a flare of white light.
 
-The players then find themselves returned to the cult headquarters beneath Wachterhaus. Victor immediately moves for the exit to the cellar, frantically calling Stella’s name as he climbs toward <span class="citation">N4r. Cellar Entrance. (p. 114)</span> and passes through <span class="citation">N4d. Storage Room (p. 112)</span> and <span class="citation">N4c. Kitchen (p. 112)</span>.
+The players then find themselves returned to the cult headquarters beneath Wachterhaus. Victor immediately moves for the exit to the cellar, frantically calling Stella’s name as he climbs toward [[05_Chapter 5 - The Town of Vallaki#N4r. Cellar Entrance]] and passes through [[05_Chapter 5 - The Town of Vallaki#N4d. Storage Room]] and [[05_Chapter 5 - The Town of Vallaki#N4c. Kitchen]].
 
-If the players follow, they can observe as Victor and Stella meet each other at the foot of <span class="citation">N4b. Staircase (p. 110)</span>. Victor throws his arms around Stella and the two kneel to the floor, sobbing with joy. The following sequence then unfolds, assuming the players do not intervene:
+If the players follow, they can observe as Victor and Stella meet each other at the foot of [[05_Chapter 5 - The Town of Vallaki#N4b. Staircase]]. Victor throws his arms around Stella and the two kneel to the floor, sobbing with joy. The following sequence then unfolds, assuming the players do not intervene:
 
 * “I’m so sorry,” Victor sobs, holding Stella tight. “I was so afraid I’d lost you, and it was all my fault.”
 * Stella cries into Victor’s shoulder, hiccuping repeatedly as she clutches his sleeves. “It wasn’t your fault,” she says. “You *saved* me.” 
@@ -1256,7 +1256,7 @@ The following morning, Victor also sends the players the following message with 
 > [!abstract]+ **Van Richten & the Spirit Mirror**
 > Dr. Rudolph van Richten's curse prevents him from perceiving his son, Erasmus, in the *spirit mirror*. See [[Arc T - The Three Fanes]] for more information about lifting Van Richten's curse.
 # H9. The Tome of Strahd
-The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding <span class="citation">Chapter 11. Van Richten's Tower (p. 167)</span>).
+The *Tome of Strahd* is kept closed by a locked steel clasp enchanted with an *arcane lock* spell cast at 5th level. The pass phrase to suppress it is "I come in Dostron's memory." (Only Strahd and his eldest bride, Sasha Ivliskova, know this pass phrase. See [[Arc O - Dinner with the Devil]] for more information about Sasha Ivliskova.) The _arcane lock_ can also be suppressed as normal with a _knock_ spell, a _dispel magic_ spell, or similar magic (e.g., the *antimagic field* surrounding [[11_Chapter 11 - Van Richten's Tower#Chapter 11: Van Richten's Tower]]).
 
 The clasp ordinarily takes a successful DC 15 Strength check to break, but requires a successful DC 25 Strength check instead while under the effects of the spell. Similarly, the lock itself ordinarily requires a DC 15 Dexterity (Thieves’ Tools) check to open, but requires a successful DC 25 Dexterity (Thieves’ Tools) check instead while under the effects of the spell. An attempt to pick the lock takes 1 minute to complete.
 ## H9a. Reading the Tome

@@ -881,7 +881,7 @@ The journey from the Black Carriage to the western **Gates of Barovia** is a qua
 > [!abstract]+ **Visiting Castle Ravenloft**
 > If the players decide to visit Castle Ravenloft (e.g., to investigate Gertruda's disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
 # C9. Old Bonegrinder
-[[<em>This scene takes place in Chapter 6: Area O.</em>]]
+This scene takes place in Chapter 6: Area O.
 
 The journey from the Gates of Barovia to **Old Bonegrinder** is two-and-a-half miles long and takes forty-five minutes. As the players make this journey, read:
 
@@ -894,7 +894,7 @@ If the players remain silent or continue ahead, read:
 
 <div class="description"><p>The road soon emerges from the woods once more, veering between two hills. Before long, it bends to the north, hugging the base of a mountain.</p></div>
 
-The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in [[Approaching the Windmill (p. 125)]]. There are no ravens at or near the windmill. 
+The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in [[06_Chapter 6 - Old Bonegrinder#Approaching the Windmill|Approaching the Windmill]] (p. 125). There are no ravens at or near the windmill. 
 
 As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in [[Dream Pastries (p. 48)]]. 
 

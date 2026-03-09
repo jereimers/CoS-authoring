@@ -531,8 +531,8 @@ If the players demand to know which crimes [[Milivoj]] and [[Henrik van der Voor
 [[Rahadin]] then reads aloud the following proclamation:
 
 <div class="description">
-<p>I, Strahd von Zarovich, Lord of Barovia, hereby find [[Henrik van der Voort]] of Vallaki GUILTY of the following charges: conspiracy to commit burglary; conspiracy to commit theft; accessory to theft; and receiving stolen property.</p>
-<p>I further find [[Milivoj]] of Vallaki GUILTY of the following charges: trespassing, destruction of property, conspiracy to commit burglary, burglary, and theft.</p>
+<p>I, Strahd von Zarovich, Lord of Barovia, hereby find Henrik van der Voort of Vallaki GUILTY of the following charges: conspiracy to commit burglary; conspiracy to commit theft; accessory to theft; and receiving stolen property.</p>
+<p>I further find Milivoj of Vallaki GUILTY of the following charges: trespassing, destruction of property, conspiracy to commit burglary, burglary, and theft.</p>
 <p>It is therefore ordered that each receive suitable punishments as befitting the circumstances and nature of their crimes, to be determined and carried out by the Chamberlain of Castle Ravenloft with all reasonable haste.</p>
 </div>
 
@@ -579,7 +579,7 @@ If the players appear horrified by [[Rahadin]]'s chosen sentence, he coldly remi
 
 If the players appear unpersuaded, [[Milivoj]] tells them hoarsely, "Please, don't do anything stupid on my behalf. I did something wrong, and I'll accept any punishment. Just so long as my siblings don't suffer." (If punished with branding, flogging, or mutilation, [[Milivoj]] grits his teeth and stifles a roar of pain, but refuses to cry out and give [[Rahadin]] the satisfaction.)
 
-If any players appear likely to obstruct [[Rahadin]]'s efforts to carry out a sentence, [[Lady Fiona Wachter|Lady Wachter]] quietly pleads with them not to be foolish. "He is the chamberlain of [[K. Castle Ravenloft]] and Von Zarovich's right hand," she insists. If the players have successfully bartered [[Rahadin]] down from execution, she adds: "You've already saved lives today. Don't trade your own for a doomed endeavor. [[Town of Vallaki|Vallaki]] *needs* you."
+If any players appear likely to obstruct [[Rahadin]]'s efforts to carry out a sentence, [[Lady Fiona Wachter|Lady Wachter]] quietly pleads with them not to be foolish. "He is the chamberlain of Castle Ravenloft and Von Zarovich's right hand," she insists. If the players have successfully bartered [[Rahadin]] down from execution, she adds: "You've already saved lives today. Don't trade your own for a doomed endeavor. [[Town of Vallaki|Vallaki]] *needs* you."
 
 If the players actually attempt to obstruct [[Rahadin]]'s efforts to carry out that sentence, he attacks, stopping once those players have been reduced to 0 hit points. Immediately before he delivers the final blow, he intones, "I find you guilty of obstruction of justice—and sentence you accordingly." While the player is unconscious, he then uses his iron signet ring to brand them on the neck with the image of Castle Ravenloft. He then delivers [[Henrik van der Voort|Henrik]] and [[Milivoj]]'s sentences.
 

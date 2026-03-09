@@ -42,15 +42,15 @@ Should the players request directions to the chapel, the revenant advises them t
 
 If the players ask the revenant to escort them to the mansion, it declines, noting gravely that it has been banished from its grounds and estate “for raising my voice against my commander, Vladimir Horngaard, when my oath could suppress my conscience no longer." It declines to explain further, advising the players to speak with Sir Godfrey instead.
 # M2. Approaching the Mansion
-This scene is as described in <span class="citation">Approaching the Mansion (p. 130).</span>
+This scene is as described in [[Approaching the Mansion.]]
 ## M2a. Dragon Statue
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q1.</em></span>
 
-This area is largely as described in <span class="citation">Q1. Dragon Statue (p. 130).</span>  However, the statue faces west, away from the mansion, and does not radiate any magical aura.
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q1. Dragon Statue]]  However, the statue faces west, away from the mansion, and does not radiate any magical aura.
 ## M2b. Main Entrance
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q2.</em></span>
 
-This area is largely as described in <span class="citation">Q2. Main Entrance (p. 130).</span> However, no trap activates as the players climb the stairs or set foot on the landing.
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q2. Main Entrance]] However, no trap activates as the players climb the stairs or set foot on the landing.
 
 > [!info]+ **Scale of the Map**
 > If you’re running the players’ exploration of Argynvostholt on a battlemap, remember that each square on the official map is 10 feet across, rather than 5 feet.
@@ -58,15 +58,15 @@ This area is largely as described in <span class="citation">Q2. Main Entrance (p
 ## M3a. Foyer
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q3.</em></span>
 
-This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow passes into <span class="citation">Q12. Dining Hall (p. 132)</span> before disappearing.
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q3. Dragon's Foyer]] However, the draconic shadow passes into [[04_Chapter 4 - Castle Ravenloft#K10. Dining Hall]] before disappearing.
 ## M3b. Dining Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
 
-This area is as described in <span class="citation">Q12. Dining Hall (p. 132).</span>
+This area is as described in [[04_Chapter 4 - Castle Ravenloft#K10. Dining Hall]]
 ## M3c. Chapel of Morning
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q13.</em></span>
 
-This area is largely as described in <span class="citation">Q13. Chapel of Morning (p. 134).</span> However, the pillars are made of stone, rather than wood, and the three kneeling revenants are not present. Instead, add the following text to the end of this area’s description:
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q13. Chapel of Morning]] However, the pillars are made of stone, rather than wood, and the three kneeling revenants are not present. Instead, add the following text to the end of this area’s description:
 
 <div class="description">
 <p>A rusted, wrought-iron lantern hangs from each of the six pillars, each lantern’s glass panels fogged with age. Cold, ethereal lights flicker and writhe within them, and faint whispers seem to emanate from their depths.</p>
@@ -74,7 +74,7 @@ This area is largely as described in <span class="citation">Q13. Chapel of Morni
 <p>The knight's chain-mail shirt is dulled and corroded with age, his silver helm cracked and blackened. Beneath it, strands of silver-gray hair fall limply across his gaunt and ashen face. His flesh is gray and pallid, skin stretched taut over sharp, skeletal cheekbones, and his head slumps forward toward the ground.</p>
 </div>
 
-This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class="citation">Q37. Knights of the Order (p. 139).</span> If the players approach, interact with, or otherwise make themselves known to him, read:
+This is the **revenant** Sir Godfrey Gwilym, who is as described in [[07_Chapter 7 - Argynvostholt#Q37. Knights of the Order]] If the players approach, interact with, or otherwise make themselves known to him, read:
 
 <div class="description">
 <p>The knight’s head lifts, revealing red eyes that flash with a quiet intensity. His arms seem to flex, almost instinctively, against his black-wire bindings—and it’s then that you notice that each wire is covered with tiny, razor-sharp barbs, many of which bite deeply into his armor and flesh.</p>
@@ -354,7 +354,7 @@ If allowed to depart, Nim hisses gleefully and scampers off on all fours, vanish
 ## M4a. Cemetery
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q15 and Q16.</em></span>
 
-The cemetery and mausoleum are largely as described in <span class="citation">Q15. Cemetery (p. 134)</span> and <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>. However, add the following text to the end of the description of the interior of the mausoleum:
+The cemetery and mausoleum are largely as described in [[03_Chapter 3 - The Village of Barovia#E6. Cemetery]] and [[07_Chapter 7 - Argynvostholt#Q16. Dragon's Mausoleum]]. However, add the following text to the end of the description of the interior of the mausoleum:
 
 <div class="description">
 <p>Twin unlit torches rest in rusted sconces along the far wall on either side of the verse.</p>
@@ -364,7 +364,7 @@ The cemetery and mausoleum are largely as described in <span class="citation">Q1
 ### Kitchen
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
 
-This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot has a lid and isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
+This area is largely as described in [[04_Chapter 4 - Castle Ravenloft#K65. Kitchen]] However, the iron pot has a lid and isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
 
 If a player approaches or crosses in front of the fireplace, read:
 
@@ -395,7 +395,7 @@ If a player removes the pot’s lid, Zorya—in the form of a wisp of silvery mi
 ### Servants’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q9.</em></span>
 
-This area is as described in <span class="citation">Q9. Servants’ Quarters (p. 133).</span> 
+This area is as described in [[04_Chapter 4 - Castle Ravenloft#K24. Servants' Quarters]] 
 
 If the players have previously encountered Zorya in the [[#Kitchen]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding beneath the frame of the northeastern bed.
 
@@ -405,7 +405,7 @@ If a player moves the bed skirts to reveal Zorya’s hiding place, Zorya—in th
 ### Parlor
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q7.</em></span>
 
-This area is as described in <span class="citation">Q7. Parlor (p. 133).</span>
+This area is as described in [[05_Chapter 5 - The Town of Vallaki#N3b. Parlor]]
 
 If the players have previously encountered Zorya in the [[#Servants’ Quarters]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding behind the drapes of the western window.
 
@@ -415,7 +415,7 @@ If a player moves the drapes to reveal Zorya’s hiding place, Zorya—again in 
 ### Dragon’s Den
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q6.</em></span>
 
-This area is largely as described in <span class="citation">Q6. Dragon’s Den (p. 132).</span> However, the living fire doesn't appear as they approach the fireplace.
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q6. Dragon's Den]] However, the living fire doesn't appear as they approach the fireplace.
 
 If the players have previously encountered Zorya in the [[#Parlor]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding within the wine-cabinet sarcophagus, concealed within a decanter made of frosted glass.
 
@@ -444,7 +444,7 @@ Once befriended in this way, Zorya remains with the players while they remain wi
 ### Wine Storage
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q11.</em></span>
 
-This area is largely as described in <span class="citation">Q11. Wine Storage (p. 133).</span> However, the dusk elf Savid is not present. Instead, add the following text to the end of this area’s description:
+This area is largely as described in [[05_Chapter 5 - The Town of Vallaki#N2d. Wine Storage]] However, the dusk elf Savid is not present. Instead, add the following text to the end of this area’s description:
 
 <div class="description">
 <p>An old purple stain covers much of the far half of the stone floor, faded and discolored with age. A rusted crowbar sits against the wall not far away.</p>
@@ -461,7 +461,7 @@ The northeastern barrel appears to be empty. However, a player who uses the crow
 ## M4c. Spiders’ Ballroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
 
-This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q4. Spiders' Ballroom]] However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
 
 <<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc M - The Dragon's Manor.md
 > [!combat]+ **Balancing the Spiders’ Ballroom**
@@ -510,7 +510,7 @@ This area is largely as described in <span class="citation">Q4. Spider's Ballroo
 
 A player who succeeds on a DC 14 Wisdom (Perception) check in this room notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
 
-The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, which is as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span>. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
+The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, which is as described in [[07_Chapter 7 - Argynvostholt#Q40. Argynvost's Study]]. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
 
 <div class="description">
 <p>Blessed Morninglord, bringer of dawn, we honor those who have journeyed beyond into your kingdom of everlasting radiance. In your light, grant them peace, from this until the end of days.</p>
@@ -519,25 +519,25 @@ The satchel, which appears to have had its leather strap forcibly torn off, cont
 ## M4d. Exterior
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
 
-These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>
+These areas are as described in [[07_Chapter 7 - Argynvostholt#Q5. Ruined Stable]] and [[07_Chapter 7 - Argynvostholt#Q8. Iron Gate]]
 # M5. Second Floor
 ## M5a. Central Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
 
-The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in <span class="citation">Q17. West Staircases (p. 135)</span>, <span class="citation">Q18. Balconies (p. 135)</span>, <span class="citation">Q20. South Alcove (p. 135)</span>, <span class="citation">Q21. North Alcove (p. 135)</span>, <span class="citation">Q22. Bathroom (p. 135)</span>, and <span class="citation">Q23. Storage Room (p. 135)</span>.
+The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in [[07_Chapter 7 - Argynvostholt#Q17. West Staircases]], [[07_Chapter 7 - Argynvostholt#Q18. Balconies]], [[07_Chapter 7 - Argynvostholt#Q20. South Alcove]], [[07_Chapter 7 - Argynvostholt#Q21. North Alcove]], [[05_Chapter 5 - The Town of Vallaki#N3q. Bathroom]], and [[05_Chapter 5 - The Town of Vallaki#N4d. Storage Room]].
 
-However, no illusion appears in <span class="citation">Q20. South Alcove (p. 135)</span>. Additionally, instead of an alabaster bust of a human, the cloth covers an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire."
+However, no illusion appears in [[07_Chapter 7 - Argynvostholt#Q20. South Alcove]]. Additionally, instead of an alabaster bust of a human, the cloth covers an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire."
 ## M5b. Northern Chambers
 ### Guest Rooms
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q26 and Q29.</em></span>
 
-These areas are largely as described in <span class="citation">Q26. Northeast Guest Room (p. 136)</span> and <span class="citation">Q29. Northwest Guest Room (p. 136)</span>. However, no dragon appears in the fireplace when the players approach.
+These areas are largely as described in [[07_Chapter 7 - Argynvostholt#Q26. Northeast Guest Room]] and [[07_Chapter 7 - Argynvostholt#Q29. Northwest Guest Room]]. However, no dragon appears in the fireplace when the players approach.
 ### Trapped Hallway
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q25.</em></span>
 
-This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>, whose doors remain locked. Finally, there is no *wall of stone* trap.
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q25. Trapped Hallway]]. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within [[07_Chapter 7 - Argynvostholt#Q27. Knights' Quarters]] and [[07_Chapter 7 - Argynvostholt#Q27. Knights' Quarters]], whose doors remain locked. Finally, there is no *wall of stone* trap.
 
-Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
+Instead, when the players first attempt to open one of the doors leading to [[07_Chapter 7 - Argynvostholt#Q27. Knights' Quarters]] or [[07_Chapter 7 - Argynvostholt#Q28. Knights' Quarters]], five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
 
 * Increase each **phantom warrior**'s hit points to 75 (10d8 + 30).
 * Each **phantom warrior** gains a fly (hover) speed of 30 feet.
@@ -584,9 +584,9 @@ When the **phantom warriors** are defeated, any surviving **specters** warmly no
 ### Knights’ Quarters
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q27 and Q28.</em></span>
 
-These areas are largely as described in <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>. However, the four *potions of invulnerability* in <span class="citation">Q28. Knights’ Quarters (p. 136)</span> are instead *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>).
+These areas are largely as described in [[07_Chapter 7 - Argynvostholt#Q27. Knights' Quarters]] and [[07_Chapter 7 - Argynvostholt#Q27. Knights' Quarters]]. However, the four *potions of invulnerability* in [[07_Chapter 7 - Argynvostholt#Q27. Knights' Quarters]] are instead *potions of greater healing* ([[Dungeon Master’s Guide, p. 187]]).
 
-In addition, <span class="citation">Q27. Knights’ Quarters (p. 136)</span> is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
+In addition, [[07_Chapter 7 - Argynvostholt#Q27. Knights' Quarters]] is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
 
 <div class="description">
 <p>The temperature plummets unnaturally beyond the threshold, your breath puffing out in small clouds of fog that linger momentarily before dissipating. A thin layer of frost dims the grey light filtering through the old, cracked windows, and a deep chill seems to pervade the room.</p>
@@ -624,11 +624,11 @@ Minodora is a solemn, if black-humored spirit. If befriended by the players, she
 > **Q. How did you die?**
 > A. Invaders.
 
-Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western chamber of <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>—and read aloud one of the prayers contained therein.
+Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, [[05_Chapter 5 - The Town of Vallaki#N3i. Upstairs Gallery]]. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western chamber of [[07_Chapter 7 - Argynvostholt#Q19. Ruined Bedchambers]]—and read aloud one of the prayers contained therein.
 ## M5c. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q19.</em></span>
 
-This area is largely as described in <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>. However, add the following text to the end of the western room’s description:
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q19. Ruined Bedchambers]]. However, add the following text to the end of the western room’s description:
 
 <div class="description">
 <p>Long, thick webs stretch from the eastern wall, down past the collapsed floor to the space below. Something seems to be protruding from the wall behind the webbing.</p>
@@ -646,13 +646,13 @@ A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvan
 ## M5d. Upper Chapel
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
 
-These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
+These areas are as described in [[07_Chapter 7 - Argynvostholt#Q14. Chapel Staircases]] and [[07_Chapter 7 - Argynvostholt#Q24. Chapel Balcony]]. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
 # M6. Third Floor
 ## M6a. Halls of the Order
 #### Knights of the Order
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q37 and Q38 (p. 139).</em></span>
 
-These areas are largely as described in <span class="citation">Q37 Knights of the Order (p. 139)</span> and <span class="citation">Q38. Closet (p. 139)</span>. However, remove the final sentence of the area’s description. (No **revenants** sit in the chairs around the table.) Instead, add the following to the end of this area’s description:
+These areas are largely as described in [[07_Chapter 7 - Argynvostholt#Q37. Knights of the Order]] and [[04_Chapter 4 - Castle Ravenloft#K44. Closet]]. However, remove the final sentence of the area’s description. (No **revenants** sit in the chairs around the table.) Instead, add the following to the end of this area’s description:
 
 <div class="description">
 <p>An inscription appears to be carved into the wood around the circumference of the table.</p>
@@ -669,7 +669,7 @@ The inscription is written in elegant calligraphy and interwoven with aged, intr
 #### Vladimir’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q39.</em></span>
 
-This area is largely as described in <span class="citation">Q39. Vladimir’s Bedroom (p. 140)</span>. However, remove the four sentences describing the bear, the dire wolf, and the empty chest. Instead, add the following text to the end of the area’s description:
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q39. Vladimir's Bedroom]]. However, remove the four sentences describing the bear, the dire wolf, and the empty chest. Instead, add the following text to the end of the area’s description:
 
 <div class="description">
 <p>An old portrait hangs on the wall above the bed.</p>
@@ -688,7 +688,7 @@ A player who studies the portrait and succeeds on a DC 15 Wisdom (Perception) ch
 #### Argynvost’s Study
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q40 and Q41.</em></span>
 
-These areas are largely as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span> and <span class="citation">Q41. Dragon’s Vault (p. 140)</span>. However, the copy of *The Oath Celestial* is no longer present. In addition, the slashed picture is nonmagical, and repairing it has no additional effect.
+These areas are largely as described in [[07_Chapter 7 - Argynvostholt#Q40. Argynvost's Study]] and [[07_Chapter 7 - Argynvostholt#Q41. Dragon's Vault]]. However, the copy of *The Oath Celestial* is no longer present. In addition, the slashed picture is nonmagical, and repairing it has no additional effect.
 
 Revise Argynvost’s journal page to read as follows:
 
@@ -714,7 +714,7 @@ The space behind the image of the chapel in the picture radiates three magical a
 
 Removing the picture from the wall reveals a hidden stone shelf containing a parchment scroll, a silver bracelet, a small block of white stone, a silver tablet, and a banner.  In addition, the silver hilt of a rapier is nestled against a small hole in the mortar at the back of the compartment, though the blade appears to be concealed within the wall.
 
-The bracelet is carved to resemble a dragon biting its own tail, and is a *bracelet of warding*. The block of white stone, which bears the carving of a dragon’s head and is mounted on a leather cord, is an *amulet of knight’s passage*. The rapier, which has a silvered blade and a hilt carved with the images of tiny dragons, has the properties of a *moon-touched rapier* (<span class="citation">Xanathar's Guide to Everything, p. 138</span>)
+The bracelet is carved to resemble a dragon biting its own tail, and is a *bracelet of warding*. The block of white stone, which bears the carving of a dragon’s head and is mounted on a leather cord, is an *amulet of knight’s passage*. The rapier, which has a silvered blade and a hilt carved with the images of tiny dragons, has the properties of a *moon-touched rapier* ([[Xanathar's Guide to Everything, p. 138]])
 
 > [!item]+ **Bracelet of Warding**
 > *Wondrous item, rare*
@@ -726,7 +726,7 @@ The bracelet is carved to resemble a dragon biting its own tail, and is a *brace
 > The bracelet regains 1 expended charge daily at dawn. If you expend the bracelet's last charge, roll a d20. On a 1, the bracelet loses its magical properties.
 
 > [!item]+ **Amulet of Knight’s Passage**
-> This carved block of white stone is a key that allows passage through the gatehouse at Tsolenka Pass. If a creature presents the stone to the <span class="citation">T3. Curtain of Green Flame (p. 157)</span>, the curtain is suppressed for 1 minute. While the curtain is suppressed in this way, the petrified **vrocks** described in <span class="citation">T2. Demon Statues (p. 157)</span> don’t animate or attack.
+> This carved block of white stone is a key that allows passage through the gatehouse at Tsolenka Pass. If a creature presents the stone to the [[09_Chapter 9 - Tsolenka Pass#T3. Curtain of Green Flame]], the curtain is suppressed for 1 minute. While the curtain is suppressed in this way, the petrified **vrocks** described in [[09_Chapter 9 - Tsolenka Pass#T2. Demon Statues]] don’t animate or attack.
 > 
 > The scrutiny of an *identify* spell reveals only that the block is a key of some kind, though not what for.
 
@@ -761,7 +761,7 @@ The scroll is a letter and reads as follows:
 #### Argynvost’s Bedroom
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>
 
-This area is largely as described in <span class="citation">Q42. Argynvost’s Bedroom (p. 140)</span>. However, add the following text to the end of this area’s description:
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q42. Argynvost's Bedroom]]. However, add the following text to the end of this area’s description:
 
 <div class="description">
 <p>Several empty stone shelves dot the walls between the windows.</p>
@@ -772,16 +772,16 @@ This area is largely as described in <span class="citation">Q42. Argynvost’s B
 ## M6b. Collapsed Ceiling & Audience Hall
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and Q36.</em></span>
 
-These areas are largely as described in <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> and <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>, and no **phantom warriors** linger there.
+These areas are largely as described in [[07_Chapter 7 - Argynvostholt#Q33. Collapsed Ceiling]] and [[07_Chapter 7 - Argynvostholt#Q36. Dragon's Audience Hall]]. However, Vladimir Horngaard is not in the throne in [[07_Chapter 7 - Argynvostholt#Q36. Dragon's Audience Hall]], and no **phantom warriors** linger there.
 ## M6c. Upstairs Gallery
 ### East Staircases
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
 
-This area is as described in <span class="citation">Q31. East Staircases.</span>
+This area is as described in [[07_Chapter 7 - Argynvostholt#Q31. East Staircases]]
 ### Ruined Antechamber
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q34 (p. 138).</em></span>
 
-This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. When the players enter this room, read:
+This area replaces [[07_Chapter 7 - Argynvostholt#Q34. Ruined Bathroom]]. When the players enter this room, read:
 
 <div class="description">
 <p>This room has a wooden floor warped and scuffed with age. Rusted blades hang between torn banners bearing the emblem of a silver dragon, the dragon's eyes seeming to gaze mournfully upon the broken furnishings below. A torn curtain hangs in an open doorway in the center of the east wall.</p>
@@ -790,7 +790,7 @@ This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. 
 ### Upstairs Gallery
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q35.</em></span>
 
-This area is largely as described in <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. However, add the following text to the end of this area’s description:
+This area is largely as described in [[05_Chapter 5 - The Town of Vallaki#N3i. Upstairs Gallery]]. However, add the following text to the end of this area’s description:
 
 <div class="description">
 <p>The left- and right-side windows depict two humans—an older man and a younger woman—kneeling in supplication, while the central window depicts a handsome male angel descending from the heavens between them. The man watches with reverent eyes as the angel bestows a small silver statuette upon the woman, whose eyes are closed in evident prayer. The statuette appears to glow with the same sunlight that encircles the angel’s head.</p>
@@ -801,7 +801,7 @@ Any player who’s previously met the Abbot of the Abbey of Saint Markovia recog
 > [!lore]+ **The Stained-Glass Windows**
 > The stained-glass windows portray the anointing of Saint Markovia as a prophet by Ithuriel, the **deva** of the Morninglord now known as the Abbot. The event was overseen by Saint Andral, the Moste High Priest of the Morninglord’s church at the time of Markovia’s selection, and Markovia’s envious competitor for the title of the Morninglord’s prophet.
 >
-> The statuette is the *Icon of Dawn's Grace*, which appears as described in <span class="citation">Icon of Ravenloft (p. 222)</span>. The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
+> The statuette is the *Icon of Dawn's Grace*, which appears as described in [[19_Appendix C - Treasures#Icon of Ravenloft]]. The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
 
 If the players are accompanied by the **pseudodragon** spirit Zorya, Zorya breathes silver fire upon two ancient torches flanking the stained-glass windows, setting them alight with cold silver flames that bathe the room in a chill, ethereal light.
 
@@ -843,11 +843,11 @@ If convinced by the players to aid them in speaking with Argynvost, Brother Mare
 > If the players are unaccompanied by Argynvost's familiar, the ghostly **pseudodragon** Zorya, modify Brother Marek's first sentence to read: "Seek out the silver dragon's shadow below, and the younger of the twin dragons above."
 
 > [!info]+ **The Younger Dragon**
-> Marek's mention of "twin dragons" refers to the dragon gargoyles that overlook the roof of the manor, one of which can now be found in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. 
+> Marek's mention of "twin dragons" refers to the dragon gargoyles that overlook the roof of the manor, one of which can now be found in [[07_Chapter 7 - Argynvostholt#Q53. Beacon of Argynvostholt]]. 
 #### Marek is Unconvinced
 If the players fail to convince Brother Marek to allow them to speak with Argynvost, he scoffs, but offers to provide them a final chance. "Lord Argynvost's tomb lies empty in the graveyard below," he informs them. "Should he hear your words, he may grant you a token of his favor. Bring me proof of that favor, and I shall give you the guidance you seek."
 
-If the players subsequently descend to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>, it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
+If the players subsequently descend to [[07_Chapter 7 - Argynvostholt#Q16. Dragon's Mausoleum]], it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
 
 * **Argynvost Somewhat Approves.** The torches briefly flicker with cold silver embers, which are swiftly extinguished.
 * **Argynvost Approves.** The torches briefly flare with cold silver fire, which then dwindles into nothingness.
@@ -857,30 +857,30 @@ Each torch can be easily removed from its mount. If the players return to the [[
 ## M6d. Southern Chambers
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q32.</em></span>
 
-These areas are as described in <span class="citation">Q32. Ruined Bedchambers (p. 138)</span>.
+These areas are as described in [[07_Chapter 7 - Argynvostholt#Q19. Ruined Bedchambers]].
 # M7. Fourth Floor
 ## M7a. Rooftop
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q43, Q44, Q45, Q46, Q47, Q48, and Q49.</em></span>
 
-When the players first exit the <span class="citation">Q31. East Staircases (p. 138)</span> to emerge on the roof, read:
+When the players first exit the [[07_Chapter 7 - Argynvostholt#Q31. East Staircases]] to emerge on the roof, read:
 
 <div class="description">
 <p>As the old wooden door creaks open, grey light floods the darkened landing—and a shimmering ethereal arrow pierces the stone floor before you. Your eyes trace its trajectory upward, and catch a glimpse of a spectral figure in the window of an upper tower—before it ducks down and vanishes from sight.</p>
 </div>
 
-The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. The spectral figure is one of the two **phantom warriors** that occupy the turrets.
+The tower is one of [[07_Chapter 7 - Argynvostholt#Q52. Beacon Turrets]]. The spectral figure is one of the two **phantom warriors** that occupy the turrets.
 
-The rooftop is largely as described in <span class="citation">Q43. Hole in Roof (p. 140)</span>, <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>, <span class="citation">Q45. Ancient Ballista (p. 141)</span>, <span class="citation">Q46. Destroyed Ballista (p. 141)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>, <span class="citation">Q48. Roof’s Edge (p. 141)</span>), and <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
+The rooftop is largely as described in [[07_Chapter 7 - Argynvostholt#Q43. Hole in Roof]], [[07_Chapter 7 - Argynvostholt#Q44. Dragon Gargoyle]], [[Q45. Ancient Ballista]], [[07_Chapter 7 - Argynvostholt#Q46. Destroyed Ballista]], [[07_Chapter 7 - Argynvostholt#Q47. Roof Turrets]], [[07_Chapter 7 - Argynvostholt#Q48. Roof's Edge]]), and [[07_Chapter 7 - Argynvostholt#Q49. Beacon Tower Door]]. 
 
-However, the dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it. In addition, a player who approaches or inspects <span class="citation">Q46. Destroyed Ballista (p. 141)</span> notices that it appears to have been pointed at <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
+However, the dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it. In addition, a player who approaches or inspects [[07_Chapter 7 - Argynvostholt#Q46. Destroyed Ballista]] notices that it appears to have been pointed at [[07_Chapter 7 - Argynvostholt#Q53. Beacon of Argynvostholt]] before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
 
-If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in <span class="citation">Q52. Beacon Turrets (p. 141)</span> demand the players speak Commander Horngaard's password before allowing them to approach <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
+If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in [[07_Chapter 7 - Argynvostholt#Q52. Beacon Turrets]] demand the players speak Commander Horngaard's password before allowing them to approach [[07_Chapter 7 - Argynvostholt#Q49. Beacon Tower Door]]. 
 
-If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing <span class="citation">Q31. East Staircases (p. 138)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>.
+If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing [[07_Chapter 7 - Argynvostholt#Q31. East Staircases]], [[07_Chapter 7 - Argynvostholt#Q47. Roof Turrets]].
 
-The interior of the beacon’s tower is largely as described in <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span>, <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>, and <span class="citation">Q52. Beacon Turrets (p. 141)</span>, except for the changes to the **phantom warriors** described above. 
+The interior of the beacon’s tower is largely as described in [[07_Chapter 7 - Argynvostholt#Q50. Beacon, Lower Landing]], [[Q51. Beacon, Upper Landing]], and [[07_Chapter 7 - Argynvostholt#Q52. Beacon Turrets]], except for the changes to the **phantom warriors** described above. 
 
-In addition, if any characters successfully enter the tower, the **phantom warriors** exit the beacon turrets and engage the characters on the stairs connecting  <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span> and <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>. When they do, they gain the following additional reaction, which they use in an effort to lure the players onto the trapped landing on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>:
+In addition, if any characters successfully enter the tower, the **phantom warriors** exit the beacon turrets and engage the characters on the stairs connecting  [[07_Chapter 7 - Argynvostholt#Q50. Beacon, Lower Landing]] and [[Q51. Beacon, Upper Landing]]. When they do, they gain the following additional reaction, which they use in an effort to lure the players onto the trapped landing on [[Q51. Beacon, Upper Landing]]:
 
 * ***Pivot.*** In response to an enemy missing an attack against it, the phantom warrior moves up to 10 feet away without triggering opportunity attacks.
 
@@ -888,13 +888,13 @@ As they fight in melee, the phantom warriors shout: “Begone, soldiers of the D
 ## M7b. Beacon
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q53.</em></span>
 
-This area is largely as described in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
+This area is largely as described in [[07_Chapter 7 - Argynvostholt#Q53. Beacon of Argynvostholt]]. However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
 
 <div class="description">
 <p>A small, silver-plated gargoyle, shaped like a dragon wyrmling and holding a tarnished brazier in its claws, crouches on the floor just beside the staircase landing, its wings curled tightly toward itself. Not far away, a knight in old, rusted armor stands by the western window, looking out across the misted landscape far beyond. The blade of a tall, gleaming greatsword rests on the ground beside him, with one of the knight’s rusted iron gauntlets resting upon its hilt.</p>
 </div>
 
-The gargoyle is half the size of <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>. The knight is Vladimir Horngaard, who is as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+The gargoyle is half the size of [[07_Chapter 7 - Argynvostholt#Q44. Dragon Gargoyle]]. The knight is Vladimir Horngaard, who is as described in [[07_Chapter 7 - Argynvostholt#Q36. Dragon's Audience Hall]].
 ### Meeting Vladimir Horngaard
 The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail their Dexterity (Stealth) check, approach the dragon gargoyle, or fought the **phantom warriors** in the turrets below, Vladimir is alerted. Read:
 
@@ -945,9 +945,9 @@ If asked, Vladimir can share the following information:
 > [!lore] **Vladimir and Argynvost**
 > Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. (As Argynvost's commander, Vladimir is convinced that if he can't hear Argynvost's spirit, then no one can, and can't be persuaded otherwise.)
 
-If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to [[07_Chapter 7 - Argynvostholt#Q36. Dragon's Audience Hall]].
 
-If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to [[07_Chapter 7 - Argynvostholt#Q36. Dragon's Audience Hall]].
 ### Vladimir’s Anger
 If the players inform Vladimir that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of Castle Ravenloft." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 14 Charisma (Deception) check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
 
@@ -969,7 +969,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 > If Vladimir uses his ***oathbind*** feature to subject a players to the effects of a *geas*, he whispers the following binding command: “You shall raise no hand against Strahd von Zarovich for as long as you live."
 
 > [!info]+ **Room Dimensions**
-> When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> is a full 30 feet across.
+> When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that [[07_Chapter 7 - Argynvostholt#Q53. Beacon of Argynvostholt]] is a full 30 feet across.
 
 <<<<<<< HEAD:Source/CoS-Reloaded/Act III - The Broken Land/Arc M - The Dragon's Manor.md
 > [!combat]+ **Balancing the Commander** 
@@ -995,7 +995,7 @@ If any of the players refuse to swear Vladimir’s oath, read:
 >>>>>>> cb2bf297684381d56d724e4bcb673676bd015202:Act III - The Broken Land/Arc M - The Dragon's Manor.md
 
 > [!abstract]+ **The Players Flee**
-> If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside <span class="citation">Q49. Beacon Tower Door (p. 141)</span> to block their escape.
+> If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside [[07_Chapter 7 - Argynvostholt#Q49. Beacon Tower Door]] to block their escape.
 
 <div class="statblock">
 <h2>Vladimir Horngaard, Vengeful Revenant</h2>
@@ -1122,12 +1122,12 @@ If any of the players refuse to swear Vladimir’s oath, read:
 While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on an additional DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
 
 * If the player was pushed out of a window, they take 2 (1d4) slashing damage from jagged glass shards and must succeed on a DC 10 Dexterity saving throw. On a success, they catch themselves on a stone outcropping 10 feet below the window. On a failure, they fall to the ground or rooftop below, depending on their location.
-* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
+* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on [[Q51. Beacon, Upper Landing]] and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
 
 > [!warning]+ **Failing Forward**
 > The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
 > 
-> If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in <span class="citation">Q15. Cemetery (p. 134)</span> and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
+> If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in [[03_Chapter 3 - The Village of Barovia#E6. Cemetery]] and returns to the throne in [[07_Chapter 7 - Argynvostholt#Q36. Dragon's Audience Hall]]. 
 > 
 > The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 5 Intelligence (Investigation) check, or by digging up all of the graves in the cemetery. Sir Godfrey apologizes deeply for Vladimir's violence, but shares that Vladimir has recently returned to his audience hall, clearing the way should the players wish to continue exploring the upper reaches of the manor.
 > 
@@ -1148,7 +1148,7 @@ The players can summon an aspect of Argynvost’s spirit to briefly animate the 
 <p>Its mouth moves, its whispering hiss seeming to echo in the enclosed space.</p>
 </div>
 
-The gargoyle then whispers the short verse described in <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
+The gargoyle then whispers the short verse described in [[07_Chapter 7 - Argynvostholt#Q44. Dragon Gargoyle]].
 
 ***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
 
